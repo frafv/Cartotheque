@@ -1,0 +1,5 @@
+*.xml   mime-type=application/xml
+*.xsd   mime-type=application/xml
+*.xsl   mime-type=application/xslt+xml
+*.xslt  mime-type=application/xslt+xml
+*.wsf   mime-type=application/xml
