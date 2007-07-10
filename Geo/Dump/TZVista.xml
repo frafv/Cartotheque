@@ -33,7 +33,6 @@
 		<Label xml:lang="sl-SI">(GMT+04:30) Kabul</Label>
 		<Label xml:lang="sv-SE">(GMT+04:30) Kabul</Label>
 		<Label xml:lang="th-TH">(GMT+04:30) คาบูล</Label>
-		<Label xml:lang="tk-TM">[XxTlq][(ĞМŢ+04:30) Κăьΰŀ !!! ]</Label>
 		<Label xml:lang="tr-TR">(GMT+04:30) Kabil</Label>
 		<Label xml:lang="uk-UA">(GMT+04:30) Кабул</Label>
 		<Label xml:lang="zh-CN">(GMT+04:30) 喀布尔</Label>
@@ -70,7 +69,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Afganistanski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Afghanistan, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของอัฟกานิสถาน</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[OtLK4]Ǻƒĝћдŋíşτãñ Šτáŋðαѓď Тίmė</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Afganistan Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Афганський час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">阿富汗标准时间</Label>
@@ -107,7 +105,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Afganistanski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Afghanistan, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของอัฟกานิสถาน</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[R0S0d]Ǻƒĝĥãñíšтáŉ Đªγĺįğћţ Ţīmэ</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Afganistan Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Афганський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">阿富汗夏令时</Label>
@@ -148,7 +145,6 @@
 		<Label xml:lang="sl-SI">(GMT-09:00) Aljaska</Label>
 		<Label xml:lang="sv-SE">(GMT-09:00) Alaska</Label>
 		<Label xml:lang="th-TH">(GMT-09:00) อะแลสกา</Label>
-		<Label xml:lang="tk-TM">[oBwN6][(ĞМТ-09:00) ∆ļа§кâ !!! ]</Label>
 		<Label xml:lang="tr-TR">(GMT-09:00) Alaska</Label>
 		<Label xml:lang="uk-UA">(GMT-09:00) Аляска</Label>
 		<Label xml:lang="zh-CN">(GMT-09:00) 阿拉斯加</Label>
@@ -185,7 +181,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Aljaški standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Alaska, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของอะแลสกา</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[3tK48][Дľäѕκάŋ Śţąŉđąяð Ťìmэ !]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Alaska Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Аляскинський час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">阿拉斯加标准时间</Label>
@@ -222,7 +217,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Aljaški poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Alaska, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของอะแลสกา</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[m0enV][Åĺąšќäй Ďдγľιğнт Ťιmё !]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Alaska Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Аляскинський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">阿拉斯加夏令时</Label>
@@ -274,7 +268,6 @@
 		<Label xml:lang="sl-SI">(GMT+03:00) Kuvajt, Rijad</Label>
 		<Label xml:lang="sv-SE">(GMT+03:00) Kuwait, Riyadh</Label>
 		<Label xml:lang="th-TH">(GMT+03:00) คูเวต ริยาด</Label>
-		<Label xml:lang="tk-TM">[6jdgV][(ĞΜŦ+03:00) Кυẁάίτ, Ŕιўάδђ !!! !!!]</Label>
 		<Label xml:lang="tr-TR">(GMT+03:00) Kuveyt, Riyad</Label>
 		<Label xml:lang="uk-UA">(GMT+03:00) Кувейт, Ер-Ріяд</Label>
 		<Label xml:lang="zh-CN">(GMT+03:00) 科威特，利雅得</Label>
@@ -311,7 +304,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Arabijski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Arabien, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของอาหรับ</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[cZnL6][ÁřàБ Ѕŧáήδăяđ Тįmè !!! ]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Arap Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Саудівський час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">阿拉伯 (Arab) 标准时间</Label>
@@ -348,7 +340,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Arabijski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Arabien, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของอาหรับ</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[beufv][Ǻґäь Đăÿļїģнт Ŧϊмз !!! ]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Arap Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Саудівський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">阿拉伯 (Arab) 夏令时</Label>
@@ -389,7 +380,6 @@
 		<Label xml:lang="sl-SI">(GMT+04:00) Abu Dabi, Muškat</Label>
 		<Label xml:lang="sv-SE">(GMT+04:00) Abu Dhabi, Muscat</Label>
 		<Label xml:lang="th-TH">(GMT+04:00) อาบูดาบี มัสกัต</Label>
-		<Label xml:lang="tk-TM">[xkkmo][(ĞΜŢ+04:00) Âъù ÐђäБį, Μųѕ¢ãτ !!! !!! ]</Label>
 		<Label xml:lang="tr-TR">(GMT+04:00) Abu Dabi, Muscat</Label>
 		<Label xml:lang="uk-UA">(GMT+04:00) Абу-Дабі, Мускат</Label>
 		<Label xml:lang="zh-CN">(GMT+04:00) 阿布扎比，马斯喀特</Label>
@@ -426,7 +416,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Arabski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Arabisk normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลาอาหรับมาตรฐาน</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[pl3OS][Áѓáвιαй Šťäлďάřđ Ťіmё !]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Arabistan Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Арабський час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">阿拉伯半岛标准时间</Label>
@@ -463,7 +452,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Arabski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Arabisk sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาอาหรับตามฤดูกาล</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[qzgwY][Дяāвΐªŋ Đāŷŀïğђť Тιмê !]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Arabistan Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Арабський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">阿拉伯半岛夏令时</Label>
@@ -504,7 +492,6 @@
 		<Label xml:lang="sl-SI">(GMT+03:00) Bagdad</Label>
 		<Label xml:lang="sv-SE">(GMT+03:00) Bagdad</Label>
 		<Label xml:lang="th-TH">(GMT+03:00) แบกแดด</Label>
-		<Label xml:lang="tk-TM">[FVk6D][(ĜΜŢ+03:00) Вαĝħďâð !!! !]</Label>
 		<Label xml:lang="tr-TR">(GMT+03:00) Bağdat</Label>
 		<Label xml:lang="uk-UA">(GMT+03:00) Багдад</Label>
 		<Label xml:lang="zh-CN">(GMT+03:00) 巴格达</Label>
@@ -541,7 +528,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Arabski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Irak, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลาอารบิกมาตรฐาน</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[vvSA8][Ãґāьιċ Ѕťǻйðаґđ Ŧίмē !!]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Arap Standart Saati (1)</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Багдадський час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">阿拉伯 (Arabic) 标准时间</Label>
@@ -578,7 +564,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Arabski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Irak, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาอารบิกตามฤดูกาล</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[Iun8Y][Ǻřáъîс ÐâУłιĝĥţ Ŧїmĕ !!]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Arap Gündüz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Багдадський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">阿拉伯 (Arabic) 夏令时</Label>
@@ -622,7 +607,6 @@
 		<Label xml:lang="sl-SI">(GMT-04:00) Atlantski čas (Kanada)</Label>
 		<Label xml:lang="sv-SE">(GMT-04:00) Atlantic Time (Canada)</Label>
 		<Label xml:lang="th-TH">(GMT-04:00) เวลาแอตแลนติก (แคนาดา)</Label>
-		<Label xml:lang="tk-TM">[2xwVH][(ĞМŦ-04:00) Άťℓåηťīć Τΐмĕ (Çαⁿăðá) !!! !!! !]</Label>
 		<Label xml:lang="tr-TR">(GMT-04:00) Atlantik Saati (Kanada)</Label>
 		<Label xml:lang="uk-UA">(GMT-04:00) Атлантичний час (Канада)</Label>
 		<Label xml:lang="zh-CN">(GMT-04:00) 大西洋时间(加拿大)</Label>
@@ -659,7 +643,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Atlantski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Atlantic, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของแอตแลนติก</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[zElfo][Àŧłáņτіς Śтаñðãŗđ Ţĩmз ]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Atlantik Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Атлантичний час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">大西洋标准时间</Label>
@@ -696,7 +679,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Atlantski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Atlantic, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของแอตแลนติก</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[ZN1cR][Ãţļãŋţīç Đªўľĩġнτ Τĭмę ]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Atlantik Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Атлантичний час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">大西洋夏令时</Label>
@@ -748,7 +730,6 @@
 		<Label xml:lang="sl-SI">(GMT+09:30) Darwin</Label>
 		<Label xml:lang="sv-SE">(GMT+09:30) Darwin</Label>
 		<Label xml:lang="th-TH">(GMT+09:30) ดาร์วิน</Label>
-		<Label xml:lang="tk-TM">[oQ3H4][(ĞМŦ+09:30) Ďářẁįп !!! ]</Label>
 		<Label xml:lang="tr-TR">(GMT+09:30) Darwin</Label>
 		<Label xml:lang="uk-UA">(GMT+09:30) Дарвін</Label>
 		<Label xml:lang="zh-CN">(GMT+09:30) 达尔文</Label>
@@ -785,7 +766,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Avstralski centralni stand. čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Centrala Australien, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลาภาคกลางมาตรฐานของออสเตรเลีย</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[dhOvj]ĄŮŠ Сёñτřάļ Šτāņďǻяď Ţìmε</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Orta Avustralya Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Центральна Австралія (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">澳大利亚中部标准时间</Label>
@@ -822,7 +802,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Avstralski centralni poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Centrala Australien, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาภาคกลางตามฤดูกาลออสเตรเลีย</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[3ir8J]ĀÙŜ Čêņτřªľ Ðäуłΐĝнť Ťΐмę</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Orta Avustralya Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Центральна Австралія (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">澳大利亚中部夏令时</Label>
@@ -863,7 +842,6 @@
 		<Label xml:lang="sl-SI">(GMT+10:00) Canberra, Melbourne, Sydney</Label>
 		<Label xml:lang="sv-SE">(GMT+10:00) Canberra, Melbourne, Sydney</Label>
 		<Label xml:lang="th-TH">(GMT+10:00) แคนเบอร์รา เมลเบิร์น ซิดนีย์</Label>
-		<Label xml:lang="tk-TM">[nXfzq][(ĜΜТ+10:00) Сāńьёґґα, Μēļъоųŕŋє, Ѕÿδňёŷ !!! !!! !!!]</Label>
 		<Label xml:lang="tr-TR">(GMT+10:00) Kanbera, Melbourne, Sidney</Label>
 		<Label xml:lang="uk-UA">(GMT+10:00) Канберра, Мельбурн, Сідней</Label>
 		<Label xml:lang="zh-CN">(GMT+10:00) 堪培拉，墨尔本，悉尼</Label>
@@ -900,7 +878,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Avstralski vzhodni stand. čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Östra Australien, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลาฝั่งต.อ.มาตรฐานของออสเตรเลีย</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[eql73]АŨŜ Зάŝţéѓи Śţªπđǻгđ Тīмэ</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Doğu Avus. Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Сіднейський час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">澳大利亚东部标准时间</Label>
@@ -937,7 +914,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Avstralski vzhodni poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Östra Australien, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาฝั่งต.อ.ตามฤดูกาลออสเตรเลีย</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[mWRo2]ǺÚŚ Эа§ţ℮řŋ Ďäŷłїģнţ Ţìmé</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Doğu Avus. Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Сіднейський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">澳大利亚东部夏令时</Label>
@@ -981,7 +957,6 @@
 		<Label xml:lang="sl-SI">(GMT+04:00) Baku</Label>
 		<Label xml:lang="sv-SE">(GMT+04:00) Baku</Label>
 		<Label xml:lang="th-TH">(GMT+04:00) บากู</Label>
-		<Label xml:lang="tk-TM">[dmbX3][(ĠМŤ+04:00) ßäкų !!! ]</Label>
 		<Label xml:lang="tr-TR">(GMT+04:00) Bakü</Label>
 		<Label xml:lang="uk-UA">(GMT+04:00) Баку</Label>
 		<Label xml:lang="zh-CN">(GMT+04:00) 巴库</Label>
@@ -1018,7 +993,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Azerbajdžanski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Azerbajdzjan, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของอาเซอร์ไบจาน</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[zucdc][Αžęгъãîјáŉ Şţâйďªřď Ťімέ</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Azerbaycan Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Азербайджан (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">阿塞拜疆标准时间</Label>
@@ -1055,7 +1029,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Azerbajdžanski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Azerbajdzjan, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของอาเซอร์ไบจาน</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[tdijB][Άžёřьаΐјâл Đãỳļіĝнŧ Ťΐмē</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Azerbaycan Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Азербайджан (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">阿塞拜疆夏令时</Label>
@@ -1099,7 +1072,6 @@
 		<Label xml:lang="sl-SI">(GMT-01:00) Azori</Label>
 		<Label xml:lang="sv-SE">(GMT-01:00) Azorerna</Label>
 		<Label xml:lang="th-TH">(GMT-01:00) หมู่เกาะอะซอร์ส</Label>
-		<Label xml:lang="tk-TM">[WiAk6][(ĠΜŦ-01:00) Àźóѓéŝ !!! ]</Label>
 		<Label xml:lang="tr-TR">(GMT-01:00) Azores</Label>
 		<Label xml:lang="uk-UA">(GMT-01:00) Азорські о-ви</Label>
 		<Label xml:lang="zh-CN">(GMT-01:00) 亚速尔群岛</Label>
@@ -1136,7 +1108,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Azorski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Azorerna, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของหมู่เกาะอะซอร์ส</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[cNIqi][Âžоřєś Ѕťąņđаґð Ţїmэ !!]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Azore Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Азорський час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">亚速尔群岛标准时间</Label>
@@ -1173,7 +1144,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Azorski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Azorerna, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของหมู่เกาะอะซอร์ส</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[9dyCk][Δżòŗέš Đάÿļîğħţ Ŧìmé !!]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Azore Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Азорський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">亚速尔群岛夏令时</Label>
@@ -1217,7 +1187,6 @@
 		<Label xml:lang="sl-SI">(GMT-06:00) Saskatchewan</Label>
 		<Label xml:lang="sv-SE">(GMT-06:00) Saskatchewan</Label>
 		<Label xml:lang="th-TH">(GMT-06:00) ซัสแคตเชวัน</Label>
-		<Label xml:lang="tk-TM">[wLzHk][(ĢМŤ-06:00) Śдšќǻŧςĥëẃâи !!! !!]</Label>
 		<Label xml:lang="tr-TR">(GMT-06:00) Saskatchewan</Label>
 		<Label xml:lang="uk-UA">(GMT-06:00) Саскачеван</Label>
 		<Label xml:lang="zh-CN">(GMT-06:00) 萨斯喀彻温</Label>
@@ -1254,7 +1223,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Kanadski centralni stand. čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Canada Central, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลาภาคกลางมาตรฐานของแคนาดา</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[bWRsI]Çдπаđā Ćёйтŗάŀ Šтдлδąѓď Т</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Kanada Merkezi Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Центральна Канада (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">加拿大中部标准时间</Label>
@@ -1291,7 +1259,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Kanadski centralni poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Canada Central, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาภาคกลางตามฤดูกาลของแคนาดา</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[ill0H]Çåήäđà €ĕńŧяåℓ Đãγŀîģћť Ť</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Kanada Merkezi Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Центральна Канада (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">加拿大中部夏令时</Label>
@@ -1332,7 +1299,6 @@
 		<Label xml:lang="sl-SI">(GMT-01:00) Zelenortski otoki</Label>
 		<Label xml:lang="sv-SE">(GMT-01:00) Kap Verde-öarna</Label>
 		<Label xml:lang="th-TH">(GMT-01:00) หมู่เกาะเคปเวิร์ด</Label>
-		<Label xml:lang="tk-TM">[8ASiD][(ĢΜŦ-01:00) Čªре Véŕðę Í§. !!! !!!]</Label>
 		<Label xml:lang="tr-TR">(GMT-01:00) Cape Verde Is.</Label>
 		<Label xml:lang="uk-UA">(GMT-01:00) Кабо-Верде</Label>
 		<Label xml:lang="zh-CN">(GMT-01:00) 佛得角群岛</Label>
@@ -1369,7 +1335,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Zelenortski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Kap Verde, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของเคปเวิร์ด</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[v1KJJ][Ċàрε Vέѓδē Ѕţäŉďąѓδ Τιмë</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Cape Verde Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Кабо-Верде (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">佛得角群岛标准时间</Label>
@@ -1406,7 +1371,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Zelenortski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Kap Verde, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของเคปเวิร์ด</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[Q65Zl][€àþė Vėґδ℮ Đăŷļïĝħτ Ţĩmε</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Cape Verde Gündüz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Кабо-Верде (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">佛得角群岛夏令时</Label>
@@ -1447,7 +1411,6 @@
 		<Label xml:lang="sl-SI">(GMT+04:00) Erevan</Label>
 		<Label xml:lang="sv-SE">(GMT+04:00) Yerevan</Label>
 		<Label xml:lang="th-TH">(GMT+04:00) เยเรวาน</Label>
-		<Label xml:lang="tk-TM">[Kq8H2][(ĞМŤ+04:00) Υеřёνªň !!! !]</Label>
 		<Label xml:lang="tr-TR">(GMT+04:00) Erivan</Label>
 		<Label xml:lang="uk-UA">(GMT+04:00) Єреван</Label>
 		<Label xml:lang="zh-CN">(GMT+04:00) 埃里温</Label>
@@ -1484,7 +1447,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Kavkaški standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Kaukasus, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของคอเคซัส</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[4iown][Čдůçášűŝ Ѕťªпδǻřδ Τïmĕ ]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Caucasus Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Кавказький час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">高加索标准时间</Label>
@@ -1521,7 +1483,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Kavkaški poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Kaukasus, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของคอเคซัส</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[9ihyL][Сäũ¢αşμѕ Đåуℓїġђτ Τįмè ]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Caucasus Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Кавказький час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">高加索夏令时</Label>
@@ -1565,7 +1526,6 @@
 		<Label xml:lang="sl-SI">(GMT+09:30) Adelaide</Label>
 		<Label xml:lang="sv-SE">(GMT+09:30) Adelaide</Label>
 		<Label xml:lang="th-TH">(GMT+09:30) แอดิเลด</Label>
-		<Label xml:lang="tk-TM">[WXQpT][(ĢΜŦ+09:30) Àďēŀąīđė !!! !]</Label>
 		<Label xml:lang="tr-TR">(GMT+09:30) Adelaide</Label>
 		<Label xml:lang="uk-UA">(GMT+09:30) Аделаїда</Label>
 		<Label xml:lang="zh-CN">(GMT+09:30) 阿德莱德</Label>
@@ -1602,7 +1562,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Srednjeavstralski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Cent. Australien, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของออสเตรเลียกลาง</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[Ixhtc]Сĕņ. Ąūśţгåľįà Šţàηďάŗδ Т</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Merk. Avustralya Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Центр.-Австралійський час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">中部澳大利亚标准时间</Label>
@@ -1639,7 +1598,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Srednjeavstralski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Cent. Australien, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของออสเตรเลียกลาง</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[pPxEh]€έη. Αūšτŗàłїä Ðâŷłіģђт Т</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Avustralya Merkezi Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Центр.-Австралійський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">中部澳大利亚夏令时</Label>
@@ -1683,7 +1641,6 @@
 		<Label xml:lang="sl-SI">(GMT-06:00) Srednja Amerika</Label>
 		<Label xml:lang="sv-SE">(GMT-06:00) Centralamerika</Label>
 		<Label xml:lang="th-TH">(GMT-06:00) อเมริกากลาง</Label>
-		<Label xml:lang="tk-TM">[4RQss][(ĠΜŢ-06:00) Ċєńтŗáŀ Áмęřΐçǻ !!! !!!]</Label>
 		<Label xml:lang="tr-TR">(GMT-06:00) Orta Amerika</Label>
 		<Label xml:lang="uk-UA">(GMT-06:00) Центральна Америка</Label>
 		<Label xml:lang="zh-CN">(GMT-06:00) 中美洲</Label>
@@ -1720,7 +1677,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Srednjeameriški standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Centralamerika, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของอเมริกากลาง</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[k93OT]Ĉёήτгǻļ ∆mέŕιčά Śτάиðåяď </Label>
 		<Label xml:lang="tr-TR" Type="Standard">Orta Amerika Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Центральна Америка (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">中美洲标准时间</Label>
@@ -1757,7 +1713,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Srednjeameriški poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Centralamerika, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของอเมริกากลาง</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[iJUP2]€êйτřãℓ Δmεгϊčá Ðáγĺĭĝħť </Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Orta Amerika Gündüz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Центральна Америка (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">中美洲夏令时</Label>
@@ -1798,7 +1753,6 @@
 		<Label xml:lang="sl-SI">(GMT+06:00) Astana, Daka</Label>
 		<Label xml:lang="sv-SE">(GMT+06:00) Astana, Dacca</Label>
 		<Label xml:lang="th-TH">(GMT+06:00) อัสตานา ดากา</Label>
-		<Label xml:lang="tk-TM">[EiEKC][(ĢΜŦ+06:00) Άśţàиǻ, Đђдќä !!! !!!]</Label>
 		<Label xml:lang="tr-TR">(GMT+06:00) Astana, Dhaka</Label>
 		<Label xml:lang="uk-UA">(GMT+06:00) Астана, Дакка</Label>
 		<Label xml:lang="zh-CN">(GMT+06:00) 阿斯塔纳，达卡</Label>
@@ -1835,7 +1789,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Centralnoazijski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Centralasien, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของเอเชียกลาง</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[9InWH]€éñтřąľ Â§ΐâ Ѕτåлđаŕđ Τΐm</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Orta Asya Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Центральна Азія (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">中亚标准时间</Label>
@@ -1872,7 +1825,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Centralnoazijski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Centralasien, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของเอเชียกลาง</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[spIar]Сεňŧřªŀ Åŝĭå Ðаўłìģħť Τїm</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Orta Asya Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Центральна Азія (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">中亚夏令时</Label>
@@ -1900,7 +1852,7 @@
 		<Label xml:lang="it-IT">(GMT-4.00) Manaus</Label>
 		<Label xml:lang="ja-JP">(GMT-04:00) マナウス</Label>
 		<Label xml:lang="ko-KR">(GMT-04:00) 마노스</Label>
-		<Label xml:lang="lt-LT">(ĞΜТ-04:00) Мâлàųš</Label>
+		<Label xml:lang="lt-LT">(GMT-04:00) Manaus</Label>
 		<Label xml:lang="lv-LV">(GMT-04:00) Manausa</Label>
 		<Label xml:lang="nb-NO">(GMT-04:00) Manaus</Label>
 		<Label xml:lang="nl-NL">(GMT-04:00) Manaus</Label>
@@ -1913,7 +1865,6 @@
 		<Label xml:lang="sl-SI">(GMT-04:00) Manaus</Label>
 		<Label xml:lang="sv-SE">(GMT-04:00) Manaus</Label>
 		<Label xml:lang="th-TH">(GMT-04:00) มาเนาส์</Label>
-		<Label xml:lang="tk-TM">[GEvdw][(ĜΜΤ-04:00) Μäņαϋş !!! ]</Label>
 		<Label xml:lang="tr-TR">(GMT-04:00) Manaus</Label>
 		<Label xml:lang="uk-UA">(GMT-04:00) Манаус</Label>
 		<Label xml:lang="zh-CN">(GMT-04:00) 马瑙斯</Label>
@@ -1950,7 +1901,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Srednjebrazilski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Centrala Brasilien, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของบราซิลกลาง</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[B2sWD]Çęñŧŕäℓ Ьгαżĩļĭąŋ Šţąπđāř</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Orta Brezilya Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Центрально-Бразільський (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">巴西中部标准时间</Label>
@@ -1987,7 +1937,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Srednjebrazilski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Centrala Brasilien, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของบราซิลกลาง</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[9zxaq]Ćéńţѓäľ Ьгăžіŀΐªń Ďàýĺîĝĥ</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Orta Brezilya Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Центрально-Бразільський (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">巴西中部夏令时</Label>
@@ -2039,7 +1988,6 @@
 		<Label xml:lang="sl-SI">(GMT+01:00) Beograd, Bratislava, Budimpešta, Ljubljana, Praga</Label>
 		<Label xml:lang="sv-SE">(GMT+01:00) Belgrad, Bratislava, Budapest, Ljubljana, Prag</Label>
 		<Label xml:lang="th-TH">(GMT+01:00) เบลเกรด บราติสลาวา บูดาเปสต์ ลูบลิยานา ปราก</Label>
-		<Label xml:lang="tk-TM">[6hTpN][(ĜΜŢ+01:00) ßēľĝŕаðė, Вŕąτįšľаνä, βúďáφεŝт, Łĵύъļјάйă, Þядğцę !!! !!! !!! !!! !]</Label>
 		<Label xml:lang="tr-TR">(GMT+01:00) Belgrad, Bratislava, Budapeşte Ljubljana, Prag</Label>
 		<Label xml:lang="uk-UA">(GMT+01:00) Белґрад, Братислава, Будапешт, Любляна, Прага</Label>
 		<Label xml:lang="zh-CN">(GMT+01:00) 贝尔格莱德，布拉迪斯拉发，布达佩斯，卢布尔雅那，布拉格</Label>
@@ -2076,7 +2024,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Srednjeevropski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Centraleuropa, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลายุโรปกลางมาตรฐาน</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[8rLqm]€ėпťѓâℓ Ευřóþë Şτаήďαгδ Т</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Orta Avrupa Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Центральна Європа (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">中欧标准时间</Label>
@@ -2113,7 +2060,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Srednjeevropski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Centraleuropa, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลายุโรปกลางตามฤดูกาล</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[ZcLPQ]Ĉéⁿŧřâł Σŭŕŏрэ Đàуℓϊĝĥţ Τ</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Orta Avrupa Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Центральна Європа (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">中欧夏令时</Label>
@@ -2157,7 +2103,6 @@
 		<Label xml:lang="sl-SI">(GMT+01:00) Sarajevo, Skopje, Varšava, Zagreb</Label>
 		<Label xml:lang="sv-SE">(GMT+01:00) Sarajevo, Skopje, Warszawa, Zagreb</Label>
 		<Label xml:lang="th-TH">(GMT+01:00) ซาราเยโว สโกเปีย วอร์ซอ ซาเกร็บ</Label>
-		<Label xml:lang="tk-TM">[kLI7U][(ĠΜŤ+01:00) Ѕãґâĵėνǿ, Şĸǿрјē, Шάŕѕąώ, Ζãġŗèъ !!! !!! !!! ]</Label>
 		<Label xml:lang="tr-TR">(GMT+01:00) Saray Bosna, Üsküp, Varşova, Zagreb</Label>
 		<Label xml:lang="uk-UA">(GMT+01:00) Сараєво, Скоп'є, Софія, Вільнюс, Варшава, Заґреб</Label>
 		<Label xml:lang="zh-CN">(GMT+01:00) 萨拉热窝，斯科普里，华沙，萨格勒布</Label>
@@ -2194,7 +2139,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Srednjeevropski stand. čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Centraleuropeisk normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของยุโรปกลาง</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[rdzxK]€єπτяâŀ Éμгοφ℮άŋ Ŝτăлðαґđ</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Orta Avrupa Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Центральноєвропейський час(зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">中欧的标准时间</Label>
@@ -2231,7 +2175,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Srednjeevropski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Centraleuropeisk sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของยุโรปกลาง</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[fg3Xg]Ĉéитřдĺ Ецяöрεαη Đåÿŀìĝнτ</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Orta Avrupa Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Центральноєвропейський час(літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">中欧的夏令时</Label>
@@ -2275,7 +2218,6 @@
 		<Label xml:lang="sl-SI">(GMT+11:00) Magadan, Salomonovi otoki, Nova Kaledonija</Label>
 		<Label xml:lang="sv-SE">(GMT+11:00) Magadan, Salomonön, Nya Kaledonien</Label>
 		<Label xml:lang="th-TH">(GMT+11:00) มากาดาน หมู่เกาะโซโลมอน นิวแคลิโดเนีย</Label>
-		<Label xml:lang="tk-TM">[z6Tim][(ĜΜŦ+11:00) Мαğâðаņ, Ѕøłŏмǿй Íŝ., П℮ẅ Сáľéðŏліą !!! !!! !!! !]</Label>
 		<Label xml:lang="tr-TR">(GMT+11:00) Magadan, Solomon Adl., Yeni Kaledonya</Label>
 		<Label xml:lang="uk-UA">(GMT+11:00) Маґадан, Соломонові о-ви, Нова Каледонія</Label>
 		<Label xml:lang="zh-CN">(GMT+11:00) 马加丹，索罗门群岛，新喀里多尼亚</Label>
@@ -2312,7 +2254,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Centralni pacifiški stand. čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Central Pacific, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของแปซิฟิกกลาง</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[riGb4]Ĉěņţгаĺ Þαċíƒïς Šţąŋđàřδ </Label>
 		<Label xml:lang="tr-TR" Type="Standard">Orta Pasifik Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Центрально-Тихоокеанський (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">太平洋中部标准时间</Label>
@@ -2349,7 +2290,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Centralni pacifiški poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Central Pacific, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของแปซิฟิกกลาง</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[ztn91]Сєņτяаļ Þαςĩƒĭć Ďåÿŀĭġћτ </Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Orta Pasifik Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Центрально-Тихоокеанський (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">太平洋中部夏令时</Label>
@@ -2390,7 +2330,6 @@
 		<Label xml:lang="sl-SI">(GMT-06:00) Centralni čas (ZDA in Kanada)</Label>
 		<Label xml:lang="sv-SE">(GMT-06:00) Central Time (USA och Canada)</Label>
 		<Label xml:lang="th-TH">(GMT-06:00) Central Time (US &amp; Canada)</Label>
-		<Label xml:lang="tk-TM">[rP8jG][(ĠМŦ-06:00) Čзŋţѓдļ Ťïмê (ŪŚ &amp; Çǻйάďą) !!! !!! !!]</Label>
 		<Label xml:lang="tr-TR">(GMT-06:00) Merkezi Saat (ABD ve Kanada)</Label>
 		<Label xml:lang="uk-UA">(GMT-06:00) Центральний час (США та Канада)</Label>
 		<Label xml:lang="zh-CN">(GMT-06:00) 中部时间(美国和加拿大)</Label>
@@ -2427,7 +2366,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Centralni standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Central, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของภาคกลาง</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[Ur7wu][Çєŋťѓãℓ Šŧãйďâяδ Тїmё !]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Merkezi Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Центральний час США (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">中部标准时间</Label>
@@ -2464,7 +2402,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Centralni poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Central, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของภาคกลาง</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[HI1Jr][Çέήţŗàĺ Đаýłìĝħť Ŧιmě !]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Merkezi Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Центральний час США (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">中部夏令时</Label>
@@ -2516,7 +2453,6 @@
 		<Label xml:lang="sl-SI">(GMT-06:00) Guadalajara, Mexico City, Monterrey</Label>
 		<Label xml:lang="sv-SE">(GMT-06:00) Guadalajara, Mexiko City, Monterrey</Label>
 		<Label xml:lang="th-TH">(GMT-06:00) กวาดาลาฮารา เม็กซิโกซิตี มอนเตร์เรย์</Label>
-		<Label xml:lang="tk-TM">[5NzsO][(ĠΜŦ-06:00) Ĝūâđάℓàјąŕα, Μĕжîçб €îţУ, Моŉŧεřяėγ !!! !!! !!! !]</Label>
 		<Label xml:lang="tr-TR">(GMT-06:00) Guadalahara, Mexico City, Monterey</Label>
 		<Label xml:lang="uk-UA">(GMT-06:00) Ґвадалахара, Мехіко, Монтеррей</Label>
 		<Label xml:lang="zh-CN">(GMT-06:00) 瓜达拉哈拉，墨西哥城，蒙特雷</Label>
@@ -2553,7 +2489,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Centralni stand. čas (Mehika)</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Central normaltid (Mexiko)</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของภาคกลาง (เม็กซิโก)</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[tmTSI]Ċέπţŕął Şťáπδάŕđ Ţΐmê (Μэ</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Merkezi Standart Saat (Meksika)</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Центральний час - Мексика (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">中部标准时间(墨西哥)</Label>
@@ -2590,7 +2525,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Centralni poletni čas (Mehika)</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Central sommartid (Mexiko)</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลภาคกลาง (เม็กซิโก)</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[GgoMf]€ěήŧґăĺ Ðăýℓίġĥť Тìmё (Мê</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Merkezi Yaz Saati (Meksika)</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Центральний час - Мексика (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">中部夏令时(墨西哥)</Label>
@@ -2634,7 +2568,6 @@
 		<Label xml:lang="sl-SI">(GMT+08:00) Beijing, Chongqing, Hongkong, Urumqi</Label>
 		<Label xml:lang="sv-SE">(GMT+08:00) Beijing, Chongqing, Hongkong, Urumqi</Label>
 		<Label xml:lang="th-TH">(GMT+08:00) ปักกิ่ง ฉงชิ่ง ฮ่องกง อุรุมชี</Label>
-		<Label xml:lang="tk-TM">[mzKUZ][(ĢМŦ+08:00) Βèϊјιņģ, Ċнбпğqїπĝ, Ĥőлģ Ќσŋġ, Üяцмqї !!! !!! !!! !!]</Label>
 		<Label xml:lang="tr-TR">(GMT+08:00) Pekin, Çongcin, Hong Kong, Urumçi</Label>
 		<Label xml:lang="uk-UA">(GMT+08:00) Пекін, Чхонджін, Сянґан, Урумчі</Label>
 		<Label xml:lang="zh-CN">(GMT+08:00) 北京，重庆，香港特别行政区，乌鲁木齐</Label>
@@ -2671,7 +2604,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Kitajski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Kina, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของจีน</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[8mCMP][Čĥϊňά Ŝťâйδáѓď Ťϊмэ !!!]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Çin Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Китайський час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">中国标准时间</Label>
@@ -2708,7 +2640,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Kitajski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Kina, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของจีน</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[s3ZA2][Ċћĭиá Ðаўℓіģĥť Τïmе !!!]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Çin Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Китайський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">中国夏令时</Label>
@@ -2749,7 +2680,6 @@
 		<Label xml:lang="sl-SI">(GMT-12:00) Mednarodna datumska meja – zahod</Label>
 		<Label xml:lang="sv-SE">(GMT-12:00) Internationella datumlinjen, väst</Label>
 		<Label xml:lang="th-TH">(GMT-12:00) เส้นแบ่งเขตวันสากลฝั่งตะวันตก</Label>
-		<Label xml:lang="tk-TM">[5Y2W9][(ĢМŦ-12:00) Їŉтēґйäτίόлăļ Ðªţè Ļіŉê Щэśť !!! !!! !!!]</Label>
 		<Label xml:lang="tr-TR">(GMT-12:00) Uluslararası Tarih Çizgisi Batı</Label>
 		<Label xml:lang="uk-UA">(GMT-12:00) Лінія зміни дат (захід)</Label>
 		<Label xml:lang="zh-CN">(GMT-12:00) 国际日期变更线西</Label>
@@ -2786,7 +2716,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Standardni čas datumske meje</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Datumgränsen, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของเส้นแบ่งเขตวัน</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[BzL0f][Đåťзłîήé Ѕŧąŉđдяď Ťϊме ]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Gün Hattı Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Меридіан нового дня (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">国际日期变更线标准时间</Label>
@@ -2823,7 +2752,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Poletni čas datumske meje</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Datumgränsen, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของเส้นแบ่งเขตวัน</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[54b40][Ðаţ℮łíňè Ďаŷļίĝħţ Тĭm℮ ]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Gün Hattı Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Меридіан нового дня (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">国际日期变更线夏令时</Label>
@@ -2864,7 +2792,6 @@
 		<Label xml:lang="sl-SI">(GMT+03:00) Nairobi</Label>
 		<Label xml:lang="sv-SE">(GMT+03:00) Nairobi</Label>
 		<Label xml:lang="th-TH">(GMT+03:00) ไนโรบี</Label>
-		<Label xml:lang="tk-TM">[A2G6X][(ĞΜŤ+03:00) Νāίřŏьΐ !!! !]</Label>
 		<Label xml:lang="tr-TR">(GMT+03:00) Nairobi</Label>
 		<Label xml:lang="uk-UA">(GMT+03:00) Найробі</Label>
 		<Label xml:lang="zh-CN">(GMT+03:00) 内罗毕</Label>
@@ -2901,7 +2828,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Vzhodnoafriški standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Östafrika, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของแอฟริกาตะวันออก</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[oXzAl][Є. Αƒřïċã Šτâŋďâŗđ Ţімê]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">D. Afrika Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Східна Африка (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">东非标准时间</Label>
@@ -2938,7 +2864,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Vzhodnoafriški poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Östafrika, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของแอฟริกาตะวันออก</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[A4VCT][Ê. Аƒřϊςá Ďąÿļιĝђţ Тíмé]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">D. Afrika Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Східна Африка (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">东非夏令时</Label>
@@ -2979,7 +2904,6 @@
 		<Label xml:lang="sl-SI">(GMT+10:00) Brisbane</Label>
 		<Label xml:lang="sv-SE">(GMT+10:00) Brisbane</Label>
 		<Label xml:lang="th-TH">(GMT+10:00) บริสเบน</Label>
-		<Label xml:lang="tk-TM">[kqJKO][(ĞΜΤ+10:00) Βřіѕъăņэ !!! !]</Label>
 		<Label xml:lang="tr-TR">(GMT+10:00) Brisbane</Label>
 		<Label xml:lang="uk-UA">(GMT+10:00) Брісбен</Label>
 		<Label xml:lang="zh-CN">(GMT+10:00) 布里斯班</Label>
@@ -3016,7 +2940,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Vzhodnoavstralski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Ö. Australien, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของออสเตรเลียตะวันออก</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[9LnIn]Э. Âú§τѓäľϊå Ŝţăлδàгď Ťϊм</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Doğu Avusturalya Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Східна Австралія (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">东部澳大利亚标准时间</Label>
@@ -3053,7 +2976,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Vzhodnoavstralski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Ö. Australien, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลออสเตรเลียตะวันออก</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[py8fl]Έ. Ãυşţřąŀîã Ďãÿłįĝћť Ŧíм</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Doğu Avusturalya Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Східна Австралія (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">东部澳大利亚夏令时</Label>
@@ -3072,7 +2994,7 @@
 		<Label xml:lang="el-GR">(Γκρίνουιτς+02:00) Μινσκ</Label>
 		<Label xml:lang="en-US">(UTC+02:00) Minsk</Label>
 		<Label xml:lang="es-ES">(GMT+02:00) Minsk</Label>
-		<Label xml:lang="et-EE">(ĢМТ+02:00) Μійšķ</Label>
+		<Label xml:lang="et-EE">(GMT+02:00) Minsk</Label>
 		<Label xml:lang="fi-FI">(GMT+02:00) Minsk</Label>
 		<Label xml:lang="fr-FR">(GMT+02:00) Bucarest</Label>
 		<Label xml:lang="he-IL">(GMT+02:00) מינסק</Label>
@@ -3094,7 +3016,6 @@
 		<Label xml:lang="sl-SI">(GMT+02:00) Minsk</Label>
 		<Label xml:lang="sv-SE">(GMT+02:00) Minsk</Label>
 		<Label xml:lang="th-TH">(GMT+02:00) มินสก์</Label>
-		<Label xml:lang="tk-TM">[c4pjU][(ĜΜŢ+02:00) Мīⁿŝќ !!! ]</Label>
 		<Label xml:lang="tr-TR">(GMT+02:00) Minsk</Label>
 		<Label xml:lang="uk-UA">(GMT+02:00) Мінськ</Label>
 		<Label xml:lang="zh-CN">(GMT+02:00) 明斯克</Label>
@@ -3131,7 +3052,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Vzhodnoevropski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Östeuropa, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของยุโรปตะวันออก</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[DaSVB][Έ. Эυřŏþз Šτăńðάřđ Ŧĭmė]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Doğu Avrupa Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Східна Центральна Європа (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">东欧标准时间</Label>
@@ -3168,7 +3088,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Vzhodnoevropski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Östeuropa, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของยุโรปตะวันออก</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[nbdXo][Є. Ęùřόρз ĐåУļìğнŧ Ŧïmє]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Doğu Avrupa Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Східна Центральна Європа (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">东欧夏令时</Label>
@@ -3212,7 +3131,6 @@
 		<Label xml:lang="sl-SI">(GMT-03:00) Brazilija</Label>
 		<Label xml:lang="sv-SE">(GMT-03:00) Brasilia</Label>
 		<Label xml:lang="th-TH">(GMT-03:00) บราซิเลีย</Label>
-		<Label xml:lang="tk-TM">[6o9qr][(ĞΜŢ-03:00) Ьяăśìľíα !!! !]</Label>
 		<Label xml:lang="tr-TR">(GMT-03:00) Brezilya</Label>
 		<Label xml:lang="uk-UA">(GMT-03:00) Бразиліа</Label>
 		<Label xml:lang="zh-CN">(GMT-03:00) 巴西利亚</Label>
@@ -3249,7 +3167,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Vzh. južnoameriški stand. čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Östra Sydamerika, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของอเมริกาใต้ฝั่งต.อ.</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[qg1Q9]È. Šǿůţћ Ǻmзřĩçд Şťàŉδдґđ</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Güneydoğu Amerika Standart Saat</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Східний Півд-Ам. час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">东部南美洲标准时间</Label>
@@ -3286,7 +3203,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Vzh. južnoameriški poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Östra Sydamerika, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลอเมริกาใต้ฝั่งต.อ.</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[T6CD6]Ē. Šοџτћ Амегіċа ĐάУłϊģнŧ</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Güney Doğu Amerika Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Східний Півд-Ам. час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">东部南美洲夏令时</Label>
@@ -3338,7 +3254,6 @@
 		<Label xml:lang="sl-SI">(GMT-05:00) Vzhodni čas (ZDA in Kanada)</Label>
 		<Label xml:lang="sv-SE">(GMT-05:00) Eastern Time (USA och Canada)</Label>
 		<Label xml:lang="th-TH">(GMT-05:00) Eastern Time (US &amp; Canada)</Label>
-		<Label xml:lang="tk-TM">[cFW7u][(ĢΜΤ-05:00) Єă§тĕґπ Τîmé (ŲЅ &amp; Čάŉάďã) !!! !!! !!]</Label>
 		<Label xml:lang="tr-TR">(GMT-05:00) Doğu Saati (ABD ve Kanada)</Label>
 		<Label xml:lang="uk-UA">(GMT-05:00) Східний час (США та Канада)</Label>
 		<Label xml:lang="zh-CN">(GMT-05:00) 东部时间(美国和加拿大)</Label>
@@ -3375,7 +3290,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Vzhodni standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Eastern, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานฝั่งตะวันออก</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[wVZrQ][Ĕãŝŧęřń Ѕťаŋδąѓđ Тįмé !]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Doğu Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Східний час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">东部标准时间</Label>
@@ -3412,7 +3326,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Vzhodni poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Eastern, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลฝั่งตะวันออก</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[3leeT][Ěá§ŧёѓη Ďαγℓіĝнţ Τіmε !]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Doğu Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Східний час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">东部夏令时</Label>
@@ -3464,7 +3377,6 @@
 		<Label xml:lang="sl-SI">(GMT+02:00) Kairo</Label>
 		<Label xml:lang="sv-SE">(GMT+02:00) Kairo</Label>
 		<Label xml:lang="th-TH">(GMT+02:00) ไคโร</Label>
-		<Label xml:lang="tk-TM">[xlOTK][(ĜМŢ+02:00) Сãĭгö !!! ]</Label>
 		<Label xml:lang="tr-TR">(GMT+02:00) Kahire</Label>
 		<Label xml:lang="uk-UA">(GMT+02:00) Каїр</Label>
 		<Label xml:lang="zh-CN">(GMT+02:00) 开罗</Label>
@@ -3501,7 +3413,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Egipčanski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Egypten, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของอียิปต์</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[V0up7][Єğỳрτ Ѕťªήδäґđ Ţĩме !!!]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Mısır Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Єгипетський час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">埃及标准时间</Label>
@@ -3538,7 +3449,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Egipčanski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Egypten, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของอียิปต์</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[tO0gj][Эģÿþŧ ĐąУŀíġнτ Ŧīмэ !!!]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Mısır Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Єгипетський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">埃及夏令时</Label>
@@ -3582,7 +3492,6 @@
 		<Label xml:lang="sl-SI">(GMT+05:00) Jekaterinburg</Label>
 		<Label xml:lang="sv-SE">(GMT+05:00) Ekaterinburg</Label>
 		<Label xml:lang="th-TH">(GMT+05:00) เอคเตอรินเบิร์ก</Label>
-		<Label xml:lang="tk-TM">[A7m2K][(ĞМΤ+05:00) ΕķаťęŗīŋБцŕğ !!! !!]</Label>
 		<Label xml:lang="tr-TR">(GMT+05:00) Ekaterinburg</Label>
 		<Label xml:lang="uk-UA">(GMT+05:00) Єкатеринбурґ</Label>
 		<Label xml:lang="zh-CN">(GMT+05:00) 叶卡捷琳堡</Label>
@@ -3619,7 +3528,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Jekaterinburški standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Ekaterinburg, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของเอคเตอรินเบิร์ก</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[hDs1g]∑ĸатěгįñъűяġ Śтâŉðåřð Ŧïм</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Ekaterinburg Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Уральський час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">叶卡捷琳堡标准时间</Label>
@@ -3656,7 +3564,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Jekaterinburški poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Ekaterinburg, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของเอคเตอรินเบิร์ก</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[oYLLk]Ëќατêѓìηьūяġ Ďąуļīĝђт Τĩm</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Ekaterinburg Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Уральський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">叶卡捷琳堡夏令时</Label>
@@ -3700,7 +3607,6 @@
 		<Label xml:lang="sl-SI">(GMT+12:00) Fidži, Kamčatka, Marshallovi otoki</Label>
 		<Label xml:lang="sv-SE">(GMT+12:00) Fiji, Kamtjatka, Marshallön</Label>
 		<Label xml:lang="th-TH">(GMT+12:00) หมู่เกาะฟิจิ คัมชัตกา หมู่เกาะมาร์แชลล์</Label>
-		<Label xml:lang="tk-TM">[hb5wV][(ĠΜТ+12:00) ₣ĭĵį, Кăмĉћâŧкä, Μªřŝħăℓŀ Íŝ. !!! !!! !!!]</Label>
 		<Label xml:lang="tr-TR">(GMT+12:00) Fiji, Kamchatka, Marshall Adl.</Label>
 		<Label xml:lang="uk-UA">(GMT+12:00) Фіджі, Камчатка, Маршаллові о-ви</Label>
 		<Label xml:lang="zh-CN">(GMT+12:00) 斐济，勘察加半岛，马绍尔群岛</Label>
@@ -3737,7 +3643,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Fidžijski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Fidji, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของฟิจิ</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[dJh5o][₣íјї Ѕţäñďαяď Ŧímē !!! ]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Fiji Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Фіджі (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">斐济标准时间</Label>
@@ -3774,7 +3679,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Fidžijski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Fidji, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของฟิจิ</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[HX0Cj][₣ìĵĭ Ďªÿℓîģĥт Ţìmė !!! ]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Fiji Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Фіджі (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">斐济夏令时</Label>
@@ -3815,7 +3719,6 @@
 		<Label xml:lang="sl-SI">(GMT+02:00) Helsinki, Kijev, Riga, Sofia, Talin, Vilna</Label>
 		<Label xml:lang="sv-SE">(GMT+02:00) Helsingfors, Kiev, Riga, Sofia, Tallinn, Vilnius</Label>
 		<Label xml:lang="th-TH">(GMT+02:00) เฮลซิงกิ คีเอฟ ริกา โซเฟีย ทาลลินน์ วิลนีอุส</Label>
-		<Label xml:lang="tk-TM">[sM1XB][(ĜΜΤ+02:00) Ħēľŝιⁿќî, ĶУιν, Γіğд, Śōƒìα, Ţдĺļіŉñ, Vĩłŋįџš !!! !!! !!! !!! ]</Label>
 		<Label xml:lang="tr-TR">(GMT+02:00) Helsinki, Kiev, Riga, Sofya, Tallinn, Vilnius</Label>
 		<Label xml:lang="uk-UA">(GMT+02:00) Вільнюс, Гельсінкі, Київ, Рига, Софія, Таллінн</Label>
 		<Label xml:lang="zh-CN">(GMT+02:00) 赫尔辛基，基辅，里加，索非亚，塔林，维尔纽斯</Label>
@@ -3852,7 +3755,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">FLE standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">FLE, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของ FLE</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[CTG2K][₣ŁĔ Ѕťάлďãŗδ Ŧімĕ !!! ]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">FLE Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Фінляндія (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">FLE 标准时间</Label>
@@ -3889,7 +3791,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">FLE poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">FLE, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของ FLE</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[QAJyh][₣ĽÊ Ďâγℓîģђť Тîмε !!! ]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">FLE Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Фінляндія (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">FLE 夏令时</Label>
@@ -3933,7 +3834,6 @@
 		<Label xml:lang="sl-SI">(GMT+03:00) Tbilisi</Label>
 		<Label xml:lang="sv-SE">(GMT+03:00) Tbilisi</Label>
 		<Label xml:lang="th-TH">(GMT+03:00) ทบิลิซิ</Label>
-		<Label xml:lang="tk-TM">[TPmVC][(ĠΜŤ+03:00) ŢБíłì§î !!! !]</Label>
 		<Label xml:lang="tr-TR">(GMT+03:00) Tiflis</Label>
 		<Label xml:lang="uk-UA">(GMT+03:00) Тбілісі</Label>
 		<Label xml:lang="zh-CN">(GMT+03:00) 第比利斯</Label>
@@ -3970,7 +3870,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Gruzijski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Georgien, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของจอร์เจีย</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[JHu7S][Ĝëσŕğϊǻή Ѕтąňðαřď Ţĩмё ]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Gürcistan Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Грузинський (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">格鲁吉亚标准时间</Label>
@@ -4007,7 +3906,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Gruzijski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Georgien, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของจอร์เจีย</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[GXahZ][Ğėбгğιåņ Đåŷľĩğћţ Ŧĭmē ]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Gürcistan Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Грузинський (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">格鲁吉亚夏令时</Label>
@@ -4048,7 +3946,6 @@
 		<Label xml:lang="sl-SI">(GMT) Greenwiški srednji čas: Dublin, Edinburgh, Lizbona, London</Label>
 		<Label xml:lang="sv-SE">Greenwich-tid (GMT): Dublin, Edinburgh, Lissabon, London</Label>
 		<Label xml:lang="th-TH">(GMT) เวลามาตรฐานกรีนิช : ดับลิน เอดินบะระ ลิสบอน ลอนดอน</Label>
-		<Label xml:lang="tk-TM">[XJfeC][(ĞМΤ) Ğгзęйшϊçђ Мĕåŉ Τímě : Ďΰьĺĩή, ΕđійБúѓġħ, Ĺιѕвǿň, Ļοñðόй !!! !!! !!! !!! !]</Label>
 		<Label xml:lang="tr-TR">(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lizbon, Londra</Label>
 		<Label xml:lang="uk-UA">(GMT) Час за Гринвічем: Дублін, Единбурґ, Лісабон, Лондон</Label>
 		<Label xml:lang="zh-CN">(GMT) 格林威治标准时间: 都柏林，爱丁堡，里斯本，伦敦</Label>
@@ -4085,7 +3982,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">GMT standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">GMT, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐาน GMT</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[yWav2][ĞΜŢ Śťâñðàгδ Ťϊmè !!! ]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">GMT Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">GMT (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">GMT 标准时间</Label>
@@ -4122,7 +4018,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">GMT poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">GMT, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาล GMT</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[Dqpfj][ĞМΤ Ďáўľìģħτ Ţĩm℮ !!! ]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">GMT Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">GMT (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">GMT 夏令时</Label>
@@ -4166,7 +4061,6 @@
 		<Label xml:lang="sl-SI">(GMT-03:00) Grenlandija</Label>
 		<Label xml:lang="sv-SE">(GMT-03:00) Grönland</Label>
 		<Label xml:lang="th-TH">(GMT-03:00) กรีนแลนด์</Label>
-		<Label xml:lang="tk-TM">[ijg0l][(ĠΜŦ-03:00) Ġřеëŉļάŉð !!! !]</Label>
 		<Label xml:lang="tr-TR">(GMT-03:00) Grönland</Label>
 		<Label xml:lang="uk-UA">(GMT-03:00) Ґренландія</Label>
 		<Label xml:lang="zh-CN">(GMT-03:00) 格陵兰</Label>
@@ -4203,7 +4097,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Grenlandski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Grönland, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของกรีนแลนด์</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[XNQtO][Ġґęéпłąйď Ѕτāиđäřď Тîmé]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Grönland Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Ґренландський час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">格陵兰标准时间</Label>
@@ -4240,7 +4133,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Grenlandski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Grönland, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของกรีนแลนด์</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[91AM8][Ĝяéēηℓąήď Đâўľϊġћţ Ţімē]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Grönland Gündüz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Ґренландський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">格陵兰夏令时</Label>
@@ -4262,7 +4154,7 @@
 		<Label xml:lang="el-GR">(Γκρίνουιτς) Μονροβία, Καζαμπλάνκα, Ρέκιαβικ</Label>
 		<Label xml:lang="en-US">(UTC) Casablanca, Monrovia, Reykjavik</Label>
 		<Label xml:lang="es-ES">(GMT) Casablanca, Monrovia, Reykjavik</Label>
-		<Label xml:lang="et-EE">(ĜМŢ) Ćά§äъĺąηċä, Мοηřóνϊά, Ŗέÿĸĵåνΐķ</Label>
+		<Label xml:lang="et-EE">(GMT) Casablanca, Monrovia, Reykjavik</Label>
 		<Label xml:lang="fi-FI">(GMT) Casablanca, Monrovia, Reykjavik</Label>
 		<Label xml:lang="fr-FR">(GMT) Casablanca, Monrovia</Label>
 		<Label xml:lang="he-IL">(GMT) קזבלנקה, מונרוביה, ריקיאוויק</Label>
@@ -4284,7 +4176,6 @@
 		<Label xml:lang="sl-SI">(GMT) Casablanca, Monrovia, Reykjavik</Label>
 		<Label xml:lang="sv-SE">(GMT) Casablanca, Monrovia, Reykavik</Label>
 		<Label xml:lang="th-TH">(GMT) คาซาบลังกา มันโรเวีย เรก ยะวิก</Label>
-		<Label xml:lang="tk-TM">[9yOuk][(ĞМΤ) Ĉá§âьľåⁿċā, Μòňгŏνíá, Ґéŷќĵäνϊĸ !!! !!! !!]</Label>
 		<Label xml:lang="tr-TR">(GMT) Casablanca, Monrovia, Reykjavik</Label>
 		<Label xml:lang="uk-UA">(GMT) Касабланка, Монровія, Рейк’явік</Label>
 		<Label xml:lang="zh-CN">(GMT) 卡萨布兰卡，蒙罗维亚，雷克雅未克</Label>
@@ -4321,7 +4212,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Greenwiški standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Greenwich, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของกรีนิช</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[6D7Zt][Ģгë℮ήẃïċћ Ѕτάⁿðąгđ Ţĩmз]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Greenwich Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Час за Гринвічем (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">格林威治标准时间</Label>
@@ -4358,7 +4248,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Greenwiški poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Greenwich, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของกรีนิช</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[wWHrC][Ğѓёєñẁĭςħ Đªуŀίĝћŧ Ţímê]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Greenwich Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Час за Гринвічем (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">格林威治夏令时</Label>
@@ -4399,7 +4288,6 @@
 		<Label xml:lang="sl-SI">(GMT+02:00) Atene, Bukarešta, Istanbul</Label>
 		<Label xml:lang="sv-SE">(GMT+02:00) Aten, Bukarest, Istanbul</Label>
 		<Label xml:lang="th-TH">(GMT+02:00) เอเธนส์ บูคาเรสท์ อิสตันบูล</Label>
-		<Label xml:lang="tk-TM">[qvYnU][(ĠΜŦ+02:00) Άţђ℮ńś, Ъûčĥàгėşт, ĨšţąňБûŀ !!! !!! !!!]</Label>
 		<Label xml:lang="tr-TR">(GMT+02:00) Atina, Bükreş, İstanbul</Label>
 		<Label xml:lang="uk-UA">(GMT+02:00) Афіни, Бухарест, Стамбул</Label>
 		<Label xml:lang="zh-CN">(GMT+02:00) 雅典，布加勒斯特，伊斯坦布尔</Label>
@@ -4436,7 +4324,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">GTB standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">GTB, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของ GTB</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[tSj1i][ĜŢЬ Ŝţªлďαŗď Ŧΐmè !!! ]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">GTB Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Греція, Турція (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">GTB 标准时间</Label>
@@ -4473,7 +4360,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">GTB poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">GTB, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของ GTB</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[O0Y2L][ĜТß Ďªýļįĝĥť Ŧϊмě !!! ]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">GTB Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Греція, Турція (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">GTB 夏令时</Label>
@@ -4517,7 +4403,6 @@
 		<Label xml:lang="sl-SI">(GMT-10:00) Havaji</Label>
 		<Label xml:lang="sv-SE">(GMT-10:00) Hawaii</Label>
 		<Label xml:lang="th-TH">(GMT-10:00) ฮาวาย</Label>
-		<Label xml:lang="tk-TM">[nD8uN][(ĠМŤ-10:00) Ήάώǻĩϊ !!! ]</Label>
 		<Label xml:lang="tr-TR">(GMT-10:00) Hawaii</Label>
 		<Label xml:lang="uk-UA">(GMT-10:00) Гаваї</Label>
 		<Label xml:lang="zh-CN">(GMT-10:00) 夏威夷</Label>
@@ -4554,7 +4439,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Havajski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Hawaii, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของฮาวาย</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[1DuY1][Ήâẃáϊįªń Śτāŋďàґð Ţîмē ]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Hawaii Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Гавайський час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">夏威夷标准时间</Label>
@@ -4591,7 +4475,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Havajski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Hawaii, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของฮาวาย</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[Cv51O][Ήдшąιīάň Đäýĺìĝĥт Ţϊмë ]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Hawaii Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Гавайський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">夏威夷夏令时</Label>
@@ -4632,7 +4515,6 @@
 		<Label xml:lang="sl-SI">(GMT+05:30) Chennai, Kolkata, Mumbaj, New Delhi</Label>
 		<Label xml:lang="sv-SE">(GMT+05:30) Chennai, Calcutta, Mumbai, New Delhi</Label>
 		<Label xml:lang="th-TH">(GMT+05:30) เชนไน กัลกัตตา มุมไบ นิวเดลี</Label>
-		<Label xml:lang="tk-TM">[UWi7F][(ĠМΤ+05:30) Çћęŋŋǻĭ, Ќøľќǻτá, Мůмьåї, Ńëщ Ðēŀћί !!! !!! !!! !]</Label>
 		<Label xml:lang="tr-TR">(GMT+05:30) Chennai, Calcutta, Mumbai, Yeni Delhi</Label>
 		<Label xml:lang="uk-UA">(GMT+05:30) Ченнаї, Колката, Мумбаї, Нью-Делі</Label>
 		<Label xml:lang="zh-CN">(GMT+05:30) 马德拉斯，加尔各答，孟买，新德里</Label>
@@ -4669,7 +4551,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Indijski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Indien, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของอินเดีย</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[TL9Ko][Ϊηđīǻ Ѕтáńđаŕď Τïмз !!!]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Hindistan Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Індійський час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">印度标准时间</Label>
@@ -4706,7 +4587,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Indijski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Indien, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของอินเดีย</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[6ET4R][Ĩńðίå Đǻўŀϊğђť Ŧϊmè !!!]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Hindistan Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Індійський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">印度夏令时</Label>
@@ -4747,7 +4627,6 @@
 		<Label xml:lang="sl-SI">(GMT+03:30) Teheran</Label>
 		<Label xml:lang="sv-SE">(GMT+03:30) Teheran</Label>
 		<Label xml:lang="th-TH">(GMT+03:30) เตหะราน</Label>
-		<Label xml:lang="tk-TM">[i6ABN][(ĠМŢ+03:30) Ţεђŕăп !!! ]</Label>
 		<Label xml:lang="tr-TR">(GMT+03:30) Tahran</Label>
 		<Label xml:lang="uk-UA">(GMT+03:30) Тегеран</Label>
 		<Label xml:lang="zh-CN">(GMT+03:30) 德黑兰</Label>
@@ -4784,7 +4663,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Iranski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Iran, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของอิหร่าน</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[OYMMB][Їяάй Šτάлðаяδ Τімê !!! ]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">İran Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Іранський час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">伊朗标准时间</Label>
@@ -4821,7 +4699,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Iranski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Iran, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของอิหร่าน</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[z2N0I][Îѓãń Ďάýłìğĥт Ťìмė !!! ]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">İran Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Іранський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">伊朗夏令时</Label>
@@ -4867,7 +4744,6 @@
 		<Label xml:lang="sl-SI">(GMT+02:00) Jeruzalem</Label>
 		<Label xml:lang="sv-SE">(GMT+02:00) Jerusalem</Label>
 		<Label xml:lang="th-TH">(GMT+02:00) เยรูซาเล็ม</Label>
-		<Label xml:lang="tk-TM">[o36au][(ĞМΤ+02:00) Јėŕυşàłêм !!! !]</Label>
 		<Label xml:lang="tr-TR">(GMT+02:00) Kudüs</Label>
 		<Label xml:lang="uk-UA">(GMT+02:00) Єрусалим</Label>
 		<Label xml:lang="zh-CN">(GMT+02:00) 耶路撒冷</Label>
@@ -4904,7 +4780,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Jeruzalemski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Jerusalem, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานเยรูซาเล็ม</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[kn7cB][Ј℮ѓùѕάļēм Şτàηδàяď Ţímë]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Kudüs Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Єрусалимський час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">耶路撒冷标准时间</Label>
@@ -4941,7 +4816,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Jeruzalemski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Jerusalem, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของเยรูซาเล็ม</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[7ZZAK][Ĵĕгúѕдℓем Ðáγļïĝћτ Ŧìmе]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Kudüs Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Єрусалимський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">耶路撒冷夏令时</Label>
@@ -5056,7 +4930,6 @@
 		<Label xml:lang="sl-SI">(GMT+02:00) Amman</Label>
 		<Label xml:lang="sv-SE">(GMT+02:00) Amman</Label>
 		<Label xml:lang="th-TH">(GMT+02:00) อัมมาน</Label>
-		<Label xml:lang="tk-TM">[UpVR7][(ĢΜŢ+02:00) Аmmăп !!! ]</Label>
 		<Label xml:lang="tr-TR">(GMT+02:00) Amman</Label>
 		<Label xml:lang="uk-UA">(GMT+02:00) Амман</Label>
 		<Label xml:lang="zh-CN">(GMT+02:00) 安曼</Label>
@@ -5093,7 +4966,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Jordanski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Jordanien, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของจอร์แดน</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[O6G1f][Јōґđдñ Śтãņďªŗδ Тімë !!]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Ürdün Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Йорданія (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">约旦标准时间</Label>
@@ -5130,15 +5002,22 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Jordanski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Jordanien, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของจอร์แดน</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[gS6Hn][Ĵοѓđåⁿ Ďαỳĺįġĥτ Τím℮ !!]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Ürdün Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Йорданія (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">约旦夏令时</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">約旦日光節約時間</Label>
 		<Label xml:lang="sr-Latn-CS" Type="Daylight">Jordansko letnje/zimsko vreme</Label>
 		<Info Bias="-02:00:00">
+			<Date Type="Standard" Week="Last" Day="Friday" Month="October" Time="01:00:00">Last Friday of October at 1:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Thursday" Month="March" Time="23:59:59">Last Thursday of March at 23:59:59</Date>
+		</Info>
+		<Info Year="2006" Bias="-02:00:00">
 			<Date Type="Standard" Week="Last" Day="Friday" Month="September" Time="01:00:00">Last Friday of September at 1:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Thursday" Month="March" Time="00:00:00">Last Thursday of March at 0:00</Date>
+		</Info>
+		<Info Year="2007" Bias="-02:00:00">
+			<Date Type="Standard" Week="Last" Day="Friday" Month="October" Time="01:00:00">Last Friday of October at 1:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Thursday" Month="March" Time="23:59:59">Last Thursday of March at 23:59:59</Date>
 		</Info>
 	</TimeZone>
 	<TimeZone Name="KoreaStandardTime">
@@ -5174,7 +5053,6 @@
 		<Label xml:lang="sl-SI">(GMT+09:00) Seul</Label>
 		<Label xml:lang="sv-SE">(GMT+09:00) Söul</Label>
 		<Label xml:lang="th-TH">(GMT+09:00) โซล</Label>
-		<Label xml:lang="tk-TM">[uFZhk][(ĢМŦ+09:00) Şëōûľ !!! ]</Label>
 		<Label xml:lang="tr-TR">(GMT+09:00) Seul</Label>
 		<Label xml:lang="uk-UA">(GMT+09:00) Сеул</Label>
 		<Label xml:lang="zh-CN">(GMT+09:00) 首尔</Label>
@@ -5211,7 +5089,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Korejski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Korea, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของเกาหลี</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[oELm6][Кσřеα Ѕŧαñďаŕð Ťĭmэ !!!]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Kore Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Корейський час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">韩国标准时间</Label>
@@ -5248,7 +5125,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Korejski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Korea, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของเกาหลี</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[wf0sf][Κоŕëą Đάўļĭģĥτ Тîmė !!!]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Kore Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Корейський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">韩国夏令时</Label>
@@ -5289,7 +5165,6 @@
 		<Label xml:lang="sl-SI">(GMT-02:00) Srednji Atlantik</Label>
 		<Label xml:lang="sv-SE">(GMT-02:00) Mittatlanten</Label>
 		<Label xml:lang="th-TH">(GMT-02:00) แอตแลนติกตอนกลาง</Label>
-		<Label xml:lang="tk-TM">[AE0MD][(ĠΜŢ-02:00) Мîď-Δτľåитíĉ !!! !!]</Label>
 		<Label xml:lang="tr-TR">(GMT-02:00) Orta Atlantik</Label>
 		<Label xml:lang="uk-UA">(GMT-02:00) Середня Атлантика</Label>
 		<Label xml:lang="zh-CN">(GMT-02:00) 中大西洋</Label>
@@ -5326,7 +5201,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Srednjeatlantski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Mid-Atlantic, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของแอตแลนติกตอนกลาง</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[sBYLJ]Μĭď-Λţℓâйŧι¢ Śτāⁿδаřð Тĭм</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Orta Atlantik Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Середня Атлантика (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">中大西洋标准时间</Label>
@@ -5363,7 +5237,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Srednjeatlantski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Mid-Atlantic, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของแอตแลนติกตอนกลาง</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[nGBnx]Міď-Āтłаηţιç Ďαўŀĭĝнτ Ţìm</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Orta Atlantik Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Середня Атлантика (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">中大西洋夏令时</Label>
@@ -5407,7 +5280,6 @@
 		<Label xml:lang="sl-SI">(GMT+02:00) Bejrut</Label>
 		<Label xml:lang="sv-SE">(GMT+02:00) Beirut</Label>
 		<Label xml:lang="th-TH">(GMT+02:00) เบรุต</Label>
-		<Label xml:lang="tk-TM">[TMLE4][(ĞМŦ+02:00) Вёìяύτ !!! ]</Label>
 		<Label xml:lang="tr-TR">(GMT+02:00) Beyrut</Label>
 		<Label xml:lang="uk-UA">(GMT+02:00) Бейрут</Label>
 		<Label xml:lang="zh-CN">(GMT+02:00) 贝鲁特</Label>
@@ -5444,7 +5316,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Srednjevzhodni standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Mellanöstern, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของตะวันออกกลาง</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[EsLYs]Μïðđľê Ēдŝτ Ŝťàňďãѓδ Ţĩмę</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Ortadoğu Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Близький Схід (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">中东标准时间</Label>
@@ -5481,7 +5352,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Srednjevzhodni poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Mellanöstern, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของตะวันออกกลาง</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[OwmRl]Μīđδłé Éáşŧ Đāỳľìġĥť Ťíмέ</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Ortadoğu Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Близький Схід (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">中东夏令时</Label>
@@ -5525,7 +5395,6 @@
 		<Label xml:lang="sl-SI">(GMT-03:00) Montevideo</Label>
 		<Label xml:lang="sv-SE">(GMT-03:00) Montevideo</Label>
 		<Label xml:lang="th-TH">(GMT-03:00) มอนเตวิเดโอ</Label>
-		<Label xml:lang="tk-TM">[cJFqd][(ĠΜТ-03:00) Мθηťêνΐðєô !!! !!]</Label>
 		<Label xml:lang="tr-TR">(GMT-03:00) Montevideo</Label>
 		<Label xml:lang="uk-UA">(GMT-03:00) Монтевідео</Label>
 		<Label xml:lang="zh-CN">(GMT-03:00) 蒙得维的亚</Label>
@@ -5562,7 +5431,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Montevidejski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Montevideo, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของมอนเตวิเดโอ</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[KV0D0][Μбńťéνįđзø Şťäиđąяδ Ţϊmз</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Montevideo Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Монтевідео (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">蒙得维的亚标准时间</Label>
@@ -5599,7 +5467,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Montevidejski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Montevideo, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของมอนเตวิเดโอ</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[PZ0yz][Мòŉтένĩðėô Ďãỳłīģĥţ Ťíмė</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Montevideo Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Монтевідео (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">蒙得维的亚夏令时</Label>
@@ -5651,7 +5518,6 @@
 		<Label xml:lang="sl-SI">(GMT-07:00) Gorski čas (ZDA &amp; Kanada)</Label>
 		<Label xml:lang="sv-SE">(GMT-07:00) Mountain Time (USA och Canada)</Label>
 		<Label xml:lang="th-TH">(GMT-07:00) Mountain Time (US &amp; Canada)</Label>
-		<Label xml:lang="tk-TM">[7qMqK][(ĜМŢ-07:00) Μŏυηťâїη Ţĩмę (ŬŠ &amp; Ĉдπāðã) !!! !!! !!!]</Label>
 		<Label xml:lang="tr-TR">(GMT-07:00) Dağ Saati (ABD ve Kanada)</Label>
 		<Label xml:lang="uk-UA">(GMT-07:00) Гірський час (США та Канада)</Label>
 		<Label xml:lang="zh-CN">(GMT-07:00) 山地时间(美国和加拿大)</Label>
@@ -5688,7 +5554,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Gorski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Mountain, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของเขตภูเขา</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[ITXDQ][Μôūńţάΐň Şŧāńδáŗδ Ťìмэ ]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Sıradağlar Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Гірський час США (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">山地标准时间</Label>
@@ -5725,7 +5590,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Gorski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Mountain, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของเขตภูเขา</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[RwzBk][Мōùņтâіñ Đåÿļìĝђť Тīmę ]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Sıradağlar Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Гірський час США (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">山地夏令时</Label>
@@ -5777,7 +5641,6 @@
 		<Label xml:lang="sl-SI">(GMT-07:00) Chihuahua, La Paz, Mazatlan</Label>
 		<Label xml:lang="sv-SE">(GMT-07:00) Chihuahua, La Paz, Mazatlan</Label>
 		<Label xml:lang="th-TH">(GMT-07:00) ชีวาวา ลาปาซ มาซัทลัน</Label>
-		<Label xml:lang="tk-TM">[2d9N3][(ĠΜΤ-07:00) Čħíђűąħµą, £å Ρáź, Маźáťℓàη !!! !!! !!!]</Label>
 		<Label xml:lang="tr-TR">(GMT-07:00) Chihuahua, La Paz, Mazatlan</Label>
 		<Label xml:lang="uk-UA">(GMT-07:00) Чихуахуа, Ла-Пас, Мазатлан</Label>
 		<Label xml:lang="zh-CN">(GMT-07:00) 奇瓦瓦，拉巴斯，马萨特兰</Label>
@@ -5814,7 +5677,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Gorski standardni čas (Mehika)</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Mountain, normaltid (Mexiko)</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานเขตภูเขา (เม็กซิโก)</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[J8PlX]Μθŭпťäίл Śτāŋđąřđ Ŧїmë (М</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Sıradağlar Stan. Saati (Meksika)</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Гірський час - Мексика (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">山地标准时间(墨西哥)</Label>
@@ -5851,7 +5713,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Gorski poletni čas (Mehika)</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Mountain, sommartid (Mexiko)</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลเขตภูเขา (เม็กซิโก)</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[6u78p]Μōŭńтąϊñ Ďăŷℓιģĥŧ Ťîмε (Μ</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Sıradağlar Yaz Saati (Meksika)</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Гірський час - Мексика (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">山地夏令时(墨西哥)</Label>
@@ -5895,7 +5756,6 @@
 		<Label xml:lang="sl-SI">(GMT+06:30) Yangon (Rangun)</Label>
 		<Label xml:lang="sv-SE">(GMT+06:30) Rangoon</Label>
 		<Label xml:lang="th-TH">(GMT+06:30) ย่างกุ้ง (ร่างกุ้ง)</Label>
-		<Label xml:lang="tk-TM">[FeklC][(ĠМŦ+06:30) Ўдńġσп (Ѓàήģóőή) !!! !!!]</Label>
 		<Label xml:lang="tr-TR">(GMT+06:30) Yangon (Rangoon)</Label>
 		<Label xml:lang="uk-UA">(GMT+06:30) Янґон (Рангун)</Label>
 		<Label xml:lang="zh-CN">(GMT+06:30) 仰光</Label>
@@ -5932,7 +5792,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Mjanmarški standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Unionen Myanmar, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของพม่า</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[HbZ4F][Μÿąŉmάŗ Ŝŧαŉðáŗđ Ţíмě !]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Myanmar Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">М’янма (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">缅甸标准时间</Label>
@@ -5969,7 +5828,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Mjanmarški poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Unionen Myanmar, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของพม่า</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[hgQBm][ΜУаňмąř Ďǻўļįĝћт Ťíмé !]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Myanmar Gündüz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">М’янма (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">缅甸夏令时</Label>
@@ -6010,7 +5868,6 @@
 		<Label xml:lang="sl-SI">(GMT+06:00) Almati, Novosibirsk</Label>
 		<Label xml:lang="sv-SE">(GMT+06:00) Almaty, Novosibirsk</Label>
 		<Label xml:lang="th-TH">(GMT+06:00) อัลมาตี โนโวซิเบียร์ซค์</Label>
-		<Label xml:lang="tk-TM">[3U78q][(ĞΜŤ+06:00) ΑℓмąţУ, Иõνő§ìБιřśĸ !!! !!! ]</Label>
 		<Label xml:lang="tr-TR">(GMT+06:00) Almatı, Novosibirsk</Label>
 		<Label xml:lang="uk-UA">(GMT+06:00) Алмати, Новосибірськ</Label>
 		<Label xml:lang="zh-CN">(GMT+06:00) 阿拉木图，新西伯利亚</Label>
@@ -6047,7 +5904,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Severni centralnoaz. stand. čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Norra centralasien, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของเอเชียกลางตอนเหนือ</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[5zIIR]Ŋ. Ċеńтядł Άѕįą Şťªпδáяď </Label>
 		<Label xml:lang="tr-TR" Type="Standard">Orta Asya K. Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Північна Центральна Азія (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">中亚北部标准时间</Label>
@@ -6084,7 +5940,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Severni centralnoaz. poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Norra centralasien, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลเอเชียกลางตอนเหนือ</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[Ia7fk]Ŋ. Čэиτѓąľ Αśįå Đáўŀίģнŧ </Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Orta Asya K. Gündüz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Північна Центральна Азія (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">中亚北部夏令时</Label>
@@ -6128,7 +5983,6 @@
 		<Label xml:lang="sl-SI">(GMT+02:00) Windhoek</Label>
 		<Label xml:lang="sv-SE">(GMT+02:00) Windhoek</Label>
 		<Label xml:lang="th-TH">(GMT+02:00) วินด์ฮุก</Label>
-		<Label xml:lang="tk-TM">[4zI5p][(ĠΜΤ+02:00) Шīňδĥôěк !!! !]</Label>
 		<Label xml:lang="tr-TR">(GMT+02:00) Windhoek</Label>
 		<Label xml:lang="uk-UA">(GMT+02:00) Віндгук</Label>
 		<Label xml:lang="zh-CN">(GMT+02:00) 温得和克</Label>
@@ -6165,7 +6019,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Namibijski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Namibia, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของนามิเบีย</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[BkbyN][Пдmιьìâ Šťаŉðãґď Ţιmэ !]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Namibia Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Намібія (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">纳米比亚标准时间</Label>
@@ -6202,7 +6055,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Namibijski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Namibia, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของนามิเบีย</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[HfTyu][ΝàmίБïà Đãуℓīĝĥτ Ţímë !]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Namibia Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Намібія (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">纳米比亚夏令时</Label>
@@ -6246,7 +6098,6 @@
 		<Label xml:lang="sl-SI">(GMT+05:45) Katmandu</Label>
 		<Label xml:lang="sv-SE">(GMT+05:45) Kathmandu</Label>
 		<Label xml:lang="th-TH">(GMT+05:45) กาฐมาณฑุ</Label>
-		<Label xml:lang="tk-TM">[cJzmz][(ĞМŢ+05:45) Κâţнmайðű !!! !]</Label>
 		<Label xml:lang="tr-TR">(GMT+05:45) Kathmandu</Label>
 		<Label xml:lang="uk-UA">(GMT+05:45) Катманду</Label>
 		<Label xml:lang="zh-CN">(GMT+05:45) 加德满都</Label>
@@ -6283,7 +6134,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Nepalski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Nepal, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของเนปาล</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[cX9BQ][Ňéþдľ Ŝţдňđāřð Τίме !!!]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Nepal Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Непальський час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">尼泊尔标准时间</Label>
@@ -6320,7 +6170,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Nepalski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Nepal, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของเนปาล</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[ZS3rQ][Йέφåĺ Ďàуļίģħŧ Тîмέ !!!]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Nepal Gündüz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Непальський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">尼泊尔夏令时</Label>
@@ -6361,7 +6210,6 @@
 		<Label xml:lang="sl-SI">(GMT+12:00) Auckland, Wellington</Label>
 		<Label xml:lang="sv-SE">(GMT+12:00) Auckland, Wellington</Label>
 		<Label xml:lang="th-TH">(GMT+12:00) โอคแลนด์ เวลลิงตัน</Label>
-		<Label xml:lang="tk-TM">[5Hhq1][(ĢМТ+12:00) Ǻΰ¢ķľāπð, Ẃēŀℓïⁿģţόи !!! !!! !]</Label>
 		<Label xml:lang="tr-TR">(GMT+12:00) Auckland, Wellington</Label>
 		<Label xml:lang="uk-UA">(GMT+12:00) Окленд, Веллінґтон</Label>
 		<Label xml:lang="zh-CN">(GMT+12:00) 奥克兰，惠灵顿</Label>
@@ -6398,7 +6246,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Novozelandski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Nya Zeeland, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของนิวซีแลนด์</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[QyuX0]Ňэщ Ζзаļáņδ Şťąйðаřð Ťϊмê</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Yeni Zellanda Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Новозеландський час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">新西兰标准时间</Label>
@@ -6435,7 +6282,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Novozelandski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Nya Zeeland, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของนิวซีแลนด์</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[4Mwh0]Ņєẅ Ζēªłąňð Ðąỳĺîĝћτ Ťΐmę</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Yeni Zellanda Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Новозеландський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">新西兰夏令时</Label>
@@ -6443,7 +6289,19 @@
 		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje/zimsko vr. na N. Zelandu</Label>
 		<Info Bias="-12:00:00">
 			<Date Type="Standard" Week="Third" Day="Sunday" Month="March" Time="03:00:00">Third Sunday of March at 3:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="September" Time="02:00:00">Last Sunday of September at 2:00</Date>
+		</Info>
+		<Info Year="2006" Bias="-12:00:00">
+			<Date Type="Standard" Week="Third" Day="Sunday" Month="March" Time="03:00:00">Third Sunday of March at 3:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Sunday" Month="October" Time="02:00:00">First Sunday of October at 2:00</Date>
+		</Info>
+		<Info Year="2007" Bias="-12:00:00">
+			<Date Type="Standard" Week="Third" Day="Sunday" Month="March" Time="03:00:00">Third Sunday of March at 3:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="September" Time="02:00:00">Last Sunday of September at 2:00</Date>
+		</Info>
+		<Info Year="2008" Bias="-12:00:00">
+			<Date Type="Standard" Week="First" Day="Sunday" Month="April" Time="03:00:00">First Sunday of April at 3:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="September" Time="02:00:00">Last Sunday of September at 2:00</Date>
 		</Info>
 	</TimeZone>
 	<TimeZone Name="NewfoundlandStandardTime">
@@ -6479,7 +6337,6 @@
 		<Label xml:lang="sl-SI">(GMT-03:30) Nova Fundlandija</Label>
 		<Label xml:lang="sv-SE">(GMT-03:30) Newfoundland</Label>
 		<Label xml:lang="th-TH">(GMT-03:30) นิวฟันด์แลนด์</Label>
-		<Label xml:lang="tk-TM">[FhJV7][(ĠМΤ-03:30) ∏êẅƒôūņďľǻňð !!! !!]</Label>
 		<Label xml:lang="tr-TR">(GMT-03:30) Newfoundland</Label>
 		<Label xml:lang="uk-UA">(GMT-03:00) Ньюфаундленд</Label>
 		<Label xml:lang="zh-CN">(GMT-03:30) 纽芬兰</Label>
@@ -6516,7 +6373,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Novofundlandski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Newfoundland, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของนิวฟันด์แลนด์</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[WABEd]Ņεẃƒóũпđℓаηδ Śŧāńđâřδ Ţĭm</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Newfoundland Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Ньюфаундлендський час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">纽芬兰标准时间</Label>
@@ -6553,7 +6409,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Novofundlandski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Newfoundland, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของนิวฟันด์แลนด์</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[ZdcIY]∏℮щƒōϋñďľáиđ Ðǻуĺϊģнτ Τīм</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Newfoundland Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Ньюфаундлендський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">纽芬兰夏令时</Label>
@@ -6605,7 +6460,6 @@
 		<Label xml:lang="sl-SI">(GMT+08:00) Irkutsk, Ulan Bator</Label>
 		<Label xml:lang="sv-SE">(GMT+08:00) Irkutsk, Ulan Bator</Label>
 		<Label xml:lang="th-TH">(GMT+08:00) เออคุทสค์ อูลานบาตอร์</Label>
-		<Label xml:lang="tk-TM">[HZ1d9][(ĜМŦ+08:00) Ĩŗкůŧśк, Ũłåдņ Βąταâŗ !!! !!! !]</Label>
 		<Label xml:lang="tr-TR">(GMT+08:00) Irkutsk, Ulaan Bataar</Label>
 		<Label xml:lang="uk-UA">(GMT+08:00) Іркутськ, Улан-Батор</Label>
 		<Label xml:lang="zh-CN">(GMT+08:00) 伊尔库茨克，乌兰巴托</Label>
@@ -6642,7 +6496,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Severnoazijski vzh. stand. čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Östra nordasient, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลาฝั่งต.อ.มาตรฐานเอเชียเหนือ</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[tKCzp]Йǿѓŧђ Άšĭα Ěãŝť Śťαπδâřď </Label>
 		<Label xml:lang="tr-TR" Type="Standard">Kuzey Asya Doğu Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Іркутський час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">北亚东部标准时间</Label>
@@ -6679,7 +6532,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Severnoazijski vzh. poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Östra nordasien, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาฝั่งต.อ.ตามฤดูกาลเอเชียเหนือ</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[yOXPS]Йŏŕтĥ Āѕíä Έªśť Ďāуľįğħť </Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Kuzey Asya Doğu Gündüz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Іркутський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">北亚东部夏令时</Label>
@@ -6723,7 +6575,6 @@
 		<Label xml:lang="sl-SI">(GMT+07:00) Krasnojarsk</Label>
 		<Label xml:lang="sv-SE">(GMT+07:00) Krasnoyarsk</Label>
 		<Label xml:lang="th-TH">(GMT+07:00) คลาสโนยาร์สค์</Label>
-		<Label xml:lang="tk-TM">[uK48P][(ĞΜΤ+07:00) КŗâŝйŏУαгŝķ !!! !!]</Label>
 		<Label xml:lang="tr-TR">(GMT+07:00) Krasnoyarsk</Label>
 		<Label xml:lang="uk-UA">(GMT+07:00) Красноярськ</Label>
 		<Label xml:lang="zh-CN">(GMT+07:00) 克拉斯诺亚尔斯克</Label>
@@ -6760,7 +6611,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Severnoazijski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Nordasien, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของเอเชียเหนือ</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[1s3OG][Ñōřŧн Дѕϊą Ѕţåŉðάяď Ťĭmё</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Kuzey Asya Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Красноярський час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">北亚标准时间</Label>
@@ -6797,7 +6647,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Severnoazijski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Nordasien, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของเอเชียเหนือ</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[KST4r][∏ŏŗτћ Ą§įä Đǻỳłíğнŧ Τĩмě</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Kuzey Asya Gündüz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Красноярський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">北亚夏令时</Label>
@@ -6841,7 +6690,6 @@
 		<Label xml:lang="sl-SI">(GMT-04:00) Santiago</Label>
 		<Label xml:lang="sv-SE">(GMT-04:00) Santiago</Label>
 		<Label xml:lang="th-TH">(GMT-04:00) ซันติอาโก</Label>
-		<Label xml:lang="tk-TM">[ELbk9][(ĜΜŦ-04:00) Ŝăпτïаğô !!! !]</Label>
 		<Label xml:lang="tr-TR">(GMT-04:00) Santiago</Label>
 		<Label xml:lang="uk-UA">(GMT-04:00) Сантьяґо</Label>
 		<Label xml:lang="zh-CN">(GMT-04:00) 圣地亚哥</Label>
@@ -6878,7 +6726,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Pacifiški južnoam. stand. čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Pacific SA, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของอเมริกาใต้แปซิฟิก</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[bMT56][Þàćίƒĩċ ŞД Şţαňðäřð Ŧĩmе</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Pasifik GA Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Півд. Азія, тихоокеан. час(зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">太平洋南美洲标准时间</Label>
@@ -6915,7 +6762,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Pacifiški južnoam. poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Pacific SA, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลอเมริกาใต้แปซิฟิก</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[IhmM0][Рăčíƒĩç ЅÄ Ðāуłîģнţ Ŧімė</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Pasifik GA Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Півд. Азія, тихоокеан. час(літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">太平洋南美洲夏令时</Label>
@@ -6959,7 +6805,6 @@
 		<Label xml:lang="sl-SI">(GMT-08:00) Tihooceanski čas (ZDA in Kanada)</Label>
 		<Label xml:lang="sv-SE">(GMT-08:00) Pacific Time (USA och Canada)</Label>
 		<Label xml:lang="th-TH">(GMT-08:00) เวลาแปซิฟิก (สหรัฐอเมริกาและแคนาดา)</Label>
-		<Label xml:lang="tk-TM">[tQoTF][(ĠΜŦ-08:00) Þάčīƒĭς Ťīmε (ŲŞ &amp; Çåйªđǻ) !!! !!! !!]</Label>
 		<Label xml:lang="tr-TR">(GMT-08:00) Pasifik Saati (ABD ve Kanada)</Label>
 		<Label xml:lang="uk-UA">(GMT-08:00) Тихоокеанський час (США та Канада)</Label>
 		<Label xml:lang="zh-CN">(GMT-08:00) 太平洋时间(美国和加拿大)</Label>
@@ -6996,7 +6841,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Tihooceanski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Pacific, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของแปซิฟิก</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[JQvq4][Рàсîƒïς Ŝтăпδāгð Ţĭmė !]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Pasifik Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Тихоокеанський час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">太平洋标准时间</Label>
@@ -7033,7 +6877,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Tihooceanski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Pacific, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของแปซิฟิก</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[RLPjI][Þд¢īƒîċ Ðãуļïġнţ Ťїмé !]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Pasifik Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Тихоокеанський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">太平洋夏令时</Label>
@@ -7085,7 +6928,6 @@
 		<Label xml:lang="sl-SI">(GMT-08:00) Tijuana, Kalifornija</Label>
 		<Label xml:lang="sv-SE">(GMT-08:00) Tijuana, Baja Kalifornien</Label>
 		<Label xml:lang="th-TH">(GMT-08:00) ติฮัวนา บาฮากาลิฟอร์เนีย</Label>
-		<Label xml:lang="tk-TM">[3CKcA][(ĢΜТ-08:00) Ťιĵúªŋâ, βάјä €άŀīƒóŗŋіά !!! !!! !!]</Label>
 		<Label xml:lang="tr-TR">(GMT-08:00) Tijuana, Baja California</Label>
 		<Label xml:lang="uk-UA">(GMT-08:00) Тіхуана, Нижня Каліфорнія</Label>
 		<Label xml:lang="zh-CN">(GMT-08:00) 蒂华纳，下加利福尼亚州</Label>
@@ -7122,7 +6964,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Pacifiški stand. čas (Mehika)</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Pacific, normaltid (Mexiko)</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของแปซิฟิก (เม็กซิโก)</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[r6a8s]Þāсιƒîс Ŝţāňðäґð Тімè (Μè</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Pasifik Standart Saati (Meksika)</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Тихоокеанський (зима) (Мексика)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">太平洋标准时间(墨西哥)</Label>
@@ -7159,7 +7000,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Pacifiški poletni čas (Mehika)</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Pacific, sommartid (Mexiko)</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลแปซิฟิก (เม็กซิโก)</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[XfiAD]Раçіƒιĉ ĎàУℓїĝђť Тіmé (Μě</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Pasifik Yaz Saati (Meksika)</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Тихоокеанський (літо) (Мексика)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">太平洋夏令时(墨西哥)</Label>
@@ -7203,7 +7043,6 @@
 		<Label xml:lang="sl-SI">(GMT+01:00) Bruselj, Kopenhagen, Madrid, Pariz</Label>
 		<Label xml:lang="sv-SE">(GMT+01:00) Bryssel, Köpenhamn, Madrid, Paris</Label>
 		<Label xml:lang="th-TH">(GMT+01:00) บรัสเซลส์ โคเปนเฮเกน มาดริด ปารีส</Label>
-		<Label xml:lang="tk-TM">[b3M9r][(ĠМŦ+01:00) βяů§§зľš, Сοþёńђαġεп, Μàδŕïď, Þâŕί§ !!! !!! !!! !]</Label>
 		<Label xml:lang="tr-TR">(GMT+01:00) Brüksel, Kopenhag, Madrid, Paris</Label>
 		<Label xml:lang="uk-UA">(GMT+01:00) Брюссель, Копенгаґен, Мадрид, Париж</Label>
 		<Label xml:lang="zh-CN">(GMT+01:00) 布鲁塞尔，哥本哈根，马德里，巴黎</Label>
@@ -7240,7 +7079,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Romanski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Paris, Madrid, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานโรมานซ์</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[MLtxj][Гоmąпčе Ŝţáйδαгδ Тĩmę !]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Romanya Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Романський час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">罗马标准时间</Label>
@@ -7277,7 +7115,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Romanski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Paris, Madrid, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลโรมานซ์</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[VMKA7][Ґöмãπĉë Đάўℓїģћτ Ţímё !]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Romanya Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Романський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">罗马夏令时</Label>
@@ -7321,7 +7158,6 @@
 		<Label xml:lang="sl-SI">(GMT+03:00) Moskva, Sankt-Peterburg, Volgograd</Label>
 		<Label xml:lang="sv-SE">(GMT+03:00) Moskva, S:t Petersburg, Volgograd</Label>
 		<Label xml:lang="th-TH">(GMT+03:00) มอสโก เซนต์ปีเตอร์สเบิร์ก โวลโกกราด</Label>
-		<Label xml:lang="tk-TM">[BJwOg][(ĜМŦ+03:00) Μбѕ¢οŵ, Şŧ. ΡěťėяśБΰгğ, Vőĺġöģгдđ !!! !!! !!! !]</Label>
 		<Label xml:lang="tr-TR">(GMT+03:00) Moskova, St. Petersburg, Volvograd</Label>
 		<Label xml:lang="uk-UA">(GMT+03:00) Москва, Санкт-Петербург, Волґоґрад</Label>
 		<Label xml:lang="zh-CN">(GMT+03:00) 莫斯科，圣彼得堡，伏尔加格勒</Label>
@@ -7358,7 +7194,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Ruski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Ryssland, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของรัสเซีย</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[E2vVq][Ґυŝşîáň Şτªňðαŕð Ŧιmέ !]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Rusya Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Московський час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">俄罗斯标准时间</Label>
@@ -7395,7 +7230,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Ruski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Ryssland, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของรัสเซีย</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[IkPBf][Яύśšΐąп Ďąўŀïĝħŧ Ťιmé !]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Rusya Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Московський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">俄罗斯夏令时</Label>
@@ -7439,7 +7273,6 @@
 		<Label xml:lang="sl-SI">(GMT-03:00) Buenos Aires, Georgetown</Label>
 		<Label xml:lang="sv-SE">(GMT-03:00) Buenos Aires, Georgetown</Label>
 		<Label xml:lang="th-TH">(GMT-03:00) บัวโนสไอเรส จอร์จทาวน์</Label>
-		<Label xml:lang="tk-TM">[H9S7n][(ĠМТ-03:00) Ьũěñŏѕ Àΐŕєş, Ģεõŗğèťòŵη !!! !!! !!]</Label>
 		<Label xml:lang="tr-TR">(GMT-03:00) Buenos Aires, Georgetown</Label>
 		<Label xml:lang="uk-UA">(GMT-03:00) Буенос-Айрес, Джорджтаун</Label>
 		<Label xml:lang="zh-CN">(GMT-03:00) 布宜诺斯艾利斯，乔治敦</Label>
@@ -7476,7 +7309,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Južnoameriški vzh. stand. čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Sydamerika (östra), normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลาฝั่งต.อ.มาตรฐานของอเมริกาใต้</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[6Li2k][ŞÄ Éāśťєřπ Ѕŧǻήđдяđ Τΐмĕ</Label>
 		<Label xml:lang="tr-TR" Type="Standard">GA Doğu Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Півд.-Ам. східний час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">南美洲东部标准时间</Label>
@@ -7513,7 +7345,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Južnoameriški vzh. poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Sydamerika (östra), sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาฝั่งต.อ.ตามฤดูกาลอเมริกาใต้</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[EOsly][ŚÅ Èäšτëґπ Ðдỳľîĝĥτ Τϊмє</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">GA Doğu Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Півд.-Ам. східний час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">南美洲东部夏令时</Label>
@@ -7532,7 +7363,7 @@
 		<Label xml:lang="el-GR">(Γκρίνουιτς-05:00) Μπογκοτά, Λίμα, Κουίτο, Ρίο Μπράνκο</Label>
 		<Label xml:lang="en-US">(UTC-05:00) Bogota, Lima, Quito, Rio Branco</Label>
 		<Label xml:lang="es-ES">(GMT-05:00) Bogotá, Lima, Quito, Rio Branco</Label>
-		<Label xml:lang="et-EE">(ĠМТ-05:00) ßôĝбтä, Ĺімα, Qцΐťø, Ŗìò ßѓдⁿĉó</Label>
+		<Label xml:lang="et-EE">(GMT-05:00) Bogota, Lima, Quito, Rio Branco</Label>
 		<Label xml:lang="fi-FI">(GMT-05:00) Bogota, Lima, Quito, Rio Branco</Label>
 		<Label xml:lang="fr-FR">(GMT-05:00) Bogota, Lima, Quito</Label>
 		<Label xml:lang="he-IL">(GMT-05:00) בוגוטה, לימה, קיטו, ריו ברנקו</Label>
@@ -7554,7 +7385,6 @@
 		<Label xml:lang="sl-SI">(GMT-05:00) Bogota, Lima, Quito, Rio Branco</Label>
 		<Label xml:lang="sv-SE">(GMT-05:00) Bogota, Lima, Quito, Rio Branco</Label>
 		<Label xml:lang="th-TH">(GMT-05:00) โบโกตา ลิมา กีโต ริโอ บรังโค</Label>
-		<Label xml:lang="tk-TM">[TEmBg][(ĞΜΤ-05:00) ßοğõťà, Ĺįmд, Qűîţб, Ŕϊő Βŕапċθ !!! !!! !!! ]</Label>
 		<Label xml:lang="tr-TR">(GMT-05:00) Bogota, Lima, Quito, Rio Branco</Label>
 		<Label xml:lang="uk-UA">(GMT-05:00) Богота, Ліма, Кіто, Ріу-Бранку</Label>
 		<Label xml:lang="zh-CN">(GMT-05:00) 波哥大，利马，基多，里奥布朗库</Label>
@@ -7591,7 +7421,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Južnoam. pacifiški stand. čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">SA Pacific, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลาแปซิฟิกมาตรฐานของอเมริกาใต้</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[dkpdx][ŜĄ Ρąсіƒìç Şŧąņđαřđ Ŧΐmē</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Gün. Ame. Pasifik Standart Saat</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Півд.-Ам. тихоокеан. час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">南美洲太平洋标准时间</Label>
@@ -7628,7 +7457,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Južnoam. pacifiški poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">SA Pacific, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาแปซิฟิกตามฤดูกาลอเมริกาใต้</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[IqxiF][ЅÅ Þåčįƒις Ðăýłîğĥŧ Ŧιмэ</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Güney Amerika Pasifik Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Півд.-Ам. тихоокеан. час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">南美洲太平洋夏令时</Label>
@@ -7669,7 +7497,6 @@
 		<Label xml:lang="sl-SI">(GMT-04:00) Caracas, La Paz</Label>
 		<Label xml:lang="sv-SE">(GMT-04:00) Caracas, La Paz</Label>
 		<Label xml:lang="th-TH">(GMT-04:00) คารากัส ลาปาซ</Label>
-		<Label xml:lang="tk-TM">[IIXgZ][(ĜМΤ-04:00) Ċάŗάсąѕ, £ά Рąż !!! !!!]</Label>
 		<Label xml:lang="tr-TR">(GMT-04:00) Karacas, La Paz</Label>
 		<Label xml:lang="uk-UA">(GMT-04:00) Каракас, Ла-Пас</Label>
 		<Label xml:lang="zh-CN">(GMT-04:00) 加拉加斯，拉巴斯</Label>
@@ -7706,7 +7533,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Južnoameriški zah. stand. čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Västra Sydamerika, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลาฝั่งต.ต.มาตรฐานของอเมริกาใต้</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[40oXg][ЅÂ Шêѕτėгñ Śтåŋðǻгď Ŧįмè</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Gün. Amerika Batı Standart Saat</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Півд.-Ам. західний час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">南美洲西部标准时间</Label>
@@ -7743,7 +7569,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Južnoameriški zah. poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Västra Sydamerika, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาฝั่งต.ต.ตามฤดูกาลอเมริกาใต้</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[5OZHu][ŜĄ Ẃèşţĕґή Ðªýľîģђŧ Ŧιmė</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Güney Amerika Batı Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Півд.-Ам. західний час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">南美洲西部夏令时</Label>
@@ -7784,7 +7609,6 @@
 		<Label xml:lang="sl-SI">(GMT-11:00) Otok Midway, Samoa</Label>
 		<Label xml:lang="sv-SE">(GMT-11:00) Midway Island, Samoa</Label>
 		<Label xml:lang="th-TH">(GMT-11:00) หมู่เกาะมิดเวย์ ซามัว</Label>
-		<Label xml:lang="tk-TM">[4uaoI][(ĠΜŤ-11:00) Мìδщăŷ Ĭşŀαйď, Ŝámθá !!! !!! !]</Label>
 		<Label xml:lang="tr-TR">(GMT-11:00) Midway Adası, Samoa</Label>
 		<Label xml:lang="uk-UA">(GMT-11:00) о. Мідуей, Самоа</Label>
 		<Label xml:lang="zh-CN">(GMT-11:00) 中途岛，萨摩亚群岛</Label>
@@ -7821,7 +7645,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Samoanski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Samoa, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของซามัว</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[KoOWe][Śàмθā Ŝŧªŋðäґđ Тїmё !!!]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Samoa Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Самоанський час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">萨摩亚群岛标准时间</Label>
@@ -7858,7 +7681,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Samoanski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Samoa, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของซามัว</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[70dFT][Ŝáмøа Ðąуľΐģђт Τįmз !!!]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Samoa Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Самоанський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">萨摩亚群岛夏令时</Label>
@@ -7899,7 +7721,6 @@
 		<Label xml:lang="sl-SI">(GMT+07:00) Bangkok, Hanoi, Djakarta</Label>
 		<Label xml:lang="sv-SE">(GMT+07:00) Bangkok, Hanoi, Djakarta</Label>
 		<Label xml:lang="th-TH">(GMT+07:00) กรุงเทพฯ ฮานอย จาการ์ตา</Label>
-		<Label xml:lang="tk-TM">[cP0u4][(ĠМŤ+07:00) βăпġķòķ, Ήάņθì, Јäĸāřтά !!! !!! !]</Label>
 		<Label xml:lang="tr-TR">(GMT+07:00) Bangkok, Hanoi, Cakarta</Label>
 		<Label xml:lang="uk-UA">(GMT+07:00) Банґкок, Ханой, Джакарта</Label>
 		<Label xml:lang="zh-CN">(GMT+07:00) 曼谷，河内，雅加达</Label>
@@ -7936,7 +7757,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Jugovzhodni azijski stand. čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Sydostasien, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของเอเชียต.อ.เฉียงใต้</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[epEIm][Š∑ Άşįą Śťǻήδªřð Тїмέ !]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">GD Asya Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Південно-Східна Азія (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">东南亚标准时间</Label>
@@ -7973,7 +7793,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Jugovzhodni azijski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Sydostasien, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลเอเชียต.อ.เฉียงใต้</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[pmQbf][Ś∑ Ăšїą Đâγℓíģħŧ Ţìмε !]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">GD Asya Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Південно-Східна Азія (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">东南亚夏令时</Label>
@@ -8014,7 +7833,6 @@
 		<Label xml:lang="sl-SI">(GMT+08:00) Kuala Lumpur, Singapur</Label>
 		<Label xml:lang="sv-SE">(GMT+08:00) Kuala Lumpur, Singapore</Label>
 		<Label xml:lang="th-TH">(GMT+08:00) กัวลาลัมเปอร์ สิงคโปร์</Label>
-		<Label xml:lang="tk-TM">[ZUKRr][(ĜΜŦ+08:00) Кџáℓà Ļŭмþΰя, Šíŋğàþŏřě !!! !!! !]</Label>
 		<Label xml:lang="tr-TR">(GMT+08:00) Kuala Lumpur, Singapur</Label>
 		<Label xml:lang="uk-UA">(GMT+08:00) Куала-Лумпур, Сінґапур</Label>
 		<Label xml:lang="zh-CN">(GMT+08:00) 吉隆坡，新加坡</Label>
@@ -8051,7 +7869,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Stand. čas malajskega polotoka</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Malaysiska halvön, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของแหลมมลายู</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[0wgEV]Μăłãу Ρēńīή§ΰŀä Ŝтáňďαяđ </Label>
 		<Label xml:lang="tr-TR" Type="Standard">Malay Yarımadası Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Малайський час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">马来西亚半岛标准时间</Label>
@@ -8088,7 +7905,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Poletni čas malajskega polotoka</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Malaysiska halvön, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของแหลมมลายู</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[CC7OH]Μāℓăŷ Рèηīπŝΰľā Ďαŷľīģнτ </Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Malay Yarımadası Gündüz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Малайський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">马来西亚半岛夏令时</Label>
@@ -8129,7 +7945,6 @@
 		<Label xml:lang="sl-SI">(GMT+02:00) Harare, Pretoria</Label>
 		<Label xml:lang="sv-SE">(GMT+02:00) Harare, Pretoria</Label>
 		<Label xml:lang="th-TH">(GMT+02:00) ฮาราเร พริทอเรีย</Label>
-		<Label xml:lang="tk-TM">[j5E0C][(ĞΜŦ+02:00) Ĥãŗдřз, Ρґэтôяïà !!! !!!]</Label>
 		<Label xml:lang="tr-TR">(GMT+02:00) Harare, Pretoria</Label>
 		<Label xml:lang="uk-UA">(GMT+02:00) Хараре, Преторія</Label>
 		<Label xml:lang="zh-CN">(GMT+02:00) 哈拉雷，比勒陀利亚</Label>
@@ -8166,7 +7981,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Južnoafriški standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Södra Afrika, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของแอฟริกาใต้</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[9TqDV]Ŝøμţђ Âƒґίćå Śтǻňďăřđ Ŧιm</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Güney Afrika Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Південна Африка (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">南非标准时间</Label>
@@ -8203,7 +8017,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Južnoafriški poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Södra Afrika, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของแอฟริกาใต้</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[pnzRJ]Šõϋŧĥ Άƒяϊĉд ÐãУℓϊğħτ Ţΐm</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Güney Afrika Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Південна Африка (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">南非夏令时</Label>
@@ -8244,7 +8057,6 @@
 		<Label xml:lang="sl-SI">(GMT+05:30) Sri Jayawardenepura</Label>
 		<Label xml:lang="sv-SE">(GMT+05:30) Sri Jayawardenepura</Label>
 		<Label xml:lang="th-TH">(GMT+06:00) ศรีชยาวาเดเนปุระ</Label>
-		<Label xml:lang="tk-TM">[5nc75][(ĞМТ+05:30) Ѕяϊ Јāуащªřðεлĕрύřą !!! !!! ]</Label>
 		<Label xml:lang="tr-TR">(GMT+05:30) Sri Jayawardenepura</Label>
 		<Label xml:lang="uk-UA">(GMT+05:30) Шрі-Джаяварденепура</Label>
 		<Label xml:lang="zh-CN">(GMT+05:30) 斯里哈亚华登尼普拉</Label>
@@ -8281,7 +8093,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Šrilanški standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Sri Lanka, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของศรีลังกา</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[7asDd][Śґί Łªπќă Ŝтãñðάŗđ Τїmé]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Sri Lanka Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Шрі-Ланка (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">斯里兰卡标准时间</Label>
@@ -8318,7 +8129,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Šrilanški poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Sri Lanka, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของศรีลังกา</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[urGl8][Śŕĩ ₤áņĸā Ďдўľĩğħŧ Ţĩм℮]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Sri Lanka Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Шрі-Ланка (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">斯里兰卡夏令时</Label>
@@ -8359,7 +8169,6 @@
 		<Label xml:lang="sl-SI">(GMT+08:00) Tajpej</Label>
 		<Label xml:lang="sv-SE">(GMT+08:00) Taipei</Label>
 		<Label xml:lang="th-TH">(GMT+08:00) ไทเป</Label>
-		<Label xml:lang="tk-TM">[dOf3q][(ĜΜТ+08:00) Ťαíþèį !!! ]</Label>
 		<Label xml:lang="tr-TR">(GMT+08:00) Taipei</Label>
 		<Label xml:lang="uk-UA">(GMT+08:00) Тайбей</Label>
 		<Label xml:lang="zh-CN">(GMT+08:00) 台北</Label>
@@ -8396,7 +8205,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Tajpejski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Taipei, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของไทเป</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[Zhpk6][Τаίφéĭ Śŧâņðąřđ Ŧімê !!]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Taype Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Тайванський час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">台北标准时间</Label>
@@ -8433,7 +8241,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Tajpejski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Taipei, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของไทเป</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[pn9tt][Ŧαíφёī Đàýłίģĥŧ Τįмę !!]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Taype Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Тайванський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">台北夏令时</Label>
@@ -8474,7 +8281,6 @@
 		<Label xml:lang="sl-SI">(GMT+10:00) Hobart</Label>
 		<Label xml:lang="sv-SE">(GMT+10:00) Hobart</Label>
 		<Label xml:lang="th-TH">(GMT+10:00) โฮบาร์ต</Label>
-		<Label xml:lang="tk-TM">[n43Lf][(ĢМΤ+10:00) ĦōБªѓţ !!! ]</Label>
 		<Label xml:lang="tr-TR">(GMT+10:00) Hobart</Label>
 		<Label xml:lang="uk-UA">(GMT+10:00) Гобарт</Label>
 		<Label xml:lang="zh-CN">(GMT+10:00) 霍巴特</Label>
@@ -8511,7 +8317,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Tasmanski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Tasmanien, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของแทสเมเนีย</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[6AmvB][Ţαśmãπîā Ŝţάπðäгð Ţΐmέ ]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Tazmanya Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Тасманський час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">塔斯马尼亚岛标准时间</Label>
@@ -8548,7 +8353,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Tasmanski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Tasmanien, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของแทสเมเนีย</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[RPUkg][Ŧàŝmăηїǻ Ðãỳŀìģђţ Ťïмę ]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Tazmanya Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Тасманський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">塔斯马尼亚岛夏令时</Label>
@@ -8592,7 +8396,6 @@
 		<Label xml:lang="sl-SI">(GMT+09:00) Osaka, Sapporo, Tokio</Label>
 		<Label xml:lang="sv-SE">(GMT+09:00) Osaka, Sapporo, Tokyo</Label>
 		<Label xml:lang="th-TH">(GMT+09:00) โอซากา ซัปโปโร โตเกียว</Label>
-		<Label xml:lang="tk-TM">[zT2jy][(ĠΜŢ+09:00) Óşάķά, Śãφþσŕő, Тòĸỳǿ !!! !!! !]</Label>
 		<Label xml:lang="tr-TR">(GMT+09:00) Osaka, Sapporo, Tokyo</Label>
 		<Label xml:lang="uk-UA">(GMT+09:00) Осака, Саппоро, Токіо</Label>
 		<Label xml:lang="zh-CN">(GMT+09:00) 大阪，札幌，东京</Label>
@@ -8629,7 +8432,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Tokijski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Tokyo, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของโตเกียว</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[msPl0][Ťøќŷб Ѕŧàŉďãřð Ţìмë !!!]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Tokyo Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Токійський час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">东京标准时间</Label>
@@ -8666,7 +8468,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Tokijski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Tokyo, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของโตเกียว</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[jXonA][ΤοķУø Ďåỳŀíĝħţ Τíмē !!!]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Tokyo Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Токійський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">东京夏令时</Label>
@@ -8694,7 +8495,7 @@
 		<Label xml:lang="it-IT">(GMT+13.00) Nukualofa</Label>
 		<Label xml:lang="ja-JP">(GMT+13:00) ヌクアロファ</Label>
 		<Label xml:lang="ko-KR">(GMT+13:00) 누쿠알로파</Label>
-		<Label xml:lang="lt-LT">(ĠΜŤ+13:00) Йūκϋ'ǻļòƒá</Label>
+		<Label xml:lang="lt-LT">(GMT+13:00) Nuku'alofa</Label>
 		<Label xml:lang="lv-LV">(GMT+13:00) Nukualofa</Label>
 		<Label xml:lang="nb-NO">(GMT+13:00) Nuku'alofa</Label>
 		<Label xml:lang="nl-NL">(GMT+13:00) Nuku'alofa</Label>
@@ -8707,7 +8508,6 @@
 		<Label xml:lang="sl-SI">(GMT+13:00) Nuku'alofa</Label>
 		<Label xml:lang="sv-SE">(GMT+13:00) Nuku'alofa</Label>
 		<Label xml:lang="th-TH">(GMT+13:00) นูกูอะโลฟา</Label>
-		<Label xml:lang="tk-TM">[jiOxm][(ĜΜŦ+13:00) Νύķų'áℓόƒά !!! !!]</Label>
 		<Label xml:lang="tr-TR">(GMT+13:00) Nuku'alofa</Label>
 		<Label xml:lang="uk-UA">(GMT+13:00) Нукуалофа</Label>
 		<Label xml:lang="zh-CN">(GMT+13:00) 努库阿洛法</Label>
@@ -8744,7 +8544,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Tonški standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Tonga, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของตองกา</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[3W7Wy][Ťσήġá Šŧãπðªѓď Ţіm℮ !!!]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Tonga Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Тонґа (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">汤加标准时间</Label>
@@ -8781,7 +8580,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Tonški poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Tonga, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของตองกา</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[SyJsF][Ŧбйġá ĐåУŀíĝнť Ţíмė !!!]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Tonga Gündüz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Тонґа (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">汤加夏令时</Label>
@@ -8822,7 +8620,6 @@
 		<Label xml:lang="sl-SI">(GMT-05:00) Indiana (vzhod)</Label>
 		<Label xml:lang="sv-SE">(GMT-05:00) Indiana (Öst)</Label>
 		<Label xml:lang="th-TH">(GMT-05:00) อินดีแอนา (ตะวันออก)</Label>
-		<Label xml:lang="tk-TM">[MFemS][(ĠМΤ-05:00) Іⁿđĩªηå (Еǻšŧ) !!! !!!]</Label>
 		<Label xml:lang="tr-TR">(GMT-05:00) Indiana (Doğu)</Label>
 		<Label xml:lang="uk-UA">(GMT-05:00) Індіана (схід)</Label>
 		<Label xml:lang="zh-CN">(GMT-05:00) 印地安那州(东部)</Label>
@@ -8859,7 +8656,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">ZDA – vzhodni standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">US Eastern, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลาฝั่งต.อ.มาตรฐานของอเมริกา</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[UOkvZ][ŮЅ Ёăśţèґñ Ѕтǻйδářđ Ťΐм℮</Label>
 		<Label xml:lang="tr-TR" Type="Standard">ABD Doğu Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">США - східний час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">美国东部标准时间</Label>
@@ -8896,7 +8692,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">ZDA – vzhodni poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">US Eastern, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาฝั่งต.อ.ตามฤดูกาลของอเมริกา</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[Q7NQs][ЏŠ Ёдѕťеґŋ Ðāÿŀīĝђт Τįмε</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">ABD Doğu Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">США - східний час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">美国东部夏令时</Label>
@@ -8937,7 +8732,6 @@
 		<Label xml:lang="sl-SI">(GMT-07:00) Arizona</Label>
 		<Label xml:lang="sv-SE">(GMT-07:00) Arizona</Label>
 		<Label xml:lang="th-TH">(GMT-07:00) แอริโซนา</Label>
-		<Label xml:lang="tk-TM">[gPvXN][(ĞМΤ-07:00) ∆ŗιżōñà !!! !]</Label>
 		<Label xml:lang="tr-TR">(GMT-07:00) Arizona</Label>
 		<Label xml:lang="uk-UA">(GMT-07:00) Арізона</Label>
 		<Label xml:lang="zh-CN">(GMT-07:00) 亚利桑那</Label>
@@ -8974,7 +8768,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">ZDA – gorski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">US Mountain, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลาเขตภูเขามาตรฐานของอเมริกา</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[qArf8]ŰŞ Мőųņŧåīń Ѕŧäηđářđ Τїмě</Label>
 		<Label xml:lang="tr-TR" Type="Standard">ABD Sıradağlar Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">США - гірський час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">美国山地标准时间</Label>
@@ -9011,7 +8804,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">ZDA – gorski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">US Mountain, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาเขตภูเขาตามฤดูกาลของอเมริกา</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[NIh8K]ÛŚ Μоμńţāĭй Ðªγľΐğħт Тìмє</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">ABD Sıradağlar Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">США - гірський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">美国山地夏令时</Label>
@@ -9052,7 +8844,6 @@
 		<Label xml:lang="sl-SI">(GMT+10:00) Vladivostok</Label>
 		<Label xml:lang="sv-SE">(GMT+10:00) Vladivostok</Label>
 		<Label xml:lang="th-TH">(GMT+10:00) วลาดิวอสต็อก</Label>
-		<Label xml:lang="tk-TM">[B07iW][(ĢМŤ+10:00) Vľªðινσśţōĸ !!! !!]</Label>
 		<Label xml:lang="tr-TR">(GMT+10:00) Vladivostok</Label>
 		<Label xml:lang="uk-UA">(GMT+10:00) Владивосток</Label>
 		<Label xml:lang="zh-CN">(GMT+10:00) 符拉迪沃斯托克</Label>
@@ -9089,7 +8880,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Vladivostoški standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Vladivostok, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของวลาดิวอสต็อก</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[1P1lA]Vŀăδïνσśтóќ Ŝţªήðâŕð Ťîmë</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Vladivostok Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Владивосток (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">符拉迪沃斯托克(海参崴)标准时间</Label>
@@ -9126,7 +8916,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Vladivostoški poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Vladivostok, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของวลาดิวอสต็อก</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[lZxDO]Vĺаđїνθśťōκ Đăγľιĝђţ Ťіmέ</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Vladivostok Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Владивосток (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">符拉迪沃斯托克(海参崴)夏令时</Label>
@@ -9170,7 +8959,6 @@
 		<Label xml:lang="sl-SI">(GMT+08:00) Perth</Label>
 		<Label xml:lang="sv-SE">(GMT+08:00) Perth</Label>
 		<Label xml:lang="th-TH">(GMT+08:00) เพิร์ธ</Label>
-		<Label xml:lang="tk-TM">[c3iA7][(ĜΜŦ+08:00) Ρέяťђ !!! ]</Label>
 		<Label xml:lang="tr-TR">(GMT+08:00) Perth</Label>
 		<Label xml:lang="uk-UA">(GMT+08:00) Перт</Label>
 		<Label xml:lang="zh-CN">(GMT+08:00) 珀斯</Label>
@@ -9207,7 +8995,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Zahodnoavstralski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Västra Australien, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของออสเตรเลียตะวันตก</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[wH8xy]Щ. Ãΰşŧяаļīà Śťâⁿđαяď Τïm</Label>
 		<Label xml:lang="tr-TR" Type="Standard">B. Australya Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Західна Австралія (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">澳大利亚西部标准时间</Label>
@@ -9244,7 +9031,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Zahodnoavstralski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Västra Australien, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลออสเตรเลียตะวันตก</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[Paus9]Ш. Дµŝťгаłīà Đâўŀîĝĥţ Ţīм</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">B. Australya Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Західна Австралія (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">澳大利亚西部夏令时</Label>
@@ -9297,7 +9083,6 @@
 		<Label xml:lang="sl-SI">(GMT+01:00) Zahodna centralna Afrika</Label>
 		<Label xml:lang="sv-SE">(GMT+01:00) Västra centralafrika</Label>
 		<Label xml:lang="th-TH">(GMT+01:00) แอฟริกากลางฝั่งตะวันตก</Label>
-		<Label xml:lang="tk-TM">[1YW0r][(ĜМΤ+01:00) Ẃ℮şŧ Ć℮ⁿτŗаĺ Åƒřιċå !!! !!! ]</Label>
 		<Label xml:lang="tr-TR">(GMT+01:00) Batı Orta Afrika</Label>
 		<Label xml:lang="uk-UA">(GMT+01:00) Західна Центральна Африка</Label>
 		<Label xml:lang="zh-CN">(GMT+01:00) 中非西部</Label>
@@ -9334,7 +9119,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Zah. centralnoafriški stand. čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Västra centralafrika, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานแอฟริกากลางฝั่งต.ต.</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[brU8Q]Ŵ. Сěⁿŧřǻℓ Λƒѓί¢á Šťáņďäř</Label>
 		<Label xml:lang="tr-TR" Type="Standard">B. Merkez Afrika Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Західна Центральна Африка (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">中非西部标准时间</Label>
@@ -9371,7 +9155,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Zah. centralnoaf. poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Västra centralafrika, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลแอฟริกากลางฝั่งต.ต.</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[AJXL6]Ẁ. Čэиτґαĺ Áƒгĩсą Đáŷĺîĝђ</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">B. Orta Afrika Gündüz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Західна Центральна Африка (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">中非西部夏令时</Label>
@@ -9412,7 +9195,6 @@
 		<Label xml:lang="sl-SI">(GMT+01:00) Amsterdam, Berlin, Bern, Rim, Stockholm, Dunaj</Label>
 		<Label xml:lang="sv-SE">(GMT+01:00) Amsterdam, Berlin, Bern, Rom, Stockholm, Wien</Label>
 		<Label xml:lang="th-TH">(GMT+01:00) อัมสเตอร์ดัม เบอร์ลิน เบิร์น โรม สตอกโฮล์ม เวียนนา</Label>
-		<Label xml:lang="tk-TM">[lU4mL][(ĞМŦ+01:00) Âмšŧёѓðąм, Ъěґℓϊπ, Вёŕи, Ŗσmê, Ѕţσсκħбļм, Víĕňńǻ !!! !!! !!! !!! !]</Label>
 		<Label xml:lang="tr-TR">(GMT+01:00) Amsterdam, Berlin, Bern, Roma, Stockholm, Viyana</Label>
 		<Label xml:lang="uk-UA">(GMT+01:00) Амстердам, Берлін, Берн, Відень, Рим, Стокгольм</Label>
 		<Label xml:lang="zh-CN">(GMT+01:00) 阿姆斯特丹，柏林，伯尔尼，罗马，斯德哥尔摩，维也纳</Label>
@@ -9449,7 +9231,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Zahodnoevropski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Västeuropa, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของยุโรปตะวันตก</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[3km0J][Ẃ. Ēůŕσφē Šŧǻηđªгδ Τϊmę]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Batı Avrupa Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Західна Центральна Європа (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">西欧标准时间</Label>
@@ -9486,7 +9267,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Zahodnoevropski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Västeuropa, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของยุโรปตะวันตก</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[XcVl6][Ŵ. Ĕυгσφэ Đǻγŀϊġнť Ŧīмє]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Batı Avrupa Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Західна Центральна Європа (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">西欧夏令时</Label>
@@ -9530,7 +9310,6 @@
 		<Label xml:lang="sl-SI">(GMT+05:00) Islamabad, Karači, Taškent</Label>
 		<Label xml:lang="sv-SE">(GMT+05:00) Islamabad, Karachi, Tasjkent</Label>
 		<Label xml:lang="th-TH">(GMT+05:00) อิสลามาบัด การาจี แทชเคนท์</Label>
-		<Label xml:lang="tk-TM">[kt6oX][(ĜΜŦ+05:00) ĬšļăмăБаđ, Ќâřāснι, Тâŝĥκзиτ !!! !!! !!!]</Label>
 		<Label xml:lang="tr-TR">(GMT+05:00) Islamabad, Karaçi, Taşkent</Label>
 		<Label xml:lang="uk-UA">(GMT+05:00) Ісламабад, Карачі, Ташкент</Label>
 		<Label xml:lang="zh-CN">(GMT+05:00) 伊斯兰堡，卡拉奇，塔什干</Label>
@@ -9567,7 +9346,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Zahodnoazijski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Västra Asien, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของเอเชียตะวันตก</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[y46PP][Ŵęšť Àşíą Ѕţàηδāřδ Ťîmĕ]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Batı Asya Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Західна Азія (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">西亚标准时间</Label>
@@ -9604,7 +9382,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Zahodnoazijski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Västra Asien, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของเอเชียตะวันตก</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[voXK7][Шэśŧ Ăŝìą Ðãÿĺϊģнт Ŧíмë]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Batı Asya Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Західна Азія (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">西亚夏令时</Label>
@@ -9645,7 +9422,6 @@
 		<Label xml:lang="sl-SI">(GMT+10:00) Guam, Port Moresby</Label>
 		<Label xml:lang="sv-SE">(GMT+10:00) Guam, Port Moresby</Label>
 		<Label xml:lang="th-TH">(GMT+10:00) กวม พอร์ตมอร์สบี</Label>
-		<Label xml:lang="tk-TM">[rdNil][(ĜМΤ+10:00) Ġµαм, Þоѓť МøŗêšБУ !!! !!! ]</Label>
 		<Label xml:lang="tr-TR">(GMT+10:00) Guam, Port Moresby</Label>
 		<Label xml:lang="uk-UA">(GMT+10:00) Ґуам, Порт-Морсбі</Label>
 		<Label xml:lang="zh-CN">(GMT+10:00) 关岛，莫尔兹比港</Label>
@@ -9682,7 +9458,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Zahodni pacifiški standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">West Pacific, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของแปซิฟิกตะวันตก</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[yO4jl]Ẅëѕτ Ρáςíƒīč Śтаⁿđářδ Τïm</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Batı Pasifik Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Західно-Тихоокеанський (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">太平洋西部标准时间</Label>
@@ -9719,7 +9494,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Zahodni pacifiški poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">West Pacific, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของแปซิฟิกตะวันตก</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[hnDzK]Ŵεśţ Þåćïƒίς Ðăуĺīğђτ Ŧίm</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Batı Pasifik Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Західно-Тихоокеанський (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">太平洋西部夏令时</Label>
@@ -9760,7 +9534,6 @@
 		<Label xml:lang="sl-SI">(GMT+09:00) Jakutsk</Label>
 		<Label xml:lang="sv-SE">(GMT+09:00) Yakutsk</Label>
 		<Label xml:lang="th-TH">(GMT+09:00) ยาคุตสค์</Label>
-		<Label xml:lang="tk-TM">[34kT5][(ĞΜŢ+09:00) Υǻќũţ§ќ !!! !]</Label>
 		<Label xml:lang="tr-TR">(GMT+09:00) Yakutsk</Label>
 		<Label xml:lang="uk-UA">(GMT+09:00) Якутськ</Label>
 		<Label xml:lang="zh-CN">(GMT+09:00) 雅库茨克</Label>
@@ -9797,7 +9570,6 @@
 		<Label xml:lang="sl-SI" Type="Standard">Jakutski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Yakutsk, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของยาคุตสค์</Label>
-		<Label xml:lang="tk-TM" Type="Standard">[ZzToy][Ύªķΰтşķ Šτăпđáгδ Ťìмę !]</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Yakutsk Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Якутський час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">雅库茨克标准时间</Label>
@@ -9834,7 +9606,6 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Jakutski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Yakutsk, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของยาคุตสค์</Label>
-		<Label xml:lang="tk-TM" Type="Daylight">[xQfS9][Ýªќцтşк Đаỳŀϊģћŧ Ŧĩmě !]</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Yakutsk Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Якутський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">雅库茨克夏令时</Label>
