@@ -20,7 +20,7 @@
 		<Label xml:lang="it-IT">(GMT+4.30) Kabul</Label>
 		<Label xml:lang="ja-JP">(GMT+04:30) カブール</Label>
 		<Label xml:lang="ko-KR">(GMT+04:30) 카불</Label>
-		<Label xml:lang="lt-LT">(GMT+04:00) Kabulas</Label>
+		<Label xml:lang="lt-LT">(GMT+04:30) Kabulas</Label>
 		<Label xml:lang="lv-LV">(GMT+04:30) Kabula</Label>
 		<Label xml:lang="nb-NO">(GMT+04:30) Kabul</Label>
 		<Label xml:lang="nl-NL">(GMT+04:30) Kaboel</Label>
@@ -275,32 +275,32 @@
 		<Label xml:lang="sr-Latn-CS">(GMT+03:00) Kuvajt, Rijad</Label>
 		<Label xml:lang="en" Type="Standard">Arab Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">السعودية - التوقيت الرسمي</Label>
-		<Label xml:lang="bg-BG" Type="Standard">Арабско стандартно време</Label>
+		<Label xml:lang="bg-BG" Type="Standard">Арабско стандартно време </Label>
 		<Label xml:lang="cs-CZ" Type="Standard">Oblast Arábie (běžný čas)</Label>
 		<Label xml:lang="da-DK" Type="Standard">Arab. normaltid</Label>
 		<Label xml:lang="de-DE" Type="Standard">Arabische Normalzeit</Label>
-		<Label xml:lang="el-GR" Type="Standard">Αραβική χειμερινή ώρα</Label>
+		<Label xml:lang="el-GR" Type="Standard">Αραβική χειμερινή ώρα </Label>
 		<Label xml:lang="en-US" Type="Standard">Arab Standard Time</Label>
 		<Label xml:lang="es-ES" Type="Standard">Hora estándar árabe</Label>
 		<Label xml:lang="et-EE" Type="Standard">Araabia standardaeg</Label>
 		<Label xml:lang="fi-FI" Type="Standard">Saudi-Arabian normaaliaika</Label>
 		<Label xml:lang="fr-FR" Type="Standard">Pays arabes</Label>
 		<Label xml:lang="he-IL" Type="Standard">שעון רגיל מדינות ערב</Label>
-		<Label xml:lang="hr-HR" Type="Standard">Arapski poluotok - st. vrij.</Label>
+		<Label xml:lang="hr-HR" Type="Standard">Arapski poluotok - st. vrij. </Label>
 		<Label xml:lang="hu-HU" Type="Standard">Arab téli idő</Label>
 		<Label xml:lang="it-IT" Type="Standard">ora solare Arabia</Label>
 		<Label xml:lang="ja-JP" Type="Standard">アラブ標準時</Label>
-		<Label xml:lang="ko-KR" Type="Standard">아랍 표준시</Label>
-		<Label xml:lang="lt-LT" Type="Standard">Arabų standartinis laikas</Label>
-		<Label xml:lang="lv-LV" Type="Standard">Arābu standarta laiks</Label>
+		<Label xml:lang="ko-KR" Type="Standard">아랍 표준시 </Label>
+		<Label xml:lang="lt-LT" Type="Standard">Arabų standartinis laikas </Label>
+		<Label xml:lang="lv-LV" Type="Standard">Arābu standarta laiks </Label>
 		<Label xml:lang="nb-NO" Type="Standard">Arabisk (normaltid)</Label>
-		<Label xml:lang="nl-NL" Type="Standard">Arabisch schiereiland (st.tijd)</Label>
+		<Label xml:lang="nl-NL" Type="Standard">Arab. schiereiland (st.tijd)</Label>
 		<Label xml:lang="pl-PL" Type="Standard">Arabia Saud. (czas standardowy)</Label>
 		<Label xml:lang="pt-BR" Type="Standard">Hora Padrão da Arábia</Label>
 		<Label xml:lang="pt-PT" Type="Standard">Hora padrão Arábia Saudita</Label>
-		<Label xml:lang="ro-RO" Type="Standard">Ora standard Arabia</Label>
+		<Label xml:lang="ro-RO" Type="Standard">Ora standard Arabia </Label>
 		<Label xml:lang="ru-RU" Type="Standard">Саудовское время (зима)</Label>
-		<Label xml:lang="sk-SK" Type="Standard">Arabský čas (normálny)</Label>
+		<Label xml:lang="sk-SK" Type="Standard">Arabský čas (normálny) </Label>
 		<Label xml:lang="sl-SI" Type="Standard">Arabijski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Arabien, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของอาหรับ</Label>
@@ -311,32 +311,32 @@
 		<Label xml:lang="sr-Latn-CS" Type="Standard">Arapsko standardno vreme</Label>
 		<Label xml:lang="en" Type="Daylight">Arab Daylight Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">السعودية - التوقيت الصيفي</Label>
-		<Label xml:lang="bg-BG" Type="Daylight">Арабско лятно време</Label>
+		<Label xml:lang="bg-BG" Type="Daylight">Арабско лятно време </Label>
 		<Label xml:lang="cs-CZ" Type="Daylight">Oblast Arábie (letní čas)</Label>
 		<Label xml:lang="da-DK" Type="Daylight">Arab. sommertid</Label>
 		<Label xml:lang="de-DE" Type="Daylight">Arabische Sommerzeit</Label>
-		<Label xml:lang="el-GR" Type="Daylight">Αραβική θερινή ώρα</Label>
+		<Label xml:lang="el-GR" Type="Daylight">Αραβική θερινή ώρα </Label>
 		<Label xml:lang="en-US" Type="Daylight">Arab Daylight Time</Label>
 		<Label xml:lang="es-ES" Type="Daylight">Hora de verano árabe</Label>
 		<Label xml:lang="et-EE" Type="Daylight">Araabia suveaeg</Label>
 		<Label xml:lang="fi-FI" Type="Daylight">Saudi-Arabian kesäaika</Label>
 		<Label xml:lang="fr-FR" Type="Daylight">Pays arabes (heure d'été)</Label>
 		<Label xml:lang="he-IL" Type="Daylight">שעון קיץ מדינות ערב</Label>
-		<Label xml:lang="hr-HR" Type="Daylight">Arapski poluotok - ljet. vrij.</Label>
+		<Label xml:lang="hr-HR" Type="Daylight">Arapski poluotok - ljet. vrij. </Label>
 		<Label xml:lang="hu-HU" Type="Daylight">Arab nyári idő</Label>
 		<Label xml:lang="it-IT" Type="Daylight">ora legale Arabia</Label>
 		<Label xml:lang="ja-JP" Type="Daylight">アラブ夏時間</Label>
-		<Label xml:lang="ko-KR" Type="Daylight">아랍 일광 절약 시간</Label>
-		<Label xml:lang="lt-LT" Type="Daylight">Arabų vasaros / žiemos laikas</Label>
-		<Label xml:lang="lv-LV" Type="Daylight">Arābu vasaras laiks</Label>
+		<Label xml:lang="ko-KR" Type="Daylight">아랍 일광 절약 시간 </Label>
+		<Label xml:lang="lt-LT" Type="Daylight">Arabų vasaros / žiemos laikas </Label>
+		<Label xml:lang="lv-LV" Type="Daylight">Arābu vasaras laiks </Label>
 		<Label xml:lang="nb-NO" Type="Daylight">Arabisk (sommertid)</Label>
 		<Label xml:lang="nl-NL" Type="Daylight">Arab. schiereiland (zomertijd)</Label>
 		<Label xml:lang="pl-PL" Type="Daylight">Arabia Saud. (czas letni)</Label>
 		<Label xml:lang="pt-BR" Type="Daylight">Horário de Verão da Arábia</Label>
 		<Label xml:lang="pt-PT" Type="Daylight">Hora de Verão Arábia Saudita</Label>
-		<Label xml:lang="ro-RO" Type="Daylight">Ora de vară Arabia</Label>
+		<Label xml:lang="ro-RO" Type="Daylight">Ora de vară Arabia </Label>
 		<Label xml:lang="ru-RU" Type="Daylight">Саудовское время (лето)</Label>
-		<Label xml:lang="sk-SK" Type="Daylight">Arabský čas (letný)</Label>
+		<Label xml:lang="sk-SK" Type="Daylight">Arabský čas (letný) </Label>
 		<Label xml:lang="sl-SI" Type="Daylight">Arabijski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Arabien, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของอาหรับ</Label>
@@ -344,7 +344,7 @@
 		<Label xml:lang="uk-UA" Type="Daylight">Саудівський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">阿拉伯 (Arab) 夏令时</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">沙烏地阿拉伯日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Arapsko letnje/zimsko vreme</Label>
+		<Label xml:lang="sr-Latn-CS" Type="Daylight">Arapsko letnje vreme</Label>
 		<Info Bias="-03:00:00" />
 	</TimeZone>
 	<TimeZone Name="ArabianStandardTime">
@@ -391,7 +391,7 @@
 		<Label xml:lang="cs-CZ" Type="Standard">Arábie (běžný čas)</Label>
 		<Label xml:lang="da-DK" Type="Standard">Arabien, normaltid</Label>
 		<Label xml:lang="de-DE" Type="Standard">Arabische Normalzeit  </Label>
-		<Label xml:lang="el-GR" Type="Standard">Αραβική χειμερινή ώρα</Label>
+		<Label xml:lang="el-GR" Type="Standard">Αραβική χειμερινή ώρα  </Label>
 		<Label xml:lang="en-US" Type="Standard">Arabian Standard Time</Label>
 		<Label xml:lang="es-ES" Type="Standard">Hora estándar árabiga</Label>
 		<Label xml:lang="et-EE" Type="Standard">Araabia standardaeg</Label>
@@ -402,15 +402,15 @@
 		<Label xml:lang="hu-HU" Type="Standard">Arábiai téli idő</Label>
 		<Label xml:lang="it-IT" Type="Standard">ora solare Emirati Arabi Uniti</Label>
 		<Label xml:lang="ja-JP" Type="Standard">アラビア標準時</Label>
-		<Label xml:lang="ko-KR" Type="Standard">아랍 표준시</Label>
-		<Label xml:lang="lt-LT" Type="Standard">Arabų standartinis laikas</Label>
-		<Label xml:lang="lv-LV" Type="Standard">Arābu standarta laiks</Label>
+		<Label xml:lang="ko-KR" Type="Standard">아랍 표준시  </Label>
+		<Label xml:lang="lt-LT" Type="Standard">Arabų standartinis laikas  </Label>
+		<Label xml:lang="lv-LV" Type="Standard">Arābu standarta laiks  </Label>
 		<Label xml:lang="nb-NO" Type="Standard">Saudi-Arabia (normaltid)</Label>
-		<Label xml:lang="nl-NL" Type="Standard">Arabisch schiereiland (st.tijd)</Label>
+		<Label xml:lang="nl-NL" Type="Standard">Arab. schiereiland (st.tijd)  </Label>
 		<Label xml:lang="pl-PL" Type="Standard">Arabia (czas standardowy)</Label>
 		<Label xml:lang="pt-BR" Type="Standard">Hora Padrão de Abu Dabi</Label>
 		<Label xml:lang="pt-PT" Type="Standard">Hora padrão de Abu Dhabi</Label>
-		<Label xml:lang="ro-RO" Type="Standard">Ora standard Arabia</Label>
+		<Label xml:lang="ro-RO" Type="Standard">Ora standard Arabia  </Label>
 		<Label xml:lang="ru-RU" Type="Standard">Арабское время (зима)</Label>
 		<Label xml:lang="sk-SK" Type="Standard">Arabský normálny čas</Label>
 		<Label xml:lang="sl-SI" Type="Standard">Arabski standardni čas</Label>
@@ -427,7 +427,7 @@
 		<Label xml:lang="cs-CZ" Type="Daylight">Arábie (letní čas)</Label>
 		<Label xml:lang="da-DK" Type="Daylight">Arabien, sommertid</Label>
 		<Label xml:lang="de-DE" Type="Daylight">Arabische Sommerzeit  </Label>
-		<Label xml:lang="el-GR" Type="Daylight">Αραβική θερινή ώρα</Label>
+		<Label xml:lang="el-GR" Type="Daylight">Αραβική θερινή ώρα  </Label>
 		<Label xml:lang="en-US" Type="Daylight">Arabian Daylight Time</Label>
 		<Label xml:lang="es-ES" Type="Daylight">Hora de verano árabiga</Label>
 		<Label xml:lang="et-EE" Type="Daylight">Araabia suveaeg</Label>
@@ -438,15 +438,15 @@
 		<Label xml:lang="hu-HU" Type="Daylight">Arábiai nyári idő</Label>
 		<Label xml:lang="it-IT" Type="Daylight">ora legale Emirati Arabi Uniti</Label>
 		<Label xml:lang="ja-JP" Type="Daylight">アラビア夏時間</Label>
-		<Label xml:lang="ko-KR" Type="Daylight">아랍 일광 절약 시간</Label>
-		<Label xml:lang="lt-LT" Type="Daylight">Arabų vasaros / žiemos laikas</Label>
-		<Label xml:lang="lv-LV" Type="Daylight">Arābu vasaras laiks</Label>
+		<Label xml:lang="ko-KR" Type="Daylight">아랍 일광 절약 시간  </Label>
+		<Label xml:lang="lt-LT" Type="Daylight">Arabų vasaros / žiemos laikas  </Label>
+		<Label xml:lang="lv-LV" Type="Daylight">Arābu vasaras laiks  </Label>
 		<Label xml:lang="nb-NO" Type="Daylight">Saudi-Arabia (sommertid)</Label>
-		<Label xml:lang="nl-NL" Type="Daylight">Arab. schiereiland (zomertijd)</Label>
+		<Label xml:lang="nl-NL" Type="Daylight">Arab. schiereiland  (zomertijd) </Label>
 		<Label xml:lang="pl-PL" Type="Daylight">Arabia (czas letni)</Label>
 		<Label xml:lang="pt-BR" Type="Daylight">Horário de Verão de Abu Dabi</Label>
 		<Label xml:lang="pt-PT" Type="Daylight">Hora de Verão de Abu Dhabi</Label>
-		<Label xml:lang="ro-RO" Type="Daylight">Ora de vară Arabia</Label>
+		<Label xml:lang="ro-RO" Type="Daylight">Ora de vară Arabia  </Label>
 		<Label xml:lang="ru-RU" Type="Daylight">Арабское время (лето)</Label>
 		<Label xml:lang="sk-SK" Type="Daylight">Arabský letný čas</Label>
 		<Label xml:lang="sl-SI" Type="Daylight">Arabski poletni čas</Label>
@@ -480,7 +480,7 @@
 		<Label xml:lang="ja-JP">(GMT+03:00) バグダッド</Label>
 		<Label xml:lang="ko-KR">(GMT+03:00) 바그다드</Label>
 		<Label xml:lang="lt-LT">(GMT+03:00) Bagdadas</Label>
-		<Label xml:lang="lv-LV">(GMT+02:00) Bagdāde</Label>
+		<Label xml:lang="lv-LV">(GMT+03:00) Bagdāde</Label>
 		<Label xml:lang="nb-NO">(GMT+03:00) Bagdad</Label>
 		<Label xml:lang="nl-NL">(GMT+03:00) Bagdad</Label>
 		<Label xml:lang="pl-PL">(GMT+03:00) Bagdad</Label>
@@ -507,8 +507,8 @@
 		<Label xml:lang="en-US" Type="Standard">Arabic Standard Time</Label>
 		<Label xml:lang="es-ES" Type="Standard">Hora estándar arábica</Label>
 		<Label xml:lang="et-EE" Type="Standard">Araabia standardaeg</Label>
-		<Label xml:lang="fi-FI" Type="Standard">Arabian normaaliaika</Label>
-		<Label xml:lang="fr-FR" Type="Standard">Arabie</Label>
+		<Label xml:lang="fi-FI" Type="Standard">Arabian normaaliaika </Label>
+		<Label xml:lang="fr-FR" Type="Standard">Arabie </Label>
 		<Label xml:lang="he-IL" Type="Standard">שעון רגיל מדינות ערביות</Label>
 		<Label xml:lang="hr-HR" Type="Standard">Arapski poluotok - st. vrij.</Label>
 		<Label xml:lang="hu-HU" Type="Standard">Bagdadi téli idő</Label>
@@ -518,14 +518,14 @@
 		<Label xml:lang="lt-LT" Type="Standard">Arabų standartinis laikas</Label>
 		<Label xml:lang="lv-LV" Type="Standard">Arābu standarta laiks</Label>
 		<Label xml:lang="nb-NO" Type="Standard">Arabia (normaltid)</Label>
-		<Label xml:lang="nl-NL" Type="Standard">Arab. schiereiland (st. tijd)</Label>
+		<Label xml:lang="nl-NL" Type="Standard">Arab. schiereiland (st. tijd) </Label>
 		<Label xml:lang="pl-PL" Type="Standard">Arabski czas standardowy</Label>
 		<Label xml:lang="pt-BR" Type="Standard">Hora Padrão árabe</Label>
 		<Label xml:lang="pt-PT" Type="Standard">Hora padrão Árabe</Label>
 		<Label xml:lang="ro-RO" Type="Standard">Ora standard Arabia</Label>
 		<Label xml:lang="ru-RU" Type="Standard">Багдадское время (зима)</Label>
 		<Label xml:lang="sk-SK" Type="Standard">Arabský čas (normálny)</Label>
-		<Label xml:lang="sl-SI" Type="Standard">Arabski standardni čas</Label>
+		<Label xml:lang="sl-SI" Type="Standard">Arabski standardni čas </Label>
 		<Label xml:lang="sv-SE" Type="Standard">Irak, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลาอารบิกมาตรฐาน</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Arap Standart Saati (1)</Label>
@@ -543,8 +543,8 @@
 		<Label xml:lang="en-US" Type="Daylight">Arabic Daylight Time</Label>
 		<Label xml:lang="es-ES" Type="Daylight">Hora de verano arábica</Label>
 		<Label xml:lang="et-EE" Type="Daylight">Araabia suveaeg</Label>
-		<Label xml:lang="fi-FI" Type="Daylight">Arabian kesäaika</Label>
-		<Label xml:lang="fr-FR" Type="Daylight">Arabie (heure d'été)</Label>
+		<Label xml:lang="fi-FI" Type="Daylight">Arabian kesäaika </Label>
+		<Label xml:lang="fr-FR" Type="Daylight">Arabie (heure d'été) </Label>
 		<Label xml:lang="he-IL" Type="Daylight">שעון קיץ מדינות ערביות</Label>
 		<Label xml:lang="hr-HR" Type="Daylight">Arapski poluotok - ljet. vrij.</Label>
 		<Label xml:lang="hu-HU" Type="Daylight">Bagdadi nyári idő</Label>
@@ -554,14 +554,14 @@
 		<Label xml:lang="lt-LT" Type="Daylight">Arabų vasaros / žiemos laikas</Label>
 		<Label xml:lang="lv-LV" Type="Daylight">Arābu vasaras laiks</Label>
 		<Label xml:lang="nb-NO" Type="Daylight">Arabia (sommertid)</Label>
-		<Label xml:lang="nl-NL" Type="Daylight">Arab. schiereiland (zomertijd)</Label>
+		<Label xml:lang="nl-NL" Type="Daylight">Arab. schiereiland (zomertijd) </Label>
 		<Label xml:lang="pl-PL" Type="Daylight">Arabski czas letni</Label>
 		<Label xml:lang="pt-BR" Type="Daylight">Horário de Verão árabe</Label>
 		<Label xml:lang="pt-PT" Type="Daylight">Hora de Verão Árabe</Label>
 		<Label xml:lang="ro-RO" Type="Daylight">Ora de vară Arabia</Label>
 		<Label xml:lang="ru-RU" Type="Daylight">Багдадское время (лето)</Label>
 		<Label xml:lang="sk-SK" Type="Daylight">Arabský čas (letný)</Label>
-		<Label xml:lang="sl-SI" Type="Daylight">Arabski poletni čas</Label>
+		<Label xml:lang="sl-SI" Type="Daylight">Arabski poletni čas </Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Irak, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาอารบิกตามฤดูกาล</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Arap Gündüz Saati</Label>
@@ -570,6 +570,26 @@
 		<Label xml:lang="zh-TW" Type="Daylight">伊拉克日光節約時間</Label>
 		<Label xml:lang="sr-Latn-CS" Type="Daylight">Arapsko letnje/zimsko vreme</Label>
 		<Info Bias="-03:00:00">
+			<Date Type="Standard" Week="First" Day="Monday" Month="October" Time="04:00:00">First Monday of October at 4:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Sunday" Month="April" Time="03:00:00">First Sunday of April at 3:00</Date>
+		</Info>
+		<Info Year="2006" Bias="-03:00:00">
+			<Date Type="Standard" Week="First" Day="Sunday" Month="October" Time="04:00:00">First Sunday of October at 4:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Sunday" Month="April" Time="03:00:00">First Sunday of April at 3:00</Date>
+		</Info>
+		<Info Year="2007" Bias="-03:00:00">
+			<Date Type="Standard" Week="First" Day="Monday" Month="October" Time="04:00:00">First Monday of October at 4:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Sunday" Month="April" Time="03:00:00">First Sunday of April at 3:00</Date>
+		</Info>
+		<Info Year="2008" Bias="-03:00:00">
+			<Date Type="Standard" Week="First" Day="Wednesday" Month="October" Time="04:00:00">First Wednesday of October at 4:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Tuesday" Month="April" Time="03:00:00">First Tuesday of April at 3:00</Date>
+		</Info>
+		<Info Year="2009" Bias="-03:00:00">
+			<Date Type="Standard" Week="First" Day="Thursday" Month="October" Time="04:00:00">First Thursday of October at 4:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Wednesday" Month="April" Time="03:00:00">First Wednesday of April at 3:00</Date>
+		</Info>
+		<Info Year="2010" Bias="-03:00:00">
 			<Date Type="Standard" Week="First" Day="Sunday" Month="October" Time="04:00:00">First Sunday of October at 4:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Sunday" Month="April" Time="03:00:00">First Sunday of April at 3:00</Date>
 		</Info>
@@ -717,7 +737,7 @@
 		<Label xml:lang="it-IT">(GMT+9.30) Darwin</Label>
 		<Label xml:lang="ja-JP">(GMT+09:30) ダーウィン</Label>
 		<Label xml:lang="ko-KR">(GMT+09:30) 다윈</Label>
-		<Label xml:lang="lt-LT">(GMT+04:00) Darvinas</Label>
+		<Label xml:lang="lt-LT">(GMT+09:30) Darvinas</Label>
 		<Label xml:lang="lv-LV">(GMT+09:30) Darvina</Label>
 		<Label xml:lang="nb-NO">(GMT+09:30) Darwin</Label>
 		<Label xml:lang="nl-NL">(GMT+09:30) Darwin</Label>
@@ -737,18 +757,18 @@
 		<Label xml:lang="sr-Latn-CS">(GMT+09:30) Darvin</Label>
 		<Label xml:lang="en" Type="Standard">AUS Central Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">وسط استراليا - التوقيت الرسمي</Label>
-		<Label xml:lang="bg-BG" Type="Standard">Централноавстрал. станд. време</Label>
+		<Label xml:lang="bg-BG" Type="Standard">Централноавстрал. станд. време </Label>
 		<Label xml:lang="cs-CZ" Type="Standard">Střední Austrálie (běžný čas)</Label>
 		<Label xml:lang="da-DK" Type="Standard">Centralaustralien, normaltid</Label>
-		<Label xml:lang="de-DE" Type="Standard">Zentralaustralische Normalzeit</Label>
-		<Label xml:lang="el-GR" Type="Standard">Χειμερινή ώρα Κεντρ. Αυστραλίας</Label>
+		<Label xml:lang="de-DE" Type="Standard">Zentralaustralische Normalzeit </Label>
+		<Label xml:lang="el-GR" Type="Standard">Χειμερινή  ώρα Κεντρ. Αυστραλίας</Label>
 		<Label xml:lang="en-US" Type="Standard">AUS Central Standard Time</Label>
 		<Label xml:lang="es-ES" Type="Standard">Hora estándar centro, Australia</Label>
 		<Label xml:lang="et-EE" Type="Standard">Austraalia keskosa standardaeg</Label>
 		<Label xml:lang="fi-FI" Type="Standard">Australian keskinen normaaliaika</Label>
 		<Label xml:lang="fr-FR" Type="Standard">AUS Centre</Label>
-		<Label xml:lang="he-IL" Type="Standard">שעון רגיל מרכז אוסטרליה</Label>
-		<Label xml:lang="hr-HR" Type="Standard">Središnja Australija - st. vrij.</Label>
+		<Label xml:lang="he-IL" Type="Standard">שעון רגיל מרכז אוסטרליה </Label>
+		<Label xml:lang="hr-HR" Type="Standard">Sred. Australija - st. vrij.</Label>
 		<Label xml:lang="hu-HU" Type="Standard">Ausztráliai közép téli idő</Label>
 		<Label xml:lang="it-IT" Type="Standard">ora solare Australia centrale</Label>
 		<Label xml:lang="ja-JP" Type="Standard">AUS 中央標準時</Label>
@@ -760,7 +780,7 @@
 		<Label xml:lang="pl-PL" Type="Standard">Australia (środkowy czas stand.)</Label>
 		<Label xml:lang="pt-BR" Type="Standard">Hora Padrão Austrália Central</Label>
 		<Label xml:lang="pt-PT" Type="Standard">Hora padrão Austrália Central</Label>
-		<Label xml:lang="ro-RO" Type="Standard">Ora standard Australia Centrală</Label>
+		<Label xml:lang="ro-RO" Type="Standard">Ora standard Australia Centrală </Label>
 		<Label xml:lang="ru-RU" Type="Standard">Центральная Австралия (зима)</Label>
 		<Label xml:lang="sk-SK" Type="Standard">Stredoaustrálsky čas (normálny)</Label>
 		<Label xml:lang="sl-SI" Type="Standard">Avstralski centralni stand. čas</Label>
@@ -773,18 +793,18 @@
 		<Label xml:lang="sr-Latn-CS" Type="Standard">Stand. vr. u centr. Australiji</Label>
 		<Label xml:lang="en" Type="Daylight">AUS Central Daylight Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">وسط استراليا - التوقيت الصيفي</Label>
-		<Label xml:lang="bg-BG" Type="Daylight">Централноавстрал. лятно време</Label>
+		<Label xml:lang="bg-BG" Type="Daylight">Централноавстрал. лятно време </Label>
 		<Label xml:lang="cs-CZ" Type="Daylight">Střední Austrálie (letní čas)</Label>
 		<Label xml:lang="da-DK" Type="Daylight">Centralaustralien, sommertid</Label>
-		<Label xml:lang="de-DE" Type="Daylight">Zentralaustralische Sommerzeit</Label>
-		<Label xml:lang="el-GR" Type="Daylight">Θερινή ώρα Κεντρ. Αυστραλίας</Label>
+		<Label xml:lang="de-DE" Type="Daylight">Zentralaustralische Sommerzeit </Label>
+		<Label xml:lang="el-GR" Type="Daylight">Θερινή ώρα Κεντρ. Αυστραλίας </Label>
 		<Label xml:lang="en-US" Type="Daylight">AUS Central Daylight Time</Label>
 		<Label xml:lang="es-ES" Type="Daylight">Hora de verano centro, Australia</Label>
 		<Label xml:lang="et-EE" Type="Daylight">Austraalia keskosa suveaeg</Label>
 		<Label xml:lang="fi-FI" Type="Daylight">Australian keskinen kesäaika</Label>
 		<Label xml:lang="fr-FR" Type="Daylight">AUS Centre (heure d'été)</Label>
-		<Label xml:lang="he-IL" Type="Daylight">שעון קיץ מרכז אוסטרליה</Label>
-		<Label xml:lang="hr-HR" Type="Daylight">Sred. Australija - ljet. vrij.</Label>
+		<Label xml:lang="he-IL" Type="Daylight">שעון קיץ מרכז אוסטרליה </Label>
+		<Label xml:lang="hr-HR" Type="Daylight">Sred. Australija - ljet. vrij. </Label>
 		<Label xml:lang="hu-HU" Type="Daylight">Ausztráliai közép nyári idő</Label>
 		<Label xml:lang="it-IT" Type="Daylight">ora legale Australia centrale</Label>
 		<Label xml:lang="ja-JP" Type="Daylight">AUS 中央夏時間</Label>
@@ -794,9 +814,9 @@
 		<Label xml:lang="nb-NO" Type="Daylight">Australia (sentral sommertid)</Label>
 		<Label xml:lang="nl-NL" Type="Daylight">AUS Central (zomertijd)</Label>
 		<Label xml:lang="pl-PL" Type="Daylight">Australia (środkowy czas letni)</Label>
-		<Label xml:lang="pt-BR" Type="Daylight">H. de verão Austrália Central</Label>
+		<Label xml:lang="pt-BR" Type="Daylight">H. de verão Austrália Central </Label>
 		<Label xml:lang="pt-PT" Type="Daylight">Hora de Verão Austrália Central</Label>
-		<Label xml:lang="ro-RO" Type="Daylight">Ora de vară Australia Centrală</Label>
+		<Label xml:lang="ro-RO" Type="Daylight">Ora de vară  Australia Centrală</Label>
 		<Label xml:lang="ru-RU" Type="Daylight">Центральная Австралия (лето)</Label>
 		<Label xml:lang="sk-SK" Type="Daylight">Stredoaustrálsky čas (letný)</Label>
 		<Label xml:lang="sl-SI" Type="Daylight">Avstralski centralni poletni čas</Label>
@@ -849,7 +869,7 @@
 		<Label xml:lang="sr-Latn-CS">(GMT+10:00) Kanbera, Melburn, Sidnej</Label>
 		<Label xml:lang="en" Type="Standard">AUS Eastern Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">شرق استراليا - التوقيت الرسمي</Label>
-		<Label xml:lang="bg-BG" Type="Standard">Източноавстралийско станд. време</Label>
+		<Label xml:lang="bg-BG" Type="Standard">Източноавстрал. станд. време</Label>
 		<Label xml:lang="cs-CZ" Type="Standard">Východní Austrálie (běžný čas)</Label>
 		<Label xml:lang="da-DK" Type="Standard">Australien (øst), normaltid</Label>
 		<Label xml:lang="de-DE" Type="Standard">Ostaustralische Normalzeit</Label>
@@ -859,8 +879,8 @@
 		<Label xml:lang="et-EE" Type="Standard">Austraalia idaosa standardaeg</Label>
 		<Label xml:lang="fi-FI" Type="Standard">Australian itäinen normaaliaika</Label>
 		<Label xml:lang="fr-FR" Type="Standard">AUS (Est)</Label>
-		<Label xml:lang="he-IL" Type="Standard">שעון רגיל מזרח אוסטרליה</Label>
-		<Label xml:lang="hr-HR" Type="Standard">Istočna Australija - st. vrij.</Label>
+		<Label xml:lang="he-IL" Type="Standard">שעון רגיל מזרח אוסטרליה </Label>
+		<Label xml:lang="hr-HR" Type="Standard">Istočna Australija - st. vrij. </Label>
 		<Label xml:lang="hu-HU" Type="Standard">Ausztráliai keleti téli idő</Label>
 		<Label xml:lang="it-IT" Type="Standard">ora solare Australia orient.</Label>
 		<Label xml:lang="ja-JP" Type="Standard">AUS 東部標準時</Label>
@@ -872,9 +892,9 @@
 		<Label xml:lang="pl-PL" Type="Standard">Austral. czas wschodni (stand.)</Label>
 		<Label xml:lang="pt-BR" Type="Standard">Hora Padrão Austrália Oriental</Label>
 		<Label xml:lang="pt-PT" Type="Standard">Hora padrão da AUS de Leste</Label>
-		<Label xml:lang="ro-RO" Type="Standard">Ora standard Australia de Est</Label>
+		<Label xml:lang="ro-RO" Type="Standard">Ora standard Australia de Est </Label>
 		<Label xml:lang="ru-RU" Type="Standard">Сиднейское время (зима)</Label>
-		<Label xml:lang="sk-SK" Type="Standard">Východoaustrálsky čas (normálny)</Label>
+		<Label xml:lang="sk-SK" Type="Standard">Východoaustrálsky čas (norm.)</Label>
 		<Label xml:lang="sl-SI" Type="Standard">Avstralski vzhodni stand. čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Östra Australien, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลาฝั่งต.อ.มาตรฐานของออสเตรเลีย</Label>
@@ -884,8 +904,8 @@
 		<Label xml:lang="zh-TW" Type="Standard">澳洲東部標準時間</Label>
 		<Label xml:lang="sr-Latn-CS" Type="Standard">Stand. vreme u ist. Australiji</Label>
 		<Label xml:lang="en" Type="Daylight">AUS Eastern Daylight Time</Label>
-		<Label xml:lang="ar-SA" Type="Daylight">شرق استراليا - التوقيت الصيفي</Label>
-		<Label xml:lang="bg-BG" Type="Daylight">Източноавстралийско лятно време</Label>
+		<Label xml:lang="ar-SA" Type="Daylight">شرق استراليا - التوقيت الصيفي </Label>
+		<Label xml:lang="bg-BG" Type="Daylight">Източноавстралийско лятно  време</Label>
 		<Label xml:lang="cs-CZ" Type="Daylight">Východní Austrálie (letní čas)</Label>
 		<Label xml:lang="da-DK" Type="Daylight">Australien (øst), sommertid</Label>
 		<Label xml:lang="de-DE" Type="Daylight">Ostaustralische Sommerzeit</Label>
@@ -895,7 +915,7 @@
 		<Label xml:lang="et-EE" Type="Daylight">Austraalia idaosa suveaeg</Label>
 		<Label xml:lang="fi-FI" Type="Daylight">Australian itäinen kesäaika</Label>
 		<Label xml:lang="fr-FR" Type="Daylight">AUS (Est) (heure d'été)</Label>
-		<Label xml:lang="he-IL" Type="Daylight">שעון קיץ מזרח אוסטרליה</Label>
+		<Label xml:lang="he-IL" Type="Daylight">שעון קיץ מזרח אוסטרליה </Label>
 		<Label xml:lang="hr-HR" Type="Daylight">Istočna Australija - ljet. vrij.</Label>
 		<Label xml:lang="hu-HU" Type="Daylight">Ausztráliai keleti nyári idő</Label>
 		<Label xml:lang="it-IT" Type="Daylight">ora legale Australia orient.</Label>
@@ -906,11 +926,11 @@
 		<Label xml:lang="nb-NO" Type="Daylight">Australia, øst (sommertid)</Label>
 		<Label xml:lang="nl-NL" Type="Daylight">AUS Eastern (zomertijd)</Label>
 		<Label xml:lang="pl-PL" Type="Daylight">Austral. czas wschodni (letni)</Label>
-		<Label xml:lang="pt-BR" Type="Daylight">H. de verão Austrália Oriental</Label>
+		<Label xml:lang="pt-BR" Type="Daylight">H. de verão Austrália Oriental </Label>
 		<Label xml:lang="pt-PT" Type="Daylight">Hora de Verão da AUS de Leste</Label>
-		<Label xml:lang="ro-RO" Type="Daylight">Ora de vară Australia de Est</Label>
+		<Label xml:lang="ro-RO" Type="Daylight">Ora de vară Australia de Est </Label>
 		<Label xml:lang="ru-RU" Type="Daylight">Сиднейское время (лето)</Label>
-		<Label xml:lang="sk-SK" Type="Daylight">Východoaustrálsky čas (letný)</Label>
+		<Label xml:lang="sk-SK" Type="Daylight">Východoaustrálsky čas (letný) </Label>
 		<Label xml:lang="sl-SI" Type="Daylight">Avstralski vzhodni poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Östra Australien, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาฝั่งต.อ.ตามฤดูกาลออสเตรเลีย</Label>
@@ -918,10 +938,18 @@
 		<Label xml:lang="uk-UA" Type="Daylight">Сіднейський час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">澳大利亚东部夏令时</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">澳洲東部日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Let/zim. vreme u ist. Australiji</Label>
+		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u ist. Australiji</Label>
 		<Info Bias="-10:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="March" Time="03:00:00">Last Sunday of March at 3:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="October" Time="02:00:00">Last Sunday of October at 2:00</Date>
+		</Info>
+		<Info Year="2007" Bias="-10:00:00">
+			<Date Type="Standard" Week="Last" Day="Sunday" Month="March" Time="03:00:00">Last Sunday of March at 3:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="October" Time="02:00:00">Last Sunday of October at 2:00</Date>
+		</Info>
+		<Info Year="2008" Bias="-10:00:00">
+			<Date Type="Standard" Week="First" Day="Sunday" Month="April" Time="03:00:00">First Sunday of April at 3:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Sunday" Month="October" Time="02:00:00">First Sunday of October at 2:00</Date>
 		</Info>
 	</TimeZone>
 	<TimeZone Name="AzerbaijanStandardTime">
@@ -1358,7 +1386,7 @@
 		<Label xml:lang="it-IT" Type="Daylight">ora legale Capo Verde</Label>
 		<Label xml:lang="ja-JP" Type="Daylight">カーボベルデ夏時間</Label>
 		<Label xml:lang="ko-KR" Type="Daylight">카보베르데 일광 절약 시간</Label>
-		<Label xml:lang="lt-LT" Type="Daylight">Žal. Kyšulio var. / žiem. laik.</Label>
+		<Label xml:lang="lt-LT" Type="Daylight">Žal. Kyšulio vas. / žiem. laik.</Label>
 		<Label xml:lang="lv-LV" Type="Daylight">Kaboverdes vasaras laiks</Label>
 		<Label xml:lang="nb-NO" Type="Daylight">Kapp Verdeøyene (sommertid)</Label>
 		<Label xml:lang="nl-NL" Type="Daylight">Kaapverdië (zomertijd)</Label>
@@ -1391,7 +1419,7 @@
 		<Label xml:lang="es-ES">(GMT+04:00) Ereván</Label>
 		<Label xml:lang="et-EE">(GMT+04:00) Jerevan</Label>
 		<Label xml:lang="fi-FI">(GMT+04:00) Jerevan</Label>
-		<Label xml:lang="fr-FR">(GMT+04:00) Baku, Erevan</Label>
+		<Label xml:lang="fr-FR">(GMT+04:00) Erevan</Label>
 		<Label xml:lang="he-IL">(GMT+04:00) ירוואן</Label>
 		<Label xml:lang="hr-HR">(GMT+04:00) Erevan</Label>
 		<Label xml:lang="hu-HU">(GMT+04:00) Jereván</Label>
@@ -1606,6 +1634,14 @@
 		<Info Bias="-09:30:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="March" Time="03:00:00">Last Sunday of March at 3:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="October" Time="02:00:00">Last Sunday of October at 2:00</Date>
+		</Info>
+		<Info Year="2007" Bias="-09:30:00">
+			<Date Type="Standard" Week="Last" Day="Sunday" Month="March" Time="03:00:00">Last Sunday of March at 3:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="October" Time="02:00:00">Last Sunday of October at 2:00</Date>
+		</Info>
+		<Info Year="2008" Bias="-09:30:00">
+			<Date Type="Standard" Week="First" Day="Sunday" Month="April" Time="03:00:00">First Sunday of April at 3:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Sunday" Month="October" Time="02:00:00">First Sunday of October at 2:00</Date>
 		</Info>
 	</TimeZone>
 	<TimeZone Name="CentralAmericaStandardTime">
@@ -1944,7 +1980,7 @@
 		<Label xml:lang="sr-Latn-CS" Type="Daylight">Centralnobraz. let/zimsko vreme</Label>
 		<Info Bias="04:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="February" Time="00:00:00">Last Sunday of February at 0:00</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Sunday" Month="November" Time="00:00:00">First Sunday of November at 0:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Second" Day="Sunday" Month="October" Time="00:00:00">Second Sunday of October at 0:00</Date>
 		</Info>
 		<Info Year="2006" Bias="04:00:00">
 			<Date Type="Standard" Week="Second" Day="Sunday" Month="February" Time="02:00:00">Second Sunday of February at 2:00</Date>
@@ -1952,7 +1988,11 @@
 		</Info>
 		<Info Year="2007" Bias="04:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="February" Time="00:00:00">Last Sunday of February at 0:00</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Sunday" Month="November" Time="00:00:00">First Sunday of November at 0:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Second" Day="Sunday" Month="October" Time="00:00:00">Second Sunday of October at 0:00</Date>
+		</Info>
+		<Info Year="2008" Bias="04:00:00">
+			<Date Type="Standard" Week="Third" Day="Sunday" Month="February" Time="00:00:00">Third Sunday of February at 0:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Second" Day="Sunday" Month="October" Time="00:00:00">Second Sunday of October at 0:00</Date>
 		</Info>
 	</TimeZone>
 	<TimeZone Name="CentralEuropeStandardTime">
@@ -2003,28 +2043,28 @@
 		<Label xml:lang="en-US" Type="Standard">Central Europe Standard Time</Label>
 		<Label xml:lang="es-ES" Type="Standard">Hora estándar Europa Central</Label>
 		<Label xml:lang="et-EE" Type="Standard">Kesk-Euroopa standardaeg</Label>
-		<Label xml:lang="fi-FI" Type="Standard">Keski-Euroopan  normaaliaika</Label>
+		<Label xml:lang="fi-FI" Type="Standard">Keski-Euroopan normaaliaika </Label>
 		<Label xml:lang="fr-FR" Type="Standard">Europe centrale</Label>
 		<Label xml:lang="he-IL" Type="Standard">שעון רגיל מרכז אירופה</Label>
-		<Label xml:lang="hr-HR" Type="Standard">Srednja Europa - st. vrij.</Label>
+		<Label xml:lang="hr-HR" Type="Standard">Srednja Europa - st. vrij. </Label>
 		<Label xml:lang="hu-HU" Type="Standard">Közép-európai téli idő</Label>
 		<Label xml:lang="it-IT" Type="Standard">ora solare Eur. Cen.</Label>
 		<Label xml:lang="ja-JP" Type="Standard">中央ヨーロッパ標準時</Label>
-		<Label xml:lang="ko-KR" Type="Standard">중앙 유럽 표준시</Label>
-		<Label xml:lang="lt-LT" Type="Standard">Standart. Vidurio Europos laikas</Label>
-		<Label xml:lang="lv-LV" Type="Standard">Centrāleiropas standarta laiks</Label>
+		<Label xml:lang="ko-KR" Type="Standard">중앙 유럽 표준시 </Label>
+		<Label xml:lang="lt-LT" Type="Standard">Stand. Vidurio Europos laikas</Label>
+		<Label xml:lang="lv-LV" Type="Standard">Centrāleiropas standarta laiks </Label>
 		<Label xml:lang="nb-NO" Type="Standard">Sentral-Europa (normaltid)</Label>
 		<Label xml:lang="nl-NL" Type="Standard">Centraal-Europa (standaardtijd)</Label>
 		<Label xml:lang="pl-PL" Type="Standard">Europa Środkowa (czas stand.)</Label>
 		<Label xml:lang="pt-BR" Type="Standard">Hora Padrão da Europa Central</Label>
 		<Label xml:lang="pt-PT" Type="Standard">Hora padrão da Europa Central</Label>
-		<Label xml:lang="ro-RO" Type="Standard">Europa Centrală, oră standard</Label>
+		<Label xml:lang="ro-RO" Type="Standard">Europa Centrală, oră standard </Label>
 		<Label xml:lang="ru-RU" Type="Standard">Центральная Европа (зима)</Label>
 		<Label xml:lang="sk-SK" Type="Standard">Stredoeurópsky čas (normálny)</Label>
 		<Label xml:lang="sl-SI" Type="Standard">Srednjeevropski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Centraleuropa, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลายุโรปกลางมาตรฐาน</Label>
-		<Label xml:lang="tr-TR" Type="Standard">Orta Avrupa Standart Saati</Label>
+		<Label xml:lang="tr-TR" Type="Standard">Orta Avrupa Standart Saati </Label>
 		<Label xml:lang="uk-UA" Type="Standard">Центральна Європа (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">中欧标准时间</Label>
 		<Label xml:lang="zh-TW" Type="Standard">中歐標準時間</Label>
@@ -2038,29 +2078,29 @@
 		<Label xml:lang="el-GR" Type="Daylight">Θερινή ώρα Κεντρικής Ευρώπης</Label>
 		<Label xml:lang="en-US" Type="Daylight">Central Europe Daylight Time</Label>
 		<Label xml:lang="es-ES" Type="Daylight">Hora de verano Europa Central</Label>
-		<Label xml:lang="et-EE" Type="Daylight">Kesk-Euroopa suveaeg</Label>
-		<Label xml:lang="fi-FI" Type="Daylight">Keski-Euroopan  kesäaika</Label>
+		<Label xml:lang="et-EE" Type="Daylight">Kesk-Euroopa suveaeg </Label>
+		<Label xml:lang="fi-FI" Type="Daylight">Keski-Euroopan kesäaika </Label>
 		<Label xml:lang="fr-FR" Type="Daylight">Europe centrale (heure d'été)</Label>
 		<Label xml:lang="he-IL" Type="Daylight">שעון קיץ מרכז אירופה</Label>
-		<Label xml:lang="hr-HR" Type="Daylight">Srednja Europa - ljet. vrij.</Label>
+		<Label xml:lang="hr-HR" Type="Daylight">Srednja Europa - ljet. vrij. </Label>
 		<Label xml:lang="hu-HU" Type="Daylight">Közép-európai nyári idő</Label>
 		<Label xml:lang="it-IT" Type="Daylight">ora legale Eur. Cen.</Label>
 		<Label xml:lang="ja-JP" Type="Daylight">中央ヨーロッパ夏時間</Label>
-		<Label xml:lang="ko-KR" Type="Daylight">중앙 유럽 일광 절약 시간</Label>
+		<Label xml:lang="ko-KR" Type="Daylight">중앙 유럽 일광 절약 시간 </Label>
 		<Label xml:lang="lt-LT" Type="Daylight">Vid. Europos vas. / žiem. laik.</Label>
-		<Label xml:lang="lv-LV" Type="Daylight">Centrāleiropas vasaras laiks</Label>
+		<Label xml:lang="lv-LV" Type="Daylight">Centrāleiropas vasaras laiks </Label>
 		<Label xml:lang="nb-NO" Type="Daylight">Sentral-Europa (sommertid)</Label>
 		<Label xml:lang="nl-NL" Type="Daylight">Centraal-Europa (zomertijd)</Label>
 		<Label xml:lang="pl-PL" Type="Daylight">Europa Środkowa (czas letni)</Label>
 		<Label xml:lang="pt-BR" Type="Daylight">Hor. de Verão da Europa Central</Label>
 		<Label xml:lang="pt-PT" Type="Daylight">Hora de Verão da Europa Central</Label>
-		<Label xml:lang="ro-RO" Type="Daylight">Europa Centrală, oră de vară</Label>
+		<Label xml:lang="ro-RO" Type="Daylight">Europa Centrală, oră de vară </Label>
 		<Label xml:lang="ru-RU" Type="Daylight">Центральная Европа (лето)</Label>
 		<Label xml:lang="sk-SK" Type="Daylight">Stredoeurópsky čas (letný)</Label>
-		<Label xml:lang="sl-SI" Type="Daylight">Srednjeevropski poletni čas</Label>
+		<Label xml:lang="sl-SI" Type="Daylight">Srednjeevropski poletni čas </Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Centraleuropa, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลายุโรปกลางตามฤดูกาล</Label>
-		<Label xml:lang="tr-TR" Type="Daylight">Orta Avrupa Yaz Saati</Label>
+		<Label xml:lang="tr-TR" Type="Daylight">Orta Avrupa Yaz Saati </Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Центральна Європа (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">中欧夏令时</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">中歐日光節約時間</Label>
@@ -2083,7 +2123,7 @@
 		<Label xml:lang="es-ES">(GMT+01:00) Sarajevo, Escopia, Varsovia, Zágreb</Label>
 		<Label xml:lang="et-EE">(GMT+01:00) Sarajevo, Skopje, Varssavi, Zagreb</Label>
 		<Label xml:lang="fi-FI">(GMT+01:00) Sarajevo, Skopje, Varsova, Zagreb</Label>
-		<Label xml:lang="fr-FR">(GMT+01:00) Sarajevo, Skoplje, Sofia, Varsovie, Zagreb</Label>
+		<Label xml:lang="fr-FR">(GMT+01:00) Sarajevo, Skopje, Varsovie, Zagreb</Label>
 		<Label xml:lang="he-IL">(GMT+01:00) סרייבו, סקופיה, ורשה, זאגרב</Label>
 		<Label xml:lang="hr-HR">(GMT+01:00) Sarajevo, Skoplje, Varšava, Zagreb</Label>
 		<Label xml:lang="hu-HU">(GMT+01:00) Szarajevó, Szkopje, Varsó, Zágráb</Label>
@@ -2154,7 +2194,7 @@
 		<Label xml:lang="en-US" Type="Daylight">Central European Daylight Time</Label>
 		<Label xml:lang="es-ES" Type="Daylight">Hora de verano centroeuropea</Label>
 		<Label xml:lang="et-EE" Type="Daylight">Kesk-Euroopa suveaeg</Label>
-		<Label xml:lang="fi-FI" Type="Daylight">Keski-Euroopan  kesäaika</Label>
+		<Label xml:lang="fi-FI" Type="Daylight">Keski-Euroopan kesäaika</Label>
 		<Label xml:lang="fr-FR" Type="Daylight">Centre de l'Europe (heure d'été)</Label>
 		<Label xml:lang="he-IL" Type="Daylight">שעון קיץ מרכז אירופי</Label>
 		<Label xml:lang="hr-HR" Type="Daylight">Srednja Europa - ljet. vrij.</Label>
@@ -2918,7 +2958,7 @@
 		<Label xml:lang="el-GR" Type="Standard">Χειμερινή ώρα Αν. Αυστραλίας</Label>
 		<Label xml:lang="en-US" Type="Standard">E. Australia Standard Time</Label>
 		<Label xml:lang="es-ES" Type="Standard">Hora est., Australia Oriental</Label>
-		<Label xml:lang="et-EE" Type="Standard">Lääne-Austraalia standardaeg</Label>
+		<Label xml:lang="et-EE" Type="Standard">Ida-Austraalia standardaeg</Label>
 		<Label xml:lang="fi-FI" Type="Standard">Itä-Australian normaaliaika</Label>
 		<Label xml:lang="fr-FR" Type="Standard">Australie (Est)</Label>
 		<Label xml:lang="he-IL" Type="Standard">שעון רגיל מזרח אוסטרליה</Label>
@@ -2996,7 +3036,7 @@
 		<Label xml:lang="es-ES">(GMT+02:00) Minsk</Label>
 		<Label xml:lang="et-EE">(GMT+02:00) Minsk</Label>
 		<Label xml:lang="fi-FI">(GMT+02:00) Minsk</Label>
-		<Label xml:lang="fr-FR">(GMT+02:00) Bucarest</Label>
+		<Label xml:lang="fr-FR">(GMT+02:00) Minsk</Label>
 		<Label xml:lang="he-IL">(GMT+02:00) מינסק</Label>
 		<Label xml:lang="hr-HR">(GMT+02:00) Minsk</Label>
 		<Label xml:lang="hu-HU">(GMT+02:00) Minszk</Label>
@@ -3034,7 +3074,7 @@
 		<Label xml:lang="fi-FI" Type="Standard">Itä-Euroopan normaaliaika</Label>
 		<Label xml:lang="fr-FR" Type="Standard">Europe de l'Est</Label>
 		<Label xml:lang="he-IL" Type="Standard">שעון רגיל מזרח אירופה</Label>
-		<Label xml:lang="hr-HR" Type="Standard">Istočna Europa - st. vrij.</Label>
+		<Label xml:lang="hr-HR" Type="Standard">Istočna Europa - st. vrij. </Label>
 		<Label xml:lang="hu-HU" Type="Standard">Kelet-európai téli idő</Label>
 		<Label xml:lang="it-IT" Type="Standard">ora solare Europa orientale</Label>
 		<Label xml:lang="ja-JP" Type="Standard">東ヨーロッパ標準時</Label>
@@ -3070,7 +3110,7 @@
 		<Label xml:lang="fi-FI" Type="Daylight">Itä-Euroopan kesäaika</Label>
 		<Label xml:lang="fr-FR" Type="Daylight">Europe de l'Est (heure d'été)</Label>
 		<Label xml:lang="he-IL" Type="Daylight">שעון קיץ מזרח אירופה</Label>
-		<Label xml:lang="hr-HR" Type="Daylight">Istočna Europa - ljet. vrij.</Label>
+		<Label xml:lang="hr-HR" Type="Daylight">Istočna Europa - ljet. vrij. </Label>
 		<Label xml:lang="hu-HU" Type="Daylight">Kelet-európai nyári idő</Label>
 		<Label xml:lang="it-IT" Type="Daylight">ora legale Europa orientale</Label>
 		<Label xml:lang="ja-JP" Type="Daylight">東ヨーロッパ夏時間</Label>
@@ -3141,15 +3181,15 @@
 		<Label xml:lang="bg-BG" Type="Standard">Изт. Южна Америка - станд. време</Label>
 		<Label xml:lang="cs-CZ" Type="Standard">Východ Jižní Ameriky, běžný čas</Label>
 		<Label xml:lang="da-DK" Type="Standard">Sydamerika (øst), normaltid</Label>
-		<Label xml:lang="de-DE" Type="Standard">Östl. Südamerika Normalzeit</Label>
-		<Label xml:lang="el-GR" Type="Standard">Χειμερ. ώρα Ανατ. Νότ. Αμερικής</Label>
+		<Label xml:lang="de-DE" Type="Standard">Östl. Südamerika Normalzeit </Label>
+		<Label xml:lang="el-GR" Type="Standard">Χειμερ. ώρα  Ανατ. Νότ. Αμερικής</Label>
 		<Label xml:lang="en-US" Type="Standard">E. South America Standard Time</Label>
 		<Label xml:lang="es-ES" Type="Standard">Hora estándar Sudamérica este</Label>
 		<Label xml:lang="et-EE" Type="Standard">E. Lõuna-Ameerika standardaeg</Label>
 		<Label xml:lang="fi-FI" Type="Standard">Itäisen Etelä-Am. vyöhyke</Label>
 		<Label xml:lang="fr-FR" Type="Standard">Amér. du Sud - Est</Label>
 		<Label xml:lang="he-IL" Type="Standard">שעון רגיל דרום אמריקה המזרחית</Label>
-		<Label xml:lang="hr-HR" Type="Standard">Istok Južne Amerike - st. vrij.</Label>
+		<Label xml:lang="hr-HR" Type="Standard">Istok Južne Amerike  - st. vrij.</Label>
 		<Label xml:lang="hu-HU" Type="Standard">Délkelet-amerikai téli idő</Label>
 		<Label xml:lang="it-IT" Type="Standard">ora solare SA Est</Label>
 		<Label xml:lang="ja-JP" Type="Standard">南アメリカ東部標準時</Label>
@@ -3171,21 +3211,21 @@
 		<Label xml:lang="uk-UA" Type="Standard">Східний Півд-Ам. час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">东部南美洲标准时间</Label>
 		<Label xml:lang="zh-TW" Type="Standard">東南美洲標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Ist. standar. vreme u J. Americi</Label>
+		<Label xml:lang="sr-Latn-CS" Type="Standard">Ist. stand. vreme u J. Americi</Label>
 		<Label xml:lang="en" Type="Daylight">E. South America Daylight Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">شرق جنوب أمريكا - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Изт. Южна Америка - лятно време</Label>
 		<Label xml:lang="cs-CZ" Type="Daylight">Východ Jižní Ameriky, letní čas</Label>
 		<Label xml:lang="da-DK" Type="Daylight">Sydamerika (øst), sommertid</Label>
-		<Label xml:lang="de-DE" Type="Daylight">Östl. Südamerika Sommerzeit</Label>
-		<Label xml:lang="el-GR" Type="Daylight">Θερινή ώρα Ανατ. Νότ. Αμερικής</Label>
+		<Label xml:lang="de-DE" Type="Daylight">Östl. Südamerika Sommerzeit </Label>
+		<Label xml:lang="el-GR" Type="Daylight">Θερινή ώρα Ανατ. Νότ. Αμερικής </Label>
 		<Label xml:lang="en-US" Type="Daylight">E. South America Daylight Time</Label>
 		<Label xml:lang="es-ES" Type="Daylight">Hora de verano Sudamérica este</Label>
 		<Label xml:lang="et-EE" Type="Daylight">E. Lõuna-Ameerika suveaeg</Label>
 		<Label xml:lang="fi-FI" Type="Daylight">Itäisen Etelä-Am. kesäaika</Label>
 		<Label xml:lang="fr-FR" Type="Daylight">Amér. du Sud - Est (heure d'été)</Label>
 		<Label xml:lang="he-IL" Type="Daylight">שעון קיץ דרום אמריקה המזרחית</Label>
-		<Label xml:lang="hr-HR" Type="Daylight">Istok Juž. Amerike - ljet. vrij.</Label>
+		<Label xml:lang="hr-HR" Type="Daylight">Istok Juž. Amer. - ljet. vrij.</Label>
 		<Label xml:lang="hu-HU" Type="Daylight">Délkelet-amerikai nyári idő</Label>
 		<Label xml:lang="it-IT" Type="Daylight">ora legale SA Est</Label>
 		<Label xml:lang="ja-JP" Type="Daylight">南アメリカ東部夏時間</Label>
@@ -3207,10 +3247,10 @@
 		<Label xml:lang="uk-UA" Type="Daylight">Східний Півд-Ам. час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">东部南美洲夏令时</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">東南美洲日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Ist. let/zim. vreme u J. Americi</Label>
+		<Label xml:lang="sr-Latn-CS" Type="Daylight">Ist. letnje vreme u J.Americi</Label>
 		<Info Bias="03:00:00">
-			<Date Type="Standard" Week="Second" Day="Sunday" Month="February" Time="02:00:00">Second Sunday of February at 2:00</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Sunday" Month="November" Time="00:00:00">First Sunday of November at 0:00</Date>
+			<Date Type="Standard" Week="Last" Day="Sunday" Month="February" Time="00:00:00">Last Sunday of February at 0:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Second" Day="Sunday" Month="October" Time="00:00:00">Second Sunday of October at 0:00</Date>
 		</Info>
 		<Info Year="2006" Bias="03:00:00">
 			<Date Type="Standard" Week="Second" Day="Sunday" Month="February" Time="02:00:00">Second Sunday of February at 2:00</Date>
@@ -3218,7 +3258,11 @@
 		</Info>
 		<Info Year="2007" Bias="03:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="February" Time="00:00:00">Last Sunday of February at 0:00</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Sunday" Month="November" Time="00:00:00">First Sunday of November at 0:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Second" Day="Sunday" Month="October" Time="00:00:00">Second Sunday of October at 0:00</Date>
+		</Info>
+		<Info Year="2008" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Sunday" Month="February" Time="00:00:00">Third Sunday of February at 0:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Second" Day="Sunday" Month="October" Time="00:00:00">Second Sunday of October at 0:00</Date>
 		</Info>
 	</TimeZone>
 	<TimeZone Name="EasternStandardTime">
@@ -3318,7 +3362,7 @@
 		<Label xml:lang="nb-NO" Type="Daylight">Østkysten (sommertid)</Label>
 		<Label xml:lang="nl-NL" Type="Daylight">Eastern (zomertijd)</Label>
 		<Label xml:lang="pl-PL" Type="Daylight">Wschodni czas letni</Label>
-		<Label xml:lang="pt-BR" Type="Daylight">Hor. de verão do leste dos EUA</Label>
+		<Label xml:lang="pt-BR" Type="Daylight">Hor. de verão do leste dos EUA </Label>
 		<Label xml:lang="pt-PT" Type="Daylight">Hora de Verão do Leste</Label>
 		<Label xml:lang="ro-RO" Type="Daylight">Oră de vară est</Label>
 		<Label xml:lang="ru-RU" Type="Daylight">Восточное время США (лето)</Label>
@@ -3455,8 +3499,20 @@
 		<Label xml:lang="zh-TW" Type="Daylight">埃及日光節約時間</Label>
 		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje/zimsko vreme u Egiptu</Label>
 		<Info Bias="-02:00:00">
+			<Date Type="Standard" Week="First" Day="Thursday" Month="September" Time="23:59:59">First Thursday of September at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Thursday" Month="April" Time="23:59:59">Last Thursday of April at 23:59:59</Date>
+		</Info>
+		<Info Year="2006" Bias="-02:00:00">
 			<Date Type="Standard" Week="Last" Day="Thursday" Month="September" Time="23:59:59">Last Thursday of September at 23:59:59</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Friday" Month="April" Time="00:00:00">Last Friday of April at 0:00</Date>
+		</Info>
+		<Info Year="2007" Bias="-02:00:00">
+			<Date Type="Standard" Week="First" Day="Thursday" Month="September" Time="23:59:59">First Thursday of September at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Thursday" Month="April" Time="23:59:59">Last Thursday of April at 23:59:59</Date>
+		</Info>
+		<Info Year="2008" Bias="-02:00:00">
+			<Date Type="Standard" Week="Last" Day="Thursday" Month="September" Time="23:59:59">Last Thursday of September at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Thursday" Month="April" Time="23:59:59">Last Thursday of April at 23:59:59</Date>
 		</Info>
 	</TimeZone>
 	<TimeZone Name="EkaterinburgStandardTime">
@@ -3957,7 +4013,7 @@
 		<Label xml:lang="cs-CZ" Type="Standard">Střední čas (běžný čas)</Label>
 		<Label xml:lang="da-DK" Type="Standard">GMT, normaltid</Label>
 		<Label xml:lang="de-DE" Type="Standard">Westeuropäische Zeit</Label>
-		<Label xml:lang="el-GR" Type="Standard">Χειμερινή ώρα Γκρίνουιτς</Label>
+		<Label xml:lang="el-GR" Type="Standard">Χειμερινή ώρα Γκρίνουιτς </Label>
 		<Label xml:lang="en-US" Type="Standard">GMT Standard Time</Label>
 		<Label xml:lang="es-ES" Type="Standard">Hora estándar GMT</Label>
 		<Label xml:lang="et-EE" Type="Standard">GMT standardaeg</Label>
@@ -3993,7 +4049,7 @@
 		<Label xml:lang="cs-CZ" Type="Daylight">Střední čas (letní čas)</Label>
 		<Label xml:lang="da-DK" Type="Daylight">GMT, sommertid</Label>
 		<Label xml:lang="de-DE" Type="Daylight">Westeuropäische Sommerzeit</Label>
-		<Label xml:lang="el-GR" Type="Daylight">Θερινή ώρα Γκρίνουιτς</Label>
+		<Label xml:lang="el-GR" Type="Daylight">Θερινή ώρα Γκρίνουιτς </Label>
 		<Label xml:lang="en-US" Type="Daylight">GMT Daylight Time</Label>
 		<Label xml:lang="es-ES" Type="Daylight">Hora de verano GMT</Label>
 		<Label xml:lang="et-EE" Type="Daylight">GMT suveaeg</Label>
@@ -4010,7 +4066,7 @@
 		<Label xml:lang="nb-NO" Type="Daylight">BST (Britisk sommertid)</Label>
 		<Label xml:lang="nl-NL" Type="Daylight">GMT (zomertijd)</Label>
 		<Label xml:lang="pl-PL" Type="Daylight">GMT (czas letni)</Label>
-		<Label xml:lang="pt-BR" Type="Daylight">Horário de Verão de Greenwich</Label>
+		<Label xml:lang="pt-BR" Type="Daylight">Horário de Verão de Greenwich </Label>
 		<Label xml:lang="pt-PT" Type="Daylight">Hora de Verão de GMT</Label>
 		<Label xml:lang="ro-RO" Type="Daylight">GMT, oră de vară</Label>
 		<Label xml:lang="ru-RU" Type="Daylight">GMT - время по Гринвичу (лето)</Label>
@@ -4156,7 +4212,7 @@
 		<Label xml:lang="es-ES">(GMT) Casablanca, Monrovia, Reykjavik</Label>
 		<Label xml:lang="et-EE">(GMT) Casablanca, Monrovia, Reykjavik</Label>
 		<Label xml:lang="fi-FI">(GMT) Casablanca, Monrovia, Reykjavik</Label>
-		<Label xml:lang="fr-FR">(GMT) Casablanca, Monrovia</Label>
+		<Label xml:lang="fr-FR">(GMT) Casablanca, Monrovia, Reykjavik</Label>
 		<Label xml:lang="he-IL">(GMT) קזבלנקה, מונרוביה, ריקיאוויק</Label>
 		<Label xml:lang="hr-HR">(GMT) Casablanca, Monrovia, Reykjavik</Label>
 		<Label xml:lang="hu-HU">(GMT) Casablanca, Monrovia, Reykjavík</Label>
@@ -4268,7 +4324,7 @@
 		<Label xml:lang="es-ES">(GMT+02:00) Atenas, Bucarest, Estambul</Label>
 		<Label xml:lang="et-EE">(GMT+02:00) Ateena, Bukarest, Istanbul</Label>
 		<Label xml:lang="fi-FI">(GMT+02:00) Ateena, Bukarest, Istanbul</Label>
-		<Label xml:lang="fr-FR">(GMT+02:00) Athènes, Beyrouth, Istanbul, Minsk</Label>
+		<Label xml:lang="fr-FR">(GMT+02:00) Athènes, Bucarest, Istanbul</Label>
 		<Label xml:lang="he-IL">(GMT+02:00) אתונה, בוקרשט, איסטנבול</Label>
 		<Label xml:lang="hr-HR">(GMT+02:00) Atena, Bukurešt, Istambul</Label>
 		<Label xml:lang="hu-HU">(GMT+02:00) Athén, Bukarest, Isztambul</Label>
@@ -4306,7 +4362,7 @@
 		<Label xml:lang="fi-FI" Type="Standard">GT-normaaliaika</Label>
 		<Label xml:lang="fr-FR" Type="Standard">GTB</Label>
 		<Label xml:lang="he-IL" Type="Standard">שעון רגיל GTB</Label>
-		<Label xml:lang="hr-HR" Type="Standard">Istočni Mediteran - ljet. vrij.</Label>
+		<Label xml:lang="hr-HR" Type="Standard">Istočni Mediteran - st. vrij.</Label>
 		<Label xml:lang="hu-HU" Type="Standard">GTB téli idő</Label>
 		<Label xml:lang="it-IT" Type="Standard">ora solare GTB</Label>
 		<Label xml:lang="ja-JP" Type="Standard">GTB 標準時</Label>
@@ -4495,7 +4551,7 @@
 		<Label xml:lang="es-ES">(GMT+05:30) Chennai, Kolkhata (Calcuta), Mumbai (Bombay), Nueva Delhi</Label>
 		<Label xml:lang="et-EE">(GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi</Label>
 		<Label xml:lang="fi-FI">(GMT+05:30) Kalkutta, Chennai, Mumbai, New Delhi</Label>
-		<Label xml:lang="fr-FR">(GMT+05:30) Calcutta, Chennai, Mumbai,New Delhi</Label>
+		<Label xml:lang="fr-FR">(GMT+05:30) Calcutta, Chennai, Mumbai, New Delhi</Label>
 		<Label xml:lang="he-IL">(GMT+05:30) צ'נאי, קולקאטה, מומביי, ניו דלהי</Label>
 		<Label xml:lang="hr-HR">(GMT+05:30) Chennai, Calcuta, Bombay, New Delhi</Label>
 		<Label xml:lang="hu-HU">(GMT+05:30) Chennai, Kolkata, Mumbai, Új-Delhi</Label>
@@ -4614,7 +4670,7 @@
 		<Label xml:lang="it-IT">(GMT+3.30) Teheran</Label>
 		<Label xml:lang="ja-JP">(GMT+03:30) テヘラン</Label>
 		<Label xml:lang="ko-KR">(GMT+03:30) 테헤란</Label>
-		<Label xml:lang="lt-LT">(GMT+03:00) Teheranas</Label>
+		<Label xml:lang="lt-LT">(GMT+03:30) Teheranas</Label>
 		<Label xml:lang="lv-LV">(GMT+03:30) Teherāna</Label>
 		<Label xml:lang="nb-NO">(GMT+03:30) Teheran</Label>
 		<Label xml:lang="nl-NL">(GMT+03:30) Teheran</Label>
@@ -5376,7 +5432,7 @@
 		<Label xml:lang="et-EE">(GMT-03:00) Montevideo</Label>
 		<Label xml:lang="fi-FI">(GMT-03:00) Montevideo</Label>
 		<Label xml:lang="fr-FR">(GMT-03:00) Montevideo</Label>
-		<Label xml:lang="he-IL">(GMT-03:00) מוטווידאו</Label>
+		<Label xml:lang="he-IL">(GMT-03:00) מונטווידאו</Label>
 		<Label xml:lang="hr-HR">(GMT-03:00) Montevideo</Label>
 		<Label xml:lang="hu-HU">(GMT-03:00) Montevideo</Label>
 		<Label xml:lang="it-IT">(GMT-3.00) Montevideo</Label>
@@ -5411,8 +5467,8 @@
 		<Label xml:lang="es-ES" Type="Standard">Hora estándar de Montevideo</Label>
 		<Label xml:lang="et-EE" Type="Standard">Montevideo standardaeg</Label>
 		<Label xml:lang="fi-FI" Type="Standard">Montevideon normaaliaika</Label>
-		<Label xml:lang="fr-FR" Type="Standard">Montevideo</Label>
-		<Label xml:lang="he-IL" Type="Standard">זמן סטנדרטי מונטווידאו</Label>
+		<Label xml:lang="fr-FR" Type="Standard">Montevideo (heure d’hiver)</Label>
+		<Label xml:lang="he-IL" Type="Standard">שעון סטנדרטי מונטווידאו</Label>
 		<Label xml:lang="hr-HR" Type="Standard">Montevideo - st. vrij.</Label>
 		<Label xml:lang="hu-HU" Type="Standard">Montevideoi téli idő</Label>
 		<Label xml:lang="it-IT" Type="Standard">ora solare Montevideo</Label>
@@ -5447,7 +5503,7 @@
 		<Label xml:lang="es-ES" Type="Daylight">Hora de verano de Montevideo</Label>
 		<Label xml:lang="et-EE" Type="Daylight">Montevideo suveaeg</Label>
 		<Label xml:lang="fi-FI" Type="Daylight">Montevideon kesäaika</Label>
-		<Label xml:lang="fr-FR" Type="Daylight">Montevideo (heure d'été)</Label>
+		<Label xml:lang="fr-FR" Type="Daylight">Montevideo (heure d’été)</Label>
 		<Label xml:lang="he-IL" Type="Daylight">שעון קיץ מונטווידאו</Label>
 		<Label xml:lang="hr-HR" Type="Daylight">Montevideo - ljet. vrij.</Label>
 		<Label xml:lang="hu-HU" Type="Daylight">Montevideoi nyári idő</Label>
@@ -6324,7 +6380,7 @@
 		<Label xml:lang="it-IT">(GMT-3.30) Terranova</Label>
 		<Label xml:lang="ja-JP">(GMT-03:30) ニューファンドランド</Label>
 		<Label xml:lang="ko-KR">(GMT-03:30) 뉴펀들랜드</Label>
-		<Label xml:lang="lt-LT">(GMT - 03:00) Niufaundlendas</Label>
+		<Label xml:lang="lt-LT">(GMT - 03:30) Niufaundlendas</Label>
 		<Label xml:lang="lv-LV">(GMT-03:30) Ņūfaundlenda</Label>
 		<Label xml:lang="nb-NO">(GMT-03:30) Newfoundland</Label>
 		<Label xml:lang="nl-NL">(GMT-03:30) Newfoundland</Label>
@@ -6338,7 +6394,7 @@
 		<Label xml:lang="sv-SE">(GMT-03:30) Newfoundland</Label>
 		<Label xml:lang="th-TH">(GMT-03:30) นิวฟันด์แลนด์</Label>
 		<Label xml:lang="tr-TR">(GMT-03:30) Newfoundland</Label>
-		<Label xml:lang="uk-UA">(GMT-03:00) Ньюфаундленд</Label>
+		<Label xml:lang="uk-UA">(GMT-03:30) Ньюфаундленд</Label>
 		<Label xml:lang="zh-CN">(GMT-03:30) 纽芬兰</Label>
 		<Label xml:lang="zh-TW">(GMT-03:30) 紐芬蘭</Label>
 		<Label xml:lang="sr-Latn-CS">(GMT-03:30) Njufaundlend</Label>
@@ -6486,7 +6542,7 @@
 		<Label xml:lang="lt-LT" Type="Standard">Stand. šiaurės Azijos rytų laik.</Label>
 		<Label xml:lang="lv-LV" Type="Standard">Ziemeļāz. austrumu stand. laiks</Label>
 		<Label xml:lang="nb-NO" Type="Standard">Nord-Asia, øst (normaltid)</Label>
-		<Label xml:lang="nl-NL" Type="Standard">North Asia East (zomertijd)</Label>
+		<Label xml:lang="nl-NL" Type="Standard">North Asia East (standaardtijd)</Label>
 		<Label xml:lang="pl-PL" Type="Standard">Azja Płn. (wschodni czas stand.)</Label>
 		<Label xml:lang="pt-BR" Type="Standard">Hora Padrão do noroeste da Ásia</Label>
 		<Label xml:lang="pt-PT" Type="Standard">Hora padrão no Noroeste da Ásia</Label>
@@ -6591,7 +6647,7 @@
 		<Label xml:lang="es-ES" Type="Standard">Hora estándar de Asia Norte</Label>
 		<Label xml:lang="et-EE" Type="Standard">Põhja-Aasia standardaeg</Label>
 		<Label xml:lang="fi-FI" Type="Standard">Pohjois-Aasian normaaliaika</Label>
-		<Label xml:lang="fr-FR" Type="Standard">Asie du nord</Label>
+		<Label xml:lang="fr-FR" Type="Standard">Asie du Nord</Label>
 		<Label xml:lang="he-IL" Type="Standard">שעון רגיל צפון אסיה</Label>
 		<Label xml:lang="hr-HR" Type="Standard">Sjeverna Azija - st. vrij.</Label>
 		<Label xml:lang="hu-HU" Type="Standard">Észak-ázsiai téli idő</Label>
@@ -6627,7 +6683,7 @@
 		<Label xml:lang="es-ES" Type="Daylight">Hora de verano de Asia Norte</Label>
 		<Label xml:lang="et-EE" Type="Daylight">Põhja-Aasia suveaeg</Label>
 		<Label xml:lang="fi-FI" Type="Daylight">Pohjois-Aasian kesäaika</Label>
-		<Label xml:lang="fr-FR" Type="Daylight">Asie du nord (h. d'été)</Label>
+		<Label xml:lang="fr-FR" Type="Daylight">Asie du Nord (heure d'été)</Label>
 		<Label xml:lang="he-IL" Type="Daylight">שעון קיץ צפון אסיה</Label>
 		<Label xml:lang="hr-HR" Type="Daylight">Sjeverna Azija - ljet. vrij.</Label>
 		<Label xml:lang="hu-HU" Type="Daylight">Észak-ázsiai nyári idő</Label>
@@ -6701,11 +6757,11 @@
 		<Label xml:lang="cs-CZ" Type="Standard">Tichomoří Jižní Am. (běžný čas)</Label>
 		<Label xml:lang="da-DK" Type="Standard">Sydamerika (St.havet) normaltid</Label>
 		<Label xml:lang="de-DE" Type="Standard">Chilenische Normalzeit</Label>
-		<Label xml:lang="el-GR" Type="Standard">Χειμερινή ώρα Ειρηνικού Ν.Α.</Label>
+		<Label xml:lang="el-GR" Type="Standard">Χειμερινή ώρα Ειρηνικού Ν.Α. </Label>
 		<Label xml:lang="en-US" Type="Standard">Pacific SA Standard Time</Label>
 		<Label xml:lang="es-ES" Type="Standard">Hora est. Sudamérica Pacífico</Label>
 		<Label xml:lang="et-EE" Type="Standard">Vaikse ookeani SA standardaeg</Label>
-		<Label xml:lang="fi-FI" Type="Standard">Etelä-Am. Tyynenmeren norm.aika</Label>
+		<Label xml:lang="fi-FI" Type="Standard">Etelä-Am. Tyynenmeren norm. aika</Label>
 		<Label xml:lang="fr-FR" Type="Standard">Amér. du Sud Pacif(heure d'été)</Label>
 		<Label xml:lang="he-IL" Type="Standard">שעון רגיל ד. אמריקה האוק' השקט</Label>
 		<Label xml:lang="hr-HR" Type="Standard">Pacif. Juž. Amerika - st. vrij.</Label>
@@ -6720,7 +6776,7 @@
 		<Label xml:lang="pl-PL" Type="Standard">Stand. czas pacyficzny (Am. Pd.)</Label>
 		<Label xml:lang="pt-BR" Type="Standard">Horário padrão - Pacífico</Label>
 		<Label xml:lang="pt-PT" Type="Standard">Hora padrão do Pacífico da AS</Label>
-		<Label xml:lang="ro-RO" Type="Standard">Am. de S, Pacific, oră standard</Label>
+		<Label xml:lang="ro-RO" Type="Standard">Am. de S, Pacific, oră standard </Label>
 		<Label xml:lang="ru-RU" Type="Standard">Тихоокеанское Ю-Ам. вр. (зима)</Label>
 		<Label xml:lang="sk-SK" Type="Standard">J. Amerika - tich. č. (norm.)</Label>
 		<Label xml:lang="sl-SI" Type="Standard">Pacifiški južnoam. stand. čas</Label>
@@ -6730,21 +6786,21 @@
 		<Label xml:lang="uk-UA" Type="Standard">Півд. Азія, тихоокеан. час(зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">太平洋南美洲标准时间</Label>
 		<Label xml:lang="zh-TW" Type="Standard">太平洋 SA 標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Pacif. stand. vreme u J. Americi</Label>
+		<Label xml:lang="sr-Latn-CS" Type="Standard">Pacif. stand. vreme u J.Americi</Label>
 		<Label xml:lang="en" Type="Daylight">Pacific SA Daylight Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">الباسيفيكي SA - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Тихоокеанска ЮА - лятно време</Label>
 		<Label xml:lang="cs-CZ" Type="Daylight">Tichomoří Jižní Am. (letní čas)</Label>
 		<Label xml:lang="da-DK" Type="Daylight">Sydamerika (St.havet) sommertid</Label>
 		<Label xml:lang="de-DE" Type="Daylight">Chilenische Sommerzeit</Label>
-		<Label xml:lang="el-GR" Type="Daylight">Θερινή ώρα Ειρηνικού Ν.Α.</Label>
+		<Label xml:lang="el-GR" Type="Daylight">Θερινή ώρα Ειρηνικού Ν.Α. </Label>
 		<Label xml:lang="en-US" Type="Daylight">Pacific SA Daylight Time</Label>
 		<Label xml:lang="es-ES" Type="Daylight">Hora de ver. Sudamérica Pacífico</Label>
 		<Label xml:lang="et-EE" Type="Daylight">Vaikse ookeani SA suveaeg</Label>
-		<Label xml:lang="fi-FI" Type="Daylight">Etelä-Am. Tyynenmeren kesäaika</Label>
+		<Label xml:lang="fi-FI" Type="Daylight">Etelä-Am. Tyynenmeren kesäaika </Label>
 		<Label xml:lang="fr-FR" Type="Daylight">Amér. du Sud Pacif</Label>
 		<Label xml:lang="he-IL" Type="Daylight">שעון קיץ ד. אמריקה האוק' השקט</Label>
-		<Label xml:lang="hr-HR" Type="Daylight">Pacif. Juž. Amer. - ljet. vrij.</Label>
+		<Label xml:lang="hr-HR" Type="Daylight">Pacif. Juž. Amer. -  ljet. vrij.</Label>
 		<Label xml:lang="hu-HU" Type="Daylight">Csendes-óceáni nyári idő</Label>
 		<Label xml:lang="it-IT" Type="Daylight">ora legale SA Pacifico</Label>
 		<Label xml:lang="ja-JP" Type="Daylight">太平洋南アメリカ夏時間</Label>
@@ -6756,7 +6812,7 @@
 		<Label xml:lang="pl-PL" Type="Daylight">Letni czas pacyficzny (Am. Pd.)</Label>
 		<Label xml:lang="pt-BR" Type="Daylight">Horário de Verão - Pacífico</Label>
 		<Label xml:lang="pt-PT" Type="Daylight">Hora de Verão do Pacífico da AS</Label>
-		<Label xml:lang="ro-RO" Type="Daylight">Am. de S, Pacific, oră de vară</Label>
+		<Label xml:lang="ro-RO" Type="Daylight">Am. de S, Pacific,  oră de vară</Label>
 		<Label xml:lang="ru-RU" Type="Daylight">Тихоокеанское Ю-Ам. вр. (лето)</Label>
 		<Label xml:lang="sk-SK" Type="Daylight">J. Amerika - tichom. čas (letný)</Label>
 		<Label xml:lang="sl-SI" Type="Daylight">Pacifiški južnoam. poletni čas</Label>
@@ -7365,7 +7421,7 @@
 		<Label xml:lang="es-ES">(GMT-05:00) Bogotá, Lima, Quito, Rio Branco</Label>
 		<Label xml:lang="et-EE">(GMT-05:00) Bogota, Lima, Quito, Rio Branco</Label>
 		<Label xml:lang="fi-FI">(GMT-05:00) Bogota, Lima, Quito, Rio Branco</Label>
-		<Label xml:lang="fr-FR">(GMT-05:00) Bogota, Lima, Quito</Label>
+		<Label xml:lang="fr-FR">(GMT-05:00) Bogota, Lima, Quito, Rio Branco</Label>
 		<Label xml:lang="he-IL">(GMT-05:00) בוגוטה, לימה, קיטו, ריו ברנקו</Label>
 		<Label xml:lang="hr-HR">(GMT-05:00) Bogota, Lima, Quito, Rio Branco</Label>
 		<Label xml:lang="hu-HU">(GMT-05:00) Bogota, Lima, Quito, Rio Branco</Label>
@@ -7466,114 +7522,114 @@
 	</TimeZone>
 	<TimeZone Name="SAWesternStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\SA Western Standard Time">SA Western Standard Time</Link>
-		<Label xml:lang="en">(GMT-04:00) Caracas, La Paz</Label>
-		<Label xml:lang="ar-SA">(GMT-04:00) كارا كاس، لاباز</Label>
-		<Label xml:lang="bg-BG">(GMT-04:00) Каракас, Ла Пас</Label>
-		<Label xml:lang="cs-CZ">(GMT-04:00) Caracas, La Paz</Label>
-		<Label xml:lang="da-DK">(GMT-04:00) Caracas, La Paz</Label>
-		<Label xml:lang="de-DE">(GMT-04:00) Caracas, La Paz</Label>
-		<Label xml:lang="el-GR">(Γκρίνουιτς-04:00) Καράκας, Λα Παζ</Label>
-		<Label xml:lang="en-US">(UTC-04:00) Caracas, La Paz</Label>
-		<Label xml:lang="es-ES">(GMT-04:00) Caracas, La Paz</Label>
-		<Label xml:lang="et-EE">(GMT-04:00) Caracas, La Paz</Label>
-		<Label xml:lang="fi-FI">(GMT-04:00) Caracas, La Paz</Label>
-		<Label xml:lang="fr-FR">(GMT-04:00) Caracas, La Paz</Label>
-		<Label xml:lang="he-IL">(GMT-04:00) קראקאס, לה פאז</Label>
-		<Label xml:lang="hr-HR">(GMT-04:00) Caracas, La Paz</Label>
-		<Label xml:lang="hu-HU">(GMT-04:00) Caracas, La Paz</Label>
-		<Label xml:lang="it-IT">(GMT-4.00) Caracas, La Paz</Label>
-		<Label xml:lang="ja-JP">(GMT-04:00) カラカス、ラパス</Label>
-		<Label xml:lang="ko-KR">(GMT-04:00) 카라카스, 라파스</Label>
-		<Label xml:lang="lt-LT">(GMT - 04:00) Karakasas, La Pasas</Label>
-		<Label xml:lang="lv-LV">(GMT-04:00) Karakasa, Lapasa</Label>
-		<Label xml:lang="nb-NO">(GMT-04:00) Caracas, La Paz</Label>
-		<Label xml:lang="nl-NL">(GMT-04:00) Caracas, La Paz</Label>
-		<Label xml:lang="pl-PL">(GMT-04:00) Caracas, La Paz</Label>
-		<Label xml:lang="pt-BR">(GMT-04:00) Caracas, La Paz</Label>
-		<Label xml:lang="pt-PT">(GMT-04:00) Caracas, La Paz</Label>
-		<Label xml:lang="ro-RO">(GMT-04:00) Caracas, La Paz</Label>
-		<Label xml:lang="ru-RU">(UTC-04:00) Каракас, Ла-Пас</Label>
-		<Label xml:lang="sk-SK">(GMT-04:00) Caracas, La Paz</Label>
-		<Label xml:lang="sl-SI">(GMT-04:00) Caracas, La Paz</Label>
-		<Label xml:lang="sv-SE">(GMT-04:00) Caracas, La Paz</Label>
-		<Label xml:lang="th-TH">(GMT-04:00) คารากัส ลาปาซ</Label>
-		<Label xml:lang="tr-TR">(GMT-04:00) Karacas, La Paz</Label>
-		<Label xml:lang="uk-UA">(GMT-04:00) Каракас, Ла-Пас</Label>
-		<Label xml:lang="zh-CN">(GMT-04:00) 加拉加斯，拉巴斯</Label>
-		<Label xml:lang="zh-TW">(GMT-04:00) 卡拉卡斯，拉帕茲</Label>
-		<Label xml:lang="sr-Latn-CS">(GMT-04:00) Karakas, La Paz</Label>
+		<Label xml:lang="en">(GMT-04:00) La Paz</Label>
+		<Label xml:lang="ar-SA">(GMT-04:00) لاباز</Label>
+		<Label xml:lang="bg-BG">(GMT-04:00) Ла Пас</Label>
+		<Label xml:lang="cs-CZ">(GMT-04:00) La Paz</Label>
+		<Label xml:lang="da-DK">(GMT-04:00) La Paz</Label>
+		<Label xml:lang="de-DE">(GMT-04:00) La Paz</Label>
+		<Label xml:lang="el-GR">(Γκρίνουιτς-04:00) Λα Παζ</Label>
+		<Label xml:lang="en-US">(UTC-04:00) La Paz</Label>
+		<Label xml:lang="es-ES">(GMT-04:00) La Paz</Label>
+		<Label xml:lang="et-EE">(GMT-04:00) La Paz</Label>
+		<Label xml:lang="fi-FI">(GMT-04:00) La Paz</Label>
+		<Label xml:lang="fr-FR">(GMT-04:00) La Paz</Label>
+		<Label xml:lang="he-IL">(GMT-04:00) לה פאס</Label>
+		<Label xml:lang="hr-HR">(GMT-04:00) La Paz</Label>
+		<Label xml:lang="hu-HU">(GMT-04:00) La Paz</Label>
+		<Label xml:lang="it-IT">(GMT-04:00) La Paz</Label>
+		<Label xml:lang="ja-JP">(GMT-04:00) ラパス</Label>
+		<Label xml:lang="ko-KR">(GMT-04:00) 라파스</Label>
+		<Label xml:lang="lt-LT">(GMT-04:00) La Pasas</Label>
+		<Label xml:lang="lv-LV">(GMT-04:00) Lapasa</Label>
+		<Label xml:lang="nb-NO">(GMT-04:00) La Paz</Label>
+		<Label xml:lang="nl-NL">(GMT-04:00) La Paz</Label>
+		<Label xml:lang="pl-PL">(GMT-04:00) La Paz</Label>
+		<Label xml:lang="pt-BR">(GMT-04:00) La Paz</Label>
+		<Label xml:lang="pt-PT">(GMT-04:00) La Paz</Label>
+		<Label xml:lang="ro-RO">(GMT-04:00) La Paz</Label>
+		<Label xml:lang="ru-RU">(UTC-04:00) Ла-Пас</Label>
+		<Label xml:lang="sk-SK">(GMT-04:00) La Paz</Label>
+		<Label xml:lang="sl-SI">(GMT-04:00) La Paz</Label>
+		<Label xml:lang="sv-SE">(GMT-04:00) La Paz</Label>
+		<Label xml:lang="th-TH">(GMT-04:00) ลาปาซ</Label>
+		<Label xml:lang="tr-TR">(GMT-04:00) La Paz</Label>
+		<Label xml:lang="uk-UA">(GMT-04:00) Ла Пас</Label>
+		<Label xml:lang="zh-CN">(GMT-04:00) 拉巴斯</Label>
+		<Label xml:lang="zh-TW">(GMT-04:00) 拉巴斯</Label>
+		<Label xml:lang="sr-Latn-CS">(GMT-04:00) La Paz</Label>
 		<Label xml:lang="en" Type="Standard">SA Western Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">غرب SA - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Западна ЮА - стандартно време</Label>
 		<Label xml:lang="cs-CZ" Type="Standard">Západní J. Amerika (běžný čas)</Label>
 		<Label xml:lang="da-DK" Type="Standard">Sydamerika (vest), normaltid</Label>
 		<Label xml:lang="de-DE" Type="Standard">Mittl. Südamerika Normalzeit</Label>
-		<Label xml:lang="el-GR" Type="Standard">Χειμερινή ώρα Δυτ. Νότ. Αμερικής</Label>
+		<Label xml:lang="el-GR" Type="Standard">Χειμερινή ώρα ΝΔ Αμερικής</Label>
 		<Label xml:lang="en-US" Type="Standard">SA Western Standard Time</Label>
 		<Label xml:lang="es-ES" Type="Standard">Hora estándar oeste, Sudamérica</Label>
 		<Label xml:lang="et-EE" Type="Standard">L-Am. lääneosa standardaeg</Label>
-		<Label xml:lang="fi-FI" Type="Standard">Etelä-Am. läntinen vyöhyke</Label>
+		<Label xml:lang="fi-FI" Type="Standard">Etelä-Am. läntinen normaaliaika</Label>
 		<Label xml:lang="fr-FR" Type="Standard">Amér. du Sud occid.</Label>
-		<Label xml:lang="he-IL" Type="Standard">שעון רגיל מערב דרום אמריקה</Label>
-		<Label xml:lang="hr-HR" Type="Standard">Zapad Južne Amerike - st. vrij.</Label>
+		<Label xml:lang="he-IL" Type="Standard">שעון סטנדרטי מערבי ד"א</Label>
+		<Label xml:lang="hr-HR" Type="Standard">Juž. Am. - zap. - stand.vrijeme</Label>
 		<Label xml:lang="hu-HU" Type="Standard">Dél-amerikai nyugati téli idő</Label>
 		<Label xml:lang="it-IT" Type="Standard">ora solare SA Ovest</Label>
 		<Label xml:lang="ja-JP" Type="Standard">南アメリカ西部標準時</Label>
 		<Label xml:lang="ko-KR" Type="Standard">SA 서부 표준시</Label>
-		<Label xml:lang="lt-LT" Type="Standard">Standartinis Vakarų SA laikas</Label>
-		<Label xml:lang="lv-LV" Type="Standard">DA rietumu joslas stand. laiks</Label>
+		<Label xml:lang="lt-LT" Type="Standard">Vakarų SA standartinis laikas</Label>
+		<Label xml:lang="lv-LV" Type="Standard">SA Western Standard Time</Label>
 		<Label xml:lang="nb-NO" Type="Standard">Sør-Amerika, vest (normaltid)</Label>
-		<Label xml:lang="nl-NL" Type="Standard">SA Western (standaardtijd)</Label>
+		<Label xml:lang="nl-NL" Type="Standard">SA Western (wintertijd)</Label>
 		<Label xml:lang="pl-PL" Type="Standard">Ameryka Pd (zach. czas stand.)</Label>
-		<Label xml:lang="pt-BR" Type="Standard">Hora Padrão de Caracas</Label>
-		<Label xml:lang="pt-PT" Type="Standard">Hora padrão do Oeste da AS</Label>
-		<Label xml:lang="ro-RO" Type="Standard">Am. de S, oră standard vest</Label>
+		<Label xml:lang="pt-BR" Type="Standard">Hora Padrão do Oeste da AS</Label>
+		<Label xml:lang="pt-PT" Type="Standard">Hora Padrão do Oeste da AS</Label>
+		<Label xml:lang="ro-RO" Type="Standard">Am. de Sud, ora standard vest</Label>
 		<Label xml:lang="ru-RU" Type="Standard">Ю-Ам. западное время (зима)</Label>
-		<Label xml:lang="sk-SK" Type="Standard">Južná Amerika - západ (normálny)</Label>
+		<Label xml:lang="sk-SK" Type="Standard">Západný bežný čas SA</Label>
 		<Label xml:lang="sl-SI" Type="Standard">Južnoameriški zah. stand. čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Västra Sydamerika, normaltid</Label>
-		<Label xml:lang="th-TH" Type="Standard">เวลาฝั่งต.ต.มาตรฐานของอเมริกาใต้</Label>
-		<Label xml:lang="tr-TR" Type="Standard">Gün. Amerika Batı Standart Saat</Label>
+		<Label xml:lang="th-TH" Type="Standard">SA Western Standard Time</Label>
+		<Label xml:lang="tr-TR" Type="Standard">GA Batı Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Півд.-Ам. західний час (зима)</Label>
-		<Label xml:lang="zh-CN" Type="Standard">南美洲西部标准时间</Label>
+		<Label xml:lang="zh-CN" Type="Standard">南美州西部标准时间</Label>
 		<Label xml:lang="zh-TW" Type="Standard">南美洲西部標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Zap. standar. vreme u J. Americi</Label>
+		<Label xml:lang="sr-Latn-CS" Type="Standard">Stand. vreme u zap. J. Americi</Label>
 		<Label xml:lang="en" Type="Daylight">SA Western Daylight Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">غرب SA - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Западна ЮА - лятно време</Label>
 		<Label xml:lang="cs-CZ" Type="Daylight">Západní J. Amerika (letní čas)</Label>
 		<Label xml:lang="da-DK" Type="Daylight">Sydamerika (vest), sommertid</Label>
 		<Label xml:lang="de-DE" Type="Daylight">Mittl. Südamerika Sommerzeit</Label>
-		<Label xml:lang="el-GR" Type="Daylight">Θερινή ώρα Δυτ. Νότ. Αμερικής</Label>
+		<Label xml:lang="el-GR" Type="Daylight">Θερινή ώρα ΝΔ Αμερικής</Label>
 		<Label xml:lang="en-US" Type="Daylight">SA Western Daylight Time</Label>
-		<Label xml:lang="es-ES" Type="Daylight">Hora de verano oeste, Sudamérica</Label>
+		<Label xml:lang="es-ES" Type="Daylight">SA Western Daylight Time</Label>
 		<Label xml:lang="et-EE" Type="Daylight">Lõuna-Ameerika lääneosa suveaeg</Label>
 		<Label xml:lang="fi-FI" Type="Daylight">Etelä-Am. läntinen kesäaika</Label>
-		<Label xml:lang="fr-FR" Type="Daylight">Amér. du Sud occid.(heure d'été)</Label>
-		<Label xml:lang="he-IL" Type="Daylight">שעון קיץ מערב דרום אמריקה</Label>
-		<Label xml:lang="hr-HR" Type="Daylight">Zapad Juž. Amerike - ljet. vrij.</Label>
+		<Label xml:lang="fr-FR" Type="Daylight">Amér. du Sud occid. (heure été)</Label>
+		<Label xml:lang="he-IL" Type="Daylight">שעון קיץ מערבי ד"א</Label>
+		<Label xml:lang="hr-HR" Type="Daylight">Juž. Am. - zap. - ljet. vrijeme</Label>
 		<Label xml:lang="hu-HU" Type="Daylight">Dél-amerikai nyugati nyári idő</Label>
 		<Label xml:lang="it-IT" Type="Daylight">ora legale SA Ovest</Label>
 		<Label xml:lang="ja-JP" Type="Daylight">南アメリカ西部夏時間</Label>
 		<Label xml:lang="ko-KR" Type="Daylight">SA 서부 일광 절약 시간</Label>
-		<Label xml:lang="lt-LT" Type="Daylight">Vakarų SA vasaros / žiemos laik.</Label>
-		<Label xml:lang="lv-LV" Type="Daylight">DA rietumu joslas vasaras laiks</Label>
+		<Label xml:lang="lt-LT" Type="Daylight">Vakarų SA vasaros/žiemos laikas</Label>
+		<Label xml:lang="lv-LV" Type="Daylight">DA rietumu daļas vasaras laiks</Label>
 		<Label xml:lang="nb-NO" Type="Daylight">Sør-Amerika, vest (sommertid)</Label>
 		<Label xml:lang="nl-NL" Type="Daylight">SA Western (zomertijd)</Label>
 		<Label xml:lang="pl-PL" Type="Daylight">Ameryka Pd (zach. czas letni)</Label>
-		<Label xml:lang="pt-BR" Type="Daylight">Horário de Verão de Caracas</Label>
+		<Label xml:lang="pt-BR" Type="Daylight">Horário de Verão do Oesta da AS</Label>
 		<Label xml:lang="pt-PT" Type="Daylight">Hora de Verão do Oeste da AS</Label>
-		<Label xml:lang="ro-RO" Type="Daylight">Am. de S, oră de vară vest</Label>
+		<Label xml:lang="ro-RO" Type="Daylight">Am. de Sud, ora de vară vest</Label>
 		<Label xml:lang="ru-RU" Type="Daylight">Ю-Ам. западное время (лето)</Label>
-		<Label xml:lang="sk-SK" Type="Daylight">Južná Amerika - západ (letný)</Label>
-		<Label xml:lang="sl-SI" Type="Daylight">Južnoameriški zah. poletni čas</Label>
+		<Label xml:lang="sk-SK" Type="Daylight">Západný letný čas SA</Label>
+		<Label xml:lang="sl-SI" Type="Daylight">Južnoameriški vzh. poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Västra Sydamerika, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาฝั่งต.ต.ตามฤดูกาลอเมริกาใต้</Label>
-		<Label xml:lang="tr-TR" Type="Daylight">Güney Amerika Batı Yaz Saati</Label>
+		<Label xml:lang="tr-TR" Type="Daylight">GA Batı Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Півд.-Ам. західний час (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">南美洲西部夏令时</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">南美洲西部日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Zap. let/zim. vreme u J. Americi</Label>
+		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u zap. J. Americi</Label>
 		<Info Bias="04:00:00" />
 	</TimeZone>
 	<TimeZone Name="SamoaStandardTime">
@@ -8034,7 +8090,7 @@
 		<Label xml:lang="de-DE">(GMT+05:30) Sri Jayawardenepura</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+05:30) Σρι Τζαγιαβαρνταναπούρα</Label>
 		<Label xml:lang="en-US">(UTC+05:30) Sri Jayawardenepura</Label>
-		<Label xml:lang="es-ES">(GMT+06:00) Sri Jayawardenepura</Label>
+		<Label xml:lang="es-ES">(GMT+05:30) Sri Jayawardenepura</Label>
 		<Label xml:lang="et-EE">(GMT+05:30) Sri Jayawardenepura</Label>
 		<Label xml:lang="fi-FI">(GMT+05:30) Sri Jayawardenepura</Label>
 		<Label xml:lang="fr-FR">(GMT+05:30) Sri Jayawardenepura</Label>
@@ -8056,7 +8112,7 @@
 		<Label xml:lang="sk-SK">(GMT+05:30) Srí Jayawardenepura</Label>
 		<Label xml:lang="sl-SI">(GMT+05:30) Sri Jayawardenepura</Label>
 		<Label xml:lang="sv-SE">(GMT+05:30) Sri Jayawardenepura</Label>
-		<Label xml:lang="th-TH">(GMT+06:00) ศรีชยาวาเดเนปุระ</Label>
+		<Label xml:lang="th-TH">(GMT+05:30) ศรีชยาวาเดเนปุระ</Label>
 		<Label xml:lang="tr-TR">(GMT+05:30) Sri Jayawardenepura</Label>
 		<Label xml:lang="uk-UA">(GMT+05:30) Шрі-Джаяварденепура</Label>
 		<Label xml:lang="zh-CN">(GMT+05:30) 斯里哈亚华登尼普拉</Label>
@@ -8360,6 +8416,14 @@
 		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje/zimsko vreme na Tasmaniji</Label>
 		<Info Bias="-10:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="March" Time="03:00:00">Last Sunday of March at 3:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Sunday" Month="October" Time="02:00:00">First Sunday of October at 2:00</Date>
+		</Info>
+		<Info Year="2007" Bias="-10:00:00">
+			<Date Type="Standard" Week="Last" Day="Sunday" Month="March" Time="03:00:00">Last Sunday of March at 3:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Sunday" Month="October" Time="02:00:00">First Sunday of October at 2:00</Date>
+		</Info>
+		<Info Year="2008" Bias="-10:00:00">
+			<Date Type="Standard" Week="First" Day="Sunday" Month="April" Time="03:00:00">First Sunday of April at 3:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Sunday" Month="October" Time="02:00:00">First Sunday of October at 2:00</Date>
 		</Info>
 	</TimeZone>
@@ -8796,7 +8860,7 @@
 		<Label xml:lang="nb-NO" Type="Daylight">USA, Rocky Mount. (sommertid)</Label>
 		<Label xml:lang="nl-NL" Type="Daylight">US Mountain (zomertijd)</Label>
 		<Label xml:lang="pl-PL" Type="Daylight">Stany Zjedn. (górski czas letni)</Label>
-		<Label xml:lang="pt-BR" Type="Daylight">Horário de Verão das Montanhas</Label>
+		<Label xml:lang="pt-BR" Type="Daylight">Horário de Verão: Montanhas</Label>
 		<Label xml:lang="pt-PT" Type="Daylight">Hora Verão Montanhas dos E.U.A.</Label>
 		<Label xml:lang="ro-RO" Type="Daylight">SUA, ora de vară (MDT)</Label>
 		<Label xml:lang="ru-RU" Type="Daylight">США - горное время (лето)</Label>
@@ -8810,6 +8874,120 @@
 		<Label xml:lang="zh-TW" Type="Daylight">美國山區日光節約時間</Label>
 		<Label xml:lang="sr-Latn-CS" Type="Daylight">Plan. letnje/zimsko vreme (SAD)</Label>
 		<Info Bias="07:00:00" />
+	</TimeZone>
+	<TimeZone Name="VenezuelaStandardTime">
+		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Venezuela Standard Time">Venezuela Standard Time</Link>
+		<Label xml:lang="en">(GMT-04:30) Caracas</Label>
+		<Label xml:lang="ar-SA">(GMT-04:30) كاراكاس</Label>
+		<Label xml:lang="bg-BG">(GMT-04:30) Каракас</Label>
+		<Label xml:lang="cs-CZ">(GMT-04:30) Caracas</Label>
+		<Label xml:lang="da-DK">(GMT-04:30) Caracas</Label>
+		<Label xml:lang="de-DE">(GMT-04:30) Caracas</Label>
+		<Label xml:lang="el-GR">(Γκρίνουιτς-04:30) Καράκας</Label>
+		<Label xml:lang="en-US">(UTC-04:30) Caracas</Label>
+		<Label xml:lang="es-ES">(GMT-04:30) Caracas</Label>
+		<Label xml:lang="et-EE">(GMT-04:30) Caracas</Label>
+		<Label xml:lang="fi-FI">(GMT-04:30) Caracas</Label>
+		<Label xml:lang="fr-FR">(GMT-04:30) Caracas</Label>
+		<Label xml:lang="he-IL">(GMT-04:30) קראקס</Label>
+		<Label xml:lang="hr-HR">(GMT-04:30) Caracas</Label>
+		<Label xml:lang="hu-HU">(GMT-04:30) Caracas</Label>
+		<Label xml:lang="it-IT">(GMT-04:30) Caracas</Label>
+		<Label xml:lang="ja-JP">(GMT-04:30) カラカス</Label>
+		<Label xml:lang="ko-KR">(GMT-04:30) 카라카스</Label>
+		<Label xml:lang="lt-LT">(GMT-04:30) Karakasas</Label>
+		<Label xml:lang="lv-LV">(GMT-04:30) Karakasa</Label>
+		<Label xml:lang="nb-NO">(GMT-04:30) Caracas</Label>
+		<Label xml:lang="nl-NL">(GMT-04:30) Caracas</Label>
+		<Label xml:lang="pl-PL">(GMT-04:30) Caracas</Label>
+		<Label xml:lang="pt-BR">(GMT-04:30) Caracas</Label>
+		<Label xml:lang="pt-PT">(GMT-04:30) Caracas</Label>
+		<Label xml:lang="ro-RO">(GMT-04:30) Caracas</Label>
+		<Label xml:lang="ru-RU">(UTC-04:30) Каракас</Label>
+		<Label xml:lang="sk-SK">(GMT-04:30) Karakas</Label>
+		<Label xml:lang="sl-SI">(GMT-04:30) Caracas</Label>
+		<Label xml:lang="sv-SE">(GMT-04:30) Caracas</Label>
+		<Label xml:lang="th-TH">(GMT-04:30) คารากัส</Label>
+		<Label xml:lang="tr-TR">(GMT-04:30) Karakas</Label>
+		<Label xml:lang="uk-UA">(GMT-04:30) Каракас</Label>
+		<Label xml:lang="zh-CN">(GMT-04:30) 加拉加斯</Label>
+		<Label xml:lang="zh-TW">(GMT-04:30) 卡拉卡斯</Label>
+		<Label xml:lang="sr-Latn-CS">(GMT-04:30) Karakas</Label>
+		<Label xml:lang="en" Type="Standard">Venezuela Standard Time</Label>
+		<Label xml:lang="ar-SA" Type="Standard">فنزويلا - التوقيت الرسمي</Label>
+		<Label xml:lang="bg-BG" Type="Standard">Венецуела - стандартно време</Label>
+		<Label xml:lang="cs-CZ" Type="Standard">Venezuela (běžný čas)</Label>
+		<Label xml:lang="da-DK" Type="Standard">Venezuela, normaltid</Label>
+		<Label xml:lang="de-DE" Type="Standard">Venezuela Normalzeit</Label>
+		<Label xml:lang="el-GR" Type="Standard">Χειμερινή ώρα Βενεζουέλας</Label>
+		<Label xml:lang="en-US" Type="Standard">Venezuela Standard Time</Label>
+		<Label xml:lang="es-ES" Type="Standard">Hora estándar de Venezuela</Label>
+		<Label xml:lang="et-EE" Type="Standard">Venetsueela standardaeg</Label>
+		<Label xml:lang="fi-FI" Type="Standard">Venezuelan normaaliaika</Label>
+		<Label xml:lang="fr-FR" Type="Standard">Venezuela</Label>
+		<Label xml:lang="he-IL" Type="Standard">שעון סטנדרטי ונצואלה</Label>
+		<Label xml:lang="hr-HR" Type="Standard">Venezuela - standardno vrijeme</Label>
+		<Label xml:lang="hu-HU" Type="Standard">Venezuelai téli idő</Label>
+		<Label xml:lang="it-IT" Type="Standard">ora solare Venezuela</Label>
+		<Label xml:lang="ja-JP" Type="Standard">ベネズエラ標準時</Label>
+		<Label xml:lang="ko-KR" Type="Standard">베네수엘라 표준시</Label>
+		<Label xml:lang="lt-LT" Type="Standard">Standartinis Venesuelos laikas</Label>
+		<Label xml:lang="lv-LV" Type="Standard">Venecuēlas standarta laiks</Label>
+		<Label xml:lang="nb-NO" Type="Standard">Venezuela (normaltid)</Label>
+		<Label xml:lang="nl-NL" Type="Standard">Venezuela (wintertijd)</Label>
+		<Label xml:lang="pl-PL" Type="Standard">Wenezuela (czas standardowy)</Label>
+		<Label xml:lang="pt-BR" Type="Standard">Hora Padrão da Venezuela</Label>
+		<Label xml:lang="pt-PT" Type="Standard">Hora Padrão da Venezuela</Label>
+		<Label xml:lang="ro-RO" Type="Standard">Venezuela, ora standard</Label>
+		<Label xml:lang="ru-RU" Type="Standard">Венесуэла (зима)</Label>
+		<Label xml:lang="sk-SK" Type="Standard">Venezuelský bežný čas</Label>
+		<Label xml:lang="sl-SI" Type="Standard">Venezuelski standardni čas</Label>
+		<Label xml:lang="sv-SE" Type="Standard">Venezuela, normaltid</Label>
+		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของเวเนซุเอลา</Label>
+		<Label xml:lang="tr-TR" Type="Standard">Venezuela Standart Saati</Label>
+		<Label xml:lang="uk-UA" Type="Standard">Венесуела (зима)</Label>
+		<Label xml:lang="zh-CN" Type="Standard">委内瑞拉标准时间</Label>
+		<Label xml:lang="zh-TW" Type="Standard">委內瑞拉標準時間</Label>
+		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Venecueli</Label>
+		<Label xml:lang="en" Type="Daylight">Venezuela Daylight Time</Label>
+		<Label xml:lang="ar-SA" Type="Daylight">فنزويلا - التوقيت الصيفي</Label>
+		<Label xml:lang="bg-BG" Type="Daylight">Венецуела - лятно време</Label>
+		<Label xml:lang="cs-CZ" Type="Daylight">Venezuela (letní čas)</Label>
+		<Label xml:lang="da-DK" Type="Daylight">Venezuela, sommertid</Label>
+		<Label xml:lang="de-DE" Type="Daylight">Venezuela Sommerzeit</Label>
+		<Label xml:lang="el-GR" Type="Daylight">Θερινή ώρα Βενεζουέλας</Label>
+		<Label xml:lang="en-US" Type="Daylight">Venezuela Daylight Time</Label>
+		<Label xml:lang="es-ES" Type="Daylight">Hora de verano de Venezuela</Label>
+		<Label xml:lang="et-EE" Type="Daylight">Venetsueela suveaeg</Label>
+		<Label xml:lang="fi-FI" Type="Daylight">Venezuelan kesäaika</Label>
+		<Label xml:lang="fr-FR" Type="Daylight">Venezuela (heure d'été)</Label>
+		<Label xml:lang="he-IL" Type="Daylight">שעון קיץ ונצואלה</Label>
+		<Label xml:lang="hr-HR" Type="Daylight">Venezuela - ljetno vrijeme</Label>
+		<Label xml:lang="hu-HU" Type="Daylight">Venezuelai nyári idő</Label>
+		<Label xml:lang="it-IT" Type="Daylight">ora legale Venezuela</Label>
+		<Label xml:lang="ja-JP" Type="Daylight">ベネズエラ夏時間</Label>
+		<Label xml:lang="ko-KR" Type="Daylight">베네수엘라 일광 절약 시간</Label>
+		<Label xml:lang="lt-LT" Type="Daylight">Venesuelos vas./žiemos laikas</Label>
+		<Label xml:lang="lv-LV" Type="Daylight">Venecuēlas vasaras laiks</Label>
+		<Label xml:lang="nb-NO" Type="Daylight">Venezuela (sommertid)</Label>
+		<Label xml:lang="nl-NL" Type="Daylight">Venezuela (zomertijd)</Label>
+		<Label xml:lang="pl-PL" Type="Daylight">Wenezuela (czas letni)</Label>
+		<Label xml:lang="pt-BR" Type="Daylight">Horário de Verão da Venezuela</Label>
+		<Label xml:lang="pt-PT" Type="Daylight">Hora de Verão da Venezuela</Label>
+		<Label xml:lang="ro-RO" Type="Daylight">Venezuela, ora de vară</Label>
+		<Label xml:lang="ru-RU" Type="Daylight">Венесуэла (лето)</Label>
+		<Label xml:lang="sk-SK" Type="Daylight">Venezuelský letný čas</Label>
+		<Label xml:lang="sl-SI" Type="Daylight">Venezuelski poletni čas</Label>
+		<Label xml:lang="sv-SE" Type="Daylight">Venezuela, sommartid</Label>
+		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของเวเนซุเอลา</Label>
+		<Label xml:lang="tr-TR" Type="Daylight">Venezuela Yaz Saati</Label>
+		<Label xml:lang="uk-UA" Type="Daylight">Венесуела (літо)</Label>
+		<Label xml:lang="zh-CN" Type="Daylight">委内瑞拉夏令时</Label>
+		<Label xml:lang="zh-TW" Type="Daylight">委內瑞拉日光節約時間</Label>
+		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Venecueli</Label>
+		<Info Bias="04:30:00" />
+		<Info Year="2006" Bias="04:00:00" />
+		<Info Year="2007" Bias="04:30:00" />
 	</TimeZone>
 	<TimeZone Name="VladivostokStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Vladivostok Standard Time">Vladivostok Standard Time</Link>
@@ -8968,7 +9146,7 @@
 		<Label xml:lang="ar-SA" Type="Standard">غرب استراليا - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Западноавстралийско станд. време</Label>
 		<Label xml:lang="cs-CZ" Type="Standard">Západní Austrálie (normální)</Label>
-		<Label xml:lang="da-DK" Type="Standard">Vestaustralien, sommertid</Label>
+		<Label xml:lang="da-DK" Type="Standard">Vestaustralien, normaltid</Label>
 		<Label xml:lang="de-DE" Type="Standard">Westaustralische Normalzeit</Label>
 		<Label xml:lang="el-GR" Type="Standard">Χειμερινή ώρα Δ. Αυστραλίας</Label>
 		<Label xml:lang="en-US" Type="Standard">W. Australia Standard Time</Label>
@@ -9213,7 +9391,7 @@
 		<Label xml:lang="fi-FI" Type="Standard">Länsi-Euroopan normaaliaika</Label>
 		<Label xml:lang="fr-FR" Type="Standard">Europe de l'Ouest</Label>
 		<Label xml:lang="he-IL" Type="Standard">שעון רגיל מערב אירופה</Label>
-		<Label xml:lang="hr-HR" Type="Standard">Srednja Europa - st. vrij.</Label>
+		<Label xml:lang="hr-HR" Type="Standard">Srednja Europa - st. vrij.  </Label>
 		<Label xml:lang="hu-HU" Type="Standard">Nyugat-európai téli idő</Label>
 		<Label xml:lang="it-IT" Type="Standard">ora solare Europa occidentale</Label>
 		<Label xml:lang="ja-JP" Type="Standard">西ヨーロッパ標準時</Label>
@@ -9249,7 +9427,7 @@
 		<Label xml:lang="fi-FI" Type="Daylight">Länsi-Euroopan kesäaika</Label>
 		<Label xml:lang="fr-FR" Type="Daylight">Europe de l'Ouest (heure d'été)</Label>
 		<Label xml:lang="he-IL" Type="Daylight">שעון קיץ מערב אירופה</Label>
-		<Label xml:lang="hr-HR" Type="Daylight">Srednja Europa - ljet. vrij.</Label>
+		<Label xml:lang="hr-HR" Type="Daylight">Srednja Europa - ljet. vrij.  </Label>
 		<Label xml:lang="hu-HU" Type="Daylight">Nyugat-európai nyári idő</Label>
 		<Label xml:lang="it-IT" Type="Daylight">ora legale Europa occidentale</Label>
 		<Label xml:lang="ja-JP" Type="Daylight">西ヨーロッパ夏時間</Label>
@@ -9332,7 +9510,7 @@
 		<Label xml:lang="hu-HU" Type="Standard">Nyugat-ázsiai téli idő</Label>
 		<Label xml:lang="it-IT" Type="Standard">ora solare Asia occidentale</Label>
 		<Label xml:lang="ja-JP" Type="Standard">西アジア標準時</Label>
-		<Label xml:lang="ko-KR" Type="Standard">서아시아 표준시</Label>
+		<Label xml:lang="ko-KR" Type="Standard">서아시아 표준시 </Label>
 		<Label xml:lang="lt-LT" Type="Standard">Standartinis Vakarų Azijos laik.</Label>
 		<Label xml:lang="lv-LV" Type="Standard">Rietumāzijas standarta laiks</Label>
 		<Label xml:lang="nb-NO" Type="Standard">Vest-Asia (normaltid)</Label>
@@ -9368,7 +9546,7 @@
 		<Label xml:lang="hu-HU" Type="Daylight">Nyugat-ázsiai nyári idő</Label>
 		<Label xml:lang="it-IT" Type="Daylight">ora legale Asia occidentale</Label>
 		<Label xml:lang="ja-JP" Type="Daylight">西アジア夏時間</Label>
-		<Label xml:lang="ko-KR" Type="Daylight">서아시아 일광 절약 시간제</Label>
+		<Label xml:lang="ko-KR" Type="Daylight">서아시아 일광 절약 시간제 </Label>
 		<Label xml:lang="lt-LT" Type="Daylight">Vakarų Azijos vas. / žiem. laik.</Label>
 		<Label xml:lang="lv-LV" Type="Daylight">Rietumāzijas vasaras laiks</Label>
 		<Label xml:lang="nb-NO" Type="Daylight">Vest-Asia (sommertid)</Label>
