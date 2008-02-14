@@ -9,7 +9,7 @@
 		<Label xml:lang="da-DK">(GMT+04:30) Kabul</Label>
 		<Label xml:lang="de-DE">(GMT+04:30) Kabul</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+04:30) Καμπούλ</Label>
-		<Label xml:lang="en-US">(UTC+04:30) Kabul</Label>
+		<Label xml:lang="en-US">(GMT+04:30) Kabul</Label>
 		<Label xml:lang="es-ES">(GMT+04:30) Kabul</Label>
 		<Label xml:lang="et-EE">(GMT+04:30) Kabul</Label>
 		<Label xml:lang="fi-FI">(GMT+04:30) Kabul</Label>
@@ -28,7 +28,7 @@
 		<Label xml:lang="pt-BR">(GMT+04:30) Cabul</Label>
 		<Label xml:lang="pt-PT">(GMT+04:30) Cabul</Label>
 		<Label xml:lang="ro-RO">(GMT+04:30) Kabul</Label>
-		<Label xml:lang="ru-RU">(UTC+04:30) Кабул</Label>
+		<Label xml:lang="ru-RU">(GMT+04:30) Кабул</Label>
 		<Label xml:lang="sk-SK">(GMT+04:30) Kábul</Label>
 		<Label xml:lang="sl-SI">(GMT+04:30) Kabul</Label>
 		<Label xml:lang="sv-SE">(GMT+04:30) Kabul</Label>
@@ -121,7 +121,7 @@
 		<Label xml:lang="da-DK">(GMT-09:00) Alaska</Label>
 		<Label xml:lang="de-DE">(GMT-09:00) Alaska</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς-09:00) Αλάσκα</Label>
-		<Label xml:lang="en-US">(UTC-09:00) Alaska</Label>
+		<Label xml:lang="en-US">(GMT-09:00) Alaska</Label>
 		<Label xml:lang="es-ES">(GMT-09:00) Alaska</Label>
 		<Label xml:lang="et-EE">(GMT-09:00) Alaska</Label>
 		<Label xml:lang="fi-FI">(GMT-09:00) Alaska</Label>
@@ -132,7 +132,7 @@
 		<Label xml:lang="it-IT">(GMT-9.00) Alaska</Label>
 		<Label xml:lang="ja-JP">(GMT-09:00) アラスカ</Label>
 		<Label xml:lang="ko-KR">(GMT-09:00) 알래스카</Label>
-		<Label xml:lang="lt-LT">(GMT - 09:00) Aliaska</Label>
+		<Label xml:lang="lt-LT">(GMT-09:00) Aliaska</Label>
 		<Label xml:lang="lv-LV">(GMT-09:00) Aļaska</Label>
 		<Label xml:lang="nb-NO">(GMT-09:00) Alaska</Label>
 		<Label xml:lang="nl-NL">(GMT-09:00) Alaska</Label>
@@ -140,7 +140,7 @@
 		<Label xml:lang="pt-BR">(GMT-09:00) Alasca</Label>
 		<Label xml:lang="pt-PT">(GMT-09:00) Alasca</Label>
 		<Label xml:lang="ro-RO">(GMT-09:00) Alaska</Label>
-		<Label xml:lang="ru-RU">(UTC-09:00) Аляска</Label>
+		<Label xml:lang="ru-RU">(GMT-09:00) Аляска</Label>
 		<Label xml:lang="sk-SK">(GMT-09:00) Aljaška</Label>
 		<Label xml:lang="sl-SI">(GMT-09:00) Aljaska</Label>
 		<Label xml:lang="sv-SE">(GMT-09:00) Alaska</Label>
@@ -244,7 +244,7 @@
 		<Label xml:lang="da-DK">(GMT+03:00) Kuwait, Riyadh</Label>
 		<Label xml:lang="de-DE">(GMT+03:00) Kuwait, Riad</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+03:00) Κουβέιτ, Ριάντ</Label>
-		<Label xml:lang="en-US">(UTC+03:00) Kuwait, Riyadh</Label>
+		<Label xml:lang="en-US">(GMT+03:00) Kuwait, Riyadh</Label>
 		<Label xml:lang="es-ES">(GMT+03:00) Kuwait, Riyadh</Label>
 		<Label xml:lang="et-EE">(GMT+03:00) Kuveit, Riyadh</Label>
 		<Label xml:lang="fi-FI">(GMT+03:00) Kuwait, Riad</Label>
@@ -263,7 +263,7 @@
 		<Label xml:lang="pt-BR">(GMT+03:00) Kuwait, Riad</Label>
 		<Label xml:lang="pt-PT">(GMT+03:00) Kuwait, Riade</Label>
 		<Label xml:lang="ro-RO">(GMT+03:00) Kuwait, Riad</Label>
-		<Label xml:lang="ru-RU">(UTC+03:00) Кувейт, Эр-Рияд</Label>
+		<Label xml:lang="ru-RU">(GMT+03:00) Кувейт, Эр-Рияд</Label>
 		<Label xml:lang="sk-SK">(GMT+03:00) Kuvajt, Rijád</Label>
 		<Label xml:lang="sl-SI">(GMT+03:00) Kuvajt, Rijad</Label>
 		<Label xml:lang="sv-SE">(GMT+03:00) Kuwait, Riyadh</Label>
@@ -275,32 +275,32 @@
 		<Label xml:lang="sr-Latn-CS">(GMT+03:00) Kuvajt, Rijad</Label>
 		<Label xml:lang="en" Type="Standard">Arab Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">السعودية - التوقيت الرسمي</Label>
-		<Label xml:lang="bg-BG" Type="Standard">Арабско стандартно време </Label>
+		<Label xml:lang="bg-BG" Type="Standard">Арабско стандартно време</Label>
 		<Label xml:lang="cs-CZ" Type="Standard">Oblast Arábie (běžný čas)</Label>
 		<Label xml:lang="da-DK" Type="Standard">Arab. normaltid</Label>
 		<Label xml:lang="de-DE" Type="Standard">Arabische Normalzeit</Label>
-		<Label xml:lang="el-GR" Type="Standard">Αραβική χειμερινή ώρα </Label>
+		<Label xml:lang="el-GR" Type="Standard">Αραβική χειμερινή ώρα</Label>
 		<Label xml:lang="en-US" Type="Standard">Arab Standard Time</Label>
 		<Label xml:lang="es-ES" Type="Standard">Hora estándar árabe</Label>
 		<Label xml:lang="et-EE" Type="Standard">Araabia standardaeg</Label>
 		<Label xml:lang="fi-FI" Type="Standard">Saudi-Arabian normaaliaika</Label>
 		<Label xml:lang="fr-FR" Type="Standard">Pays arabes</Label>
 		<Label xml:lang="he-IL" Type="Standard">שעון רגיל מדינות ערב</Label>
-		<Label xml:lang="hr-HR" Type="Standard">Arapski poluotok - st. vrij. </Label>
+		<Label xml:lang="hr-HR" Type="Standard">Arapski poluotok - st. vrij.</Label>
 		<Label xml:lang="hu-HU" Type="Standard">Arab téli idő</Label>
 		<Label xml:lang="it-IT" Type="Standard">ora solare Arabia</Label>
 		<Label xml:lang="ja-JP" Type="Standard">アラブ標準時</Label>
-		<Label xml:lang="ko-KR" Type="Standard">아랍 표준시 </Label>
-		<Label xml:lang="lt-LT" Type="Standard">Arabų standartinis laikas </Label>
-		<Label xml:lang="lv-LV" Type="Standard">Arābu standarta laiks </Label>
+		<Label xml:lang="ko-KR" Type="Standard">아랍 표준시</Label>
+		<Label xml:lang="lt-LT" Type="Standard">Arabų standartinis laikas</Label>
+		<Label xml:lang="lv-LV" Type="Standard">Arābu standarta laiks</Label>
 		<Label xml:lang="nb-NO" Type="Standard">Arabisk (normaltid)</Label>
-		<Label xml:lang="nl-NL" Type="Standard">Arab. schiereiland (st.tijd)</Label>
+		<Label xml:lang="nl-NL" Type="Standard">Arabisch schiereiland (st.tijd)</Label>
 		<Label xml:lang="pl-PL" Type="Standard">Arabia Saud. (czas standardowy)</Label>
 		<Label xml:lang="pt-BR" Type="Standard">Hora Padrão da Arábia</Label>
 		<Label xml:lang="pt-PT" Type="Standard">Hora padrão Arábia Saudita</Label>
-		<Label xml:lang="ro-RO" Type="Standard">Ora standard Arabia </Label>
+		<Label xml:lang="ro-RO" Type="Standard">Ora standard Arabia</Label>
 		<Label xml:lang="ru-RU" Type="Standard">Саудовское время (зима)</Label>
-		<Label xml:lang="sk-SK" Type="Standard">Arabský čas (normálny) </Label>
+		<Label xml:lang="sk-SK" Type="Standard">Arabský čas (normálny)</Label>
 		<Label xml:lang="sl-SI" Type="Standard">Arabijski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Arabien, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของอาหรับ</Label>
@@ -311,32 +311,32 @@
 		<Label xml:lang="sr-Latn-CS" Type="Standard">Arapsko standardno vreme</Label>
 		<Label xml:lang="en" Type="Daylight">Arab Daylight Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">السعودية - التوقيت الصيفي</Label>
-		<Label xml:lang="bg-BG" Type="Daylight">Арабско лятно време </Label>
+		<Label xml:lang="bg-BG" Type="Daylight">Арабско лятно време</Label>
 		<Label xml:lang="cs-CZ" Type="Daylight">Oblast Arábie (letní čas)</Label>
 		<Label xml:lang="da-DK" Type="Daylight">Arab. sommertid</Label>
 		<Label xml:lang="de-DE" Type="Daylight">Arabische Sommerzeit</Label>
-		<Label xml:lang="el-GR" Type="Daylight">Αραβική θερινή ώρα </Label>
+		<Label xml:lang="el-GR" Type="Daylight">Αραβική θερινή ώρα</Label>
 		<Label xml:lang="en-US" Type="Daylight">Arab Daylight Time</Label>
 		<Label xml:lang="es-ES" Type="Daylight">Hora de verano árabe</Label>
 		<Label xml:lang="et-EE" Type="Daylight">Araabia suveaeg</Label>
 		<Label xml:lang="fi-FI" Type="Daylight">Saudi-Arabian kesäaika</Label>
 		<Label xml:lang="fr-FR" Type="Daylight">Pays arabes (heure d'été)</Label>
 		<Label xml:lang="he-IL" Type="Daylight">שעון קיץ מדינות ערב</Label>
-		<Label xml:lang="hr-HR" Type="Daylight">Arapski poluotok - ljet. vrij. </Label>
+		<Label xml:lang="hr-HR" Type="Daylight">Arapski poluotok - ljet. vrij.</Label>
 		<Label xml:lang="hu-HU" Type="Daylight">Arab nyári idő</Label>
 		<Label xml:lang="it-IT" Type="Daylight">ora legale Arabia</Label>
 		<Label xml:lang="ja-JP" Type="Daylight">アラブ夏時間</Label>
-		<Label xml:lang="ko-KR" Type="Daylight">아랍 일광 절약 시간 </Label>
-		<Label xml:lang="lt-LT" Type="Daylight">Arabų vasaros / žiemos laikas </Label>
-		<Label xml:lang="lv-LV" Type="Daylight">Arābu vasaras laiks </Label>
+		<Label xml:lang="ko-KR" Type="Daylight">아랍 일광 절약 시간</Label>
+		<Label xml:lang="lt-LT" Type="Daylight">Arabų vasaros / žiemos laikas</Label>
+		<Label xml:lang="lv-LV" Type="Daylight">Arābu vasaras laiks</Label>
 		<Label xml:lang="nb-NO" Type="Daylight">Arabisk (sommertid)</Label>
 		<Label xml:lang="nl-NL" Type="Daylight">Arab. schiereiland (zomertijd)</Label>
 		<Label xml:lang="pl-PL" Type="Daylight">Arabia Saud. (czas letni)</Label>
 		<Label xml:lang="pt-BR" Type="Daylight">Horário de Verão da Arábia</Label>
 		<Label xml:lang="pt-PT" Type="Daylight">Hora de Verão Arábia Saudita</Label>
-		<Label xml:lang="ro-RO" Type="Daylight">Ora de vară Arabia </Label>
+		<Label xml:lang="ro-RO" Type="Daylight">Ora de vară Arabia</Label>
 		<Label xml:lang="ru-RU" Type="Daylight">Саудовское время (лето)</Label>
-		<Label xml:lang="sk-SK" Type="Daylight">Arabský čas (letný) </Label>
+		<Label xml:lang="sk-SK" Type="Daylight">Arabský čas (letný)</Label>
 		<Label xml:lang="sl-SI" Type="Daylight">Arabijski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Arabien, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของอาหรับ</Label>
@@ -356,7 +356,7 @@
 		<Label xml:lang="da-DK">(GMT+04:00) Abu Dhabi, Muscat</Label>
 		<Label xml:lang="de-DE">(GMT+04:00) Abu Dhabi, Muskat</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+04:00) Αμπού Ντάμπι, Μουσκάτ</Label>
-		<Label xml:lang="en-US">(UTC+04:00) Abu Dhabi, Muscat</Label>
+		<Label xml:lang="en-US">(GMT+04:00) Abu Dhabi, Muscat</Label>
 		<Label xml:lang="es-ES">(GMT+04:00) Abu Dhabi, Muscat</Label>
 		<Label xml:lang="et-EE">(GMT+04:00) Abu Dhabi, Muscat</Label>
 		<Label xml:lang="fi-FI">(GMT+04:00) Abu Dhabi, Muscat</Label>
@@ -375,7 +375,7 @@
 		<Label xml:lang="pt-BR">(GMT+04:00) Abu Dhabi, Mascate</Label>
 		<Label xml:lang="pt-PT">(GMT+04:00) Abu Dhabi, Muscat</Label>
 		<Label xml:lang="ro-RO">(GMT+04:00) Abu Dhabi, Muscat</Label>
-		<Label xml:lang="ru-RU">(UTC+04:00) Абу-Даби, Мускат</Label>
+		<Label xml:lang="ru-RU">(GMT+04:00) Абу-Даби, Мускат</Label>
 		<Label xml:lang="sk-SK">(GMT+04:00) Abú Dabí, Muscat</Label>
 		<Label xml:lang="sl-SI">(GMT+04:00) Abu Dabi, Muškat</Label>
 		<Label xml:lang="sv-SE">(GMT+04:00) Abu Dhabi, Muscat</Label>
@@ -390,8 +390,8 @@
 		<Label xml:lang="bg-BG" Type="Standard">Арабско стандартно време</Label>
 		<Label xml:lang="cs-CZ" Type="Standard">Arábie (běžný čas)</Label>
 		<Label xml:lang="da-DK" Type="Standard">Arabien, normaltid</Label>
-		<Label xml:lang="de-DE" Type="Standard">Arabische Normalzeit  </Label>
-		<Label xml:lang="el-GR" Type="Standard">Αραβική χειμερινή ώρα  </Label>
+		<Label xml:lang="de-DE" Type="Standard">Arabische Normalzeit</Label>
+		<Label xml:lang="el-GR" Type="Standard">Αραβική χειμερινή ώρα</Label>
 		<Label xml:lang="en-US" Type="Standard">Arabian Standard Time</Label>
 		<Label xml:lang="es-ES" Type="Standard">Hora estándar árabiga</Label>
 		<Label xml:lang="et-EE" Type="Standard">Araabia standardaeg</Label>
@@ -402,15 +402,15 @@
 		<Label xml:lang="hu-HU" Type="Standard">Arábiai téli idő</Label>
 		<Label xml:lang="it-IT" Type="Standard">ora solare Emirati Arabi Uniti</Label>
 		<Label xml:lang="ja-JP" Type="Standard">アラビア標準時</Label>
-		<Label xml:lang="ko-KR" Type="Standard">아랍 표준시  </Label>
-		<Label xml:lang="lt-LT" Type="Standard">Arabų standartinis laikas  </Label>
-		<Label xml:lang="lv-LV" Type="Standard">Arābu standarta laiks  </Label>
+		<Label xml:lang="ko-KR" Type="Standard">아랍 표준시</Label>
+		<Label xml:lang="lt-LT" Type="Standard">Arabų standartinis laikas</Label>
+		<Label xml:lang="lv-LV" Type="Standard">Arābu standarta laiks</Label>
 		<Label xml:lang="nb-NO" Type="Standard">Saudi-Arabia (normaltid)</Label>
-		<Label xml:lang="nl-NL" Type="Standard">Arab. schiereiland (st.tijd)  </Label>
+		<Label xml:lang="nl-NL" Type="Standard">Arabisch schiereiland (st.tijd)</Label>
 		<Label xml:lang="pl-PL" Type="Standard">Arabia (czas standardowy)</Label>
 		<Label xml:lang="pt-BR" Type="Standard">Hora Padrão de Abu Dabi</Label>
 		<Label xml:lang="pt-PT" Type="Standard">Hora padrão de Abu Dhabi</Label>
-		<Label xml:lang="ro-RO" Type="Standard">Ora standard Arabia  </Label>
+		<Label xml:lang="ro-RO" Type="Standard">Ora standard Arabia</Label>
 		<Label xml:lang="ru-RU" Type="Standard">Арабское время (зима)</Label>
 		<Label xml:lang="sk-SK" Type="Standard">Arabský normálny čas</Label>
 		<Label xml:lang="sl-SI" Type="Standard">Arabski standardni čas</Label>
@@ -426,8 +426,8 @@
 		<Label xml:lang="bg-BG" Type="Daylight">Арабско лятно време</Label>
 		<Label xml:lang="cs-CZ" Type="Daylight">Arábie (letní čas)</Label>
 		<Label xml:lang="da-DK" Type="Daylight">Arabien, sommertid</Label>
-		<Label xml:lang="de-DE" Type="Daylight">Arabische Sommerzeit  </Label>
-		<Label xml:lang="el-GR" Type="Daylight">Αραβική θερινή ώρα  </Label>
+		<Label xml:lang="de-DE" Type="Daylight">Arabische Sommerzeit</Label>
+		<Label xml:lang="el-GR" Type="Daylight">Αραβική θερινή ώρα</Label>
 		<Label xml:lang="en-US" Type="Daylight">Arabian Daylight Time</Label>
 		<Label xml:lang="es-ES" Type="Daylight">Hora de verano árabiga</Label>
 		<Label xml:lang="et-EE" Type="Daylight">Araabia suveaeg</Label>
@@ -438,15 +438,15 @@
 		<Label xml:lang="hu-HU" Type="Daylight">Arábiai nyári idő</Label>
 		<Label xml:lang="it-IT" Type="Daylight">ora legale Emirati Arabi Uniti</Label>
 		<Label xml:lang="ja-JP" Type="Daylight">アラビア夏時間</Label>
-		<Label xml:lang="ko-KR" Type="Daylight">아랍 일광 절약 시간  </Label>
-		<Label xml:lang="lt-LT" Type="Daylight">Arabų vasaros / žiemos laikas  </Label>
-		<Label xml:lang="lv-LV" Type="Daylight">Arābu vasaras laiks  </Label>
+		<Label xml:lang="ko-KR" Type="Daylight">아랍 일광 절약 시간</Label>
+		<Label xml:lang="lt-LT" Type="Daylight">Arabų vasaros / žiemos laikas</Label>
+		<Label xml:lang="lv-LV" Type="Daylight">Arābu vasaras laiks</Label>
 		<Label xml:lang="nb-NO" Type="Daylight">Saudi-Arabia (sommertid)</Label>
-		<Label xml:lang="nl-NL" Type="Daylight">Arab. schiereiland  (zomertijd) </Label>
+		<Label xml:lang="nl-NL" Type="Daylight">Arab. schiereiland (zomertijd)</Label>
 		<Label xml:lang="pl-PL" Type="Daylight">Arabia (czas letni)</Label>
 		<Label xml:lang="pt-BR" Type="Daylight">Horário de Verão de Abu Dabi</Label>
 		<Label xml:lang="pt-PT" Type="Daylight">Hora de Verão de Abu Dhabi</Label>
-		<Label xml:lang="ro-RO" Type="Daylight">Ora de vară Arabia  </Label>
+		<Label xml:lang="ro-RO" Type="Daylight">Ora de vară Arabia</Label>
 		<Label xml:lang="ru-RU" Type="Daylight">Арабское время (лето)</Label>
 		<Label xml:lang="sk-SK" Type="Daylight">Arabský letný čas</Label>
 		<Label xml:lang="sl-SI" Type="Daylight">Arabski poletni čas</Label>
@@ -457,7 +457,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">阿拉伯半岛夏令时</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">阿拉伯日光節約時間</Label>
 		<Label xml:lang="sr-Latn-CS" Type="Daylight">Arabijsko letnje/zimsko vreme</Label>
-		<Info Bias="-04:00:00" />
+		<Info Bias="-04:00:00"/>
 	</TimeZone>
 	<TimeZone Name="ArabicStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Arabic Standard Time">Arabic Standard Time</Link>
@@ -468,7 +468,7 @@
 		<Label xml:lang="da-DK">(GMT+03:00) Baghdad</Label>
 		<Label xml:lang="de-DE">(GMT+03:00) Bagdad</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+03:00) Βαγδάτη</Label>
-		<Label xml:lang="en-US">(UTC+03:00) Baghdad</Label>
+		<Label xml:lang="en-US">(GMT+03:00) Baghdad</Label>
 		<Label xml:lang="es-ES">(GMT+03:00) Baghdad</Label>
 		<Label xml:lang="et-EE">(GMT+03:00) Bagdad</Label>
 		<Label xml:lang="fi-FI">(GMT+03:00) Bagdad</Label>
@@ -487,7 +487,7 @@
 		<Label xml:lang="pt-BR">(GMT+03:00) Bagdá</Label>
 		<Label xml:lang="pt-PT">(GMT+03:00) Bagdade</Label>
 		<Label xml:lang="ro-RO">(GMT+03:00) Bagdad</Label>
-		<Label xml:lang="ru-RU">(UTC+03:00) Багдад</Label>
+		<Label xml:lang="ru-RU">(GMT+03:00) Багдад</Label>
 		<Label xml:lang="sk-SK">(GMT+03:00) Bagdad</Label>
 		<Label xml:lang="sl-SI">(GMT+03:00) Bagdad</Label>
 		<Label xml:lang="sv-SE">(GMT+03:00) Bagdad</Label>
@@ -502,13 +502,13 @@
 		<Label xml:lang="bg-BG" Type="Standard">Арабски страни - станд. време</Label>
 		<Label xml:lang="cs-CZ" Type="Standard">Arabský poloostrov (běžný čas)</Label>
 		<Label xml:lang="da-DK" Type="Standard">Arabisk, normaltid</Label>
-		<Label xml:lang="de-DE" Type="Standard">Arabische Normalzeit </Label>
+		<Label xml:lang="de-DE" Type="Standard">Arabische Normalzeit</Label>
 		<Label xml:lang="el-GR" Type="Standard">Αραβική χειμερινή ώρα</Label>
 		<Label xml:lang="en-US" Type="Standard">Arabic Standard Time</Label>
 		<Label xml:lang="es-ES" Type="Standard">Hora estándar arábica</Label>
 		<Label xml:lang="et-EE" Type="Standard">Araabia standardaeg</Label>
-		<Label xml:lang="fi-FI" Type="Standard">Arabian normaaliaika </Label>
-		<Label xml:lang="fr-FR" Type="Standard">Arabie </Label>
+		<Label xml:lang="fi-FI" Type="Standard">Arabian normaaliaika</Label>
+		<Label xml:lang="fr-FR" Type="Standard">Arabie</Label>
 		<Label xml:lang="he-IL" Type="Standard">שעון רגיל מדינות ערביות</Label>
 		<Label xml:lang="hr-HR" Type="Standard">Arapski poluotok - st. vrij.</Label>
 		<Label xml:lang="hu-HU" Type="Standard">Bagdadi téli idő</Label>
@@ -518,14 +518,14 @@
 		<Label xml:lang="lt-LT" Type="Standard">Arabų standartinis laikas</Label>
 		<Label xml:lang="lv-LV" Type="Standard">Arābu standarta laiks</Label>
 		<Label xml:lang="nb-NO" Type="Standard">Arabia (normaltid)</Label>
-		<Label xml:lang="nl-NL" Type="Standard">Arab. schiereiland (st. tijd) </Label>
+		<Label xml:lang="nl-NL" Type="Standard">Arab. schiereiland (st. tijd)</Label>
 		<Label xml:lang="pl-PL" Type="Standard">Arabski czas standardowy</Label>
 		<Label xml:lang="pt-BR" Type="Standard">Hora Padrão árabe</Label>
 		<Label xml:lang="pt-PT" Type="Standard">Hora padrão Árabe</Label>
 		<Label xml:lang="ro-RO" Type="Standard">Ora standard Arabia</Label>
 		<Label xml:lang="ru-RU" Type="Standard">Багдадское время (зима)</Label>
 		<Label xml:lang="sk-SK" Type="Standard">Arabský čas (normálny)</Label>
-		<Label xml:lang="sl-SI" Type="Standard">Arabski standardni čas </Label>
+		<Label xml:lang="sl-SI" Type="Standard">Arabski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Irak, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลาอารบิกมาตรฐาน</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Arap Standart Saati (1)</Label>
@@ -538,13 +538,13 @@
 		<Label xml:lang="bg-BG" Type="Daylight">Арабски страни - лятно време</Label>
 		<Label xml:lang="cs-CZ" Type="Daylight">Arabský poloostrov (letní čas)</Label>
 		<Label xml:lang="da-DK" Type="Daylight">Arabisk, sommertid</Label>
-		<Label xml:lang="de-DE" Type="Daylight">Arabische Sommerzeit </Label>
+		<Label xml:lang="de-DE" Type="Daylight">Arabische Sommerzeit</Label>
 		<Label xml:lang="el-GR" Type="Daylight">Αραβική θερινή ώρα</Label>
 		<Label xml:lang="en-US" Type="Daylight">Arabic Daylight Time</Label>
 		<Label xml:lang="es-ES" Type="Daylight">Hora de verano arábica</Label>
 		<Label xml:lang="et-EE" Type="Daylight">Araabia suveaeg</Label>
-		<Label xml:lang="fi-FI" Type="Daylight">Arabian kesäaika </Label>
-		<Label xml:lang="fr-FR" Type="Daylight">Arabie (heure d'été) </Label>
+		<Label xml:lang="fi-FI" Type="Daylight">Arabian kesäaika</Label>
+		<Label xml:lang="fr-FR" Type="Daylight">Arabie (heure d'été)</Label>
 		<Label xml:lang="he-IL" Type="Daylight">שעון קיץ מדינות ערביות</Label>
 		<Label xml:lang="hr-HR" Type="Daylight">Arapski poluotok - ljet. vrij.</Label>
 		<Label xml:lang="hu-HU" Type="Daylight">Bagdadi nyári idő</Label>
@@ -554,14 +554,14 @@
 		<Label xml:lang="lt-LT" Type="Daylight">Arabų vasaros / žiemos laikas</Label>
 		<Label xml:lang="lv-LV" Type="Daylight">Arābu vasaras laiks</Label>
 		<Label xml:lang="nb-NO" Type="Daylight">Arabia (sommertid)</Label>
-		<Label xml:lang="nl-NL" Type="Daylight">Arab. schiereiland (zomertijd) </Label>
+		<Label xml:lang="nl-NL" Type="Daylight">Arab. schiereiland (zomertijd)</Label>
 		<Label xml:lang="pl-PL" Type="Daylight">Arabski czas letni</Label>
 		<Label xml:lang="pt-BR" Type="Daylight">Horário de Verão árabe</Label>
 		<Label xml:lang="pt-PT" Type="Daylight">Hora de Verão Árabe</Label>
 		<Label xml:lang="ro-RO" Type="Daylight">Ora de vară Arabia</Label>
 		<Label xml:lang="ru-RU" Type="Daylight">Багдадское время (лето)</Label>
 		<Label xml:lang="sk-SK" Type="Daylight">Arabský čas (letný)</Label>
-		<Label xml:lang="sl-SI" Type="Daylight">Arabski poletni čas </Label>
+		<Label xml:lang="sl-SI" Type="Daylight">Arabski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Irak, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาอารบิกตามฤดูกาล</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Arap Gündüz Saati</Label>
@@ -603,7 +603,7 @@
 		<Label xml:lang="da-DK">(GMT-04:00) Atlantic time (Canada)</Label>
 		<Label xml:lang="de-DE">(GMT-04:00) Atlantic (Kanada)</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς-04:00) Ώρα Ατλαντικού (Καναδάς)</Label>
-		<Label xml:lang="en-US">(UTC-04:00) Atlantic Time (Canada)</Label>
+		<Label xml:lang="en-US">(GMT-04:00) Atlantic Time (Canada)</Label>
 		<Label xml:lang="es-ES">(GMT-04:00) Hora del Atlántico (Canadá)</Label>
 		<Label xml:lang="et-EE">(GMT-04:00) Atlandi ookeani aeg (Kanada)</Label>
 		<Label xml:lang="fi-FI">(GMT-04:00) Atlantin normaaliaika (Kanada)</Label>
@@ -614,7 +614,7 @@
 		<Label xml:lang="it-IT">(GMT-4.00) Ora costa atlantica (Canada)</Label>
 		<Label xml:lang="ja-JP">(GMT-04:00) 大西洋標準時 (カナダ)</Label>
 		<Label xml:lang="ko-KR">(GMT-04:00) 대서양 표준시 (캐나다)</Label>
-		<Label xml:lang="lt-LT">(GMT - 04:00) Atlanto laikas (Kanada)</Label>
+		<Label xml:lang="lt-LT">(GMT-04:00) Atlanto laikas (Kanada)</Label>
 		<Label xml:lang="lv-LV">(GMT-04:00) Atlantijas joslas laiks (Kanāda)</Label>
 		<Label xml:lang="nb-NO">(GMT-04:00) Atlanterhavskysten (Canada)</Label>
 		<Label xml:lang="nl-NL">(GMT-04:00) Atlantic Time (Canada)</Label>
@@ -622,7 +622,7 @@
 		<Label xml:lang="pt-BR">(GMT-04:00) Hora do Atlântico (Canadá)</Label>
 		<Label xml:lang="pt-PT">(GMT-04:00) Hora do Atlântico (Canadá)</Label>
 		<Label xml:lang="ro-RO">(GMT-04:00) Oră Atlantic (Canada)</Label>
-		<Label xml:lang="ru-RU">(UTC-04:00) Атлантическое время (Канада)</Label>
+		<Label xml:lang="ru-RU">(GMT-04:00) Атлантическое время (Канада)</Label>
 		<Label xml:lang="sk-SK">(GMT-04:00) Atlantický čas (Kanada)</Label>
 		<Label xml:lang="sl-SI">(GMT-04:00) Atlantski čas (Kanada)</Label>
 		<Label xml:lang="sv-SE">(GMT-04:00) Atlantic Time (Canada)</Label>
@@ -726,7 +726,7 @@
 		<Label xml:lang="da-DK">(GMT+09:30) Darwin</Label>
 		<Label xml:lang="de-DE">(GMT+09:30) Darwin</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+09:30) Ντάργουιν</Label>
-		<Label xml:lang="en-US">(UTC+09:30) Darwin</Label>
+		<Label xml:lang="en-US">(GMT+09:30) Darwin</Label>
 		<Label xml:lang="es-ES">(GMT+09:30) Darwin</Label>
 		<Label xml:lang="et-EE">(GMT+09:30) Darwin</Label>
 		<Label xml:lang="fi-FI">(GMT+09:30) Darwin</Label>
@@ -745,7 +745,7 @@
 		<Label xml:lang="pt-BR">(GMT+09:30) Darwin</Label>
 		<Label xml:lang="pt-PT">(GMT+09:30) Darwin</Label>
 		<Label xml:lang="ro-RO">(GMT+09:30) Darwin</Label>
-		<Label xml:lang="ru-RU">(UTC+09:30) Дарвин</Label>
+		<Label xml:lang="ru-RU">(GMT+09:30) Дарвин</Label>
 		<Label xml:lang="sk-SK">(GMT+09:30) Darwin</Label>
 		<Label xml:lang="sl-SI">(GMT+09:30) Darwin</Label>
 		<Label xml:lang="sv-SE">(GMT+09:30) Darwin</Label>
@@ -757,18 +757,18 @@
 		<Label xml:lang="sr-Latn-CS">(GMT+09:30) Darvin</Label>
 		<Label xml:lang="en" Type="Standard">AUS Central Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">وسط استراليا - التوقيت الرسمي</Label>
-		<Label xml:lang="bg-BG" Type="Standard">Централноавстрал. станд. време </Label>
+		<Label xml:lang="bg-BG" Type="Standard">Централноавстрал. станд. време</Label>
 		<Label xml:lang="cs-CZ" Type="Standard">Střední Austrálie (běžný čas)</Label>
 		<Label xml:lang="da-DK" Type="Standard">Centralaustralien, normaltid</Label>
-		<Label xml:lang="de-DE" Type="Standard">Zentralaustralische Normalzeit </Label>
-		<Label xml:lang="el-GR" Type="Standard">Χειμερινή  ώρα Κεντρ. Αυστραλίας</Label>
+		<Label xml:lang="de-DE" Type="Standard">Zentralaustralische Normalzeit</Label>
+		<Label xml:lang="el-GR" Type="Standard">Χειμερινή ώρα Κεντρ. Αυστραλίας</Label>
 		<Label xml:lang="en-US" Type="Standard">AUS Central Standard Time</Label>
 		<Label xml:lang="es-ES" Type="Standard">Hora estándar centro, Australia</Label>
 		<Label xml:lang="et-EE" Type="Standard">Austraalia keskosa standardaeg</Label>
 		<Label xml:lang="fi-FI" Type="Standard">Australian keskinen normaaliaika</Label>
 		<Label xml:lang="fr-FR" Type="Standard">AUS Centre</Label>
-		<Label xml:lang="he-IL" Type="Standard">שעון רגיל מרכז אוסטרליה </Label>
-		<Label xml:lang="hr-HR" Type="Standard">Sred. Australija - st. vrij.</Label>
+		<Label xml:lang="he-IL" Type="Standard">שעון רגיל מרכז אוסטרליה</Label>
+		<Label xml:lang="hr-HR" Type="Standard">Središnja Australija - st. vrij.</Label>
 		<Label xml:lang="hu-HU" Type="Standard">Ausztráliai közép téli idő</Label>
 		<Label xml:lang="it-IT" Type="Standard">ora solare Australia centrale</Label>
 		<Label xml:lang="ja-JP" Type="Standard">AUS 中央標準時</Label>
@@ -780,7 +780,7 @@
 		<Label xml:lang="pl-PL" Type="Standard">Australia (środkowy czas stand.)</Label>
 		<Label xml:lang="pt-BR" Type="Standard">Hora Padrão Austrália Central</Label>
 		<Label xml:lang="pt-PT" Type="Standard">Hora padrão Austrália Central</Label>
-		<Label xml:lang="ro-RO" Type="Standard">Ora standard Australia Centrală </Label>
+		<Label xml:lang="ro-RO" Type="Standard">Ora standard Australia Centrală</Label>
 		<Label xml:lang="ru-RU" Type="Standard">Центральная Австралия (зима)</Label>
 		<Label xml:lang="sk-SK" Type="Standard">Stredoaustrálsky čas (normálny)</Label>
 		<Label xml:lang="sl-SI" Type="Standard">Avstralski centralni stand. čas</Label>
@@ -793,18 +793,18 @@
 		<Label xml:lang="sr-Latn-CS" Type="Standard">Stand. vr. u centr. Australiji</Label>
 		<Label xml:lang="en" Type="Daylight">AUS Central Daylight Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">وسط استراليا - التوقيت الصيفي</Label>
-		<Label xml:lang="bg-BG" Type="Daylight">Централноавстрал. лятно време </Label>
+		<Label xml:lang="bg-BG" Type="Daylight">Централноавстрал. лятно време</Label>
 		<Label xml:lang="cs-CZ" Type="Daylight">Střední Austrálie (letní čas)</Label>
 		<Label xml:lang="da-DK" Type="Daylight">Centralaustralien, sommertid</Label>
-		<Label xml:lang="de-DE" Type="Daylight">Zentralaustralische Sommerzeit </Label>
-		<Label xml:lang="el-GR" Type="Daylight">Θερινή ώρα Κεντρ. Αυστραλίας </Label>
+		<Label xml:lang="de-DE" Type="Daylight">Zentralaustralische Sommerzeit</Label>
+		<Label xml:lang="el-GR" Type="Daylight">Θερινή ώρα Κεντρ. Αυστραλίας</Label>
 		<Label xml:lang="en-US" Type="Daylight">AUS Central Daylight Time</Label>
 		<Label xml:lang="es-ES" Type="Daylight">Hora de verano centro, Australia</Label>
 		<Label xml:lang="et-EE" Type="Daylight">Austraalia keskosa suveaeg</Label>
 		<Label xml:lang="fi-FI" Type="Daylight">Australian keskinen kesäaika</Label>
 		<Label xml:lang="fr-FR" Type="Daylight">AUS Centre (heure d'été)</Label>
-		<Label xml:lang="he-IL" Type="Daylight">שעון קיץ מרכז אוסטרליה </Label>
-		<Label xml:lang="hr-HR" Type="Daylight">Sred. Australija - ljet. vrij. </Label>
+		<Label xml:lang="he-IL" Type="Daylight">שעון קיץ מרכז אוסטרליה</Label>
+		<Label xml:lang="hr-HR" Type="Daylight">Sred. Australija - ljet. vrij.</Label>
 		<Label xml:lang="hu-HU" Type="Daylight">Ausztráliai közép nyári idő</Label>
 		<Label xml:lang="it-IT" Type="Daylight">ora legale Australia centrale</Label>
 		<Label xml:lang="ja-JP" Type="Daylight">AUS 中央夏時間</Label>
@@ -814,9 +814,9 @@
 		<Label xml:lang="nb-NO" Type="Daylight">Australia (sentral sommertid)</Label>
 		<Label xml:lang="nl-NL" Type="Daylight">AUS Central (zomertijd)</Label>
 		<Label xml:lang="pl-PL" Type="Daylight">Australia (środkowy czas letni)</Label>
-		<Label xml:lang="pt-BR" Type="Daylight">H. de verão Austrália Central </Label>
+		<Label xml:lang="pt-BR" Type="Daylight">H. de verão Austrália Central</Label>
 		<Label xml:lang="pt-PT" Type="Daylight">Hora de Verão Austrália Central</Label>
-		<Label xml:lang="ro-RO" Type="Daylight">Ora de vară  Australia Centrală</Label>
+		<Label xml:lang="ro-RO" Type="Daylight">Ora de vară Australia Centrală</Label>
 		<Label xml:lang="ru-RU" Type="Daylight">Центральная Австралия (лето)</Label>
 		<Label xml:lang="sk-SK" Type="Daylight">Stredoaustrálsky čas (letný)</Label>
 		<Label xml:lang="sl-SI" Type="Daylight">Avstralski centralni poletni čas</Label>
@@ -838,7 +838,7 @@
 		<Label xml:lang="da-DK">(GMT+10:00) Canberra, Melbourne, Sydney</Label>
 		<Label xml:lang="de-DE">(GMT+10:00) Canberra, Melbourne, Sydney</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+10:00) Καμπέρα, Μελβούρνη, Σίντνεϋ</Label>
-		<Label xml:lang="en-US">(UTC+10:00) Canberra, Melbourne, Sydney</Label>
+		<Label xml:lang="en-US">(GMT+10:00) Canberra, Melbourne, Sydney</Label>
 		<Label xml:lang="es-ES">(GMT+10:00) Canberra, Melbourne, Sidney</Label>
 		<Label xml:lang="et-EE">(GMT+10:00) Canberra, Melbourne, Sydney</Label>
 		<Label xml:lang="fi-FI">(GMT+10:00) Canberra, Melbourne, Sydney</Label>
@@ -857,7 +857,7 @@
 		<Label xml:lang="pt-BR">(GMT+10:00) Camberra, Melbourne, Sydney</Label>
 		<Label xml:lang="pt-PT">(GMT+10:00) Camberra, Melbourne, Sidnei</Label>
 		<Label xml:lang="ro-RO">(GMT+10:00) Canberra, Melbourne, Sydney</Label>
-		<Label xml:lang="ru-RU">(UTC+10:00) Канберра, Мельбурн, Сидней</Label>
+		<Label xml:lang="ru-RU">(GMT+10:00) Канберра, Мельбурн, Сидней</Label>
 		<Label xml:lang="sk-SK">(GMT+10:00) Canberra, Melbourne, Sydney</Label>
 		<Label xml:lang="sl-SI">(GMT+10:00) Canberra, Melbourne, Sydney</Label>
 		<Label xml:lang="sv-SE">(GMT+10:00) Canberra, Melbourne, Sydney</Label>
@@ -869,7 +869,7 @@
 		<Label xml:lang="sr-Latn-CS">(GMT+10:00) Kanbera, Melburn, Sidnej</Label>
 		<Label xml:lang="en" Type="Standard">AUS Eastern Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">شرق استراليا - التوقيت الرسمي</Label>
-		<Label xml:lang="bg-BG" Type="Standard">Източноавстрал. станд. време</Label>
+		<Label xml:lang="bg-BG" Type="Standard">Източноавстралийско станд. време</Label>
 		<Label xml:lang="cs-CZ" Type="Standard">Východní Austrálie (běžný čas)</Label>
 		<Label xml:lang="da-DK" Type="Standard">Australien (øst), normaltid</Label>
 		<Label xml:lang="de-DE" Type="Standard">Ostaustralische Normalzeit</Label>
@@ -879,8 +879,8 @@
 		<Label xml:lang="et-EE" Type="Standard">Austraalia idaosa standardaeg</Label>
 		<Label xml:lang="fi-FI" Type="Standard">Australian itäinen normaaliaika</Label>
 		<Label xml:lang="fr-FR" Type="Standard">AUS (Est)</Label>
-		<Label xml:lang="he-IL" Type="Standard">שעון רגיל מזרח אוסטרליה </Label>
-		<Label xml:lang="hr-HR" Type="Standard">Istočna Australija - st. vrij. </Label>
+		<Label xml:lang="he-IL" Type="Standard">שעון רגיל מזרח אוסטרליה</Label>
+		<Label xml:lang="hr-HR" Type="Standard">Istočna Australija - st. vrij.</Label>
 		<Label xml:lang="hu-HU" Type="Standard">Ausztráliai keleti téli idő</Label>
 		<Label xml:lang="it-IT" Type="Standard">ora solare Australia orient.</Label>
 		<Label xml:lang="ja-JP" Type="Standard">AUS 東部標準時</Label>
@@ -892,9 +892,9 @@
 		<Label xml:lang="pl-PL" Type="Standard">Austral. czas wschodni (stand.)</Label>
 		<Label xml:lang="pt-BR" Type="Standard">Hora Padrão Austrália Oriental</Label>
 		<Label xml:lang="pt-PT" Type="Standard">Hora padrão da AUS de Leste</Label>
-		<Label xml:lang="ro-RO" Type="Standard">Ora standard Australia de Est </Label>
+		<Label xml:lang="ro-RO" Type="Standard">Ora standard Australia de Est</Label>
 		<Label xml:lang="ru-RU" Type="Standard">Сиднейское время (зима)</Label>
-		<Label xml:lang="sk-SK" Type="Standard">Východoaustrálsky čas (norm.)</Label>
+		<Label xml:lang="sk-SK" Type="Standard">Východoaustrálsky čas (normálny)</Label>
 		<Label xml:lang="sl-SI" Type="Standard">Avstralski vzhodni stand. čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Östra Australien, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลาฝั่งต.อ.มาตรฐานของออสเตรเลีย</Label>
@@ -904,8 +904,8 @@
 		<Label xml:lang="zh-TW" Type="Standard">澳洲東部標準時間</Label>
 		<Label xml:lang="sr-Latn-CS" Type="Standard">Stand. vreme u ist. Australiji</Label>
 		<Label xml:lang="en" Type="Daylight">AUS Eastern Daylight Time</Label>
-		<Label xml:lang="ar-SA" Type="Daylight">شرق استراليا - التوقيت الصيفي </Label>
-		<Label xml:lang="bg-BG" Type="Daylight">Източноавстралийско лятно  време</Label>
+		<Label xml:lang="ar-SA" Type="Daylight">شرق استراليا - التوقيت الصيفي</Label>
+		<Label xml:lang="bg-BG" Type="Daylight">Източноавстралийско лятно време</Label>
 		<Label xml:lang="cs-CZ" Type="Daylight">Východní Austrálie (letní čas)</Label>
 		<Label xml:lang="da-DK" Type="Daylight">Australien (øst), sommertid</Label>
 		<Label xml:lang="de-DE" Type="Daylight">Ostaustralische Sommerzeit</Label>
@@ -915,7 +915,7 @@
 		<Label xml:lang="et-EE" Type="Daylight">Austraalia idaosa suveaeg</Label>
 		<Label xml:lang="fi-FI" Type="Daylight">Australian itäinen kesäaika</Label>
 		<Label xml:lang="fr-FR" Type="Daylight">AUS (Est) (heure d'été)</Label>
-		<Label xml:lang="he-IL" Type="Daylight">שעון קיץ מזרח אוסטרליה </Label>
+		<Label xml:lang="he-IL" Type="Daylight">שעון קיץ מזרח אוסטרליה</Label>
 		<Label xml:lang="hr-HR" Type="Daylight">Istočna Australija - ljet. vrij.</Label>
 		<Label xml:lang="hu-HU" Type="Daylight">Ausztráliai keleti nyári idő</Label>
 		<Label xml:lang="it-IT" Type="Daylight">ora legale Australia orient.</Label>
@@ -926,11 +926,11 @@
 		<Label xml:lang="nb-NO" Type="Daylight">Australia, øst (sommertid)</Label>
 		<Label xml:lang="nl-NL" Type="Daylight">AUS Eastern (zomertijd)</Label>
 		<Label xml:lang="pl-PL" Type="Daylight">Austral. czas wschodni (letni)</Label>
-		<Label xml:lang="pt-BR" Type="Daylight">H. de verão Austrália Oriental </Label>
+		<Label xml:lang="pt-BR" Type="Daylight">H. de verão Austrália Oriental</Label>
 		<Label xml:lang="pt-PT" Type="Daylight">Hora de Verão da AUS de Leste</Label>
-		<Label xml:lang="ro-RO" Type="Daylight">Ora de vară Australia de Est </Label>
+		<Label xml:lang="ro-RO" Type="Daylight">Ora de vară Australia de Est</Label>
 		<Label xml:lang="ru-RU" Type="Daylight">Сиднейское время (лето)</Label>
-		<Label xml:lang="sk-SK" Type="Daylight">Východoaustrálsky čas (letný) </Label>
+		<Label xml:lang="sk-SK" Type="Daylight">Východoaustrálsky čas (letný)</Label>
 		<Label xml:lang="sl-SI" Type="Daylight">Avstralski vzhodni poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Östra Australien, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาฝั่งต.อ.ตามฤดูกาลออสเตรเลีย</Label>
@@ -961,7 +961,7 @@
 		<Label xml:lang="da-DK">(GMT+04:00) Baku</Label>
 		<Label xml:lang="de-DE">(GMT+04:00) Baku</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+04:00) Μπακού</Label>
-		<Label xml:lang="en-US">(UTC+04:00) Baku</Label>
+		<Label xml:lang="en-US">(GMT+04:00) Baku</Label>
 		<Label xml:lang="es-ES">(GMT+04:00) Bakú</Label>
 		<Label xml:lang="et-EE">(GMT+04:00) Bakuu</Label>
 		<Label xml:lang="fi-FI">(GMT+04:00) Baku</Label>
@@ -980,7 +980,7 @@
 		<Label xml:lang="pt-BR">(GMT+04:00) Baku</Label>
 		<Label xml:lang="pt-PT">(GMT+04:00) Baku</Label>
 		<Label xml:lang="ro-RO">(GMT+04:00) Baku</Label>
-		<Label xml:lang="ru-RU">(UTC+04:00) Баку</Label>
+		<Label xml:lang="ru-RU">(GMT+04:00) Баку</Label>
 		<Label xml:lang="sk-SK">(GMT+04:00) Baku</Label>
 		<Label xml:lang="sl-SI">(GMT+04:00) Baku</Label>
 		<Label xml:lang="sv-SE">(GMT+04:00) Baku</Label>
@@ -1076,7 +1076,7 @@
 		<Label xml:lang="da-DK">(GMT-01:00) Azorerne</Label>
 		<Label xml:lang="de-DE">(GMT-01:00) Azoren</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς-01:00) Αζόρες</Label>
-		<Label xml:lang="en-US">(UTC-01:00) Azores</Label>
+		<Label xml:lang="en-US">(GMT-01:00) Azores</Label>
 		<Label xml:lang="es-ES">(GMT-01:00) Azores</Label>
 		<Label xml:lang="et-EE">(GMT-01:00) Azores</Label>
 		<Label xml:lang="fi-FI">(GMT-01:00) Azorit</Label>
@@ -1087,7 +1087,7 @@
 		<Label xml:lang="it-IT">(GMT-1.00) Azzorre</Label>
 		<Label xml:lang="ja-JP">(GMT-01:00) アゾレス諸島</Label>
 		<Label xml:lang="ko-KR">(GMT-01:00) 아조레스</Label>
-		<Label xml:lang="lt-LT">(GMT - 01:00) Azorai</Label>
+		<Label xml:lang="lt-LT">(GMT-01:00) Azorai</Label>
 		<Label xml:lang="lv-LV">(GMT-01:00) Azoru salas</Label>
 		<Label xml:lang="nb-NO">(GMT-01:00) Azorene</Label>
 		<Label xml:lang="nl-NL">(GMT-01:00) Azoren</Label>
@@ -1095,7 +1095,7 @@
 		<Label xml:lang="pt-BR">(GMT-01:00) Açores</Label>
 		<Label xml:lang="pt-PT">(GMT-01:00) Açores</Label>
 		<Label xml:lang="ro-RO">(GMT-01:00) Azore</Label>
-		<Label xml:lang="ru-RU">(UTC-01:00) Азорские о-ва</Label>
+		<Label xml:lang="ru-RU">(GMT-01:00) Азорские о-ва</Label>
 		<Label xml:lang="sk-SK">(GMT-01:00) Azory</Label>
 		<Label xml:lang="sl-SI">(GMT-01:00) Azori</Label>
 		<Label xml:lang="sv-SE">(GMT-01:00) Azorerna</Label>
@@ -1191,7 +1191,7 @@
 		<Label xml:lang="da-DK">(GMT-06:00) Saskatchewan</Label>
 		<Label xml:lang="de-DE">(GMT-06:00) Saskatchewan</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς-06:00) Σασκάτσιουαν</Label>
-		<Label xml:lang="en-US">(UTC-06:00) Saskatchewan</Label>
+		<Label xml:lang="en-US">(GMT-06:00) Saskatchewan</Label>
 		<Label xml:lang="es-ES">(GMT-06:00) Saskatchewan</Label>
 		<Label xml:lang="et-EE">(GMT-06:00) Saskatchewan</Label>
 		<Label xml:lang="fi-FI">(GMT-06:00) Saskatchewan</Label>
@@ -1202,7 +1202,7 @@
 		<Label xml:lang="it-IT">(GMT-6.00) Saskatchewan</Label>
 		<Label xml:lang="ja-JP">(GMT-06:00) サスカチュワン</Label>
 		<Label xml:lang="ko-KR">(GMT-06:00) 서스캐처원</Label>
-		<Label xml:lang="lt-LT">(GMT - 06:00) Saskačevanas</Label>
+		<Label xml:lang="lt-LT">(GMT-06:00) Saskačevanas</Label>
 		<Label xml:lang="lv-LV">(GMT-06:00) Saskačevana</Label>
 		<Label xml:lang="nb-NO">(GMT-06:00) Saskatchewan</Label>
 		<Label xml:lang="nl-NL">(GMT-06:00) Saskatchewan</Label>
@@ -1210,7 +1210,7 @@
 		<Label xml:lang="pt-BR">(GMT-06:00) Saskatchewan</Label>
 		<Label xml:lang="pt-PT">(GMT-06:00) Saskatchewan</Label>
 		<Label xml:lang="ro-RO">(GMT-06:00) Saskatchewan</Label>
-		<Label xml:lang="ru-RU">(UTC-06:00) Саскачеван</Label>
+		<Label xml:lang="ru-RU">(GMT-06:00) Саскачеван</Label>
 		<Label xml:lang="sk-SK">(GMT-06:00) Saskatchewan</Label>
 		<Label xml:lang="sl-SI">(GMT-06:00) Saskatchewan</Label>
 		<Label xml:lang="sv-SE">(GMT-06:00) Saskatchewan</Label>
@@ -1303,7 +1303,7 @@
 		<Label xml:lang="da-DK">(GMT-01:00) Kap Verde</Label>
 		<Label xml:lang="de-DE">(GMT-01:00) Kap Verde</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς-01:00) Νησιά Πράσινου Ακρωτηρίου</Label>
-		<Label xml:lang="en-US">(UTC-01:00) Cape Verde Is.</Label>
+		<Label xml:lang="en-US">(GMT-01:00) Cape Verde Is.</Label>
 		<Label xml:lang="es-ES">(GMT-01:00) Islas del Cabo Verde</Label>
 		<Label xml:lang="et-EE">(GMT-01:00) Cape Verde Is.</Label>
 		<Label xml:lang="fi-FI">(GMT-01:00) Kap Verde</Label>
@@ -1314,7 +1314,7 @@
 		<Label xml:lang="it-IT">(GMT-1.00) Capo Verde</Label>
 		<Label xml:lang="ja-JP">(GMT-01:00) カーボベルデ諸島</Label>
 		<Label xml:lang="ko-KR">(GMT-01:00) 카보베르데 제도</Label>
-		<Label xml:lang="lt-LT">(GMT - 01:00) Žaliasis kyšulys.</Label>
+		<Label xml:lang="lt-LT">(GMT-01:00) Žaliasis kyšulys.</Label>
 		<Label xml:lang="lv-LV">(GMT-01:00) Kaboverdes salas</Label>
 		<Label xml:lang="nb-NO">(GMT-01:00) Kapp Verdeøyene</Label>
 		<Label xml:lang="nl-NL">(GMT-01:00) Kaapverdië</Label>
@@ -1322,7 +1322,7 @@
 		<Label xml:lang="pt-BR">(GMT-01:00) Cabo Verde</Label>
 		<Label xml:lang="pt-PT">(GMT-01:00) Ilha de Cabo Verde</Label>
 		<Label xml:lang="ro-RO">(GMT-01:00) Insulele Capului Verde</Label>
-		<Label xml:lang="ru-RU">(UTC-01:00) О-ва Зеленого Мыса</Label>
+		<Label xml:lang="ru-RU">(GMT-01:00) О-ва Зеленого Мыса</Label>
 		<Label xml:lang="sk-SK">(GMT-01:00) Kapverdy</Label>
 		<Label xml:lang="sl-SI">(GMT-01:00) Zelenortski otoki</Label>
 		<Label xml:lang="sv-SE">(GMT-01:00) Kap Verde-öarna</Label>
@@ -1415,7 +1415,7 @@
 		<Label xml:lang="da-DK">(GMT+04:00) Yerevan</Label>
 		<Label xml:lang="de-DE">(GMT+04:00) Eriwan</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+04:00) Ερεβάν</Label>
-		<Label xml:lang="en-US">(UTC+04:00) Yerevan</Label>
+		<Label xml:lang="en-US">(GMT+04:00) Yerevan</Label>
 		<Label xml:lang="es-ES">(GMT+04:00) Ereván</Label>
 		<Label xml:lang="et-EE">(GMT+04:00) Jerevan</Label>
 		<Label xml:lang="fi-FI">(GMT+04:00) Jerevan</Label>
@@ -1434,7 +1434,7 @@
 		<Label xml:lang="pt-BR">(GMT+04:00) Yerevan</Label>
 		<Label xml:lang="pt-PT">(GMT+04:00) Yerevan</Label>
 		<Label xml:lang="ro-RO">(GMT+04:00) Erevan</Label>
-		<Label xml:lang="ru-RU">(UTC+04:00) Ереван</Label>
+		<Label xml:lang="ru-RU">(GMT+04:00) Ереван</Label>
 		<Label xml:lang="sk-SK">(GMT+04:00) Jerevan</Label>
 		<Label xml:lang="sl-SI">(GMT+04:00) Erevan</Label>
 		<Label xml:lang="sv-SE">(GMT+04:00) Yerevan</Label>
@@ -1530,7 +1530,7 @@
 		<Label xml:lang="da-DK">(GMT+09:30) Adelaide</Label>
 		<Label xml:lang="de-DE">(GMT+09:30) Adelaide</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+09:30) Αδελαΐδα</Label>
-		<Label xml:lang="en-US">(UTC+09:30) Adelaide</Label>
+		<Label xml:lang="en-US">(GMT+09:30) Adelaide</Label>
 		<Label xml:lang="es-ES">(GMT+09:30) Adelaida</Label>
 		<Label xml:lang="et-EE">(GMT+09:30) Adelaide</Label>
 		<Label xml:lang="fi-FI">(GMT+09:30) Adelaide</Label>
@@ -1549,7 +1549,7 @@
 		<Label xml:lang="pt-BR">(GMT+09:30) Adelaide</Label>
 		<Label xml:lang="pt-PT">(GMT+09:30) Adelaide</Label>
 		<Label xml:lang="ro-RO">(GMT+09:30) Adelaide</Label>
-		<Label xml:lang="ru-RU">(UTC+09:30) Аделаида</Label>
+		<Label xml:lang="ru-RU">(GMT+09:30) Аделаида</Label>
 		<Label xml:lang="sk-SK">(GMT+09:30) Adelaide</Label>
 		<Label xml:lang="sl-SI">(GMT+09:30) Adelaide</Label>
 		<Label xml:lang="sv-SE">(GMT+09:30) Adelaide</Label>
@@ -1653,7 +1653,7 @@
 		<Label xml:lang="da-DK">(GMT-06:00) Mellemamerika</Label>
 		<Label xml:lang="de-DE">(GMT-06:00) Mittelamerika</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς-06:00) Κεντρική Αμερική</Label>
-		<Label xml:lang="en-US">(UTC-06:00) Central America</Label>
+		<Label xml:lang="en-US">(GMT-06:00) Central America</Label>
 		<Label xml:lang="es-ES">(GMT-06:00) Centroamérica</Label>
 		<Label xml:lang="et-EE">(GMT-06:00) Kesk-Ameerika</Label>
 		<Label xml:lang="fi-FI">(GMT-06:00) Keski-Amerikka</Label>
@@ -1664,7 +1664,7 @@
 		<Label xml:lang="it-IT">(GMT-6.00) America centrale</Label>
 		<Label xml:lang="ja-JP">(GMT-06:00) 中央アメリカ</Label>
 		<Label xml:lang="ko-KR">(GMT-06:00) 중앙 아메리카</Label>
-		<Label xml:lang="lt-LT">(GMT - 06:00) Centrinė Amerika</Label>
+		<Label xml:lang="lt-LT">(GMT-06:00) Centrinė Amerika</Label>
 		<Label xml:lang="lv-LV">(GMT-06:00) Centrālamerika</Label>
 		<Label xml:lang="nb-NO">(GMT-06:00) Sentral-Amerika</Label>
 		<Label xml:lang="nl-NL">(GMT-06:00) Centraal-Amerika</Label>
@@ -1672,7 +1672,7 @@
 		<Label xml:lang="pt-BR">(GMT-06:00) América Central</Label>
 		<Label xml:lang="pt-PT">(GMT-06:00) América Central</Label>
 		<Label xml:lang="ro-RO">(GMT-06:00) America Centrală</Label>
-		<Label xml:lang="ru-RU">(UTC-06:00) Центральная Америка</Label>
+		<Label xml:lang="ru-RU">(GMT-06:00) Центральная Америка</Label>
 		<Label xml:lang="sk-SK">(GMT-06:00) Stredná Amerika</Label>
 		<Label xml:lang="sl-SI">(GMT-06:00) Srednja Amerika</Label>
 		<Label xml:lang="sv-SE">(GMT-06:00) Centralamerika</Label>
@@ -1765,7 +1765,7 @@
 		<Label xml:lang="da-DK">(GMT+06:00) Astana, Dhaka</Label>
 		<Label xml:lang="de-DE">(GMT+06:00) Astana, Dakka</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+06:00) Αστάνα, Ντάκα</Label>
-		<Label xml:lang="en-US">(UTC+06:00) Astana, Dhaka</Label>
+		<Label xml:lang="en-US">(GMT+06:00) Astana, Dhaka</Label>
 		<Label xml:lang="es-ES">(GMT+06:00) Astana, Dhaka</Label>
 		<Label xml:lang="et-EE">(GMT+06:00) Astana, Dhaka</Label>
 		<Label xml:lang="fi-FI">(GMT+06:00) Astana, Dhaka</Label>
@@ -1784,7 +1784,7 @@
 		<Label xml:lang="pt-BR">(GMT+06:00) Astana, Dacca</Label>
 		<Label xml:lang="pt-PT">(GMT+06:00) Astana, Dhaka</Label>
 		<Label xml:lang="ro-RO">(GMT+06:00) Astana, Dhaka</Label>
-		<Label xml:lang="ru-RU">(UTC+06:00) Астана, Дака</Label>
+		<Label xml:lang="ru-RU">(GMT+06:00) Астана, Дака</Label>
 		<Label xml:lang="sk-SK">(GMT+06:00) Astana, Dháka</Label>
 		<Label xml:lang="sl-SI">(GMT+06:00) Astana, Daka</Label>
 		<Label xml:lang="sv-SE">(GMT+06:00) Astana, Dacca</Label>
@@ -1877,7 +1877,7 @@
 		<Label xml:lang="da-DK">(GMT-04:00) Manaus</Label>
 		<Label xml:lang="de-DE">(GMT-04:00) Manaus</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς-04:00) Μανάους</Label>
-		<Label xml:lang="en-US">(UTC-04:00) Manaus</Label>
+		<Label xml:lang="en-US">(GMT-04:00) Manaus</Label>
 		<Label xml:lang="es-ES">(GMT-04:00) Manaus</Label>
 		<Label xml:lang="et-EE">(GMT-04:00) Manaus</Label>
 		<Label xml:lang="fi-FI">(GMT-04:00) Manaus</Label>
@@ -1896,7 +1896,7 @@
 		<Label xml:lang="pt-BR">(GMT-04:00) Manaus</Label>
 		<Label xml:lang="pt-PT">(GMT-04:00) Manaus</Label>
 		<Label xml:lang="ro-RO">(GMT-04:00) Manaus</Label>
-		<Label xml:lang="ru-RU">(UTC-04:00) Манаус</Label>
+		<Label xml:lang="ru-RU">(GMT-04:00) Манаус</Label>
 		<Label xml:lang="sk-SK">(GMT-04:00) Manaus</Label>
 		<Label xml:lang="sl-SI">(GMT-04:00) Manaus</Label>
 		<Label xml:lang="sv-SE">(GMT-04:00) Manaus</Label>
@@ -2004,7 +2004,7 @@
 		<Label xml:lang="da-DK">(GMT+01:00) Beograd, Bratislava, Budapest, Ljubljana, Prag</Label>
 		<Label xml:lang="de-DE">(GMT+01:00) Belgrad, Bratislava, Budapest, Ljubljana, Prag</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+01:00) Βελιγράδι, Μπρατισλάβα, Βουδαπέστη, Λουμπλιάνα, Πράγα</Label>
-		<Label xml:lang="en-US">(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague</Label>
+		<Label xml:lang="en-US">(GMT+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague</Label>
 		<Label xml:lang="es-ES">(GMT+01:00) Belgrado, Bratislava, Budapest, Lubiana, Praga</Label>
 		<Label xml:lang="et-EE">(GMT+01:00) Belgrad, Bratislava, Budapest, Ljubljana, Praha</Label>
 		<Label xml:lang="fi-FI">(GMT+01:00) Belgrad, Bratislava, Budapest, Ljubljana, Praha</Label>
@@ -2023,7 +2023,7 @@
 		<Label xml:lang="pt-BR">(GMT+01:00) Belgrado, Bratislava, Budapeste, Liubliana, Praga</Label>
 		<Label xml:lang="pt-PT">(GMT+01:00) Belgrado, Bratislava, Budapeste, Praga</Label>
 		<Label xml:lang="ro-RO">(GMT+01:00) Belgrad, Bratislava, Budapesta, Ljubljana, Praga</Label>
-		<Label xml:lang="ru-RU">(UTC+01:00) Белград, Братислава, Будапешт, Любляна, Прага</Label>
+		<Label xml:lang="ru-RU">(GMT+01:00) Белград, Братислава, Будапешт, Любляна, Прага</Label>
 		<Label xml:lang="sk-SK">(GMT+01:00) Belehrad, Bratislava, Budapešť, Ľubľana, Praha</Label>
 		<Label xml:lang="sl-SI">(GMT+01:00) Beograd, Bratislava, Budimpešta, Ljubljana, Praga</Label>
 		<Label xml:lang="sv-SE">(GMT+01:00) Belgrad, Bratislava, Budapest, Ljubljana, Prag</Label>
@@ -2038,33 +2038,33 @@
 		<Label xml:lang="bg-BG" Type="Standard">Централна Европа - станд. време</Label>
 		<Label xml:lang="cs-CZ" Type="Standard">Střední Evropa (běžný čas)</Label>
 		<Label xml:lang="da-DK" Type="Standard">Centraleuropa, normaltid</Label>
-		<Label xml:lang="de-DE" Type="Standard">Mitteleuropäische Zeit   </Label>
+		<Label xml:lang="de-DE" Type="Standard">Mitteleuropäische Zeit</Label>
 		<Label xml:lang="el-GR" Type="Standard">Χειμερινή ώρα Κεντρικής Ευρώπης</Label>
 		<Label xml:lang="en-US" Type="Standard">Central Europe Standard Time</Label>
 		<Label xml:lang="es-ES" Type="Standard">Hora estándar Europa Central</Label>
 		<Label xml:lang="et-EE" Type="Standard">Kesk-Euroopa standardaeg</Label>
-		<Label xml:lang="fi-FI" Type="Standard">Keski-Euroopan normaaliaika </Label>
+		<Label xml:lang="fi-FI" Type="Standard">Keski-Euroopan  normaaliaika</Label>
 		<Label xml:lang="fr-FR" Type="Standard">Europe centrale</Label>
 		<Label xml:lang="he-IL" Type="Standard">שעון רגיל מרכז אירופה</Label>
-		<Label xml:lang="hr-HR" Type="Standard">Srednja Europa - st. vrij. </Label>
+		<Label xml:lang="hr-HR" Type="Standard">Srednja Europa - st. vrij.</Label>
 		<Label xml:lang="hu-HU" Type="Standard">Közép-európai téli idő</Label>
 		<Label xml:lang="it-IT" Type="Standard">ora solare Eur. Cen.</Label>
 		<Label xml:lang="ja-JP" Type="Standard">中央ヨーロッパ標準時</Label>
-		<Label xml:lang="ko-KR" Type="Standard">중앙 유럽 표준시 </Label>
-		<Label xml:lang="lt-LT" Type="Standard">Stand. Vidurio Europos laikas</Label>
-		<Label xml:lang="lv-LV" Type="Standard">Centrāleiropas standarta laiks </Label>
+		<Label xml:lang="ko-KR" Type="Standard">중앙 유럽 표준시</Label>
+		<Label xml:lang="lt-LT" Type="Standard">Standart. Vidurio Europos laikas</Label>
+		<Label xml:lang="lv-LV" Type="Standard">Centrāleiropas standarta laiks</Label>
 		<Label xml:lang="nb-NO" Type="Standard">Sentral-Europa (normaltid)</Label>
 		<Label xml:lang="nl-NL" Type="Standard">Centraal-Europa (standaardtijd)</Label>
 		<Label xml:lang="pl-PL" Type="Standard">Europa Środkowa (czas stand.)</Label>
 		<Label xml:lang="pt-BR" Type="Standard">Hora Padrão da Europa Central</Label>
 		<Label xml:lang="pt-PT" Type="Standard">Hora padrão da Europa Central</Label>
-		<Label xml:lang="ro-RO" Type="Standard">Europa Centrală, oră standard </Label>
+		<Label xml:lang="ro-RO" Type="Standard">Europa Centrală, oră standard</Label>
 		<Label xml:lang="ru-RU" Type="Standard">Центральная Европа (зима)</Label>
 		<Label xml:lang="sk-SK" Type="Standard">Stredoeurópsky čas (normálny)</Label>
 		<Label xml:lang="sl-SI" Type="Standard">Srednjeevropski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Centraleuropa, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลายุโรปกลางมาตรฐาน</Label>
-		<Label xml:lang="tr-TR" Type="Standard">Orta Avrupa Standart Saati </Label>
+		<Label xml:lang="tr-TR" Type="Standard">Orta Avrupa Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Центральна Європа (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">中欧标准时间</Label>
 		<Label xml:lang="zh-TW" Type="Standard">中歐標準時間</Label>
@@ -2074,33 +2074,33 @@
 		<Label xml:lang="bg-BG" Type="Daylight">Централна Европа - лятно време</Label>
 		<Label xml:lang="cs-CZ" Type="Daylight">Střední Evropa (letní čas)</Label>
 		<Label xml:lang="da-DK" Type="Daylight">Centraleuropa, sommertid</Label>
-		<Label xml:lang="de-DE" Type="Daylight">Mitteleuropäische Sommerzeit   </Label>
+		<Label xml:lang="de-DE" Type="Daylight">Mitteleuropäische Sommerzeit</Label>
 		<Label xml:lang="el-GR" Type="Daylight">Θερινή ώρα Κεντρικής Ευρώπης</Label>
 		<Label xml:lang="en-US" Type="Daylight">Central Europe Daylight Time</Label>
 		<Label xml:lang="es-ES" Type="Daylight">Hora de verano Europa Central</Label>
-		<Label xml:lang="et-EE" Type="Daylight">Kesk-Euroopa suveaeg </Label>
-		<Label xml:lang="fi-FI" Type="Daylight">Keski-Euroopan kesäaika </Label>
+		<Label xml:lang="et-EE" Type="Daylight">Kesk-Euroopa suveaeg</Label>
+		<Label xml:lang="fi-FI" Type="Daylight">Keski-Euroopan  kesäaika</Label>
 		<Label xml:lang="fr-FR" Type="Daylight">Europe centrale (heure d'été)</Label>
 		<Label xml:lang="he-IL" Type="Daylight">שעון קיץ מרכז אירופה</Label>
-		<Label xml:lang="hr-HR" Type="Daylight">Srednja Europa - ljet. vrij. </Label>
+		<Label xml:lang="hr-HR" Type="Daylight">Srednja Europa - ljet. vrij.</Label>
 		<Label xml:lang="hu-HU" Type="Daylight">Közép-európai nyári idő</Label>
 		<Label xml:lang="it-IT" Type="Daylight">ora legale Eur. Cen.</Label>
 		<Label xml:lang="ja-JP" Type="Daylight">中央ヨーロッパ夏時間</Label>
-		<Label xml:lang="ko-KR" Type="Daylight">중앙 유럽 일광 절약 시간 </Label>
+		<Label xml:lang="ko-KR" Type="Daylight">중앙 유럽 일광 절약 시간</Label>
 		<Label xml:lang="lt-LT" Type="Daylight">Vid. Europos vas. / žiem. laik.</Label>
-		<Label xml:lang="lv-LV" Type="Daylight">Centrāleiropas vasaras laiks </Label>
+		<Label xml:lang="lv-LV" Type="Daylight">Centrāleiropas vasaras laiks</Label>
 		<Label xml:lang="nb-NO" Type="Daylight">Sentral-Europa (sommertid)</Label>
 		<Label xml:lang="nl-NL" Type="Daylight">Centraal-Europa (zomertijd)</Label>
 		<Label xml:lang="pl-PL" Type="Daylight">Europa Środkowa (czas letni)</Label>
 		<Label xml:lang="pt-BR" Type="Daylight">Hor. de Verão da Europa Central</Label>
 		<Label xml:lang="pt-PT" Type="Daylight">Hora de Verão da Europa Central</Label>
-		<Label xml:lang="ro-RO" Type="Daylight">Europa Centrală, oră de vară </Label>
+		<Label xml:lang="ro-RO" Type="Daylight">Europa Centrală, oră de vară</Label>
 		<Label xml:lang="ru-RU" Type="Daylight">Центральная Европа (лето)</Label>
 		<Label xml:lang="sk-SK" Type="Daylight">Stredoeurópsky čas (letný)</Label>
-		<Label xml:lang="sl-SI" Type="Daylight">Srednjeevropski poletni čas </Label>
+		<Label xml:lang="sl-SI" Type="Daylight">Srednjeevropski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Centraleuropa, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลายุโรปกลางตามฤดูกาล</Label>
-		<Label xml:lang="tr-TR" Type="Daylight">Orta Avrupa Yaz Saati </Label>
+		<Label xml:lang="tr-TR" Type="Daylight">Orta Avrupa Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Центральна Європа (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">中欧夏令时</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">中歐日光節約時間</Label>
@@ -2119,7 +2119,7 @@
 		<Label xml:lang="da-DK">(GMT+01:00) Sarajevo, Skopje, Warszawa, Zagreb</Label>
 		<Label xml:lang="de-DE">(GMT+01:00) Sarajevo, Skopje, Warschau, Zagreb</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+01:00) Σαράγεβο, Σκόπια, Βαρσοβία, Ζάγκρεμπ</Label>
-		<Label xml:lang="en-US">(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb</Label>
+		<Label xml:lang="en-US">(GMT+01:00) Sarajevo, Skopje, Warsaw, Zagreb</Label>
 		<Label xml:lang="es-ES">(GMT+01:00) Sarajevo, Escopia, Varsovia, Zágreb</Label>
 		<Label xml:lang="et-EE">(GMT+01:00) Sarajevo, Skopje, Varssavi, Zagreb</Label>
 		<Label xml:lang="fi-FI">(GMT+01:00) Sarajevo, Skopje, Varsova, Zagreb</Label>
@@ -2138,7 +2138,7 @@
 		<Label xml:lang="pt-BR">(GMT+01:00) Sarajevo, Skoplie, Varsóvia, Zagreb</Label>
 		<Label xml:lang="pt-PT">(GMT+01:00) Sarajevo, Skopje, Sofia, Varsóvia, Zagreb</Label>
 		<Label xml:lang="ro-RO">(GMT+01:00) Sarajevo, Skopje, Varșovia, Zagreb</Label>
-		<Label xml:lang="ru-RU">(UTC+01:00) Варшава, Загреб, Сараево, Скопье</Label>
+		<Label xml:lang="ru-RU">(GMT+01:00) Варшава, Загреб, Сараево, Скопье</Label>
 		<Label xml:lang="sk-SK">(GMT+01:00) Sarajevo, Skopje, Varšava, Záhreb</Label>
 		<Label xml:lang="sl-SI">(GMT+01:00) Sarajevo, Skopje, Varšava, Zagreb</Label>
 		<Label xml:lang="sv-SE">(GMT+01:00) Sarajevo, Skopje, Warszawa, Zagreb</Label>
@@ -2153,7 +2153,7 @@
 		<Label xml:lang="bg-BG" Type="Standard">Централноевропейско станд. време</Label>
 		<Label xml:lang="cs-CZ" Type="Standard">Středoevropský běžný čas</Label>
 		<Label xml:lang="da-DK" Type="Standard">Centr. Europa, normaltid</Label>
-		<Label xml:lang="de-DE" Type="Standard">Mitteleuropäische Zeit  </Label>
+		<Label xml:lang="de-DE" Type="Standard">Mitteleuropäische Zeit</Label>
 		<Label xml:lang="el-GR" Type="Standard">Κεντρική Ευρώπη, χειμερινή ώρα</Label>
 		<Label xml:lang="en-US" Type="Standard">Central European Standard Time</Label>
 		<Label xml:lang="es-ES" Type="Standard">Hora estándar centroeuropea</Label>
@@ -2189,12 +2189,12 @@
 		<Label xml:lang="bg-BG" Type="Daylight">Централноевропейско лятно време</Label>
 		<Label xml:lang="cs-CZ" Type="Daylight">Středoevropský letní čas</Label>
 		<Label xml:lang="da-DK" Type="Daylight">Centr. Europa, sommertid</Label>
-		<Label xml:lang="de-DE" Type="Daylight">Mitteleuropäische Sommerzeit  </Label>
+		<Label xml:lang="de-DE" Type="Daylight">Mitteleuropäische Sommerzeit</Label>
 		<Label xml:lang="el-GR" Type="Daylight">Κεντρική Ευρώπη, θερινή ώρα</Label>
 		<Label xml:lang="en-US" Type="Daylight">Central European Daylight Time</Label>
 		<Label xml:lang="es-ES" Type="Daylight">Hora de verano centroeuropea</Label>
 		<Label xml:lang="et-EE" Type="Daylight">Kesk-Euroopa suveaeg</Label>
-		<Label xml:lang="fi-FI" Type="Daylight">Keski-Euroopan kesäaika</Label>
+		<Label xml:lang="fi-FI" Type="Daylight">Keski-Euroopan  kesäaika</Label>
 		<Label xml:lang="fr-FR" Type="Daylight">Centre de l'Europe (heure d'été)</Label>
 		<Label xml:lang="he-IL" Type="Daylight">שעון קיץ מרכז אירופי</Label>
 		<Label xml:lang="hr-HR" Type="Daylight">Srednja Europa - ljet. vrij.</Label>
@@ -2234,7 +2234,7 @@
 		<Label xml:lang="da-DK">(GMT+11:00) Magadan, Salomonøerne, Ny Kaledonien</Label>
 		<Label xml:lang="de-DE">(GMT+11:00) Magadan, Salomonen, Neu-Kaledonien</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+11:00) Μάγκανταν, Νησιά Σολομώντα, Νέα Καληδονία</Label>
-		<Label xml:lang="en-US">(UTC+11:00) Magadan, Solomon Is., New Caledonia</Label>
+		<Label xml:lang="en-US">(GMT+11:00) Magadan, Solomon Is., New Caledonia</Label>
 		<Label xml:lang="es-ES">(GMT+11:00) Magadán, Islas Salomón, Nueva Caledonia</Label>
 		<Label xml:lang="et-EE">(GMT+11:00) Magadan, Saalomoni saared, Uus-Kaledoonia</Label>
 		<Label xml:lang="fi-FI">(GMT+11:00) Magadan, Salomonsaaret, Uusi-Kaledonia</Label>
@@ -2253,7 +2253,7 @@
 		<Label xml:lang="pt-BR">(GMT+11:00) Magadã, Ihas Salomão, Nova Caledônia</Label>
 		<Label xml:lang="pt-PT">(GMT+11:00) Magadã, Ilhas de Salomão, Nova Caledónia</Label>
 		<Label xml:lang="ro-RO">(GMT+11:00) Magadan, Insulele Solomon, Noua Caledonie</Label>
-		<Label xml:lang="ru-RU">(UTC+11:00) Магадан, Нов. Каледония, Соломоновы о-ва</Label>
+		<Label xml:lang="ru-RU">(GMT+11:00) Магадан, Нов. Каледония, Соломоновы о-ва</Label>
 		<Label xml:lang="sk-SK">(GMT+11:00) Magadan, Šalamúnove ostrovy, Nová Kaledónia</Label>
 		<Label xml:lang="sl-SI">(GMT+11:00) Magadan, Salomonovi otoki, Nova Kaledonija</Label>
 		<Label xml:lang="sv-SE">(GMT+11:00) Magadan, Salomonön, Nya Kaledonien</Label>
@@ -2341,12 +2341,12 @@
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Central Standard Time">Central Standard Time</Link>
 		<Label xml:lang="en">(GMT-06:00) Central Time (US &amp; Canada)</Label>
 		<Label xml:lang="ar-SA">(GMT-06:00) توقيت الوسط (الولايات المتحدة الأمريكية وكندا)</Label>
-		<Label xml:lang="bg-BG">&amp;(GMT-06:00) Централно време (САЩ и Канада)</Label>
+		<Label xml:lang="bg-BG">(GMT-06:00) Централно време (САЩ и Канада)</Label>
 		<Label xml:lang="cs-CZ">(GMT-06:00) Střed USA a Kanady</Label>
-		<Label xml:lang="da-DK">&amp;(GMT-06:00) Central Time (US og Canada)</Label>
+		<Label xml:lang="da-DK">(GMT-06:00) Central Time (US og Canada)</Label>
 		<Label xml:lang="de-DE">(GMT-06:00) Central (USA, Kanada)</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς-06:00) Κεντρική ώρα (Η.Π.Α. &amp; Καναδάς)</Label>
-		<Label xml:lang="en-US">(UTC-06:00) Central Time (US &amp; Canada)</Label>
+		<Label xml:lang="en-US">(GMT-06:00) Central Time (US &amp; Canada)</Label>
 		<Label xml:lang="es-ES">(GMT-06:00) Hora del centro (EE.UU. y Canadá)</Label>
 		<Label xml:lang="et-EE">(GMT-06:00) Põhja Ameerika Kesk aeg</Label>
 		<Label xml:lang="fi-FI">(GMT-06:00) Keskinen normaaliaika (USA ja Kanada)</Label>
@@ -2357,7 +2357,7 @@
 		<Label xml:lang="it-IT">(GMT-6.00) Fuso centrale (USA e Canada)</Label>
 		<Label xml:lang="ja-JP">(GMT-06:00) 中部標準時 (米国およびカナダ)</Label>
 		<Label xml:lang="ko-KR">(GMT-06:00) 중부 표준시 (미국과 캐나다)</Label>
-		<Label xml:lang="lt-LT">(&amp;GMT-06:00) Centrinis laikas (JAV  Kanada)</Label>
+		<Label xml:lang="lt-LT">(GMT-06:00) Centrinis laikas (JAV &amp; Kanada)</Label>
 		<Label xml:lang="lv-LV">(GMT-06:00) Centrālais laiks (ASV, Kanāda)</Label>
 		<Label xml:lang="nb-NO">(GMT-06:00) Midtvesten (USA og Canada)</Label>
 		<Label xml:lang="nl-NL">(GMT-06:00) Central Time (V.S. en Canada)</Label>
@@ -2365,7 +2365,7 @@
 		<Label xml:lang="pt-BR">(GMT-06:00) Hora Central (EUA e Canadá)</Label>
 		<Label xml:lang="pt-PT">(GMT-06:00) Hora Central (E.U.A. e Canadá)</Label>
 		<Label xml:lang="ro-RO">(GMT-06:00) Ora regiunii centrale (SUA și Canada)</Label>
-		<Label xml:lang="ru-RU">(UTC-06:00) Центральное время (США и Канада)</Label>
+		<Label xml:lang="ru-RU">(GMT-06:00) Центральное время (США и Канада)</Label>
 		<Label xml:lang="sk-SK">(GMT-06:00) Centrálny čas (USA a Kanada)</Label>
 		<Label xml:lang="sl-SI">(GMT-06:00) Centralni čas (ZDA in Kanada)</Label>
 		<Label xml:lang="sv-SE">(GMT-06:00) Central Time (USA och Canada)</Label>
@@ -2374,7 +2374,7 @@
 		<Label xml:lang="uk-UA">(GMT-06:00) Центральний час (США та Канада)</Label>
 		<Label xml:lang="zh-CN">(GMT-06:00) 中部时间(美国和加拿大)</Label>
 		<Label xml:lang="zh-TW">(GMT-06:00) 中部時間 (美國和加拿大)</Label>
-		<Label xml:lang="sr-Latn-CS">(GMT- 06:00) Centralno vreme (SAD i Kanada)</Label>
+		<Label xml:lang="sr-Latn-CS">(GMT-06:00) Centralno vreme (SAD i Kanada)</Label>
 		<Label xml:lang="en" Type="Standard">Central Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">التوقيت الرسمي المركزي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Централно стандартно време</Label>
@@ -2469,7 +2469,7 @@
 		<Label xml:lang="da-DK">(GMT-06:00) Guadalajara, Mexico City, Monterrey</Label>
 		<Label xml:lang="de-DE">(GMT-06:00) Guadalajara, Mexiko-Stadt, Monterrey</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς-06:00) Γκουανταλαχάρα, Πόλη του Μεξικού, Μοντερέυ</Label>
-		<Label xml:lang="en-US">(UTC-06:00) Guadalajara, Mexico City, Monterrey</Label>
+		<Label xml:lang="en-US">(GMT-06:00) Guadalajara, Mexico City, Monterrey</Label>
 		<Label xml:lang="es-ES">(GMT-06:00) Guadalajara, Ciudad de México, Monterrey</Label>
 		<Label xml:lang="et-EE">(GMT-06:00) Guadalajara, Mexico City, Monterrey</Label>
 		<Label xml:lang="fi-FI">(GMT-06:00) Guadalajara, Mexico City, Monterrey</Label>
@@ -2480,7 +2480,7 @@
 		<Label xml:lang="it-IT">(GMT-6.00) Guadalajara, Città del Messico, Monterrey</Label>
 		<Label xml:lang="ja-JP">(GMT-06:00) グアダラハラ、メキシコシティ、モンテレー</Label>
 		<Label xml:lang="ko-KR">(GMT-06:00) 과달라하라, 멕시코시티, 몬테레이</Label>
-		<Label xml:lang="lt-LT">(GMT - 06:00) Guadalajara, Meksikas, Monterėjus</Label>
+		<Label xml:lang="lt-LT">(GMT-06:00) Guadalajara, Meksikas, Monterėjus</Label>
 		<Label xml:lang="lv-LV">(GMT-06:00) Gvadalahara, Mehiko, Montereja</Label>
 		<Label xml:lang="nb-NO">(GMT-06:00) Guadalajara, Mexico by, Monterrey</Label>
 		<Label xml:lang="nl-NL">(GMT-06:00) Guadalajara, Mexico-stad, Monterrey</Label>
@@ -2488,7 +2488,7 @@
 		<Label xml:lang="pt-BR">(GMT-06:00) Guadalajara, Cidade do México, Monterrey</Label>
 		<Label xml:lang="pt-PT">(GMT-06:00) Guadalajara, Cidade do México City, Monterrey</Label>
 		<Label xml:lang="ro-RO">(GMT-06:00) Guadalajara, Mexico City, Monterrey</Label>
-		<Label xml:lang="ru-RU">(UTC-06:00) Гвадалахара, Мехико, Монтеррей</Label>
+		<Label xml:lang="ru-RU">(GMT-06:00) Гвадалахара, Мехико, Монтеррей</Label>
 		<Label xml:lang="sk-SK">(GMT-06:00) Guadalajara, Mexico City, Monterrey</Label>
 		<Label xml:lang="sl-SI">(GMT-06:00) Guadalajara, Mexico City, Monterrey</Label>
 		<Label xml:lang="sv-SE">(GMT-06:00) Guadalajara, Mexiko City, Monterrey</Label>
@@ -2584,7 +2584,7 @@
 		<Label xml:lang="da-DK">(GMT+08:00) Beijing, Chongjin, Hongkong, Ürümqi</Label>
 		<Label xml:lang="de-DE">(GMT+08:00) Peking, Chongqing, Hongkong, Urumchi</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+08:00) Πεκίνο, Τσονγκ-κινγκ, Χονγκ Κονγκ,  Ουρούμκι</Label>
-		<Label xml:lang="en-US">(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi</Label>
+		<Label xml:lang="en-US">(GMT+08:00) Beijing, Chongqing, Hong Kong, Urumqi</Label>
 		<Label xml:lang="es-ES">(GMT+08:00) Beijing, Chongqing, Hong Kong, Urumqi</Label>
 		<Label xml:lang="et-EE">(GMT+08:00) Beijing, Chongqing, Hongkong, Urumqi</Label>
 		<Label xml:lang="fi-FI">(GMT+08:00) Peking, Chongqing, Hongkong, Urumqi</Label>
@@ -2603,7 +2603,7 @@
 		<Label xml:lang="pt-BR">(GMT+08:00) Pequim, Chonquim, Hong Kong, Urumqui</Label>
 		<Label xml:lang="pt-PT">(GMT+08:00) Pequim, Chongqing, RAE de Hong Kong, Urumqi</Label>
 		<Label xml:lang="ro-RO">(GMT+08:00) Beijing, Chongqing, Hong Kong, Urumqi</Label>
-		<Label xml:lang="ru-RU">(UTC+08:00) Гонконг, Пекин, Урумчи, Чунцин</Label>
+		<Label xml:lang="ru-RU">(GMT+08:00) Гонконг, Пекин, Урумчи, Чунцин</Label>
 		<Label xml:lang="sk-SK">(GMT+08:00) Peking, Chongqing, Hongkong, Urumqi</Label>
 		<Label xml:lang="sl-SI">(GMT+08:00) Beijing, Chongqing, Hongkong, Urumqi</Label>
 		<Label xml:lang="sv-SE">(GMT+08:00) Beijing, Chongqing, Hongkong, Urumqi</Label>
@@ -2696,7 +2696,7 @@
 		<Label xml:lang="da-DK">(GMT-12:00) International datolinje, vest</Label>
 		<Label xml:lang="de-DE">(GMT-12:00) Internationale Datumsgrenze (Westen)</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς-12:00) Δυτική διεθνής γραμμή ημερομηνίας</Label>
-		<Label xml:lang="en-US">(UTC-12:00) International Date Line West</Label>
+		<Label xml:lang="en-US">(GMT-12:00) International Date Line West</Label>
 		<Label xml:lang="es-ES">(GMT-12:00) Línea internacional de fecha del oeste</Label>
 		<Label xml:lang="et-EE">(GMT-12:00) Rahvusvaheline kuupäevajoon - lääs</Label>
 		<Label xml:lang="fi-FI">(GMT-12:00) Läntinen kansainvälinen päivämääräraja</Label>
@@ -2707,7 +2707,7 @@
 		<Label xml:lang="it-IT">(GMT-12.00) Linea cambiamento data internazionale (occidentale)</Label>
 		<Label xml:lang="ja-JP">(GMT-12:00) 国際日付変更線 西側</Label>
 		<Label xml:lang="ko-KR">(GMT-12:00) 날짜 변경선 서쪽</Label>
-		<Label xml:lang="lt-LT">(GMT - 12:00) Tarptautinė datos eilutė Vakaruose</Label>
+		<Label xml:lang="lt-LT">(GMT-12:00) Tarptautinė datos eilutė Vakaruose</Label>
 		<Label xml:lang="lv-LV">(GMT-12:00) Starptautiskās datumu maiņas līnijas rietumi</Label>
 		<Label xml:lang="nb-NO">(GMT-12:00) Internasjonal datolinje, vest</Label>
 		<Label xml:lang="nl-NL">(GMT-12:00) Internationale westelijke datumgrens</Label>
@@ -2715,7 +2715,7 @@
 		<Label xml:lang="pt-BR">(GMT-12:00) Linha de Data Internacional Oeste</Label>
 		<Label xml:lang="pt-PT">(GMT-12:00) Eniwetok, Kwajalein</Label>
 		<Label xml:lang="ro-RO">(GMT-12:00) Linia de schimbare a datei, vest</Label>
-		<Label xml:lang="ru-RU">(UTC-12:00) Линия перемены дат</Label>
+		<Label xml:lang="ru-RU">(GMT-12:00) Линия перемены дат</Label>
 		<Label xml:lang="sk-SK">(GMT-12:00) Medzinárodná dátumová hranica – západ</Label>
 		<Label xml:lang="sl-SI">(GMT-12:00) Mednarodna datumska meja – zahod</Label>
 		<Label xml:lang="sv-SE">(GMT-12:00) Internationella datumlinjen, väst</Label>
@@ -2808,7 +2808,7 @@
 		<Label xml:lang="da-DK">(GMT+03:00) Nairobi</Label>
 		<Label xml:lang="de-DE">(GMT+03:00) Nairobi</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+03:00) Ναϊρόμπι</Label>
-		<Label xml:lang="en-US">(UTC+03:00) Nairobi</Label>
+		<Label xml:lang="en-US">(GMT+03:00) Nairobi</Label>
 		<Label xml:lang="es-ES">(GMT+03:00) Nairobi</Label>
 		<Label xml:lang="et-EE">(GMT+03:00) Nairobi</Label>
 		<Label xml:lang="fi-FI">(GMT+03:00) Nairobi</Label>
@@ -2827,7 +2827,7 @@
 		<Label xml:lang="pt-BR">(GMT+03:00) Nairóbi</Label>
 		<Label xml:lang="pt-PT">(GMT+03:00) Nairobi</Label>
 		<Label xml:lang="ro-RO">(GMT+03:00) Nairobi</Label>
-		<Label xml:lang="ru-RU">(UTC+03:00) Найроби</Label>
+		<Label xml:lang="ru-RU">(GMT+03:00) Найроби</Label>
 		<Label xml:lang="sk-SK">(GMT+03:00) Nairobi</Label>
 		<Label xml:lang="sl-SI">(GMT+03:00) Nairobi</Label>
 		<Label xml:lang="sv-SE">(GMT+03:00) Nairobi</Label>
@@ -2920,7 +2920,7 @@
 		<Label xml:lang="da-DK">(GMT+10:00) Brisbane</Label>
 		<Label xml:lang="de-DE">(GMT+10:00) Brisbane</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+10:00) Μπρίσμπεϊν</Label>
-		<Label xml:lang="en-US">(UTC+10:00) Brisbane</Label>
+		<Label xml:lang="en-US">(GMT+10:00) Brisbane</Label>
 		<Label xml:lang="es-ES">(GMT+10:00) Brisbane</Label>
 		<Label xml:lang="et-EE">(GMT+10:00) Brisbane</Label>
 		<Label xml:lang="fi-FI">(GMT+10:00) Brisbane</Label>
@@ -2939,7 +2939,7 @@
 		<Label xml:lang="pt-BR">(GMT+10:00) Brisbane</Label>
 		<Label xml:lang="pt-PT">(GMT+10:00) Brisbane</Label>
 		<Label xml:lang="ro-RO">(GMT+10:00) Brisbane</Label>
-		<Label xml:lang="ru-RU">(UTC+10:00) Брисбен</Label>
+		<Label xml:lang="ru-RU">(GMT+10:00) Брисбен</Label>
 		<Label xml:lang="sk-SK">(GMT+10:00) Brisbane</Label>
 		<Label xml:lang="sl-SI">(GMT+10:00) Brisbane</Label>
 		<Label xml:lang="sv-SE">(GMT+10:00) Brisbane</Label>
@@ -2954,7 +2954,7 @@
 		<Label xml:lang="bg-BG" Type="Standard">Източноавстралийско станд. време</Label>
 		<Label xml:lang="cs-CZ" Type="Standard">Východ Austrálie (běžný čas)</Label>
 		<Label xml:lang="da-DK" Type="Standard">Østaustralien, normaltid</Label>
-		<Label xml:lang="de-DE" Type="Standard">Ostaustralische Normalzeit </Label>
+		<Label xml:lang="de-DE" Type="Standard">Ostaustralische Normalzeit</Label>
 		<Label xml:lang="el-GR" Type="Standard">Χειμερινή ώρα Αν. Αυστραλίας</Label>
 		<Label xml:lang="en-US" Type="Standard">E. Australia Standard Time</Label>
 		<Label xml:lang="es-ES" Type="Standard">Hora est., Australia Oriental</Label>
@@ -2990,7 +2990,7 @@
 		<Label xml:lang="bg-BG" Type="Daylight">Източноавстралийско лятно време</Label>
 		<Label xml:lang="cs-CZ" Type="Daylight">Východ Austrálie (letní čas)</Label>
 		<Label xml:lang="da-DK" Type="Daylight">Østaustralien, sommertid</Label>
-		<Label xml:lang="de-DE" Type="Daylight">Ostaustralische Sommerzeit </Label>
+		<Label xml:lang="de-DE" Type="Daylight">Ostaustralische Sommerzeit</Label>
 		<Label xml:lang="el-GR" Type="Daylight">Θερινή ώρα Αν. Αυστραλίας</Label>
 		<Label xml:lang="en-US" Type="Daylight">E. Australia Daylight Time</Label>
 		<Label xml:lang="es-ES" Type="Daylight">Hora verano, Australia Oriental</Label>
@@ -3032,7 +3032,7 @@
 		<Label xml:lang="da-DK">(GMT+02:00) Minsk</Label>
 		<Label xml:lang="de-DE">(GMT+02:00) Minsk</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+02:00) Μινσκ</Label>
-		<Label xml:lang="en-US">(UTC+02:00) Minsk</Label>
+		<Label xml:lang="en-US">(GMT+02:00) Minsk</Label>
 		<Label xml:lang="es-ES">(GMT+02:00) Minsk</Label>
 		<Label xml:lang="et-EE">(GMT+02:00) Minsk</Label>
 		<Label xml:lang="fi-FI">(GMT+02:00) Minsk</Label>
@@ -3051,7 +3051,7 @@
 		<Label xml:lang="pt-BR">(GMT+02:00) Minsk</Label>
 		<Label xml:lang="pt-PT">(GMT+02:00) Minsk</Label>
 		<Label xml:lang="ro-RO">(GMT+02:00) Minsk</Label>
-		<Label xml:lang="ru-RU">(UTC+02:00) Минск</Label>
+		<Label xml:lang="ru-RU">(GMT+02:00) Минск</Label>
 		<Label xml:lang="sk-SK">(GMT+02:00) Minsk</Label>
 		<Label xml:lang="sl-SI">(GMT+02:00) Minsk</Label>
 		<Label xml:lang="sv-SE">(GMT+02:00) Minsk</Label>
@@ -3066,7 +3066,7 @@
 		<Label xml:lang="bg-BG" Type="Standard">Източноевропейско станд. време</Label>
 		<Label xml:lang="cs-CZ" Type="Standard">Východní Evropa (běžný čas)</Label>
 		<Label xml:lang="da-DK" Type="Standard">Østeuropa, normaltid</Label>
-		<Label xml:lang="de-DE" Type="Standard">Osteuropäische Zeit </Label>
+		<Label xml:lang="de-DE" Type="Standard">Osteuropäische Zeit</Label>
 		<Label xml:lang="el-GR" Type="Standard">Χειμερινή ώρα Ανατ. Ευρώπης</Label>
 		<Label xml:lang="en-US" Type="Standard">E. Europe Standard Time</Label>
 		<Label xml:lang="es-ES" Type="Standard">Hora estándar Europa Oriental</Label>
@@ -3074,7 +3074,7 @@
 		<Label xml:lang="fi-FI" Type="Standard">Itä-Euroopan normaaliaika</Label>
 		<Label xml:lang="fr-FR" Type="Standard">Europe de l'Est</Label>
 		<Label xml:lang="he-IL" Type="Standard">שעון רגיל מזרח אירופה</Label>
-		<Label xml:lang="hr-HR" Type="Standard">Istočna Europa - st. vrij. </Label>
+		<Label xml:lang="hr-HR" Type="Standard">Istočna Europa - st. vrij.</Label>
 		<Label xml:lang="hu-HU" Type="Standard">Kelet-európai téli idő</Label>
 		<Label xml:lang="it-IT" Type="Standard">ora solare Europa orientale</Label>
 		<Label xml:lang="ja-JP" Type="Standard">東ヨーロッパ標準時</Label>
@@ -3102,7 +3102,7 @@
 		<Label xml:lang="bg-BG" Type="Daylight">Източноевропейско лятно време</Label>
 		<Label xml:lang="cs-CZ" Type="Daylight">Východní Evropa (letní čas)</Label>
 		<Label xml:lang="da-DK" Type="Daylight">Østeuropa, sommertid</Label>
-		<Label xml:lang="de-DE" Type="Daylight">Osteuropäische Sommerzeit </Label>
+		<Label xml:lang="de-DE" Type="Daylight">Osteuropäische Sommerzeit</Label>
 		<Label xml:lang="el-GR" Type="Daylight">Θερινή ώρα Ανατ. Ευρώπης</Label>
 		<Label xml:lang="en-US" Type="Daylight">E. Europe Daylight Time</Label>
 		<Label xml:lang="es-ES" Type="Daylight">Hora de ver. Europa Oriental</Label>
@@ -3110,7 +3110,7 @@
 		<Label xml:lang="fi-FI" Type="Daylight">Itä-Euroopan kesäaika</Label>
 		<Label xml:lang="fr-FR" Type="Daylight">Europe de l'Est (heure d'été)</Label>
 		<Label xml:lang="he-IL" Type="Daylight">שעון קיץ מזרח אירופה</Label>
-		<Label xml:lang="hr-HR" Type="Daylight">Istočna Europa - ljet. vrij. </Label>
+		<Label xml:lang="hr-HR" Type="Daylight">Istočna Europa - ljet. vrij.</Label>
 		<Label xml:lang="hu-HU" Type="Daylight">Kelet-európai nyári idő</Label>
 		<Label xml:lang="it-IT" Type="Daylight">ora legale Europa orientale</Label>
 		<Label xml:lang="ja-JP" Type="Daylight">東ヨーロッパ夏時間</Label>
@@ -3147,7 +3147,7 @@
 		<Label xml:lang="da-DK">(GMT-03:00) Brasilia</Label>
 		<Label xml:lang="de-DE">(GMT-03:00) Brasilia</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς-03:00) Μπραζίλια</Label>
-		<Label xml:lang="en-US">(UTC-03:00) Brasilia</Label>
+		<Label xml:lang="en-US">(GMT-03:00) Brasilia</Label>
 		<Label xml:lang="es-ES">(GMT-03:00) Brasilia</Label>
 		<Label xml:lang="et-EE">(GMT-03:00) Brasiilia</Label>
 		<Label xml:lang="fi-FI">(GMT-03:00) Brasilia</Label>
@@ -3158,7 +3158,7 @@
 		<Label xml:lang="it-IT">(GMT-3.00) Brasilia</Label>
 		<Label xml:lang="ja-JP">(GMT-03:00) ブラジリア</Label>
 		<Label xml:lang="ko-KR">(GMT-03:00) 브라질리아</Label>
-		<Label xml:lang="lt-LT">(GMT - 03:00) Brazilija</Label>
+		<Label xml:lang="lt-LT">(GMT-03:00) Brazilija</Label>
 		<Label xml:lang="lv-LV">(GMT-03:00) Brazīlija</Label>
 		<Label xml:lang="nb-NO">(GMT-03:00) Brasilia</Label>
 		<Label xml:lang="nl-NL">(GMT-03:00) Brasilia</Label>
@@ -3166,7 +3166,7 @@
 		<Label xml:lang="pt-BR">(GMT-03:00) Brasília</Label>
 		<Label xml:lang="pt-PT">(GMT-03:00) Brasília</Label>
 		<Label xml:lang="ro-RO">(GMT-03:00) Brasilia</Label>
-		<Label xml:lang="ru-RU">(UTC-03:00) Бразилия</Label>
+		<Label xml:lang="ru-RU">(GMT-03:00) Бразилия</Label>
 		<Label xml:lang="sk-SK">(GMT-03:00) Brazília</Label>
 		<Label xml:lang="sl-SI">(GMT-03:00) Brazilija</Label>
 		<Label xml:lang="sv-SE">(GMT-03:00) Brasilia</Label>
@@ -3181,15 +3181,15 @@
 		<Label xml:lang="bg-BG" Type="Standard">Изт. Южна Америка - станд. време</Label>
 		<Label xml:lang="cs-CZ" Type="Standard">Východ Jižní Ameriky, běžný čas</Label>
 		<Label xml:lang="da-DK" Type="Standard">Sydamerika (øst), normaltid</Label>
-		<Label xml:lang="de-DE" Type="Standard">Östl. Südamerika Normalzeit </Label>
-		<Label xml:lang="el-GR" Type="Standard">Χειμερ. ώρα  Ανατ. Νότ. Αμερικής</Label>
+		<Label xml:lang="de-DE" Type="Standard">Östl. Südamerika Normalzeit</Label>
+		<Label xml:lang="el-GR" Type="Standard">Χειμερ. ώρα Ανατ. Νότ. Αμερικής</Label>
 		<Label xml:lang="en-US" Type="Standard">E. South America Standard Time</Label>
 		<Label xml:lang="es-ES" Type="Standard">Hora estándar Sudamérica este</Label>
 		<Label xml:lang="et-EE" Type="Standard">E. Lõuna-Ameerika standardaeg</Label>
 		<Label xml:lang="fi-FI" Type="Standard">Itäisen Etelä-Am. vyöhyke</Label>
 		<Label xml:lang="fr-FR" Type="Standard">Amér. du Sud - Est</Label>
 		<Label xml:lang="he-IL" Type="Standard">שעון רגיל דרום אמריקה המזרחית</Label>
-		<Label xml:lang="hr-HR" Type="Standard">Istok Južne Amerike  - st. vrij.</Label>
+		<Label xml:lang="hr-HR" Type="Standard">Istok Južne Amerike - st. vrij.</Label>
 		<Label xml:lang="hu-HU" Type="Standard">Délkelet-amerikai téli idő</Label>
 		<Label xml:lang="it-IT" Type="Standard">ora solare SA Est</Label>
 		<Label xml:lang="ja-JP" Type="Standard">南アメリカ東部標準時</Label>
@@ -3211,21 +3211,21 @@
 		<Label xml:lang="uk-UA" Type="Standard">Східний Півд-Ам. час (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">东部南美洲标准时间</Label>
 		<Label xml:lang="zh-TW" Type="Standard">東南美洲標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Ist. stand. vreme u J. Americi</Label>
+		<Label xml:lang="sr-Latn-CS" Type="Standard">Ist. standar. vreme u J. Americi</Label>
 		<Label xml:lang="en" Type="Daylight">E. South America Daylight Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">شرق جنوب أمريكا - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Изт. Южна Америка - лятно време</Label>
 		<Label xml:lang="cs-CZ" Type="Daylight">Východ Jižní Ameriky, letní čas</Label>
 		<Label xml:lang="da-DK" Type="Daylight">Sydamerika (øst), sommertid</Label>
-		<Label xml:lang="de-DE" Type="Daylight">Östl. Südamerika Sommerzeit </Label>
-		<Label xml:lang="el-GR" Type="Daylight">Θερινή ώρα Ανατ. Νότ. Αμερικής </Label>
+		<Label xml:lang="de-DE" Type="Daylight">Östl. Südamerika Sommerzeit</Label>
+		<Label xml:lang="el-GR" Type="Daylight">Θερινή ώρα Ανατ. Νότ. Αμερικής</Label>
 		<Label xml:lang="en-US" Type="Daylight">E. South America Daylight Time</Label>
 		<Label xml:lang="es-ES" Type="Daylight">Hora de verano Sudamérica este</Label>
 		<Label xml:lang="et-EE" Type="Daylight">E. Lõuna-Ameerika suveaeg</Label>
 		<Label xml:lang="fi-FI" Type="Daylight">Itäisen Etelä-Am. kesäaika</Label>
 		<Label xml:lang="fr-FR" Type="Daylight">Amér. du Sud - Est (heure d'été)</Label>
 		<Label xml:lang="he-IL" Type="Daylight">שעון קיץ דרום אמריקה המזרחית</Label>
-		<Label xml:lang="hr-HR" Type="Daylight">Istok Juž. Amer. - ljet. vrij.</Label>
+		<Label xml:lang="hr-HR" Type="Daylight">Istok Juž. Amerike - ljet. vrij.</Label>
 		<Label xml:lang="hu-HU" Type="Daylight">Délkelet-amerikai nyári idő</Label>
 		<Label xml:lang="it-IT" Type="Daylight">ora legale SA Est</Label>
 		<Label xml:lang="ja-JP" Type="Daylight">南アメリカ東部夏時間</Label>
@@ -3271,10 +3271,10 @@
 		<Label xml:lang="ar-SA">(GMT-05:00) توقيت الشرق (الولايات المتحدة وكندا)</Label>
 		<Label xml:lang="bg-BG">(GMT-05:00) Източно време (САЩ и Канада)</Label>
 		<Label xml:lang="cs-CZ">(GMT-05:00) Východ USA a Kanady</Label>
-		<Label xml:lang="da-DK">&amp;(GMT-05:00) Eastern time (USA og Canada)</Label>
+		<Label xml:lang="da-DK">(GMT-05:00) Eastern time (USA og Canada)</Label>
 		<Label xml:lang="de-DE">(GMT-05:00) Eastern (USA, Kanada)</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς-05:00) Ανατολική ώρα (Η.Π.Α. &amp; Καναδάς)</Label>
-		<Label xml:lang="en-US">(UTC-05:00) Eastern Time (US &amp; Canada)</Label>
+		<Label xml:lang="en-US">(GMT-05:00) Eastern Time (US &amp; Canada)</Label>
 		<Label xml:lang="es-ES">(GMT-05:00) Hora del este (EE.UU. y Canadá)</Label>
 		<Label xml:lang="et-EE">(GMT-05:00) Põhja Ameerika Ida aeg</Label>
 		<Label xml:lang="fi-FI">(GMT-05:00) Itäinen normaaliaika (USA ja Kanada)</Label>
@@ -3285,7 +3285,7 @@
 		<Label xml:lang="it-IT">(GMT-5.00) Fuso orientale (USA e Canada)</Label>
 		<Label xml:lang="ja-JP">(GMT-05:00) 東部標準時 (米国およびカナダ)</Label>
 		<Label xml:lang="ko-KR">(GMT-05:00) 동부 표준시 (미국과 캐나다)</Label>
-		<Label xml:lang="lt-LT">(&amp;GMT-05:00) Rytų laikas (JAV  Kanada)</Label>
+		<Label xml:lang="lt-LT">(GMT-05:00) Rytų laikas (JAV &amp; Kanada)</Label>
 		<Label xml:lang="lv-LV">(GMT-05:00) Austrumkrasta laiks (ASV, Kanāda)</Label>
 		<Label xml:lang="nb-NO">(GMT-05:00) Østkysten (USA og Canada)</Label>
 		<Label xml:lang="nl-NL">(GMT-05:00) Eastern Time (V.S. en Canada)</Label>
@@ -3293,7 +3293,7 @@
 		<Label xml:lang="pt-BR">(GMT-05:00) Hora do Leste (EUA e Canadá)</Label>
 		<Label xml:lang="pt-PT">(GMT-05:00) Hora do Leste (E.U.A. e Canadá)</Label>
 		<Label xml:lang="ro-RO">(GMT-05:00) Ora regiunii estice (SUA și Canada)</Label>
-		<Label xml:lang="ru-RU">(UTC-05:00) Восточное время (США и Канада)</Label>
+		<Label xml:lang="ru-RU">(GMT-05:00) Восточное время (США и Канада)</Label>
 		<Label xml:lang="sk-SK">(GMT-05:00) Východný čas (USA a Kanada)</Label>
 		<Label xml:lang="sl-SI">(GMT-05:00) Vzhodni čas (ZDA in Kanada)</Label>
 		<Label xml:lang="sv-SE">(GMT-05:00) Eastern Time (USA och Canada)</Label>
@@ -3302,7 +3302,7 @@
 		<Label xml:lang="uk-UA">(GMT-05:00) Східний час (США та Канада)</Label>
 		<Label xml:lang="zh-CN">(GMT-05:00) 东部时间(美国和加拿大)</Label>
 		<Label xml:lang="zh-TW">(GMT-05:00) 東部時間 (美國和加拿大)</Label>
-		<Label xml:lang="sr-Latn-CS">(GMT- 05:00) Istočno vreme (SAD i Kanada)</Label>
+		<Label xml:lang="sr-Latn-CS">(GMT-05:00) Istočno vreme (SAD i Kanada)</Label>
 		<Label xml:lang="en" Type="Standard">Eastern Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">التوقيت الرسمي الشرقي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Източно стандартно време</Label>
@@ -3362,7 +3362,7 @@
 		<Label xml:lang="nb-NO" Type="Daylight">Østkysten (sommertid)</Label>
 		<Label xml:lang="nl-NL" Type="Daylight">Eastern (zomertijd)</Label>
 		<Label xml:lang="pl-PL" Type="Daylight">Wschodni czas letni</Label>
-		<Label xml:lang="pt-BR" Type="Daylight">Hor. de verão do leste dos EUA </Label>
+		<Label xml:lang="pt-BR" Type="Daylight">Hor. de verão do leste dos EUA</Label>
 		<Label xml:lang="pt-PT" Type="Daylight">Hora de Verão do Leste</Label>
 		<Label xml:lang="ro-RO" Type="Daylight">Oră de vară est</Label>
 		<Label xml:lang="ru-RU" Type="Daylight">Восточное время США (лето)</Label>
@@ -3397,7 +3397,7 @@
 		<Label xml:lang="da-DK">(GMT+02:00) Kairo</Label>
 		<Label xml:lang="de-DE">(GMT+02:00) Kairo</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+02:00) Κάιρο</Label>
-		<Label xml:lang="en-US">(UTC+02:00) Cairo</Label>
+		<Label xml:lang="en-US">(GMT+02:00) Cairo</Label>
 		<Label xml:lang="es-ES">(GMT+02:00) El Cairo</Label>
 		<Label xml:lang="et-EE">(GMT+02:00) Kairo</Label>
 		<Label xml:lang="fi-FI">(GMT+02:00) Kairo</Label>
@@ -3416,7 +3416,7 @@
 		<Label xml:lang="pt-BR">(GMT+02:00) Cairo</Label>
 		<Label xml:lang="pt-PT">(GMT+02:00) Cairo</Label>
 		<Label xml:lang="ro-RO">(GMT+02:00) Cairo</Label>
-		<Label xml:lang="ru-RU">(UTC+02:00) Каир</Label>
+		<Label xml:lang="ru-RU">(GMT+02:00) Каир</Label>
 		<Label xml:lang="sk-SK">(GMT+02:00) Káhira</Label>
 		<Label xml:lang="sl-SI">(GMT+02:00) Kairo</Label>
 		<Label xml:lang="sv-SE">(GMT+02:00) Kairo</Label>
@@ -3524,7 +3524,7 @@
 		<Label xml:lang="da-DK">(GMT+05:00) Ekaterinburg</Label>
 		<Label xml:lang="de-DE">(GMT+05:00) Jekaterinburg</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+05:00) Εκατερίνμπουργκ</Label>
-		<Label xml:lang="en-US">(UTC+05:00) Ekaterinburg</Label>
+		<Label xml:lang="en-US">(GMT+05:00) Ekaterinburg</Label>
 		<Label xml:lang="es-ES">(GMT+05:00) Ekaterimburgo</Label>
 		<Label xml:lang="et-EE">(GMT+05:00) Jekaterinburg</Label>
 		<Label xml:lang="fi-FI">(GMT+05:00) Jekaterinburg</Label>
@@ -3543,7 +3543,7 @@
 		<Label xml:lang="pt-BR">(GMT+05:00) Ekaterimburgo</Label>
 		<Label xml:lang="pt-PT">(GMT+05:00) Ecaterinburgo</Label>
 		<Label xml:lang="ro-RO">(GMT+05:00) Ekaterinburg</Label>
-		<Label xml:lang="ru-RU">(UTC+05:00) Екатеринбург</Label>
+		<Label xml:lang="ru-RU">(GMT+05:00) Екатеринбург</Label>
 		<Label xml:lang="sk-SK">(GMT+05:00) Jekaterinburg</Label>
 		<Label xml:lang="sl-SI">(GMT+05:00) Jekaterinburg</Label>
 		<Label xml:lang="sv-SE">(GMT+05:00) Ekaterinburg</Label>
@@ -3639,7 +3639,7 @@
 		<Label xml:lang="da-DK">(GMT+12:00) Fiji, Kamtjatka, Marshalløerne</Label>
 		<Label xml:lang="de-DE">(GMT+12:00) Fidschi, Kamtschatka, Marshallinseln</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+12:00) Φίτζι, Καμτσάτκα, Νησιά Μάρσαλ</Label>
-		<Label xml:lang="en-US">(UTC+12:00) Fiji, Kamchatka, Marshall Is.</Label>
+		<Label xml:lang="en-US">(GMT+12:00) Fiji, Kamchatka, Marshall Is.</Label>
 		<Label xml:lang="es-ES">(GMT+12:00) Fiji, Kamchatka, Islas Marshall</Label>
 		<Label xml:lang="et-EE">(GMT+12:00) Fidži, Kamtšatka, Marshalli saared.</Label>
 		<Label xml:lang="fi-FI">(GMT+12:00) Fidzi, Kamchatka, Marshallinsaaret</Label>
@@ -3658,7 +3658,7 @@
 		<Label xml:lang="pt-BR">(GMT+12:00) Fiji, Kamchatka, Ilhas Marshall</Label>
 		<Label xml:lang="pt-PT">(GMT+12:00) Fiji, Kamchatka, Ilhas Marshall</Label>
 		<Label xml:lang="ro-RO">(GMT+12:00) Fiji, Kamciatka, Insulele Marshall</Label>
-		<Label xml:lang="ru-RU">(UTC+12:00) Камчатка, Маршалловы о-ва, Фиджи</Label>
+		<Label xml:lang="ru-RU">(GMT+12:00) Камчатка, Маршалловы о-ва, Фиджи</Label>
 		<Label xml:lang="sk-SK">(GMT+12:00) Fidži, Kamčatka, Marshallove ostrovy</Label>
 		<Label xml:lang="sl-SI">(GMT+12:00) Fidži, Kamčatka, Marshallovi otoki</Label>
 		<Label xml:lang="sv-SE">(GMT+12:00) Fiji, Kamtjatka, Marshallön</Label>
@@ -3751,7 +3751,7 @@
 		<Label xml:lang="da-DK">(GMT+02:00) Helsinki, Kiev, Riga, Sofia, Tallinn, Vilnius</Label>
 		<Label xml:lang="de-DE">(GMT+02:00) Helsinki, Kiew, Riga, Sofia, Tallinn, Wilna</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+02:00) Ελσίνκι, Κίεβο, Ρίγα, Σόφια, Ταλίν, Βίλνιους (Bίλνα)</Label>
-		<Label xml:lang="en-US">(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius</Label>
+		<Label xml:lang="en-US">(GMT+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius</Label>
 		<Label xml:lang="es-ES">(GMT+02:00) Helsinki, Kiev, Riga, Sofía,Tallinn, Vilnius</Label>
 		<Label xml:lang="et-EE">(GMT+02:00) Helsingi, Kiiev, Riia, Sofia, Tallinn, Vilnius</Label>
 		<Label xml:lang="fi-FI">(GMT+02:00) Helsinki, Kiev, Riika, Tallinna, Sofia, Vilna</Label>
@@ -3770,7 +3770,7 @@
 		<Label xml:lang="pt-BR">(GMT+02:00) Helsinque, Kiev, Riga, Sófia, Tallinn, Vilnius</Label>
 		<Label xml:lang="pt-PT">(GMT+02:00) Helsínquia, Kiev, Riga, Sofia, Tallinn, Vilnius</Label>
 		<Label xml:lang="ro-RO">(GMT+02:00) Helsinki, Kiev, Riga, Sofia, Tallinn, Vilnius</Label>
-		<Label xml:lang="ru-RU">(UTC+02:00) Вильнюс, Киев, Рига, София, Таллин, Хельсинки</Label>
+		<Label xml:lang="ru-RU">(GMT+02:00) Вильнюс, Киев, Рига, София, Таллин, Хельсинки</Label>
 		<Label xml:lang="sk-SK">(GMT+02:00) Helsinki, Kyjev, Riga, Sofia, Tallin, Vilnius</Label>
 		<Label xml:lang="sl-SI">(GMT+02:00) Helsinki, Kijev, Riga, Sofia, Talin, Vilna</Label>
 		<Label xml:lang="sv-SE">(GMT+02:00) Helsingfors, Kiev, Riga, Sofia, Tallinn, Vilnius</Label>
@@ -3866,7 +3866,7 @@
 		<Label xml:lang="da-DK">(GMT+03:00) Tbilisi</Label>
 		<Label xml:lang="de-DE">(GMT+03:00) Tiflis</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+03:00) Τιφλίδα</Label>
-		<Label xml:lang="en-US">(UTC+03:00) Tbilisi</Label>
+		<Label xml:lang="en-US">(GMT+03:00) Tbilisi</Label>
 		<Label xml:lang="es-ES">(GMT+03:00) Tiflis</Label>
 		<Label xml:lang="et-EE">(GMT+03:00) Thbilisi</Label>
 		<Label xml:lang="fi-FI">(GMT+03:00) Tbilisi</Label>
@@ -3885,7 +3885,7 @@
 		<Label xml:lang="pt-BR">(GMT+03:00) Tbilisi</Label>
 		<Label xml:lang="pt-PT">(GMT+03:00) Tbilisi</Label>
 		<Label xml:lang="ro-RO">(GMT+03:00) Tbilisi</Label>
-		<Label xml:lang="ru-RU">(UTC+03:00) Тбилиси</Label>
+		<Label xml:lang="ru-RU">(GMT+03:00) Тбилиси</Label>
 		<Label xml:lang="sk-SK">(GMT+03:00) Tbilisi</Label>
 		<Label xml:lang="sl-SI">(GMT+03:00) Tbilisi</Label>
 		<Label xml:lang="sv-SE">(GMT+03:00) Tbilisi</Label>
@@ -3978,7 +3978,7 @@
 		<Label xml:lang="da-DK">(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lissabon, London</Label>
 		<Label xml:lang="de-DE">(GMT) Dublin, Edinburgh, Lissabon, London</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς) Δουβλίνο, Εδιμβούργο, Λονδίνο, Λισσαβόνα</Label>
-		<Label xml:lang="en-US">(UTC) Dublin, Edinburgh, Lisbon, London</Label>
+		<Label xml:lang="en-US">(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London</Label>
 		<Label xml:lang="es-ES">(GMT) Hora del meridiano de Greenwich: Dublín, Edimburgo, Lisboa, Londres</Label>
 		<Label xml:lang="et-EE">(GMT) Greenwichi aeg: Dublin, Edinburgh, Lissabon, London</Label>
 		<Label xml:lang="fi-FI">(GMT) Greenwichin aika; Dublin, Edinburgh, Lontoo, Lissabon</Label>
@@ -3997,7 +3997,7 @@
 		<Label xml:lang="pt-BR">(GMT) Hora de Greenwich: Dublin, Edimburgo, Lisboa, Londres</Label>
 		<Label xml:lang="pt-PT">(GMT) Merid. de Greenwich: Dublin, Edimburgo, Lisboa, Londres</Label>
 		<Label xml:lang="ro-RO">(GMT) Timp universal: Dublin, Edinburgh, Lisabona, Londra</Label>
-		<Label xml:lang="ru-RU">(UTC) Дублин, Лиссабон, Лондон, Эдинбург</Label>
+		<Label xml:lang="ru-RU">(GMT) Время по Гринвичу: Дублин, Лондон, Лиссабон, Эдинбург</Label>
 		<Label xml:lang="sk-SK">(GMT) Greenwichský čas : Dublin, Edinburgh, Lisabon, Londýn</Label>
 		<Label xml:lang="sl-SI">(GMT) Greenwiški srednji čas: Dublin, Edinburgh, Lizbona, London</Label>
 		<Label xml:lang="sv-SE">Greenwich-tid (GMT): Dublin, Edinburgh, Lissabon, London</Label>
@@ -4013,7 +4013,7 @@
 		<Label xml:lang="cs-CZ" Type="Standard">Střední čas (běžný čas)</Label>
 		<Label xml:lang="da-DK" Type="Standard">GMT, normaltid</Label>
 		<Label xml:lang="de-DE" Type="Standard">Westeuropäische Zeit</Label>
-		<Label xml:lang="el-GR" Type="Standard">Χειμερινή ώρα Γκρίνουιτς </Label>
+		<Label xml:lang="el-GR" Type="Standard">Χειμερινή ώρα Γκρίνουιτς</Label>
 		<Label xml:lang="en-US" Type="Standard">GMT Standard Time</Label>
 		<Label xml:lang="es-ES" Type="Standard">Hora estándar GMT</Label>
 		<Label xml:lang="et-EE" Type="Standard">GMT standardaeg</Label>
@@ -4049,7 +4049,7 @@
 		<Label xml:lang="cs-CZ" Type="Daylight">Střední čas (letní čas)</Label>
 		<Label xml:lang="da-DK" Type="Daylight">GMT, sommertid</Label>
 		<Label xml:lang="de-DE" Type="Daylight">Westeuropäische Sommerzeit</Label>
-		<Label xml:lang="el-GR" Type="Daylight">Θερινή ώρα Γκρίνουιτς </Label>
+		<Label xml:lang="el-GR" Type="Daylight">Θερινή ώρα Γκρίνουιτς</Label>
 		<Label xml:lang="en-US" Type="Daylight">GMT Daylight Time</Label>
 		<Label xml:lang="es-ES" Type="Daylight">Hora de verano GMT</Label>
 		<Label xml:lang="et-EE" Type="Daylight">GMT suveaeg</Label>
@@ -4066,7 +4066,7 @@
 		<Label xml:lang="nb-NO" Type="Daylight">BST (Britisk sommertid)</Label>
 		<Label xml:lang="nl-NL" Type="Daylight">GMT (zomertijd)</Label>
 		<Label xml:lang="pl-PL" Type="Daylight">GMT (czas letni)</Label>
-		<Label xml:lang="pt-BR" Type="Daylight">Horário de Verão de Greenwich </Label>
+		<Label xml:lang="pt-BR" Type="Daylight">Horário de Verão de Greenwich</Label>
 		<Label xml:lang="pt-PT" Type="Daylight">Hora de Verão de GMT</Label>
 		<Label xml:lang="ro-RO" Type="Daylight">GMT, oră de vară</Label>
 		<Label xml:lang="ru-RU" Type="Daylight">GMT - время по Гринвичу (лето)</Label>
@@ -4093,7 +4093,7 @@
 		<Label xml:lang="da-DK">(GMT-03:00) Grønland</Label>
 		<Label xml:lang="de-DE">(GMT-03:00) Grönland</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς-03:00) Γροιλανδία</Label>
-		<Label xml:lang="en-US">(UTC-03:00) Greenland</Label>
+		<Label xml:lang="en-US">(GMT-03:00) Greenland</Label>
 		<Label xml:lang="es-ES">(GMT-03:00) Groenlandia</Label>
 		<Label xml:lang="et-EE">(GMT-03:00) Gröönimaa</Label>
 		<Label xml:lang="fi-FI">(GMT-03:00) Grönlanti</Label>
@@ -4104,7 +4104,7 @@
 		<Label xml:lang="it-IT">(GMT-3.00) Groenlandia</Label>
 		<Label xml:lang="ja-JP">(GMT-03:00) グリーンランド</Label>
 		<Label xml:lang="ko-KR">(GMT-03:00) 그린란드</Label>
-		<Label xml:lang="lt-LT">(GMT - 03:00) Grenlandija</Label>
+		<Label xml:lang="lt-LT">(GMT-03:00) Grenlandija</Label>
 		<Label xml:lang="lv-LV">(GMT-03:00) Grenlande</Label>
 		<Label xml:lang="nb-NO">(GMT-03:00) Grønland</Label>
 		<Label xml:lang="nl-NL">(GMT-03:00) Groenland</Label>
@@ -4112,7 +4112,7 @@
 		<Label xml:lang="pt-BR">(GMT-03:00) Groenlândia</Label>
 		<Label xml:lang="pt-PT">(GMT-03:00) Gronelândia</Label>
 		<Label xml:lang="ro-RO">(GMT-03:00) Groenlanda</Label>
-		<Label xml:lang="ru-RU">(UTC-03:00) Гренландия</Label>
+		<Label xml:lang="ru-RU">(GMT-03:00) Гренландия</Label>
 		<Label xml:lang="sk-SK">(GMT-03:00) Grónsko</Label>
 		<Label xml:lang="sl-SI">(GMT-03:00) Grenlandija</Label>
 		<Label xml:lang="sv-SE">(GMT-03:00) Grönland</Label>
@@ -4208,7 +4208,7 @@
 		<Label xml:lang="da-DK">(GMT) Casablanca, Monrovia, Reykjavik</Label>
 		<Label xml:lang="de-DE">(GMT) Casablanca, Monrovia, Reykjavík</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς) Μονροβία, Καζαμπλάνκα, Ρέκιαβικ</Label>
-		<Label xml:lang="en-US">(UTC) Casablanca, Monrovia, Reykjavik</Label>
+		<Label xml:lang="en-US">(GMT) Casablanca, Monrovia, Reykjavik</Label>
 		<Label xml:lang="es-ES">(GMT) Casablanca, Monrovia, Reykjavik</Label>
 		<Label xml:lang="et-EE">(GMT) Casablanca, Monrovia, Reykjavik</Label>
 		<Label xml:lang="fi-FI">(GMT) Casablanca, Monrovia, Reykjavik</Label>
@@ -4227,7 +4227,7 @@
 		<Label xml:lang="pt-BR">(GMT) Casablanca, Monróvia, Reykjavik</Label>
 		<Label xml:lang="pt-PT">(GMT) Monróvia, Casablanca, Reykjavik</Label>
 		<Label xml:lang="ro-RO">(GMT) Casablanca, Monrovia, Reykjavik</Label>
-		<Label xml:lang="ru-RU">(UTC) Касабланка, Монровия, Рейкьявик</Label>
+		<Label xml:lang="ru-RU">(GMT) Касабланка, Монровия, Рейкьявик</Label>
 		<Label xml:lang="sk-SK">(GMT) Casablanca, Monrovia, Reykjavik</Label>
 		<Label xml:lang="sl-SI">(GMT) Casablanca, Monrovia, Reykjavik</Label>
 		<Label xml:lang="sv-SE">(GMT) Casablanca, Monrovia, Reykavik</Label>
@@ -4320,7 +4320,7 @@
 		<Label xml:lang="da-DK">(GMT+02:00) Athen, Bukarest, Istanbul</Label>
 		<Label xml:lang="de-DE">(GMT+02:00) Athen, Bukarest, Istanbul</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+02:00) Αθήνα, Βουκουρέστι, Κωνσταντινούπολη</Label>
-		<Label xml:lang="en-US">(UTC+02:00) Athens, Bucharest, Istanbul</Label>
+		<Label xml:lang="en-US">(GMT+02:00) Athens, Bucharest, Istanbul</Label>
 		<Label xml:lang="es-ES">(GMT+02:00) Atenas, Bucarest, Estambul</Label>
 		<Label xml:lang="et-EE">(GMT+02:00) Ateena, Bukarest, Istanbul</Label>
 		<Label xml:lang="fi-FI">(GMT+02:00) Ateena, Bukarest, Istanbul</Label>
@@ -4339,7 +4339,7 @@
 		<Label xml:lang="pt-BR">(GMT+02:00) Atenas, Bucareste, Istambul</Label>
 		<Label xml:lang="pt-PT">(GMT+02:00) Atenas, Beirute, Istambul</Label>
 		<Label xml:lang="ro-RO">(GMT+02:00) Atena, București, Istanbul</Label>
-		<Label xml:lang="ru-RU">(UTC+02:00) Афины, Бухарест, Стамбул</Label>
+		<Label xml:lang="ru-RU">(GMT+02:00) Афины, Бухарест, Стамбул</Label>
 		<Label xml:lang="sk-SK">(GMT+02:00) Atény, Bukurešť, Istanbul</Label>
 		<Label xml:lang="sl-SI">(GMT+02:00) Atene, Bukarešta, Istanbul</Label>
 		<Label xml:lang="sv-SE">(GMT+02:00) Aten, Bukarest, Istanbul</Label>
@@ -4354,7 +4354,7 @@
 		<Label xml:lang="bg-BG" Type="Standard">Гърция/Турция - стандартно време</Label>
 		<Label xml:lang="cs-CZ" Type="Standard">Balkán (běžný čas)</Label>
 		<Label xml:lang="da-DK" Type="Standard">GTB, normaltid</Label>
-		<Label xml:lang="de-DE" Type="Standard">Osteuropäische Zeit  </Label>
+		<Label xml:lang="de-DE" Type="Standard">Osteuropäische Zeit</Label>
 		<Label xml:lang="el-GR" Type="Standard">Χειμερινή ώρα GTB</Label>
 		<Label xml:lang="en-US" Type="Standard">GTB Standard Time</Label>
 		<Label xml:lang="es-ES" Type="Standard">Hora estándar GTB</Label>
@@ -4390,7 +4390,7 @@
 		<Label xml:lang="bg-BG" Type="Daylight">Гърция/Турция - лятно време</Label>
 		<Label xml:lang="cs-CZ" Type="Daylight">Balkán (letní čas)</Label>
 		<Label xml:lang="da-DK" Type="Daylight">GTB, sommertid</Label>
-		<Label xml:lang="de-DE" Type="Daylight">Osteuropäische Sommerzeit  </Label>
+		<Label xml:lang="de-DE" Type="Daylight">Osteuropäische Sommerzeit</Label>
 		<Label xml:lang="el-GR" Type="Daylight">Θερινή ώρα GTB</Label>
 		<Label xml:lang="en-US" Type="Daylight">GTB Daylight Time</Label>
 		<Label xml:lang="es-ES" Type="Daylight">Hora de verano GTB</Label>
@@ -4435,7 +4435,7 @@
 		<Label xml:lang="da-DK">(GMT-10:00) Hawaii</Label>
 		<Label xml:lang="de-DE">(GMT-10:00) Hawaii</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς-10:00) Χαβάη</Label>
-		<Label xml:lang="en-US">(UTC-10:00) Hawaii</Label>
+		<Label xml:lang="en-US">(GMT-10:00) Hawaii</Label>
 		<Label xml:lang="es-ES">(GMT-10:00) Hawai</Label>
 		<Label xml:lang="et-EE">(GMT-10:00) Hawaii</Label>
 		<Label xml:lang="fi-FI">(GMT-10:00) Havaiji</Label>
@@ -4446,7 +4446,7 @@
 		<Label xml:lang="it-IT">(GMT-10.00) Hawaii</Label>
 		<Label xml:lang="ja-JP">(GMT-10:00) ハワイ</Label>
 		<Label xml:lang="ko-KR">(GMT-10:00) 하와이</Label>
-		<Label xml:lang="lt-LT">(GMT - 10:00) Havajai</Label>
+		<Label xml:lang="lt-LT">(GMT-10:00) Havajai</Label>
 		<Label xml:lang="lv-LV">(GMT-10:00) Havajas</Label>
 		<Label xml:lang="nb-NO">(GMT-10:00) Hawaii</Label>
 		<Label xml:lang="nl-NL">(GMT-10:00) Hawaii</Label>
@@ -4454,7 +4454,7 @@
 		<Label xml:lang="pt-BR">(GMT-10:00) Havaí</Label>
 		<Label xml:lang="pt-PT">(GMT-10:00) Havai</Label>
 		<Label xml:lang="ro-RO">(GMT-10:00) Hawaii</Label>
-		<Label xml:lang="ru-RU">(UTC-10:00) Гавайи</Label>
+		<Label xml:lang="ru-RU">(GMT-10:00) Гавайи</Label>
 		<Label xml:lang="sk-SK">(GMT-10:00) Havaj</Label>
 		<Label xml:lang="sl-SI">(GMT-10:00) Havaji</Label>
 		<Label xml:lang="sv-SE">(GMT-10:00) Hawaii</Label>
@@ -4547,7 +4547,7 @@
 		<Label xml:lang="da-DK">(GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi</Label>
 		<Label xml:lang="de-DE">(GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+05:30) Μαντράς, Καλκούτα, Βομβάη, Νέο Δελχί</Label>
-		<Label xml:lang="en-US">(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi</Label>
+		<Label xml:lang="en-US">(GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi</Label>
 		<Label xml:lang="es-ES">(GMT+05:30) Chennai, Kolkhata (Calcuta), Mumbai (Bombay), Nueva Delhi</Label>
 		<Label xml:lang="et-EE">(GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi</Label>
 		<Label xml:lang="fi-FI">(GMT+05:30) Kalkutta, Chennai, Mumbai, New Delhi</Label>
@@ -4566,7 +4566,7 @@
 		<Label xml:lang="pt-BR">(GMT+05:30) Calcutá, Madras, Bombaim, N. Délhi</Label>
 		<Label xml:lang="pt-PT">(GMT+05:30) Chennai, Kolkata, Mumbai, Nova Deli</Label>
 		<Label xml:lang="ro-RO">(GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi</Label>
-		<Label xml:lang="ru-RU">(UTC+05:30) Колката, Мумбаи, Нью-Дели, Ченнай</Label>
+		<Label xml:lang="ru-RU">(GMT+05:30) Колката, Мумбаи, Нью-Дели, Ченнай</Label>
 		<Label xml:lang="sk-SK">(GMT+05:30) Madras, Kalkata, Bombaj, Nové Dillí</Label>
 		<Label xml:lang="sl-SI">(GMT+05:30) Chennai, Kolkata, Mumbaj, New Delhi</Label>
 		<Label xml:lang="sv-SE">(GMT+05:30) Chennai, Calcutta, Mumbai, New Delhi</Label>
@@ -4659,7 +4659,7 @@
 		<Label xml:lang="da-DK">(GMT+03:30) Teheran</Label>
 		<Label xml:lang="de-DE">(GMT+03:30) Teheran</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+03:30) Τεχεράνη</Label>
-		<Label xml:lang="en-US">(UTC+03:30) Tehran</Label>
+		<Label xml:lang="en-US">(GMT+03:30) Tehran</Label>
 		<Label xml:lang="es-ES">(GMT+03:30) Teherán</Label>
 		<Label xml:lang="et-EE">(GMT+03:30) Teheran</Label>
 		<Label xml:lang="fi-FI">(GMT+03:30) Teheran</Label>
@@ -4678,7 +4678,7 @@
 		<Label xml:lang="pt-BR">(GMT+03:30) Teerã</Label>
 		<Label xml:lang="pt-PT">(GMT+03:30) Teerão</Label>
 		<Label xml:lang="ro-RO">(GMT+03:30) Teheran</Label>
-		<Label xml:lang="ru-RU">(UTC+03:30) Тегеран</Label>
+		<Label xml:lang="ru-RU">(GMT+03:30) Тегеран</Label>
 		<Label xml:lang="sk-SK">(GMT+03:30) Teherán</Label>
 		<Label xml:lang="sl-SI">(GMT+03:30) Teheran</Label>
 		<Label xml:lang="sv-SE">(GMT+03:30) Teheran</Label>
@@ -4776,7 +4776,7 @@
 		<Label xml:lang="da-DK">(GMT+02:00) Jerusalem</Label>
 		<Label xml:lang="de-DE">(GMT+02:00) Jerusalem</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+02:00) Ιερουσαλήμ</Label>
-		<Label xml:lang="en-US">(UTC+02:00) Jerusalem</Label>
+		<Label xml:lang="en-US">(GMT+02:00) Jerusalem</Label>
 		<Label xml:lang="es-ES">(GMT+02:00) Jerusalén</Label>
 		<Label xml:lang="et-EE">(GMT+02:00) Jeruusalemm</Label>
 		<Label xml:lang="fi-FI">(GMT+02:00) Jerusalem</Label>
@@ -4795,7 +4795,7 @@
 		<Label xml:lang="pt-BR">(GMT+02:00) Jerusalém</Label>
 		<Label xml:lang="pt-PT">(GMT+02:00) Jerusalém</Label>
 		<Label xml:lang="ro-RO">(GMT+02:00) Ierusalim</Label>
-		<Label xml:lang="ru-RU">(UTC+02:00) Иерусалим</Label>
+		<Label xml:lang="ru-RU">(GMT+02:00) Иерусалим</Label>
 		<Label xml:lang="sk-SK">(GMT+02:00) Jeruzalem</Label>
 		<Label xml:lang="sl-SI">(GMT+02:00) Jeruzalem</Label>
 		<Label xml:lang="sv-SE">(GMT+02:00) Jerusalem</Label>
@@ -4962,7 +4962,7 @@
 		<Label xml:lang="da-DK">(GMT+02:00) Amman</Label>
 		<Label xml:lang="de-DE">(GMT+02:00) Amman</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+02:00) Αμμάν</Label>
-		<Label xml:lang="en-US">(UTC+02:00) Amman</Label>
+		<Label xml:lang="en-US">(GMT+02:00) Amman</Label>
 		<Label xml:lang="es-ES">(GMT+02:00) Ammán</Label>
 		<Label xml:lang="et-EE">(GMT+02:00) Amman</Label>
 		<Label xml:lang="fi-FI">(GMT+02:00) Amman</Label>
@@ -4981,7 +4981,7 @@
 		<Label xml:lang="pt-BR">(GMT+02:00) Amã</Label>
 		<Label xml:lang="pt-PT">(GMT+02:00) Amã</Label>
 		<Label xml:lang="ro-RO">(GMT+02:00) Amman</Label>
-		<Label xml:lang="ru-RU">(UTC+02:00) Амман</Label>
+		<Label xml:lang="ru-RU">(GMT+02:00) Амман</Label>
 		<Label xml:lang="sk-SK">(GMT+02:00) Ammán</Label>
 		<Label xml:lang="sl-SI">(GMT+02:00) Amman</Label>
 		<Label xml:lang="sv-SE">(GMT+02:00) Amman</Label>
@@ -5085,7 +5085,7 @@
 		<Label xml:lang="da-DK">(GMT+09:00) Seoul</Label>
 		<Label xml:lang="de-DE">(GMT+09:00) Seoul</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+09:00) Σεούλ</Label>
-		<Label xml:lang="en-US">(UTC+09:00) Seoul</Label>
+		<Label xml:lang="en-US">(GMT+09:00) Seoul</Label>
 		<Label xml:lang="es-ES">(GMT+09:00) Seúl</Label>
 		<Label xml:lang="et-EE">(GMT+09:00) Soul</Label>
 		<Label xml:lang="fi-FI">(GMT+09:00) Soul</Label>
@@ -5104,7 +5104,7 @@
 		<Label xml:lang="pt-BR">(GMT+09:00) Seul</Label>
 		<Label xml:lang="pt-PT">(GMT+09:00) Seul</Label>
 		<Label xml:lang="ro-RO">(GMT+09:00) Seul</Label>
-		<Label xml:lang="ru-RU">(UTC+09:00) Сеул</Label>
+		<Label xml:lang="ru-RU">(GMT+09:00) Сеул</Label>
 		<Label xml:lang="sk-SK">(GMT+09:00) Soul</Label>
 		<Label xml:lang="sl-SI">(GMT+09:00) Seul</Label>
 		<Label xml:lang="sv-SE">(GMT+09:00) Söul</Label>
@@ -5197,7 +5197,7 @@
 		<Label xml:lang="da-DK">(GMT-02:00) Mid-Atlantic</Label>
 		<Label xml:lang="de-DE">(GMT-02:00) Mittelatlantik</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς-02:00) Μέσος Ατλαντικός</Label>
-		<Label xml:lang="en-US">(UTC-02:00) Mid-Atlantic</Label>
+		<Label xml:lang="en-US">(GMT-02:00) Mid-Atlantic</Label>
 		<Label xml:lang="es-ES">(GMT-02:00) Atlántico Central</Label>
 		<Label xml:lang="et-EE">(GMT-02:00) Kesk-Atlandi</Label>
 		<Label xml:lang="fi-FI">(GMT-02:00) Keski-Atlantti</Label>
@@ -5208,7 +5208,7 @@
 		<Label xml:lang="it-IT">(GMT-2.00) Medioatlantico</Label>
 		<Label xml:lang="ja-JP">(GMT-02:00) 中央大西洋</Label>
 		<Label xml:lang="ko-KR">(GMT-02:00) 중부-대서양</Label>
-		<Label xml:lang="lt-LT">(GMT - 02:00) Vidurio Atlantas</Label>
+		<Label xml:lang="lt-LT">(GMT-02:00) Vidurio Atlantas</Label>
 		<Label xml:lang="lv-LV">(GMT-02:00) Vidusatlantija</Label>
 		<Label xml:lang="nb-NO">(GMT-02:00) Det sentrale Atlanterhav</Label>
 		<Label xml:lang="nl-NL">(GMT-02:00) Mid-Atlantic</Label>
@@ -5216,7 +5216,7 @@
 		<Label xml:lang="pt-BR">(GMT-02:00) Atlântico Central</Label>
 		<Label xml:lang="pt-PT">(GMT-02:00) Atlântico Central</Label>
 		<Label xml:lang="ro-RO">(GMT-02:00) Atlanticul Mijlociu</Label>
-		<Label xml:lang="ru-RU">(UTC-02:00) Среднеатлантическое время</Label>
+		<Label xml:lang="ru-RU">(GMT-02:00) Среднеатлантическое время</Label>
 		<Label xml:lang="sk-SK">(GMT-02:00) Stredoatlantický čas</Label>
 		<Label xml:lang="sl-SI">(GMT-02:00) Srednji Atlantik</Label>
 		<Label xml:lang="sv-SE">(GMT-02:00) Mittatlanten</Label>
@@ -5312,7 +5312,7 @@
 		<Label xml:lang="da-DK">(GMT+02:00) Beirut</Label>
 		<Label xml:lang="de-DE">(GMT+02:00) Beirut</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+02:00) Βυρηττός</Label>
-		<Label xml:lang="en-US">(UTC+02:00) Beirut</Label>
+		<Label xml:lang="en-US">(GMT+02:00) Beirut</Label>
 		<Label xml:lang="es-ES">(GMT+02:00) Beirut</Label>
 		<Label xml:lang="et-EE">(GMT+02:00) Beirut</Label>
 		<Label xml:lang="fi-FI">(GMT+02:00) Beirut</Label>
@@ -5331,7 +5331,7 @@
 		<Label xml:lang="pt-BR">(GMT+02:00) Beirute</Label>
 		<Label xml:lang="pt-PT">(GMT+02:00) Beirute</Label>
 		<Label xml:lang="ro-RO">(GMT+02:00) Beirut</Label>
-		<Label xml:lang="ru-RU">(UTC+02:00) Бейрут</Label>
+		<Label xml:lang="ru-RU">(GMT+02:00) Бейрут</Label>
 		<Label xml:lang="sk-SK">(GMT+02:00) Bejrút</Label>
 		<Label xml:lang="sl-SI">(GMT+02:00) Bejrut</Label>
 		<Label xml:lang="sv-SE">(GMT+02:00) Beirut</Label>
@@ -5427,7 +5427,7 @@
 		<Label xml:lang="da-DK">(GMT-03:00) Montevideo</Label>
 		<Label xml:lang="de-DE">(GMT-03:00) Montevideo</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς-03:00) Μοντεβιδέο</Label>
-		<Label xml:lang="en-US">(UTC-03:00) Montevideo</Label>
+		<Label xml:lang="en-US">(GMT-03:00) Montevideo</Label>
 		<Label xml:lang="es-ES">(GMT-03:00) Montevideo</Label>
 		<Label xml:lang="et-EE">(GMT-03:00) Montevideo</Label>
 		<Label xml:lang="fi-FI">(GMT-03:00) Montevideo</Label>
@@ -5438,7 +5438,7 @@
 		<Label xml:lang="it-IT">(GMT-3.00) Montevideo</Label>
 		<Label xml:lang="ja-JP">(GMT-03:00) モンテビデオ</Label>
 		<Label xml:lang="ko-KR">(GMT-03:00) 몬테비디오</Label>
-		<Label xml:lang="lt-LT">(GMT - 03:00) Montevidėjas</Label>
+		<Label xml:lang="lt-LT">(GMT-03:00) Montevidėjas</Label>
 		<Label xml:lang="lv-LV">(GMT-03:00) Montevideo</Label>
 		<Label xml:lang="nb-NO">(GMT-03:00) Montevideo</Label>
 		<Label xml:lang="nl-NL">(GMT-03:00) Montevideo</Label>
@@ -5446,7 +5446,7 @@
 		<Label xml:lang="pt-BR">(GMT-03:00) Montevidéu</Label>
 		<Label xml:lang="pt-PT">(GMT-03:00) Montevideu</Label>
 		<Label xml:lang="ro-RO">(GMT-03:00) Montevideo</Label>
-		<Label xml:lang="ru-RU">(UTC-03:00) Монтевидео</Label>
+		<Label xml:lang="ru-RU">(GMT-03:00) Монтевидео</Label>
 		<Label xml:lang="sk-SK">(GMT-03:00) Montevideo</Label>
 		<Label xml:lang="sl-SI">(GMT-03:00) Montevideo</Label>
 		<Label xml:lang="sv-SE">(GMT-03:00) Montevideo</Label>
@@ -5547,10 +5547,10 @@
 		<Label xml:lang="ar-SA">(GMT-07:00) توقيت الجبل (الولايات المتحدة وكندا)</Label>
 		<Label xml:lang="bg-BG">(GMT-07:00) Планинско време (САЩ и Канада)</Label>
 		<Label xml:lang="cs-CZ">(GMT-07:00) Horská oblast USA a Kanada</Label>
-		<Label xml:lang="da-DK">&amp;(GMT-07:00) Mountain time (USA og Canada)</Label>
+		<Label xml:lang="da-DK">(GMT-07:00) Mountain time (USA og Canada)</Label>
 		<Label xml:lang="de-DE">(GMT-07:00) Mountain (USA, Kanada)</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς-07:00) Ορεινή ώρα (Η.Π.Α. &amp; Καναδάς)</Label>
-		<Label xml:lang="en-US">(UTC-07:00) Mountain Time (US &amp; Canada)</Label>
+		<Label xml:lang="en-US">(GMT-07:00) Mountain Time (US &amp; Canada)</Label>
 		<Label xml:lang="es-ES">(GMT-07:00) Hora de las Montañas (EE.UU. y Canadá)</Label>
 		<Label xml:lang="et-EE">(GMT-07:00) Põhja Ameerika Mäestiku aeg</Label>
 		<Label xml:lang="fi-FI">(GMT-07:00) Kalliovuorten normaaliaika (USA ja Kanada)</Label>
@@ -5561,7 +5561,7 @@
 		<Label xml:lang="it-IT">(GMT-7.00) Fuso occidentale (USA e Canada)</Label>
 		<Label xml:lang="ja-JP">(GMT-07:00) 山地標準時 (米国およびカナダ)</Label>
 		<Label xml:lang="ko-KR">(GMT-07:00) 산지 표준시 (미국과 캐나다)</Label>
-		<Label xml:lang="lt-LT">(&amp;GMT-07:00) Kalnų laikas (JAV  Kanada)</Label>
+		<Label xml:lang="lt-LT">(GMT-07:00) Kalnų laikas (JAV &amp; Kanada)</Label>
 		<Label xml:lang="lv-LV">(GMT-07:00) Ziemas laika josla (ASV, Kanāda)</Label>
 		<Label xml:lang="nb-NO">(GMT-07:00) Rocky Mountains (USA og Canada)</Label>
 		<Label xml:lang="nl-NL">(GMT-07:00) Mountain Time (V.S. en Canada)</Label>
@@ -5569,7 +5569,7 @@
 		<Label xml:lang="pt-BR">(GMT-07:00) Hora das Montanhas (EUA e Canadá)</Label>
 		<Label xml:lang="pt-PT">(GMT-07:00) Hora das regiões montanhosas (E.U.A. e Canadá)</Label>
 		<Label xml:lang="ro-RO">(GMT-07:00) Ora MDT (SUA și Canada)</Label>
-		<Label xml:lang="ru-RU">(UTC-07:00) Горное время (США и Канада)</Label>
+		<Label xml:lang="ru-RU">(GMT-07:00) Горное время (США и Канада)</Label>
 		<Label xml:lang="sk-SK">(GMT-07:00) Horský čas (USA a Kanada)</Label>
 		<Label xml:lang="sl-SI">(GMT-07:00) Gorski čas (ZDA &amp; Kanada)</Label>
 		<Label xml:lang="sv-SE">(GMT-07:00) Mountain Time (USA och Canada)</Label>
@@ -5578,7 +5578,7 @@
 		<Label xml:lang="uk-UA">(GMT-07:00) Гірський час (США та Канада)</Label>
 		<Label xml:lang="zh-CN">(GMT-07:00) 山地时间(美国和加拿大)</Label>
 		<Label xml:lang="zh-TW">(GMT-07:00) 山區時間 (美國和加拿大)</Label>
-		<Label xml:lang="sr-Latn-CS">(GMT- 07:00) Planinsko vreme (SAD i Kanada)</Label>
+		<Label xml:lang="sr-Latn-CS">(GMT-07:00) Planinsko vreme (SAD i Kanada)</Label>
 		<Label xml:lang="en" Type="Standard">Mountain Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">التوقيت الجبلي الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Планинско стандартно време</Label>
@@ -5673,7 +5673,7 @@
 		<Label xml:lang="da-DK">(GMT-07:00) Chihuahua, La Paz, Mazatlan</Label>
 		<Label xml:lang="de-DE">(GMT-07:00) Chihuahua, La Paz, Mazatlan</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς-07:00) Τσιουάουα, Λαπάζ, Μαζατλάν</Label>
-		<Label xml:lang="en-US">(UTC-07:00) Chihuahua, La Paz, Mazatlan</Label>
+		<Label xml:lang="en-US">(GMT-07:00) Chihuahua, La Paz, Mazatlan</Label>
 		<Label xml:lang="es-ES">(GMT-07:00) Chihuahua, La Paz, Mazatlán</Label>
 		<Label xml:lang="et-EE">(GMT-07:00) Chihuahua, La Paz, Mazatlan</Label>
 		<Label xml:lang="fi-FI">(GMT-07:00) Chihuahua, La Paz, Mazatlan</Label>
@@ -5684,7 +5684,7 @@
 		<Label xml:lang="it-IT">(GMT-7.00) Chihuahua, La Paz, Mazatlan</Label>
 		<Label xml:lang="ja-JP">(GMT-07:00) チワワ、ラパス、マサトラン</Label>
 		<Label xml:lang="ko-KR">(GMT-07:00) 치와와, 라파스, 마사틀란</Label>
-		<Label xml:lang="lt-LT">(GMT - 07:00) Čichuachua, La Pasas, Mazatlanas</Label>
+		<Label xml:lang="lt-LT">(GMT-07:00) Čichuachua, La Pasas, Mazatlanas</Label>
 		<Label xml:lang="lv-LV">(GMT-07:00) Čivava, Lapasa, Masatlana</Label>
 		<Label xml:lang="nb-NO">(GMT-07:00) Chihuahua, La Paz, Mazatlan</Label>
 		<Label xml:lang="nl-NL">(GMT-07:00) Chihuahua, La Paz, Mazatlan</Label>
@@ -5692,7 +5692,7 @@
 		<Label xml:lang="pt-BR">(GMT-07:00) Chihuahua, La Paz, Mazatlan</Label>
 		<Label xml:lang="pt-PT">(GMT-07:00) Chihuahua, La Paz, Mazatlan</Label>
 		<Label xml:lang="ro-RO">(GMT-07:00) Chihuahua, La Paz, Mazatlan</Label>
-		<Label xml:lang="ru-RU">(UTC-07:00) Ла-Пас, Мазатлан, Чихуахуа</Label>
+		<Label xml:lang="ru-RU">(GMT-07:00) Ла-Пас, Мазатлан, Чихуахуа</Label>
 		<Label xml:lang="sk-SK">(GMT-07:00) Chihuahua, La Paz, Mazatlan</Label>
 		<Label xml:lang="sl-SI">(GMT-07:00) Chihuahua, La Paz, Mazatlan</Label>
 		<Label xml:lang="sv-SE">(GMT-07:00) Chihuahua, La Paz, Mazatlan</Label>
@@ -5788,7 +5788,7 @@
 		<Label xml:lang="da-DK">(GMT+06:30) Yangon (Rangoon)</Label>
 		<Label xml:lang="de-DE">(GMT+06:30) Yangon (Rangun)</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+06:30) Γιανγκόν (Ρανγκούν)</Label>
-		<Label xml:lang="en-US">(UTC+06:30) Yangon (Rangoon)</Label>
+		<Label xml:lang="en-US">(GMT+06:30) Yangon (Rangoon)</Label>
 		<Label xml:lang="es-ES">(GMT+06:30) Yangon (Rangún)</Label>
 		<Label xml:lang="et-EE">(GMT+06:30) Yangon (Rangoon)</Label>
 		<Label xml:lang="fi-FI">(GMT+06:30) Yangon (Rangoon)</Label>
@@ -5807,7 +5807,7 @@
 		<Label xml:lang="pt-BR">(GMT+06:30) Yangon (Rangoon)</Label>
 		<Label xml:lang="pt-PT">(GMT+06:30) Yangon (Rangoon)</Label>
 		<Label xml:lang="ro-RO">(GMT+06:30) Yangon (Rangoon)</Label>
-		<Label xml:lang="ru-RU">(UTC+06:30) Янгон</Label>
+		<Label xml:lang="ru-RU">(GMT+06:30) Янгон</Label>
 		<Label xml:lang="sk-SK">(GMT+06:30) Yangon (Rangún)</Label>
 		<Label xml:lang="sl-SI">(GMT+06:30) Yangon (Rangun)</Label>
 		<Label xml:lang="sv-SE">(GMT+06:30) Rangoon</Label>
@@ -5900,7 +5900,7 @@
 		<Label xml:lang="da-DK">(GMT+06:00) Almaty, Novosibirsk</Label>
 		<Label xml:lang="de-DE">(GMT+06:00) Almaty, Nowosibirsk</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+06:00) Αλμά-Ατά, Νοβοσιμπίρσκ</Label>
-		<Label xml:lang="en-US">(UTC+06:00) Almaty, Novosibirsk</Label>
+		<Label xml:lang="en-US">(GMT+06:00) Almaty, Novosibirsk</Label>
 		<Label xml:lang="es-ES">(GMT+06:00) Almaty, Novosibirsk</Label>
 		<Label xml:lang="et-EE">(GMT+06:00) Almatõ, Novosibirsk</Label>
 		<Label xml:lang="fi-FI">(GMT+06:00) Alma-Ata, Novosibirsk</Label>
@@ -5919,7 +5919,7 @@
 		<Label xml:lang="pt-BR">(GMT+06:00) Almaty, Novosibirsk</Label>
 		<Label xml:lang="pt-PT">(GMT+06:00) Almaty, Novosibirsk</Label>
 		<Label xml:lang="ro-RO">(GMT+06:00) Alma-Ata, Novosibirsk</Label>
-		<Label xml:lang="ru-RU">(UTC+06:00) Алматы, Новосибирск</Label>
+		<Label xml:lang="ru-RU">(GMT+06:00) Алматы, Новосибирск</Label>
 		<Label xml:lang="sk-SK">(GMT+06:00) Alma-Ata, Novosibirsk</Label>
 		<Label xml:lang="sl-SI">(GMT+06:00) Almati, Novosibirsk</Label>
 		<Label xml:lang="sv-SE">(GMT+06:00) Almaty, Novosibirsk</Label>
@@ -6015,7 +6015,7 @@
 		<Label xml:lang="da-DK">(GMT+02:00) Windhoek</Label>
 		<Label xml:lang="de-DE">(GMT+02:00) Windhuk</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+02:00) Γουίντχουκ</Label>
-		<Label xml:lang="en-US">(UTC+02:00) Windhoek</Label>
+		<Label xml:lang="en-US">(GMT+02:00) Windhoek</Label>
 		<Label xml:lang="es-ES">(GMT+02:00) Windhoek</Label>
 		<Label xml:lang="et-EE">(GMT+02:00) Windhoek</Label>
 		<Label xml:lang="fi-FI">(GMT+02:00) Windhoek</Label>
@@ -6034,7 +6034,7 @@
 		<Label xml:lang="pt-BR">(GMT+02:00) Windhoek</Label>
 		<Label xml:lang="pt-PT">(GMT+02:00) Windhoek</Label>
 		<Label xml:lang="ro-RO">(GMT+02:00) Windhoek</Label>
-		<Label xml:lang="ru-RU">(UTC+02:00) Виндхук</Label>
+		<Label xml:lang="ru-RU">(GMT+02:00) Виндхук</Label>
 		<Label xml:lang="sk-SK">(GMT+02:00) Windhoek</Label>
 		<Label xml:lang="sl-SI">(GMT+02:00) Windhoek</Label>
 		<Label xml:lang="sv-SE">(GMT+02:00) Windhoek</Label>
@@ -6130,7 +6130,7 @@
 		<Label xml:lang="da-DK">(GMT+05:45) Katmandu</Label>
 		<Label xml:lang="de-DE">(GMT+05:45) Katmandu</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+05:45) Κατμαντού</Label>
-		<Label xml:lang="en-US">(UTC+05:45) Kathmandu</Label>
+		<Label xml:lang="en-US">(GMT+05:45) Kathmandu</Label>
 		<Label xml:lang="es-ES">(GMT+05:45) Kathmandu</Label>
 		<Label xml:lang="et-EE">(GMT+05:45) Katmandu</Label>
 		<Label xml:lang="fi-FI">(GMT+05:45) Katmandu</Label>
@@ -6149,7 +6149,7 @@
 		<Label xml:lang="pt-BR">(GMT+05:45) Katmandu</Label>
 		<Label xml:lang="pt-PT">(GMT+05:45) Kathmandu</Label>
 		<Label xml:lang="ro-RO">(GMT+05:45) Katmandu</Label>
-		<Label xml:lang="ru-RU">(UTC+05:45) Катманду</Label>
+		<Label xml:lang="ru-RU">(GMT+05:45) Катманду</Label>
 		<Label xml:lang="sk-SK">(GMT+05:45) Káthmándú</Label>
 		<Label xml:lang="sl-SI">(GMT+05:45) Katmandu</Label>
 		<Label xml:lang="sv-SE">(GMT+05:45) Kathmandu</Label>
@@ -6242,7 +6242,7 @@
 		<Label xml:lang="da-DK">(GMT+12:00) Auckland, Wellington</Label>
 		<Label xml:lang="de-DE">(GMT+12:00) Auckland, Wellington</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+12:00) Όκλαντ, Γουέλλινγκτον</Label>
-		<Label xml:lang="en-US">(UTC+12:00) Auckland, Wellington</Label>
+		<Label xml:lang="en-US">(GMT+12:00) Auckland, Wellington</Label>
 		<Label xml:lang="es-ES">(GMT+12:00) Auckland, Wellington</Label>
 		<Label xml:lang="et-EE">(GMT+12:00) Auckland, Wellington</Label>
 		<Label xml:lang="fi-FI">(GMT+12:00) Auckland, Wellington</Label>
@@ -6261,7 +6261,7 @@
 		<Label xml:lang="pt-BR">(GMT+12:00) Auckland, Wellington</Label>
 		<Label xml:lang="pt-PT">(GMT+12:00) Auckland, Wellington</Label>
 		<Label xml:lang="ro-RO">(GMT+12:00) Auckland, Wellington</Label>
-		<Label xml:lang="ru-RU">(UTC+12:00) Веллингтон, Окленд</Label>
+		<Label xml:lang="ru-RU">(GMT+12:00) Веллингтон, Окленд</Label>
 		<Label xml:lang="sk-SK">(GMT+12:00) Auckland, Wellington</Label>
 		<Label xml:lang="sl-SI">(GMT+12:00) Auckland, Wellington</Label>
 		<Label xml:lang="sv-SE">(GMT+12:00) Auckland, Wellington</Label>
@@ -6369,7 +6369,7 @@
 		<Label xml:lang="da-DK">(GMT-03:30) Newfoundland</Label>
 		<Label xml:lang="de-DE">(GMT-03:30) Neufundland</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς-03:30) Νέα Γη</Label>
-		<Label xml:lang="en-US">(UTC-03:30) Newfoundland</Label>
+		<Label xml:lang="en-US">(GMT-03:30) Newfoundland</Label>
 		<Label xml:lang="es-ES">(GMT-03:30) Terranova</Label>
 		<Label xml:lang="et-EE">(GMT-03:30) Newfoundland</Label>
 		<Label xml:lang="fi-FI">(GMT-03:30) Newfoundland</Label>
@@ -6380,7 +6380,7 @@
 		<Label xml:lang="it-IT">(GMT-3.30) Terranova</Label>
 		<Label xml:lang="ja-JP">(GMT-03:30) ニューファンドランド</Label>
 		<Label xml:lang="ko-KR">(GMT-03:30) 뉴펀들랜드</Label>
-		<Label xml:lang="lt-LT">(GMT - 03:30) Niufaundlendas</Label>
+		<Label xml:lang="lt-LT">(GMT-03:30) Niufaundlendas</Label>
 		<Label xml:lang="lv-LV">(GMT-03:30) Ņūfaundlenda</Label>
 		<Label xml:lang="nb-NO">(GMT-03:30) Newfoundland</Label>
 		<Label xml:lang="nl-NL">(GMT-03:30) Newfoundland</Label>
@@ -6388,7 +6388,7 @@
 		<Label xml:lang="pt-BR">(GMT-03:30) Newfoundland</Label>
 		<Label xml:lang="pt-PT">(GMT-03:30) Terra Nova</Label>
 		<Label xml:lang="ro-RO">(GMT-03:30) Newfoundland</Label>
-		<Label xml:lang="ru-RU">(UTC-03:30) Ньюфаундленд</Label>
+		<Label xml:lang="ru-RU">(GMT-03:30) Ньюфаундленд</Label>
 		<Label xml:lang="sk-SK">(GMT-03:30) Newfoundland</Label>
 		<Label xml:lang="sl-SI">(GMT-03:30) Nova Fundlandija</Label>
 		<Label xml:lang="sv-SE">(GMT-03:30) Newfoundland</Label>
@@ -6492,7 +6492,7 @@
 		<Label xml:lang="da-DK">(GMT+08:00) Irkutsk, Ulaanbataar</Label>
 		<Label xml:lang="de-DE">(GMT+08:00) Irkutsk, Ulan-Bator</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+08:00) Ιρκούτσκ, Ουλάν Μπατόρ</Label>
-		<Label xml:lang="en-US">(UTC+08:00) Irkutsk, Ulaan Bataar</Label>
+		<Label xml:lang="en-US">(GMT+08:00) Irkutsk, Ulaan Bataar</Label>
 		<Label xml:lang="es-ES">(GMT+08:00) Irkutsk, Ulaan Bataar</Label>
 		<Label xml:lang="et-EE">(GMT+08:00) Irkutsk, Ulaanbaatar</Label>
 		<Label xml:lang="fi-FI">(GMT+08:00) Irkutsk, Ulan Bator</Label>
@@ -6511,7 +6511,7 @@
 		<Label xml:lang="pt-BR">(GMT+08:00) Irkutsk, Ulan-Bator</Label>
 		<Label xml:lang="pt-PT">(GMT+08:00) Irkutsk, Ulaan Bataar</Label>
 		<Label xml:lang="ro-RO">(GMT+08:00) Irkutsk, Ulan Bator</Label>
-		<Label xml:lang="ru-RU">(UTC+08:00) Иркутск, Улан-Батор</Label>
+		<Label xml:lang="ru-RU">(GMT+08:00) Иркутск, Улан-Батор</Label>
 		<Label xml:lang="sk-SK">(GMT+08:00) Irkutsk, Ulánbátar</Label>
 		<Label xml:lang="sl-SI">(GMT+08:00) Irkutsk, Ulan Bator</Label>
 		<Label xml:lang="sv-SE">(GMT+08:00) Irkutsk, Ulan Bator</Label>
@@ -6607,7 +6607,7 @@
 		<Label xml:lang="da-DK">(GMT+07:00) Krasnoyarsk</Label>
 		<Label xml:lang="de-DE">(GMT+07:00) Krasnojarsk</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+07:00) Κρασνογιάρσκ</Label>
-		<Label xml:lang="en-US">(UTC+07:00) Krasnoyarsk</Label>
+		<Label xml:lang="en-US">(GMT+07:00) Krasnoyarsk</Label>
 		<Label xml:lang="es-ES">(GMT+07:00) Krasnoyarsk</Label>
 		<Label xml:lang="et-EE">(GMT+07:00) Krasnojarsk</Label>
 		<Label xml:lang="fi-FI">(GMT+07:00) Krasnoyarsk</Label>
@@ -6626,7 +6626,7 @@
 		<Label xml:lang="pt-BR">(GMT+07:00) Krasnoyarsk</Label>
 		<Label xml:lang="pt-PT">(GMT+07:00) Krasnoyarsk</Label>
 		<Label xml:lang="ro-RO">(GMT+07:00) Krasnoyarsk</Label>
-		<Label xml:lang="ru-RU">(UTC+07:00) Красноярск</Label>
+		<Label xml:lang="ru-RU">(GMT+07:00) Красноярск</Label>
 		<Label xml:lang="sk-SK">(GMT+07:00) Krasnojarsk</Label>
 		<Label xml:lang="sl-SI">(GMT+07:00) Krasnojarsk</Label>
 		<Label xml:lang="sv-SE">(GMT+07:00) Krasnoyarsk</Label>
@@ -6722,7 +6722,7 @@
 		<Label xml:lang="da-DK">(GMT-04:00) Santiago</Label>
 		<Label xml:lang="de-DE">(GMT-04:00) Santiago</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς-04:00) Σαντιάγκο</Label>
-		<Label xml:lang="en-US">(UTC-04:00) Santiago</Label>
+		<Label xml:lang="en-US">(GMT-04:00) Santiago</Label>
 		<Label xml:lang="es-ES">(GMT-04:00) Santiago</Label>
 		<Label xml:lang="et-EE">(GMT-04:00) Santiago</Label>
 		<Label xml:lang="fi-FI">(GMT-04:00) Santiago</Label>
@@ -6733,7 +6733,7 @@
 		<Label xml:lang="it-IT">(GMT-4.00) Santiago</Label>
 		<Label xml:lang="ja-JP">(GMT-04:00) サンティアゴ</Label>
 		<Label xml:lang="ko-KR">(GMT-04:00) 산티아고</Label>
-		<Label xml:lang="lt-LT">(GMT - 04:00) Santjagas</Label>
+		<Label xml:lang="lt-LT">(GMT-04:00) Santjagas</Label>
 		<Label xml:lang="lv-LV">(GMT-04:00) Santjago</Label>
 		<Label xml:lang="nb-NO">(GMT-04:00) Santiago</Label>
 		<Label xml:lang="nl-NL">(GMT-04:00) Santiago</Label>
@@ -6741,7 +6741,7 @@
 		<Label xml:lang="pt-BR">(GMT-04:00) Santiago</Label>
 		<Label xml:lang="pt-PT">(GMT-04:00) Santiago</Label>
 		<Label xml:lang="ro-RO">(GMT-04:00) Santiago</Label>
-		<Label xml:lang="ru-RU">(UTC-04:00) Сантьяго</Label>
+		<Label xml:lang="ru-RU">(GMT-04:00) Сантьяго</Label>
 		<Label xml:lang="sk-SK">(GMT-04:00) Santiago</Label>
 		<Label xml:lang="sl-SI">(GMT-04:00) Santiago</Label>
 		<Label xml:lang="sv-SE">(GMT-04:00) Santiago</Label>
@@ -6757,11 +6757,11 @@
 		<Label xml:lang="cs-CZ" Type="Standard">Tichomoří Jižní Am. (běžný čas)</Label>
 		<Label xml:lang="da-DK" Type="Standard">Sydamerika (St.havet) normaltid</Label>
 		<Label xml:lang="de-DE" Type="Standard">Chilenische Normalzeit</Label>
-		<Label xml:lang="el-GR" Type="Standard">Χειμερινή ώρα Ειρηνικού Ν.Α. </Label>
+		<Label xml:lang="el-GR" Type="Standard">Χειμερινή ώρα Ειρηνικού Ν.Α.</Label>
 		<Label xml:lang="en-US" Type="Standard">Pacific SA Standard Time</Label>
 		<Label xml:lang="es-ES" Type="Standard">Hora est. Sudamérica Pacífico</Label>
 		<Label xml:lang="et-EE" Type="Standard">Vaikse ookeani SA standardaeg</Label>
-		<Label xml:lang="fi-FI" Type="Standard">Etelä-Am. Tyynenmeren norm. aika</Label>
+		<Label xml:lang="fi-FI" Type="Standard">Etelä-Am. Tyynenmeren norm.aika</Label>
 		<Label xml:lang="fr-FR" Type="Standard">Amér. du Sud Pacif(heure d'été)</Label>
 		<Label xml:lang="he-IL" Type="Standard">שעון רגיל ד. אמריקה האוק' השקט</Label>
 		<Label xml:lang="hr-HR" Type="Standard">Pacif. Juž. Amerika - st. vrij.</Label>
@@ -6776,7 +6776,7 @@
 		<Label xml:lang="pl-PL" Type="Standard">Stand. czas pacyficzny (Am. Pd.)</Label>
 		<Label xml:lang="pt-BR" Type="Standard">Horário padrão - Pacífico</Label>
 		<Label xml:lang="pt-PT" Type="Standard">Hora padrão do Pacífico da AS</Label>
-		<Label xml:lang="ro-RO" Type="Standard">Am. de S, Pacific, oră standard </Label>
+		<Label xml:lang="ro-RO" Type="Standard">Am. de S, Pacific, oră standard</Label>
 		<Label xml:lang="ru-RU" Type="Standard">Тихоокеанское Ю-Ам. вр. (зима)</Label>
 		<Label xml:lang="sk-SK" Type="Standard">J. Amerika - tich. č. (norm.)</Label>
 		<Label xml:lang="sl-SI" Type="Standard">Pacifiški južnoam. stand. čas</Label>
@@ -6793,14 +6793,14 @@
 		<Label xml:lang="cs-CZ" Type="Daylight">Tichomoří Jižní Am. (letní čas)</Label>
 		<Label xml:lang="da-DK" Type="Daylight">Sydamerika (St.havet) sommertid</Label>
 		<Label xml:lang="de-DE" Type="Daylight">Chilenische Sommerzeit</Label>
-		<Label xml:lang="el-GR" Type="Daylight">Θερινή ώρα Ειρηνικού Ν.Α. </Label>
+		<Label xml:lang="el-GR" Type="Daylight">Θερινή ώρα Ειρηνικού Ν.Α.</Label>
 		<Label xml:lang="en-US" Type="Daylight">Pacific SA Daylight Time</Label>
 		<Label xml:lang="es-ES" Type="Daylight">Hora de ver. Sudamérica Pacífico</Label>
 		<Label xml:lang="et-EE" Type="Daylight">Vaikse ookeani SA suveaeg</Label>
-		<Label xml:lang="fi-FI" Type="Daylight">Etelä-Am. Tyynenmeren kesäaika </Label>
+		<Label xml:lang="fi-FI" Type="Daylight">Etelä-Am. Tyynenmeren kesäaika</Label>
 		<Label xml:lang="fr-FR" Type="Daylight">Amér. du Sud Pacif</Label>
 		<Label xml:lang="he-IL" Type="Daylight">שעון קיץ ד. אמריקה האוק' השקט</Label>
-		<Label xml:lang="hr-HR" Type="Daylight">Pacif. Juž. Amer. -  ljet. vrij.</Label>
+		<Label xml:lang="hr-HR" Type="Daylight">Pacif. Juž. Amer. - ljet. vrij.</Label>
 		<Label xml:lang="hu-HU" Type="Daylight">Csendes-óceáni nyári idő</Label>
 		<Label xml:lang="it-IT" Type="Daylight">ora legale SA Pacifico</Label>
 		<Label xml:lang="ja-JP" Type="Daylight">太平洋南アメリカ夏時間</Label>
@@ -6812,7 +6812,7 @@
 		<Label xml:lang="pl-PL" Type="Daylight">Letni czas pacyficzny (Am. Pd.)</Label>
 		<Label xml:lang="pt-BR" Type="Daylight">Horário de Verão - Pacífico</Label>
 		<Label xml:lang="pt-PT" Type="Daylight">Hora de Verão do Pacífico da AS</Label>
-		<Label xml:lang="ro-RO" Type="Daylight">Am. de S, Pacific,  oră de vară</Label>
+		<Label xml:lang="ro-RO" Type="Daylight">Am. de S, Pacific, oră de vară</Label>
 		<Label xml:lang="ru-RU" Type="Daylight">Тихоокеанское Ю-Ам. вр. (лето)</Label>
 		<Label xml:lang="sk-SK" Type="Daylight">J. Amerika - tichom. čas (letný)</Label>
 		<Label xml:lang="sl-SI" Type="Daylight">Pacifiški južnoam. poletni čas</Label>
@@ -6832,12 +6832,12 @@
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Pacific Standard Time">Pacific Standard Time</Link>
 		<Label xml:lang="en">(GMT-08:00) Pacific Time (US &amp; Canada)</Label>
 		<Label xml:lang="ar-SA">(GMT-08:00) توقيت الباسيفيكي (الولايات المتحدة وكندا)</Label>
-		<Label xml:lang="bg-BG">&amp;(GMT-08:00) Тихоокеанско време (САЩ и Канада)</Label>
+		<Label xml:lang="bg-BG">(GMT-08:00) Тихоокеанско време (САЩ и Канада)</Label>
 		<Label xml:lang="cs-CZ">(GMT-08:00) Tichomoří (USA a Kanada)</Label>
 		<Label xml:lang="da-DK">(GMT-08:00) Pacific tid (USA og Canada)</Label>
 		<Label xml:lang="de-DE">(GMT-08:00) Pacific (USA, Kanada)</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς-08:00) Ώρα Ειρηνικού (ΗΠΑ &amp; Καναδάς)</Label>
-		<Label xml:lang="en-US">(UTC-08:00) Pacific Time (US &amp; Canada)</Label>
+		<Label xml:lang="en-US">(GMT-08:00) Pacific Time (US &amp; Canada)</Label>
 		<Label xml:lang="es-ES">(GMT-08:00) Hora del Pacífico (EE.UU. y Canadá)</Label>
 		<Label xml:lang="et-EE">(GMT-08:00) Vaikse ookeani aeg (USA, Kanada)</Label>
 		<Label xml:lang="fi-FI">(GMT-08:00) Tyynenmeren normaaliaika (Yhdysvallat ja Kanada)</Label>
@@ -6856,7 +6856,7 @@
 		<Label xml:lang="pt-BR">(GMT-08:00) Hora do Pacífico (EUA e Canadá)</Label>
 		<Label xml:lang="pt-PT">(GMT-08:00) Hora do Pacífico (E.U.A. e Canadá)</Label>
 		<Label xml:lang="ro-RO">(GMT-08:00) Ora coastei Pacificului (SUA și Canada)</Label>
-		<Label xml:lang="ru-RU">(UTC-08:00) Тихоокеанское время (США и Канада)</Label>
+		<Label xml:lang="ru-RU">(GMT-08:00) Тихоокеанское время (США и Канада)</Label>
 		<Label xml:lang="sk-SK">(GMT-08:00) Tichomorský čas (USA a Kanada)</Label>
 		<Label xml:lang="sl-SI">(GMT-08:00) Tihooceanski čas (ZDA in Kanada)</Label>
 		<Label xml:lang="sv-SE">(GMT-08:00) Pacific Time (USA och Canada)</Label>
@@ -6865,7 +6865,7 @@
 		<Label xml:lang="uk-UA">(GMT-08:00) Тихоокеанський час (США та Канада)</Label>
 		<Label xml:lang="zh-CN">(GMT-08:00) 太平洋时间(美国和加拿大)</Label>
 		<Label xml:lang="zh-TW">(GMT-08:00) 太平洋時間 (美國和加拿大)</Label>
-		<Label xml:lang="sr-Latn-CS">(GMT- 08:00) Pacifičko vreme (SAD i Kanada)</Label>
+		<Label xml:lang="sr-Latn-CS">(GMT-08:00) Pacifičko vreme (SAD i Kanada)</Label>
 		<Label xml:lang="en" Type="Standard">Pacific Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">غرب أمريكا - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Тихоокеанско време</Label>
@@ -6960,7 +6960,7 @@
 		<Label xml:lang="da-DK">(GMT-08:00) Tijuana, Baja Californien</Label>
 		<Label xml:lang="de-DE">(GMT-08:00) Tijuana, Niederkalifornien (Mexiko)</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς-08:00) Τιχουάνα, Μπάχα Καλιφόρνια</Label>
-		<Label xml:lang="en-US">(UTC-08:00) Tijuana, Baja California</Label>
+		<Label xml:lang="en-US">(GMT-08:00) Tijuana, Baja California</Label>
 		<Label xml:lang="es-ES">(GMT-08:00) Tijuana, Baja California</Label>
 		<Label xml:lang="et-EE">(GMT-08:00) Tijuana, Baja California</Label>
 		<Label xml:lang="fi-FI">(GMT-08:00) Tijuana, Baja California</Label>
@@ -6979,7 +6979,7 @@
 		<Label xml:lang="pt-BR">(GMT-08:00) Tijuana, Baixa Califórnia</Label>
 		<Label xml:lang="pt-PT">(GMT-08:00) Tijuana, Baja California</Label>
 		<Label xml:lang="ro-RO">(GMT-08:00) Tijuana, Baja California</Label>
-		<Label xml:lang="ru-RU">(UTC-08:00) Тихуана, Нижняя Калифорния</Label>
+		<Label xml:lang="ru-RU">(GMT-08:00) Тихуана, Нижняя Калифорния</Label>
 		<Label xml:lang="sk-SK">(GMT-08:00) Tijuana, Baja California</Label>
 		<Label xml:lang="sl-SI">(GMT-08:00) Tijuana, Kalifornija</Label>
 		<Label xml:lang="sv-SE">(GMT-08:00) Tijuana, Baja Kalifornien</Label>
@@ -7075,7 +7075,7 @@
 		<Label xml:lang="da-DK">(GMT+01:00) København, Stockholm, Oslo, Madrid, Paris</Label>
 		<Label xml:lang="de-DE">(GMT+01:00) Brüssel, Kopenhagen, Madrid, Paris</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+01:00) Βρυξέλες, Κοπεγχάγη, Μαδρίτη, Παρίσι</Label>
-		<Label xml:lang="en-US">(UTC+01:00) Brussels, Copenhagen, Madrid, Paris</Label>
+		<Label xml:lang="en-US">(GMT+01:00) Brussels, Copenhagen, Madrid, Paris</Label>
 		<Label xml:lang="es-ES">(GMT+01:00) Bruselas, Copenhague, Madrid, París</Label>
 		<Label xml:lang="et-EE">(GMT+01:00) Brüssel, Kopenhaagen, Madrid, Pariis</Label>
 		<Label xml:lang="fi-FI">(GMT+01:00) Bryssel, Kööpenhamina, Madrid, Pariisi</Label>
@@ -7094,7 +7094,7 @@
 		<Label xml:lang="pt-BR">(GMT+01:00) Bruxelas, Copenhague, Madri, Paris</Label>
 		<Label xml:lang="pt-PT">(GMT+01:00) Bruxelas, Copenhaga, Madrid, Paris</Label>
 		<Label xml:lang="ro-RO">(GMT+01:00) Bruxelles, Copenhaga, Madrid, Paris</Label>
-		<Label xml:lang="ru-RU">(UTC+01:00) Брюссель, Копенгаген, Мадрид, Париж</Label>
+		<Label xml:lang="ru-RU">(GMT+01:00) Брюссель, Копенгаген, Мадрид, Париж</Label>
 		<Label xml:lang="sk-SK">(GMT+01:00) Brusel, Kodaň, Madrid, Paríž</Label>
 		<Label xml:lang="sl-SI">(GMT+01:00) Bruselj, Kopenhagen, Madrid, Pariz</Label>
 		<Label xml:lang="sv-SE">(GMT+01:00) Bryssel, Köpenhamn, Madrid, Paris</Label>
@@ -7109,7 +7109,7 @@
 		<Label xml:lang="bg-BG" Type="Standard">Романско стандартно време</Label>
 		<Label xml:lang="cs-CZ" Type="Standard">Románské země (běžný čas)</Label>
 		<Label xml:lang="da-DK" Type="Standard">Rom, normaltid</Label>
-		<Label xml:lang="de-DE" Type="Standard">Mitteleuropäische Zeit </Label>
+		<Label xml:lang="de-DE" Type="Standard">Mitteleuropäische Zeit</Label>
 		<Label xml:lang="el-GR" Type="Standard">Χειμερινή ώρα Εσπερίας</Label>
 		<Label xml:lang="en-US" Type="Standard">Romance Standard Time</Label>
 		<Label xml:lang="es-ES" Type="Standard">Hora estándar romance</Label>
@@ -7145,7 +7145,7 @@
 		<Label xml:lang="bg-BG" Type="Daylight">Романско лятно време</Label>
 		<Label xml:lang="cs-CZ" Type="Daylight">Románské země (letní čas)</Label>
 		<Label xml:lang="da-DK" Type="Daylight">Rom, sommertid</Label>
-		<Label xml:lang="de-DE" Type="Daylight">Mitteleuropäische Sommerzeit </Label>
+		<Label xml:lang="de-DE" Type="Daylight">Mitteleuropäische Sommerzeit</Label>
 		<Label xml:lang="el-GR" Type="Daylight">Θερινή ώρα Εσπερίας</Label>
 		<Label xml:lang="en-US" Type="Daylight">Romance Daylight Time</Label>
 		<Label xml:lang="es-ES" Type="Daylight">Hora de verano romance</Label>
@@ -7190,7 +7190,7 @@
 		<Label xml:lang="da-DK">(GMT+03:00) Moskva, St. Petersburg, Volgograd</Label>
 		<Label xml:lang="de-DE">(GMT+03:00) Moskau, St. Petersburg, Wolgograd</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+03:00) Μόσχα, Αγ. Πετρούπολη, Βόλγκογραντ</Label>
-		<Label xml:lang="en-US">(UTC+03:00) Moscow, St. Petersburg, Volgograd</Label>
+		<Label xml:lang="en-US">(GMT+03:00) Moscow, St. Petersburg, Volgograd</Label>
 		<Label xml:lang="es-ES">(GMT+03:00) Moscú, S. Petersburgo, Volgogrado</Label>
 		<Label xml:lang="et-EE">(GMT+03:00) Moskva, Peterburi, Volgograd</Label>
 		<Label xml:lang="fi-FI">(GMT+03:00) Moskova, Pietari, Volgograd</Label>
@@ -7209,7 +7209,7 @@
 		<Label xml:lang="pt-BR">(GMT+03:00) Moscou, São Petersburgo, Volgogrado</Label>
 		<Label xml:lang="pt-PT">(GMT+03:00) Moscovo, S. Petersburgo, Volgogrado</Label>
 		<Label xml:lang="ro-RO">(GMT+03:00) Moscova, St. Petersburg, Volgograd</Label>
-		<Label xml:lang="ru-RU">(UTC+03:00) Волгоград, Москва, Санкт-Петербург</Label>
+		<Label xml:lang="ru-RU">(GMT+03:00) Волгоград, Москва, Санкт-Петербург</Label>
 		<Label xml:lang="sk-SK">(GMT+03:00) Moskva, Sankt Peterburg, Volgograd</Label>
 		<Label xml:lang="sl-SI">(GMT+03:00) Moskva, Sankt-Peterburg, Volgograd</Label>
 		<Label xml:lang="sv-SE">(GMT+03:00) Moskva, S:t Petersburg, Volgograd</Label>
@@ -7305,7 +7305,7 @@
 		<Label xml:lang="da-DK">(GMT-03:00) Buenos Aires, Georgetown</Label>
 		<Label xml:lang="de-DE">(GMT-03:00) Buenos Aires, Georgetown</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς-03:00) Μπουένος Άιρες, Τζόρτζταουν</Label>
-		<Label xml:lang="en-US">(UTC-03:00) Buenos Aires, Georgetown</Label>
+		<Label xml:lang="en-US">(GMT-03:00) Buenos Aires, Georgetown</Label>
 		<Label xml:lang="es-ES">(GMT-03:00) Buenos Aires, Georgetown</Label>
 		<Label xml:lang="et-EE">(GMT-03:00) Buenos Aires, Georgetown</Label>
 		<Label xml:lang="fi-FI">(GMT-03:00) Buenos Aires, Georgetown</Label>
@@ -7316,7 +7316,7 @@
 		<Label xml:lang="it-IT">(GMT-3.00) Buenos Aires, Georgetown</Label>
 		<Label xml:lang="ja-JP">(GMT-03:00) ブエノスアイレス、ジョージタウン</Label>
 		<Label xml:lang="ko-KR">(GMT-03:00) 부에노스아이레스, 조지타운</Label>
-		<Label xml:lang="lt-LT">(GMT - 03:00) Buenos Airės, Džordžtaunas</Label>
+		<Label xml:lang="lt-LT">(GMT-03:00) Buenos Airės, Džordžtaunas</Label>
 		<Label xml:lang="lv-LV">(GMT-03:00) Buenosairesa, Džordžtauna</Label>
 		<Label xml:lang="nb-NO">(GMT-03:00) Buenos Aires, Georgetown</Label>
 		<Label xml:lang="nl-NL">(GMT-03:00) Buenos Aires, Georgetown</Label>
@@ -7324,7 +7324,7 @@
 		<Label xml:lang="pt-BR">(GMT-03:00) Buenos Aires, Georgetown</Label>
 		<Label xml:lang="pt-PT">(GMT-03:00) Buenos Aires, Georgetown</Label>
 		<Label xml:lang="ro-RO">(GMT-03:00) Buenos Aires, Georgetown</Label>
-		<Label xml:lang="ru-RU">(UTC-03:00) Буэнос-Айрес, Джорджтаун</Label>
+		<Label xml:lang="ru-RU">(GMT-03:00) Буэнос-Айрес, Джорджтаун</Label>
 		<Label xml:lang="sk-SK">(GMT-03:00) Buenos Aires, Georgetown</Label>
 		<Label xml:lang="sl-SI">(GMT-03:00) Buenos Aires, Georgetown</Label>
 		<Label xml:lang="sv-SE">(GMT-03:00) Buenos Aires, Georgetown</Label>
@@ -7417,7 +7417,7 @@
 		<Label xml:lang="da-DK">(GMT-05:00) Bogota, Lima, Quito, Rio Branco</Label>
 		<Label xml:lang="de-DE">(GMT-05:00) Bogotá, Lima, Quito, Rio Branco</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς-05:00) Μπογκοτά, Λίμα, Κουίτο, Ρίο Μπράνκο</Label>
-		<Label xml:lang="en-US">(UTC-05:00) Bogota, Lima, Quito, Rio Branco</Label>
+		<Label xml:lang="en-US">(GMT-05:00) Bogota, Lima, Quito, Rio Branco</Label>
 		<Label xml:lang="es-ES">(GMT-05:00) Bogotá, Lima, Quito, Rio Branco</Label>
 		<Label xml:lang="et-EE">(GMT-05:00) Bogota, Lima, Quito, Rio Branco</Label>
 		<Label xml:lang="fi-FI">(GMT-05:00) Bogota, Lima, Quito, Rio Branco</Label>
@@ -7428,7 +7428,7 @@
 		<Label xml:lang="it-IT">(GMT-5.00) Bogotà, Lima, Quito, Rio Branco</Label>
 		<Label xml:lang="ja-JP">(GMT-05:00) ボゴタ、リマ、キト、リオ ブランコ</Label>
 		<Label xml:lang="ko-KR">(GMT-05:00) 보고타, 리마, 키토, 리오 브랑코</Label>
-		<Label xml:lang="lt-LT">(GMT - 05:00) Bogota, Lima, Kitas, Rio Branko</Label>
+		<Label xml:lang="lt-LT">(GMT-05:00) Bogota, Lima, Kitas, Rio Branko</Label>
 		<Label xml:lang="lv-LV">(GMT-05:00) Bogota, Lima, Kito, Riobranko</Label>
 		<Label xml:lang="nb-NO">(GMT-05:00) Bogotá, Lima, Quito, Rio Branco</Label>
 		<Label xml:lang="nl-NL">(GMT-05:00) Bogota, Lima, Quito, Rio Branco</Label>
@@ -7436,7 +7436,7 @@
 		<Label xml:lang="pt-BR">(GMT-05:00) Bogotá, Lima, Quito, Rio Branco</Label>
 		<Label xml:lang="pt-PT">(GMT-05:00) Bogotá, Lima, Quito,  Rio Branco</Label>
 		<Label xml:lang="ro-RO">(GMT-05:00) Bogota, Lima, Quito, Rio Branco</Label>
-		<Label xml:lang="ru-RU">(UTC-05:00) Богота, Кито, Лима, Рио-Бранко</Label>
+		<Label xml:lang="ru-RU">(GMT-05:00) Богота, Кито, Лима, Рио-Бранко</Label>
 		<Label xml:lang="sk-SK">(GMT-05:00) Bogota, Lima, Quito, Rio Branco</Label>
 		<Label xml:lang="sl-SI">(GMT-05:00) Bogota, Lima, Quito, Rio Branco</Label>
 		<Label xml:lang="sv-SE">(GMT-05:00) Bogota, Lima, Quito, Rio Branco</Label>
@@ -7529,7 +7529,7 @@
 		<Label xml:lang="da-DK">(GMT-04:00) La Paz</Label>
 		<Label xml:lang="de-DE">(GMT-04:00) La Paz</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς-04:00) Λα Παζ</Label>
-		<Label xml:lang="en-US">(UTC-04:00) La Paz</Label>
+		<Label xml:lang="en-US">(GMT-04:00) La Paz</Label>
 		<Label xml:lang="es-ES">(GMT-04:00) La Paz</Label>
 		<Label xml:lang="et-EE">(GMT-04:00) La Paz</Label>
 		<Label xml:lang="fi-FI">(GMT-04:00) La Paz</Label>
@@ -7548,7 +7548,7 @@
 		<Label xml:lang="pt-BR">(GMT-04:00) La Paz</Label>
 		<Label xml:lang="pt-PT">(GMT-04:00) La Paz</Label>
 		<Label xml:lang="ro-RO">(GMT-04:00) La Paz</Label>
-		<Label xml:lang="ru-RU">(UTC-04:00) Ла-Пас</Label>
+		<Label xml:lang="ru-RU">(GMT-04:00) Ла-Пас</Label>
 		<Label xml:lang="sk-SK">(GMT-04:00) La Paz</Label>
 		<Label xml:lang="sl-SI">(GMT-04:00) La Paz</Label>
 		<Label xml:lang="sv-SE">(GMT-04:00) La Paz</Label>
@@ -7641,7 +7641,7 @@
 		<Label xml:lang="da-DK">(GMT-11:00) Midwayøerne, Samoaøerne</Label>
 		<Label xml:lang="de-DE">(GMT-11:00) Midway-Inseln, Samoa</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς-11:00) Νήσος Μίντγουεϊ, Σαμόα</Label>
-		<Label xml:lang="en-US">(UTC-11:00) Midway Island, Samoa</Label>
+		<Label xml:lang="en-US">(GMT-11:00) Midway Island, Samoa</Label>
 		<Label xml:lang="es-ES">(GMT-11:00) Isla Midway, Samoa</Label>
 		<Label xml:lang="et-EE">(GMT-11:00) Midway saar, Samoa</Label>
 		<Label xml:lang="fi-FI">(GMT-11:00) Midwaysaaret, Samoa</Label>
@@ -7652,7 +7652,7 @@
 		<Label xml:lang="it-IT">(GMT-11.00) Isole Midway, Samoa</Label>
 		<Label xml:lang="ja-JP">(GMT-11:00) ミッドウェー島、サモア</Label>
 		<Label xml:lang="ko-KR">(GMT-11:00) 미드웨이 제도, 사모아</Label>
-		<Label xml:lang="lt-LT">(GMT - 11:00) Midvėjaus s., Samoa</Label>
+		<Label xml:lang="lt-LT">(GMT-11:00) Midvėjaus s., Samoa</Label>
 		<Label xml:lang="lv-LV">(GMT-11:00) Midveja, Rietumsamoa</Label>
 		<Label xml:lang="nb-NO">(GMT-11:00) Midwayøyene, Samoa</Label>
 		<Label xml:lang="nl-NL">(GMT-11:00) Midway Island, Samoa</Label>
@@ -7660,7 +7660,7 @@
 		<Label xml:lang="pt-BR">(GMT-11:00) Ilhas Midway, Samoa</Label>
 		<Label xml:lang="pt-PT">(GMT-11:00) Ilhas Midway, Samoa</Label>
 		<Label xml:lang="ro-RO">(GMT-11:00) Midway Island, Samoa</Label>
-		<Label xml:lang="ru-RU">(UTC-11:00) О-в Мидуэй, Самоа</Label>
+		<Label xml:lang="ru-RU">(GMT-11:00) О-в Мидуэй, Самоа</Label>
 		<Label xml:lang="sk-SK">(GMT-11:00) Midway Island, Samoa</Label>
 		<Label xml:lang="sl-SI">(GMT-11:00) Otok Midway, Samoa</Label>
 		<Label xml:lang="sv-SE">(GMT-11:00) Midway Island, Samoa</Label>
@@ -7753,7 +7753,7 @@
 		<Label xml:lang="da-DK">(GMT+07:00) Bangkok, Hanoi, Djakarta</Label>
 		<Label xml:lang="de-DE">(GMT+07:00) Bangkok, Hanoi, Jakarta</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+07:00) Μπανγκόκ, Ανόι, Τζακάρτα</Label>
-		<Label xml:lang="en-US">(UTC+07:00) Bangkok, Hanoi, Jakarta</Label>
+		<Label xml:lang="en-US">(GMT+07:00) Bangkok, Hanoi, Jakarta</Label>
 		<Label xml:lang="es-ES">(GMT+07:00) Bangkok, Hanoi, Yakarta</Label>
 		<Label xml:lang="et-EE">(GMT+07:00) Bangkok, Hanoi, Jakarta</Label>
 		<Label xml:lang="fi-FI">(GMT+07:00) Bangkok, Hanoi, Jakarta</Label>
@@ -7772,7 +7772,7 @@
 		<Label xml:lang="pt-BR">(GMT+07:00) Bancoc, Hanói, Jacarta</Label>
 		<Label xml:lang="pt-PT">(GMT+07:00) Banguecoque, Hanói</Label>
 		<Label xml:lang="ro-RO">(GMT+07:00) Bangkok, Hanoi, Jakarta</Label>
-		<Label xml:lang="ru-RU">(UTC+07:00) Бангкок, Джакарта, Ханой</Label>
+		<Label xml:lang="ru-RU">(GMT+07:00) Бангкок, Джакарта, Ханой</Label>
 		<Label xml:lang="sk-SK">(GMT+07:00) Bangkok, Hanoj, Džakarta</Label>
 		<Label xml:lang="sl-SI">(GMT+07:00) Bangkok, Hanoi, Djakarta</Label>
 		<Label xml:lang="sv-SE">(GMT+07:00) Bangkok, Hanoi, Djakarta</Label>
@@ -7865,7 +7865,7 @@
 		<Label xml:lang="da-DK">(GMT+08:00) Kuala Lumpur, Singapore</Label>
 		<Label xml:lang="de-DE">(GMT+08:00) Kuala Lumpur, Singapur</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+08:00) Κουάλα Λουμπούρ, Σιγκαπούρη</Label>
-		<Label xml:lang="en-US">(UTC+08:00) Kuala Lumpur, Singapore</Label>
+		<Label xml:lang="en-US">(GMT+08:00) Kuala Lumpur, Singapore</Label>
 		<Label xml:lang="es-ES">(GMT+08:00) Kuala Lumpur, Singapur</Label>
 		<Label xml:lang="et-EE">(GMT+08:00) Kuala Lumpur, Singapur</Label>
 		<Label xml:lang="fi-FI">(GMT+08:00) Kuala Lumpur, Singapore</Label>
@@ -7884,7 +7884,7 @@
 		<Label xml:lang="pt-BR">(GMT+08:00) Kuala Lumpur, Cingapura</Label>
 		<Label xml:lang="pt-PT">(GMT+08:00) Kuala Lumpur, Singapura</Label>
 		<Label xml:lang="ro-RO">(GMT+08:00) Kuala Lumpur, Singapore</Label>
-		<Label xml:lang="ru-RU">(UTC+08:00) Куала-Лумпур, Сингапур</Label>
+		<Label xml:lang="ru-RU">(GMT+08:00) Куала-Лумпур, Сингапур</Label>
 		<Label xml:lang="sk-SK">(GMT+08:00) Kuala Lumpur, Singapur</Label>
 		<Label xml:lang="sl-SI">(GMT+08:00) Kuala Lumpur, Singapur</Label>
 		<Label xml:lang="sv-SE">(GMT+08:00) Kuala Lumpur, Singapore</Label>
@@ -7977,7 +7977,7 @@
 		<Label xml:lang="da-DK">(GMT+02:00) Harare, Pretoria</Label>
 		<Label xml:lang="de-DE">(GMT+02:00) Harare, Pretoria</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+02:00) Χαράρε, Πραιτόρια</Label>
-		<Label xml:lang="en-US">(UTC+02:00) Harare, Pretoria</Label>
+		<Label xml:lang="en-US">(GMT+02:00) Harare, Pretoria</Label>
 		<Label xml:lang="es-ES">(GMT+02:00) Harare, Pretoria</Label>
 		<Label xml:lang="et-EE">(GMT+02:00) Harare, Pretoria</Label>
 		<Label xml:lang="fi-FI">(GMT+02:00) Harare, Pretoria</Label>
@@ -7996,7 +7996,7 @@
 		<Label xml:lang="pt-BR">(GMT+02:00) Harare, Pretória</Label>
 		<Label xml:lang="pt-PT">(GMT+02:00) Harare, Pretória</Label>
 		<Label xml:lang="ro-RO">(GMT+02:00) Harare, Pretoria</Label>
-		<Label xml:lang="ru-RU">(UTC+02:00) Хараре, Претория</Label>
+		<Label xml:lang="ru-RU">(GMT+02:00) Хараре, Претория</Label>
 		<Label xml:lang="sk-SK">(GMT+02:00) Harare, Pretória</Label>
 		<Label xml:lang="sl-SI">(GMT+02:00) Harare, Pretoria</Label>
 		<Label xml:lang="sv-SE">(GMT+02:00) Harare, Pretoria</Label>
@@ -8089,7 +8089,7 @@
 		<Label xml:lang="da-DK">(GMT+05:30) Sri Jayawardenepura</Label>
 		<Label xml:lang="de-DE">(GMT+05:30) Sri Jayawardenepura</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+05:30) Σρι Τζαγιαβαρνταναπούρα</Label>
-		<Label xml:lang="en-US">(UTC+05:30) Sri Jayawardenepura</Label>
+		<Label xml:lang="en-US">(GMT+05:30) Sri Jayawardenepura</Label>
 		<Label xml:lang="es-ES">(GMT+05:30) Sri Jayawardenepura</Label>
 		<Label xml:lang="et-EE">(GMT+05:30) Sri Jayawardenepura</Label>
 		<Label xml:lang="fi-FI">(GMT+05:30) Sri Jayawardenepura</Label>
@@ -8108,7 +8108,7 @@
 		<Label xml:lang="pt-BR">(GMT+05:30) Sri Jayawardenepura</Label>
 		<Label xml:lang="pt-PT">(GMT+05:30) Sri Jayawardenepura</Label>
 		<Label xml:lang="ro-RO">(GMT+05:30) Sri Jayawardenepura</Label>
-		<Label xml:lang="ru-RU">(UTC+05:30) Шри-Джаявардене-пура-Котте</Label>
+		<Label xml:lang="ru-RU">(GMT+05:30) Шри-Джаявардене-пура-Котте</Label>
 		<Label xml:lang="sk-SK">(GMT+05:30) Srí Jayawardenepura</Label>
 		<Label xml:lang="sl-SI">(GMT+05:30) Sri Jayawardenepura</Label>
 		<Label xml:lang="sv-SE">(GMT+05:30) Sri Jayawardenepura</Label>
@@ -8201,7 +8201,7 @@
 		<Label xml:lang="da-DK">(GMT+08:00) Taipei</Label>
 		<Label xml:lang="de-DE">(GMT+08:00) Taipeh</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+08:00) Ταϊπέι</Label>
-		<Label xml:lang="en-US">(UTC+08:00) Taipei</Label>
+		<Label xml:lang="en-US">(GMT+08:00) Taipei</Label>
 		<Label xml:lang="es-ES">(GMT+08:00) Taipei</Label>
 		<Label xml:lang="et-EE">(GMT+08:00) Taibei</Label>
 		<Label xml:lang="fi-FI">(GMT+08:00) Taipei</Label>
@@ -8220,7 +8220,7 @@
 		<Label xml:lang="pt-BR">(GMT+08:00) Taipé</Label>
 		<Label xml:lang="pt-PT">(GMT+08:00) Taipei</Label>
 		<Label xml:lang="ro-RO">(GMT+08:00) Taipei</Label>
-		<Label xml:lang="ru-RU">(UTC+08:00) Тайбэй</Label>
+		<Label xml:lang="ru-RU">(GMT+08:00) Тайбэй</Label>
 		<Label xml:lang="sk-SK">(GMT+08:00) Taipei</Label>
 		<Label xml:lang="sl-SI">(GMT+08:00) Tajpej</Label>
 		<Label xml:lang="sv-SE">(GMT+08:00) Taipei</Label>
@@ -8313,7 +8313,7 @@
 		<Label xml:lang="da-DK">(GMT+10:00) Hobart</Label>
 		<Label xml:lang="de-DE">(GMT+10:00) Hobart</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+10:00) Χόμπαρτ</Label>
-		<Label xml:lang="en-US">(UTC+10:00) Hobart</Label>
+		<Label xml:lang="en-US">(GMT+10:00) Hobart</Label>
 		<Label xml:lang="es-ES">(GMT+10:00) Hobart</Label>
 		<Label xml:lang="et-EE">(GMT+10:00) Hobart</Label>
 		<Label xml:lang="fi-FI">(GMT+10:00) Hobart</Label>
@@ -8332,7 +8332,7 @@
 		<Label xml:lang="pt-BR">(GMT+10:00) Hobart</Label>
 		<Label xml:lang="pt-PT">(GMT+10:00) Hobart</Label>
 		<Label xml:lang="ro-RO">(GMT+10:00) Hobart</Label>
-		<Label xml:lang="ru-RU">(UTC+10:00) Хобарт</Label>
+		<Label xml:lang="ru-RU">(GMT+10:00) Хобарт</Label>
 		<Label xml:lang="sk-SK">(GMT+10:00) Hobart</Label>
 		<Label xml:lang="sl-SI">(GMT+10:00) Hobart</Label>
 		<Label xml:lang="sv-SE">(GMT+10:00) Hobart</Label>
@@ -8436,7 +8436,7 @@
 		<Label xml:lang="da-DK">(GMT+09:00) Osaka, Sapporo, Tokyo</Label>
 		<Label xml:lang="de-DE">(GMT+09:00) Osaka, Sapporo, Tokio</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+09:00) Οσάκα, Σαππόρο, Τόκιο</Label>
-		<Label xml:lang="en-US">(UTC+09:00) Osaka, Sapporo, Tokyo</Label>
+		<Label xml:lang="en-US">(GMT+09:00) Osaka, Sapporo, Tokyo</Label>
 		<Label xml:lang="es-ES">(GMT+09:00) Osaka, Sapporo, Tokio</Label>
 		<Label xml:lang="et-EE">(GMT+09:00) Osaka, Sapporo, Tokyo</Label>
 		<Label xml:lang="fi-FI">(GMT+09:00) Osaka, Sapporo, Tokio</Label>
@@ -8455,7 +8455,7 @@
 		<Label xml:lang="pt-BR">(GMT+09:00) Osaka, Sapporo, Tóquio</Label>
 		<Label xml:lang="pt-PT">(GMT+09:00) Osaca, Sapporo, Tóquio</Label>
 		<Label xml:lang="ro-RO">(GMT+09:00) Osaka, Sapporo, Tokio</Label>
-		<Label xml:lang="ru-RU">(UTC+09:00) Осака, Саппоро, Токио</Label>
+		<Label xml:lang="ru-RU">(GMT+09:00) Осака, Саппоро, Токио</Label>
 		<Label xml:lang="sk-SK">(GMT+09:00) Osaka, Sapporo, Tokio</Label>
 		<Label xml:lang="sl-SI">(GMT+09:00) Osaka, Sapporo, Tokio</Label>
 		<Label xml:lang="sv-SE">(GMT+09:00) Osaka, Sapporo, Tokyo</Label>
@@ -8548,7 +8548,7 @@
 		<Label xml:lang="da-DK">(GMT+13:00) Nuku'alofa</Label>
 		<Label xml:lang="de-DE">(GMT+13:00) Nuku'alofa</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+13:00) Νουκουαλόφα</Label>
-		<Label xml:lang="en-US">(UTC+13:00) Nuku'alofa</Label>
+		<Label xml:lang="en-US">(GMT+13:00) Nuku'alofa</Label>
 		<Label xml:lang="es-ES">(GMT+13:00) Nuku'alofa</Label>
 		<Label xml:lang="et-EE">(GMT+13:00) Nuku'alofa</Label>
 		<Label xml:lang="fi-FI">(GMT+13:00) Nuku'alofa</Label>
@@ -8567,7 +8567,7 @@
 		<Label xml:lang="pt-BR">(GMT+13:00) Nuku'alofa</Label>
 		<Label xml:lang="pt-PT">(GMT+13:00) Nuku'alofa</Label>
 		<Label xml:lang="ro-RO">(GMT+13:00) Nuku'alofa</Label>
-		<Label xml:lang="ru-RU">(UTC+13:00) Нукуалофа</Label>
+		<Label xml:lang="ru-RU">(GMT+13:00) Нукуалофа</Label>
 		<Label xml:lang="sk-SK">(GMT+13:00) Nuku’alofa</Label>
 		<Label xml:lang="sl-SI">(GMT+13:00) Nuku'alofa</Label>
 		<Label xml:lang="sv-SE">(GMT+13:00) Nuku'alofa</Label>
@@ -8660,7 +8660,7 @@
 		<Label xml:lang="da-DK">(GMT-05:00) Indiana (Øst)</Label>
 		<Label xml:lang="de-DE">(GMT-05:00) Indiana (Ost)</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς-05:00) Ιντιάνα (Ανατολική)</Label>
-		<Label xml:lang="en-US">(UTC-05:00) Indiana (East)</Label>
+		<Label xml:lang="en-US">(GMT-05:00) Indiana (East)</Label>
 		<Label xml:lang="es-ES">(GMT-05:00) Indiana (este)</Label>
 		<Label xml:lang="et-EE">(GMT-05:00) Indiana (Ida)</Label>
 		<Label xml:lang="fi-FI">(GMT-05:00) Indiana (itä)</Label>
@@ -8671,7 +8671,7 @@
 		<Label xml:lang="it-IT">(GMT-5.00) Indiana (Est)</Label>
 		<Label xml:lang="ja-JP">(GMT-05:00) インディアナ東部</Label>
 		<Label xml:lang="ko-KR">(GMT-05:00) 인디애나 (동부)</Label>
-		<Label xml:lang="lt-LT">(GMT - 05:00) Indiana (Rytų)</Label>
+		<Label xml:lang="lt-LT">(GMT-05:00) Indiana (Rytų)</Label>
 		<Label xml:lang="lv-LV">(GMT-05:00) Indiāna (austrumi)</Label>
 		<Label xml:lang="nb-NO">(GMT-05:00) Indiana (øst)</Label>
 		<Label xml:lang="nl-NL">(GMT-05:00) Indiana (East)</Label>
@@ -8679,7 +8679,7 @@
 		<Label xml:lang="pt-BR">(GMT-05:00) Indiana (Leste)</Label>
 		<Label xml:lang="pt-PT">(GMT-05:00) Indiana (Leste)</Label>
 		<Label xml:lang="ro-RO">(GMT-05:00) Indiana (est)</Label>
-		<Label xml:lang="ru-RU">(UTC-05:00) Индиана (восток)</Label>
+		<Label xml:lang="ru-RU">(GMT-05:00) Индиана (восток)</Label>
 		<Label xml:lang="sk-SK">(GMT-05:00) Indiana (východ)</Label>
 		<Label xml:lang="sl-SI">(GMT-05:00) Indiana (vzhod)</Label>
 		<Label xml:lang="sv-SE">(GMT-05:00) Indiana (Öst)</Label>
@@ -8772,7 +8772,7 @@
 		<Label xml:lang="da-DK">(GMT-07:00) Arizona</Label>
 		<Label xml:lang="de-DE">(GMT-07:00) Arizona</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς-07:00) Αριζόνα</Label>
-		<Label xml:lang="en-US">(UTC-07:00) Arizona</Label>
+		<Label xml:lang="en-US">(GMT-07:00) Arizona</Label>
 		<Label xml:lang="es-ES">(GMT-07:00) Arizona</Label>
 		<Label xml:lang="et-EE">(GMT-07:00) Arizona</Label>
 		<Label xml:lang="fi-FI">(GMT-07:00) Arizona</Label>
@@ -8783,7 +8783,7 @@
 		<Label xml:lang="it-IT">(GMT-7.00) Arizona</Label>
 		<Label xml:lang="ja-JP">(GMT-07:00) アリゾナ</Label>
 		<Label xml:lang="ko-KR">(GMT-07:00) 애리조나</Label>
-		<Label xml:lang="lt-LT">(GMT - 07:00) Arizona</Label>
+		<Label xml:lang="lt-LT">(GMT-07:00) Arizona</Label>
 		<Label xml:lang="lv-LV">(GMT-07:00) Arizona</Label>
 		<Label xml:lang="nb-NO">(GMT-07:00) Arizona</Label>
 		<Label xml:lang="nl-NL">(GMT-07:00) Arizona</Label>
@@ -8791,7 +8791,7 @@
 		<Label xml:lang="pt-BR">(GMT-07:00) Arizona</Label>
 		<Label xml:lang="pt-PT">(GMT-07:00) Arizona</Label>
 		<Label xml:lang="ro-RO">(GMT-07:00) Arizona</Label>
-		<Label xml:lang="ru-RU">(UTC-07:00) Аризона</Label>
+		<Label xml:lang="ru-RU">(GMT-07:00) Аризона</Label>
 		<Label xml:lang="sk-SK">(GMT-07:00) Arizona</Label>
 		<Label xml:lang="sl-SI">(GMT-07:00) Arizona</Label>
 		<Label xml:lang="sv-SE">(GMT-07:00) Arizona</Label>
@@ -8884,7 +8884,7 @@
 		<Label xml:lang="da-DK">(GMT-04:30) Caracas</Label>
 		<Label xml:lang="de-DE">(GMT-04:30) Caracas</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς-04:30) Καράκας</Label>
-		<Label xml:lang="en-US">(UTC-04:30) Caracas</Label>
+		<Label xml:lang="en-US">(GMT-04:30) Caracas</Label>
 		<Label xml:lang="es-ES">(GMT-04:30) Caracas</Label>
 		<Label xml:lang="et-EE">(GMT-04:30) Caracas</Label>
 		<Label xml:lang="fi-FI">(GMT-04:30) Caracas</Label>
@@ -8903,7 +8903,7 @@
 		<Label xml:lang="pt-BR">(GMT-04:30) Caracas</Label>
 		<Label xml:lang="pt-PT">(GMT-04:30) Caracas</Label>
 		<Label xml:lang="ro-RO">(GMT-04:30) Caracas</Label>
-		<Label xml:lang="ru-RU">(UTC-04:30) Каракас</Label>
+		<Label xml:lang="ru-RU">(GMT-04:30) Каракас</Label>
 		<Label xml:lang="sk-SK">(GMT-04:30) Karakas</Label>
 		<Label xml:lang="sl-SI">(GMT-04:30) Caracas</Label>
 		<Label xml:lang="sv-SE">(GMT-04:30) Caracas</Label>
@@ -8998,7 +8998,7 @@
 		<Label xml:lang="da-DK">(GMT+10:00) Vladivostok</Label>
 		<Label xml:lang="de-DE">(GMT+10:00) Wladiwostok</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+10:00) Βλαδιβοστόκ</Label>
-		<Label xml:lang="en-US">(UTC+10:00) Vladivostok</Label>
+		<Label xml:lang="en-US">(GMT+10:00) Vladivostok</Label>
 		<Label xml:lang="es-ES">(GMT+10:00) Vladivostok</Label>
 		<Label xml:lang="et-EE">(GMT+10:00) Vladivostok</Label>
 		<Label xml:lang="fi-FI">(GMT+10:00) Vladivostok</Label>
@@ -9017,7 +9017,7 @@
 		<Label xml:lang="pt-BR">(GMT+10:00) Vladivostok</Label>
 		<Label xml:lang="pt-PT">(GMT+10:00) Vladivostoque</Label>
 		<Label xml:lang="ro-RO">(GMT+10:00) Vladivostok</Label>
-		<Label xml:lang="ru-RU">(UTC+10:00) Владивосток</Label>
+		<Label xml:lang="ru-RU">(GMT+10:00) Владивосток</Label>
 		<Label xml:lang="sk-SK">(GMT+10:00) Vladivostok</Label>
 		<Label xml:lang="sl-SI">(GMT+10:00) Vladivostok</Label>
 		<Label xml:lang="sv-SE">(GMT+10:00) Vladivostok</Label>
@@ -9113,7 +9113,7 @@
 		<Label xml:lang="da-DK">(GMT+08:00) Perth</Label>
 		<Label xml:lang="de-DE">(GMT+08:00) Perth</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+08:00) Περθ</Label>
-		<Label xml:lang="en-US">(UTC+08:00) Perth</Label>
+		<Label xml:lang="en-US">(GMT+08:00) Perth</Label>
 		<Label xml:lang="es-ES">(GMT+08:00) Perth</Label>
 		<Label xml:lang="et-EE">(GMT+08:00) Perth</Label>
 		<Label xml:lang="fi-FI">(GMT+08:00) Perth</Label>
@@ -9132,7 +9132,7 @@
 		<Label xml:lang="pt-BR">(GMT+08:00) Perth</Label>
 		<Label xml:lang="pt-PT">(GMT+08:00) Perth</Label>
 		<Label xml:lang="ro-RO">(GMT+08:00) Perth</Label>
-		<Label xml:lang="ru-RU">(UTC+08:00) Перт</Label>
+		<Label xml:lang="ru-RU">(GMT+08:00) Перт</Label>
 		<Label xml:lang="sk-SK">(GMT+08:00) Perth</Label>
 		<Label xml:lang="sl-SI">(GMT+08:00) Perth</Label>
 		<Label xml:lang="sv-SE">(GMT+08:00) Perth</Label>
@@ -9237,7 +9237,7 @@
 		<Label xml:lang="da-DK">(GMT+01:00) V. Centralafrika</Label>
 		<Label xml:lang="de-DE">(GMT+01:00) West-Zentralafrika</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+01:00) Κεντροδυτική Αφρική</Label>
-		<Label xml:lang="en-US">(UTC+01:00) West Central Africa</Label>
+		<Label xml:lang="en-US">(GMT+01:00) West Central Africa</Label>
 		<Label xml:lang="es-ES">(GMT+01:00) África Central Occidental</Label>
 		<Label xml:lang="et-EE">(GMT+01:00) Lääne Kesk-Aafrika</Label>
 		<Label xml:lang="fi-FI">(GMT+01:00) Läntinen Keski-Afrikka</Label>
@@ -9256,7 +9256,7 @@
 		<Label xml:lang="pt-BR">(GMT+01:00) Centro-oeste da África</Label>
 		<Label xml:lang="pt-PT">(GMT+01:00) África Centro Oeste</Label>
 		<Label xml:lang="ro-RO">(GMT+01:00) Africa central-vestică</Label>
-		<Label xml:lang="ru-RU">(UTC+01:00) Западная Центральная Африка</Label>
+		<Label xml:lang="ru-RU">(GMT+01:00) Западная Центральная Африка</Label>
 		<Label xml:lang="sk-SK">(GMT+01:00) Západ strednej Afriky</Label>
 		<Label xml:lang="sl-SI">(GMT+01:00) Zahodna centralna Afrika</Label>
 		<Label xml:lang="sv-SE">(GMT+01:00) Västra centralafrika</Label>
@@ -9349,7 +9349,7 @@
 		<Label xml:lang="da-DK">(GMT+01:00) Bruxelles, Berlin, Bern, Rom, Amsterdam, Wien</Label>
 		<Label xml:lang="de-DE">(GMT+01:00) Amsterdam, Berlin, Bern, Rom, Stockholm, Wien</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+01:00) Άμστερνταμ, Βερολίνο, Βέρνη, Ρώμη, Στοκχόλμη, Βιέννη</Label>
-		<Label xml:lang="en-US">(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna</Label>
+		<Label xml:lang="en-US">(GMT+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna</Label>
 		<Label xml:lang="es-ES">(GMT+01:00) Amsterdam, Berlín, Berna, Roma, Estocolmo, Viena</Label>
 		<Label xml:lang="et-EE">(GMT+01:00) Amsterdam, Berlin, Bern, Rooma, Stockholm, Viin</Label>
 		<Label xml:lang="fi-FI">(GMT+01:00) Amsterdam, Berliini, Bern, Rooma, Tukholma, Wien</Label>
@@ -9368,7 +9368,7 @@
 		<Label xml:lang="pt-BR">(GMT+01:00) Amsterdã, Berlim, Berna, Roma, Estocolmo, Viena</Label>
 		<Label xml:lang="pt-PT">(GMT+01:00) Amesterdão, Berlim, Berna, Roma, Estocolmo, Viena</Label>
 		<Label xml:lang="ro-RO">(GMT+01:00) Amsterdam, Berlin, Berna, Roma, Stockholm, Viena</Label>
-		<Label xml:lang="ru-RU">(UTC+01:00) Амстердам, Берлин, Берн, Вена, Рим, Стокгольм</Label>
+		<Label xml:lang="ru-RU">(GMT+01:00) Амстердам, Берлин, Берн, Вена, Рим, Стокгольм</Label>
 		<Label xml:lang="sk-SK">(GMT+01:00) Berlín, Amsterdam, Bern, Rím, Štokholm, Viedeň</Label>
 		<Label xml:lang="sl-SI">(GMT+01:00) Amsterdam, Berlin, Bern, Rim, Stockholm, Dunaj</Label>
 		<Label xml:lang="sv-SE">(GMT+01:00) Amsterdam, Berlin, Bern, Rom, Stockholm, Wien</Label>
@@ -9391,7 +9391,7 @@
 		<Label xml:lang="fi-FI" Type="Standard">Länsi-Euroopan normaaliaika</Label>
 		<Label xml:lang="fr-FR" Type="Standard">Europe de l'Ouest</Label>
 		<Label xml:lang="he-IL" Type="Standard">שעון רגיל מערב אירופה</Label>
-		<Label xml:lang="hr-HR" Type="Standard">Srednja Europa - st. vrij.  </Label>
+		<Label xml:lang="hr-HR" Type="Standard">Srednja Europa - st. vrij.</Label>
 		<Label xml:lang="hu-HU" Type="Standard">Nyugat-európai téli idő</Label>
 		<Label xml:lang="it-IT" Type="Standard">ora solare Europa occidentale</Label>
 		<Label xml:lang="ja-JP" Type="Standard">西ヨーロッパ標準時</Label>
@@ -9427,7 +9427,7 @@
 		<Label xml:lang="fi-FI" Type="Daylight">Länsi-Euroopan kesäaika</Label>
 		<Label xml:lang="fr-FR" Type="Daylight">Europe de l'Ouest (heure d'été)</Label>
 		<Label xml:lang="he-IL" Type="Daylight">שעון קיץ מערב אירופה</Label>
-		<Label xml:lang="hr-HR" Type="Daylight">Srednja Europa - ljet. vrij.  </Label>
+		<Label xml:lang="hr-HR" Type="Daylight">Srednja Europa - ljet. vrij.</Label>
 		<Label xml:lang="hu-HU" Type="Daylight">Nyugat-európai nyári idő</Label>
 		<Label xml:lang="it-IT" Type="Daylight">ora legale Europa occidentale</Label>
 		<Label xml:lang="ja-JP" Type="Daylight">西ヨーロッパ夏時間</Label>
@@ -9464,7 +9464,7 @@
 		<Label xml:lang="da-DK">(GMT+05:00) Islamabad, Karachi, Tasjkent</Label>
 		<Label xml:lang="de-DE">(GMT+05:00) Islamabad, Karatschi, Taschkent</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+05:00) Ισλαμαμπάντ, Καράτσι, Τασκένδη</Label>
-		<Label xml:lang="en-US">(UTC+05:00) Islamabad, Karachi, Tashkent</Label>
+		<Label xml:lang="en-US">(GMT+05:00) Islamabad, Karachi, Tashkent</Label>
 		<Label xml:lang="es-ES">(GMT+05:00) Islamabad, Karachi, Tashkent</Label>
 		<Label xml:lang="et-EE">(GMT+05:00) Islamabad, Karachi, Taškent</Label>
 		<Label xml:lang="fi-FI">(GMT+05:00) Islamabad, Karachi, Tashkent</Label>
@@ -9483,7 +9483,7 @@
 		<Label xml:lang="pt-BR">(GMT+05:00) Islamabad, Karachi, Tashkent</Label>
 		<Label xml:lang="pt-PT">(GMT+05:00) Islamabade, Karachi, Tashkent</Label>
 		<Label xml:lang="ro-RO">(GMT+05:00) Islamabad, Karachi, Tașkent</Label>
-		<Label xml:lang="ru-RU">(UTC+05:00) Исламабад, Карачи, Ташкент</Label>
+		<Label xml:lang="ru-RU">(GMT+05:00) Исламабад, Карачи, Ташкент</Label>
 		<Label xml:lang="sk-SK">(GMT+05:00) Islamabad, Karáčí, Taškent</Label>
 		<Label xml:lang="sl-SI">(GMT+05:00) Islamabad, Karači, Taškent</Label>
 		<Label xml:lang="sv-SE">(GMT+05:00) Islamabad, Karachi, Tasjkent</Label>
@@ -9510,7 +9510,7 @@
 		<Label xml:lang="hu-HU" Type="Standard">Nyugat-ázsiai téli idő</Label>
 		<Label xml:lang="it-IT" Type="Standard">ora solare Asia occidentale</Label>
 		<Label xml:lang="ja-JP" Type="Standard">西アジア標準時</Label>
-		<Label xml:lang="ko-KR" Type="Standard">서아시아 표준시 </Label>
+		<Label xml:lang="ko-KR" Type="Standard">서아시아 표준시</Label>
 		<Label xml:lang="lt-LT" Type="Standard">Standartinis Vakarų Azijos laik.</Label>
 		<Label xml:lang="lv-LV" Type="Standard">Rietumāzijas standarta laiks</Label>
 		<Label xml:lang="nb-NO" Type="Standard">Vest-Asia (normaltid)</Label>
@@ -9546,7 +9546,7 @@
 		<Label xml:lang="hu-HU" Type="Daylight">Nyugat-ázsiai nyári idő</Label>
 		<Label xml:lang="it-IT" Type="Daylight">ora legale Asia occidentale</Label>
 		<Label xml:lang="ja-JP" Type="Daylight">西アジア夏時間</Label>
-		<Label xml:lang="ko-KR" Type="Daylight">서아시아 일광 절약 시간제 </Label>
+		<Label xml:lang="ko-KR" Type="Daylight">서아시아 일광 절약 시간제</Label>
 		<Label xml:lang="lt-LT" Type="Daylight">Vakarų Azijos vas. / žiem. laik.</Label>
 		<Label xml:lang="lv-LV" Type="Daylight">Rietumāzijas vasaras laiks</Label>
 		<Label xml:lang="nb-NO" Type="Daylight">Vest-Asia (sommertid)</Label>
@@ -9576,7 +9576,7 @@
 		<Label xml:lang="da-DK">(GMT+10:00) Guam, Port Moresby</Label>
 		<Label xml:lang="de-DE">(GMT+10:00) Guam, Port Moresby</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+10:00) Γκουάμ, Πορτ Μόρεσμπι</Label>
-		<Label xml:lang="en-US">(UTC+10:00) Guam, Port Moresby</Label>
+		<Label xml:lang="en-US">(GMT+10:00) Guam, Port Moresby</Label>
 		<Label xml:lang="es-ES">(GMT+10:00) Guam, Port Moresby</Label>
 		<Label xml:lang="et-EE">(GMT+10:00) Guam, Port Moresby</Label>
 		<Label xml:lang="fi-FI">(GMT+10:00) Guam, Port Moresby</Label>
@@ -9595,7 +9595,7 @@
 		<Label xml:lang="pt-BR">(GMT+10:00) Guam, Port Moresby</Label>
 		<Label xml:lang="pt-PT">(GMT+10:00) Guam, Port Moresby</Label>
 		<Label xml:lang="ro-RO">(GMT+10:00) Guam, Port Moresby</Label>
-		<Label xml:lang="ru-RU">(UTC+10:00) Гуам, Порт-Морсби</Label>
+		<Label xml:lang="ru-RU">(GMT+10:00) Гуам, Порт-Морсби</Label>
 		<Label xml:lang="sk-SK">(GMT+10:00) Guam, Port Moresby</Label>
 		<Label xml:lang="sl-SI">(GMT+10:00) Guam, Port Moresby</Label>
 		<Label xml:lang="sv-SE">(GMT+10:00) Guam, Port Moresby</Label>
@@ -9688,7 +9688,7 @@
 		<Label xml:lang="da-DK">(GMT+09:00) Jakutsk</Label>
 		<Label xml:lang="de-DE">(GMT+09:00) Jakutsk</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+09:00) Γιακούτσκ</Label>
-		<Label xml:lang="en-US">(UTC+09:00) Yakutsk</Label>
+		<Label xml:lang="en-US">(GMT+09:00) Yakutsk</Label>
 		<Label xml:lang="es-ES">(GMT+09:00) Yakutsk</Label>
 		<Label xml:lang="et-EE">(GMT+09:00) Jakutsk</Label>
 		<Label xml:lang="fi-FI">(GMT+09:00) Jakutsk</Label>
@@ -9707,7 +9707,7 @@
 		<Label xml:lang="pt-BR">(GMT+09:00) Yakutsk</Label>
 		<Label xml:lang="pt-PT">(GMT+09:00) Yakutsk</Label>
 		<Label xml:lang="ro-RO">(GMT+09:00) Yakutsk</Label>
-		<Label xml:lang="ru-RU">(UTC+09:00) Якутск</Label>
+		<Label xml:lang="ru-RU">(GMT+09:00) Якутск</Label>
 		<Label xml:lang="sk-SK">(GMT+09:00) Jakutsk</Label>
 		<Label xml:lang="sl-SI">(GMT+09:00) Jakutsk</Label>
 		<Label xml:lang="sv-SE">(GMT+09:00) Yakutsk</Label>
@@ -9793,5 +9793,17 @@
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="03:00:00">Last Sunday of October at 3:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
 		</Info>
+	</TimeZone>
+	<TimeZone Name="MarquesasTime">
+		<Label xml:lang="en">Marquesas Time</Label>
+		<Info Bias="09:30:00"/>
+	</TimeZone>
+	<TimeZone Name="CentralWestTime">
+		<Label xml:lang="en">Central West Time (Australia)</Label>
+		<Info Bias="-08:45:00"/>
+	</TimeZone>
+	<TimeZone Name="NorfolkTime">
+		<Label xml:lang="en">Norfolk Time (Australia)</Label>
+		<Info Bias="-11:30:00"/>
 	</TimeZone>
 </TimeZoneList>
