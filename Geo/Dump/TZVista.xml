@@ -597,7 +597,7 @@
 		<Label xml:lang="he-IL">(GMT-03:00) בואנוס איירס</Label>
 		<Label xml:lang="hr-HR">(GMT-03:00) Buenos Aires</Label>
 		<Label xml:lang="hu-HU">(GMT-03:00) Buenos Aires</Label>
-		<Label xml:lang="it-IT">(GMT-3:00) Buenos Aires</Label>
+		<Label xml:lang="it-IT">(GMT-3.00) Buenos Aires</Label>
 		<Label xml:lang="ja-JP">(GMT-03:00) ブエノスアイレス</Label>
 		<Label xml:lang="ko-KR">(GMT-03:00) 부에노스아이레스</Label>
 		<Label xml:lang="lt-LT">(GMT-03:00) Buenos Airės</Label>
@@ -691,8 +691,8 @@
 		<Label xml:lang="zh-TW" Type="Daylight">阿根廷日光節約時間</Label>
 		<Label xml:lang="sr-SP-Latn" Type="Daylight">Let./zim. argentinsko vreme</Label>
 		<Info Bias="03:00:00">
-			<Date Type="Standard" Week="Third" Day="Sunday" Month="March" Time="00:00:00">Third Sunday of March at 0:00</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+			<Date Type="Standard" Week="Second" Day="Saturday" Month="March" Time="23:59:59">Second Saturday of March at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Thursday" Month="January" Time="00:00:00">First Thursday of January at 0:00</Date>
 		</Info>
 		<Info Year="2006" Bias="03:00:00" />
 		<Info Year="2007" Bias="03:00:00">
@@ -705,8 +705,9 @@
 		</Info>
 		<Info Year="2009" Bias="03:00:00">
 			<Date Type="Standard" Week="Second" Day="Saturday" Month="March" Time="23:59:59">Second Saturday of March at 23:59:59</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Thursday" Month="January" Time="00:00:00">First Thursday of January at 0:00</Date>
 		</Info>
+		<Info Year="2010" Bias="03:00:00" />
 	</TimeZone>
 	<TimeZone Name="AtlanticStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Atlantic Standard Time">Atlantic Standard Time</Link>
@@ -2112,6 +2113,130 @@
 			<Date Type="Standard" Week="Second" Day="Saturday" Month="February" Time="23:59:59">Second Saturday of February at 23:59:59</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
 		</Info>
+		<Info Year="2010" Bias="04:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2011" Bias="04:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2012" Bias="04:00:00">
+			<Date Type="Standard" Week="Fourth" Day="Saturday" Month="February" Time="23:59:59">Fourth Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2013" Bias="04:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2014" Bias="04:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2015" Bias="04:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2016" Bias="04:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2017" Bias="04:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Second" Day="Saturday" Month="October" Time="23:59:59">Second Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2018" Bias="04:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2019" Bias="04:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2020" Bias="04:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2021" Bias="04:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2022" Bias="04:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2023" Bias="04:00:00">
+			<Date Type="Standard" Week="Fourth" Day="Saturday" Month="February" Time="23:59:59">Fourth Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Second" Day="Saturday" Month="October" Time="23:59:59">Second Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2024" Bias="04:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2025" Bias="04:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2026" Bias="04:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2027" Bias="04:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2028" Bias="04:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Second" Day="Saturday" Month="October" Time="23:59:59">Second Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2029" Bias="04:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2030" Bias="04:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2031" Bias="04:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2032" Bias="04:00:00">
+			<Date Type="Standard" Week="Second" Day="Saturday" Month="February" Time="23:59:59">Second Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2033" Bias="04:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2034" Bias="04:00:00">
+			<Date Type="Standard" Week="Fourth" Day="Saturday" Month="February" Time="23:59:59">Fourth Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Second" Day="Saturday" Month="October" Time="23:59:59">Second Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2035" Bias="04:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2036" Bias="04:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2037" Bias="04:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2038" Bias="04:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2039" Bias="04:00:00">
+			<Date Type="Standard" Week="Fourth" Day="Saturday" Month="February" Time="23:59:59">Fourth Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2040" Bias="04:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
 	</TimeZone>
 	<TimeZone Name="CentralEuropeStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Central Europe Standard Time">Central Europe Standard Time</Link>
@@ -3386,6 +3511,130 @@
 			<Date Type="Standard" Week="Second" Day="Saturday" Month="February" Time="23:59:59">Second Saturday of February at 23:59:59</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
 		</Info>
+		<Info Year="2010" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2011" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2012" Bias="03:00:00">
+			<Date Type="Standard" Week="Fourth" Day="Saturday" Month="February" Time="23:59:59">Fourth Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2013" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2014" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2015" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2016" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2017" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Second" Day="Saturday" Month="October" Time="23:59:59">Second Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2018" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2019" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2020" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2021" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2022" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2023" Bias="03:00:00">
+			<Date Type="Standard" Week="Fourth" Day="Saturday" Month="February" Time="23:59:59">Fourth Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Second" Day="Saturday" Month="October" Time="23:59:59">Second Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2024" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2025" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2026" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2027" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2028" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Second" Day="Saturday" Month="October" Time="23:59:59">Second Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2029" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2030" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2031" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2032" Bias="03:00:00">
+			<Date Type="Standard" Week="Second" Day="Saturday" Month="February" Time="23:59:59">Second Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2033" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2034" Bias="03:00:00">
+			<Date Type="Standard" Week="Fourth" Day="Saturday" Month="February" Time="23:59:59">Fourth Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Second" Day="Saturday" Month="October" Time="23:59:59">Second Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2035" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2036" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2037" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2038" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2039" Bias="03:00:00">
+			<Date Type="Standard" Week="Fourth" Day="Saturday" Month="February" Time="23:59:59">Fourth Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2040" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
 	</TimeZone>
 	<TimeZone Name="EasternStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Eastern Standard Time">Eastern Standard Time</Link>
@@ -3641,7 +3890,7 @@
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Thursday" Month="April" Time="23:59:59">Last Thursday of April at 23:59:59</Date>
 		</Info>
 		<Info Year="2009" Bias="-02:00:00">
-			<Date Type="Standard" Week="Last" Day="Thursday" Month="September" Time="23:59:59">Last Thursday of September at 23:59:59</Date>
+			<Date Type="Standard" Week="Third" Day="Thursday" Month="August" Time="23:59:59">Third Thursday of August at 23:59:59</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Fourth" Day="Thursday" Month="April" Time="23:59:59">Fourth Thursday of April at 23:59:59</Date>
 		</Info>
 		<Info Year="2010" Bias="-02:00:00">
@@ -3770,7 +4019,7 @@
 		<Label xml:lang="ar-SA">(GMT+12:00) فيجي, جزيرة مارشال</Label>
 		<Label xml:lang="bg-BG">(GMT+12:00) Фиджи, Маршалови острови</Label>
 		<Label xml:lang="cs-CZ">(GMT+12:00) Fidži, Marshallovy ostrovy</Label>
-		<Label xml:lang="da-DK">(GMT-+12:00) Fiji, Marshalløerne</Label>
+		<Label xml:lang="da-DK">(GMT+12:00) Fiji, Marshalløerne</Label>
 		<Label xml:lang="de-DE">(GMT+12:00) Fidschi, Marshallinseln</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+12:00) Φίτζι, Νησιά Μάρσαλ</Label>
 		<Label xml:lang="en-US">(GMT+12:00) Fiji, Marshall Is.</Label>
@@ -3916,7 +4165,7 @@
 		<Label xml:lang="sr-SP-Latn">(GMT+02:00) Helsinki, Kijev, Riga, Sofija, Talin, Viljnus</Label>
 		<Label xml:lang="en" Type="Standard">FLE Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">فنلندا - التوقيت الرسمي</Label>
-		<Label xml:lang="bg-BG" Type="Standard">Финландско стандартно време</Label>
+		<Label xml:lang="bg-BG" Type="Standard">Финландия - стандартно време</Label>
 		<Label xml:lang="cs-CZ" Type="Standard">Finsko (běžný čas)</Label>
 		<Label xml:lang="da-DK" Type="Standard">FLE, normaltid</Label>
 		<Label xml:lang="de-DE" Type="Standard">Osteuropäische Zeit</Label>
@@ -3952,7 +4201,7 @@
 		<Label xml:lang="sr-SP-Latn" Type="Standard">FLE standardno vreme</Label>
 		<Label xml:lang="en" Type="Daylight">FLE Daylight Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">فنلندا - التوقيت الصيفي</Label>
-		<Label xml:lang="bg-BG" Type="Daylight">Финландско лятно време</Label>
+		<Label xml:lang="bg-BG" Type="Daylight">Финландия - лятно часово време</Label>
 		<Label xml:lang="cs-CZ" Type="Daylight">Finsko (letní čas)</Label>
 		<Label xml:lang="da-DK" Type="Daylight">FLE, sommertid</Label>
 		<Label xml:lang="de-DE" Type="Daylight">Osteuropäische Sommerzeit</Label>
@@ -3993,42 +4242,42 @@
 	</TimeZone>
 	<TimeZone Name="GeorgianStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Georgian Standard Time">Georgian Standard Time</Link>
-		<Label xml:lang="en">(GMT+03:00) Tbilisi</Label>
-		<Label xml:lang="ar-SA">(GMT+03:00) تبيليسي</Label>
-		<Label xml:lang="bg-BG">(GMT+03:00) Тбилиси</Label>
-		<Label xml:lang="cs-CZ">(GMT+03:00) Tbilisi</Label>
-		<Label xml:lang="da-DK">(GMT+03:00) Tbilisi</Label>
-		<Label xml:lang="de-DE">(GMT+03:00) Tiflis</Label>
-		<Label xml:lang="el-GR">(Γκρίνουιτς+03:00) Τιφλίδα</Label>
-		<Label xml:lang="en-US">(GMT+03:00) Tbilisi</Label>
-		<Label xml:lang="es-ES">(GMT+03:00) Tiflis</Label>
-		<Label xml:lang="et-EE">(GMT+03:00) Thbilisi</Label>
-		<Label xml:lang="fi-FI">(GMT+03:00) Tbilisi</Label>
-		<Label xml:lang="fr-FR">(GMT+03:00) Tbilissi</Label>
-		<Label xml:lang="he-IL">(GMT+03:00) טביליסי</Label>
-		<Label xml:lang="hr-HR">(GMT+03:00) Tbilisi</Label>
-		<Label xml:lang="hu-HU">(GMT+03:00) Tbiliszi</Label>
-		<Label xml:lang="it-IT">(GMT+3.00) Tbilisi</Label>
-		<Label xml:lang="ja-JP">(GMT+03:00) トビリシ</Label>
-		<Label xml:lang="ko-KR">(GMT+03:00) 트빌리시</Label>
-		<Label xml:lang="lt-LT">(GMT+03:00) Tbilisis</Label>
-		<Label xml:lang="lv-LV">(GMT+03:00) Tbilisi</Label>
-		<Label xml:lang="nb-NO">(GMT+03:00) Tbilisi</Label>
-		<Label xml:lang="nl-NL">(GMT+03:00) Tbilisi</Label>
-		<Label xml:lang="pl-PL">(GMT+03:00) Tbilisi</Label>
-		<Label xml:lang="pt-BR">(GMT+03:00) Tbilisi</Label>
-		<Label xml:lang="pt-PT">(GMT+03:00) Tbilisi</Label>
-		<Label xml:lang="ro-RO">(GMT+03:00) Tbilisi</Label>
-		<Label xml:lang="ru-RU">(GMT+03:00) Тбилиси</Label>
-		<Label xml:lang="sk-SK">(GMT+03:00) Tbilisi</Label>
-		<Label xml:lang="sl-SI">(GMT+03:00) Tbilisi</Label>
-		<Label xml:lang="sv-SE">(GMT+03:00) Tbilisi</Label>
-		<Label xml:lang="th-TH">(GMT+03:00) ทบิลิซิ</Label>
-		<Label xml:lang="tr-TR">(GMT+03:00) Tiflis</Label>
-		<Label xml:lang="uk-UA">(GMT+03:00) Тбілісі</Label>
-		<Label xml:lang="zh-CN">(GMT+03:00) 第比利斯</Label>
-		<Label xml:lang="zh-TW">(GMT+03:00) 第比利斯</Label>
-		<Label xml:lang="sr-SP-Latn">(GMT+03:00) Tbilisi</Label>
+		<Label xml:lang="en">(GMT+04:00) Tbilisi</Label>
+		<Label xml:lang="ar-SA">(GMT+04:00) تبليسي</Label>
+		<Label xml:lang="bg-BG">(GMT+04:00) Тбилиси</Label>
+		<Label xml:lang="cs-CZ">(GMT+04:00) Tbilisi</Label>
+		<Label xml:lang="da-DK">(GMT+04:00) Tbilisi</Label>
+		<Label xml:lang="de-DE">(GMT+04:00) Tiflis</Label>
+		<Label xml:lang="el-GR">(Γκρίνουιτς+04:00) Τιφλίδα</Label>
+		<Label xml:lang="en-US">(GMT+04:00) Tbilisi</Label>
+		<Label xml:lang="es-ES">(GMT+04:00) Tiflis</Label>
+		<Label xml:lang="et-EE">(GMT+04:00) Thbilisi</Label>
+		<Label xml:lang="fi-FI">(GMT+04:00) Tbilisi</Label>
+		<Label xml:lang="fr-FR">(GMT+04:00) Tbilissi</Label>
+		<Label xml:lang="he-IL">(GMT+04:00) טביליסי</Label>
+		<Label xml:lang="hr-HR">(GMT+04:00) Tbilisi</Label>
+		<Label xml:lang="hu-HU">(GMT+04:00) Tbiliszi</Label>
+		<Label xml:lang="it-IT">(GMT+04.00) Tbilisi</Label>
+		<Label xml:lang="ja-JP">(GMT+04:00) トビリシ</Label>
+		<Label xml:lang="ko-KR">(GMT+04:00) 트빌리시</Label>
+		<Label xml:lang="lt-LT">(GMT+04:00) Tbilisis</Label>
+		<Label xml:lang="lv-LV">(GMT+04:00) Tbilisi</Label>
+		<Label xml:lang="nb-NO">(GMT+04:00) Tbilisi</Label>
+		<Label xml:lang="nl-NL">(GMT+04:00) Tbilisi</Label>
+		<Label xml:lang="pl-PL">(GMT+04:00) Tbilisi</Label>
+		<Label xml:lang="pt-BR">(GMT+04:00) Tbilisi</Label>
+		<Label xml:lang="pt-PT">(GMT+04:00) Tbilisi</Label>
+		<Label xml:lang="ro-RO">(GMT+04:00) Tbilisi</Label>
+		<Label xml:lang="ru-RU">(GMT+04:00) Тбилиси</Label>
+		<Label xml:lang="sk-SK">(GMT+04:00) Tbilisi</Label>
+		<Label xml:lang="sl-SI">(GMT+04:00) Tbilisi</Label>
+		<Label xml:lang="sv-SE">(GMT+04:00) Tbilisi</Label>
+		<Label xml:lang="th-TH">(GMT+04:00) ทบิลิซิ</Label>
+		<Label xml:lang="tr-TR">(GMT+04:00) Tiflis</Label>
+		<Label xml:lang="uk-UA">(GMT+04:00) Тбілісі</Label>
+		<Label xml:lang="zh-CN">(GMT+04:00) 第比利斯</Label>
+		<Label xml:lang="zh-TW">(GMT+04:00) 第比利斯</Label>
+		<Label xml:lang="sr-SP-Latn">(GMT+04:00) Tbilisi</Label>
 		<Label xml:lang="en" Type="Standard">Georgian Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">جورجيا - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Грузинско стандартно време</Label>
@@ -4101,7 +4350,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">格鲁吉亚夏令时</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">喬治亞日光節約時間</Label>
 		<Label xml:lang="sr-SP-Latn" Type="Daylight">Letnje/zimsko vreme u Gruziji</Label>
-		<Info Bias="-03:00:00" />
+		<Info Bias="-04:00:00" />
 	</TimeZone>
 	<TimeZone Name="GMTStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\GMT Standard Time">GMT Standard Time</Link>
@@ -5287,7 +5536,7 @@
 		<Label xml:lang="ar-SA">(GMT+12:00) بيتروبافلوفسك-كامتشاتسكي</Label>
 		<Label xml:lang="bg-BG">(GMT+12:00) Петропавловск Камчатски</Label>
 		<Label xml:lang="cs-CZ">(GMT+12:00) Petropavlovsk-Kamčatskyj</Label>
-		<Label xml:lang="da-DK">(GMT-+12:00) Petropavlovsk-Kamchatsky</Label>
+		<Label xml:lang="da-DK">(GMT+12:00) Petropavlovsk-Kamchatsky</Label>
 		<Label xml:lang="de-DE">(GMT+12:00) Petropawlowsk-Kamtschatski</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς+12:00) Πετροπαβλόβσκ-Καμτσάτσκι</Label>
 		<Label xml:lang="en-US">(GMT+12:00) Petropavlovsk-Kamchatsky</Label>
@@ -5327,7 +5576,7 @@
 		<Label xml:lang="de-DE" Type="Standard">Kamtschatka Normalzeit</Label>
 		<Label xml:lang="el-GR" Type="Standard">Χειμερινή ώρα Καμτσάτκα</Label>
 		<Label xml:lang="en-US" Type="Standard">Kamchatka Standard Time</Label>
-		<Label xml:lang="es-ES" Type="Standard">Hora de estándar de Kamchatka</Label>
+		<Label xml:lang="es-ES" Type="Standard">Hora estándar de Kamchatka</Label>
 		<Label xml:lang="et-EE" Type="Standard">Kamtšatka standardaeg</Label>
 		<Label xml:lang="fi-FI" Type="Standard">Kamtšatkan normaaliaika</Label>
 		<Label xml:lang="fr-FR" Type="Standard">Kamchatka</Label>
@@ -5543,7 +5792,7 @@
 		<Label xml:lang="th-TH">(GMT+04:00) พอร์ตหลุยส์</Label>
 		<Label xml:lang="tr-TR">(GMT+04:00) Port Louis</Label>
 		<Label xml:lang="uk-UA">(GMT+04:00) Порт-Луї</Label>
-		<Label xml:lang="zh-CN">(GMT+04:00)路易港</Label>
+		<Label xml:lang="zh-CN">(GMT+04:00) 路易港</Label>
 		<Label xml:lang="zh-TW">(GMT+04:00) 路易士港</Label>
 		<Label xml:lang="sr-SP-Latn">(GMT+04:00) Port Luis</Label>
 		<Label xml:lang="en" Type="Standard">Mauritius Standard Time</Label>
@@ -6462,42 +6711,42 @@
 	</TimeZone>
 	<TimeZone Name="NCentralAsiaStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\N. Central Asia Standard Time">N. Central Asia Standard Time</Link>
-		<Label xml:lang="en">(GMT+06:00) Almaty, Novosibirsk</Label>
-		<Label xml:lang="ar-SA">(GMT+06:00) ألماتي، نوفوسيبيريسك</Label>
-		<Label xml:lang="bg-BG">(GMT+06:00) Алмати, Новосибирск</Label>
-		<Label xml:lang="cs-CZ">(GMT+06:00) Alma-Ata, Novosibirsk</Label>
-		<Label xml:lang="da-DK">(GMT+06:00) Almaty, Novosibirsk</Label>
-		<Label xml:lang="de-DE">(GMT+06:00) Almaty, Nowosibirsk</Label>
-		<Label xml:lang="el-GR">(Γκρίνουιτς+06:00) Αλμά-Ατά, Νοβοσιμπίρσκ</Label>
-		<Label xml:lang="en-US">(GMT+06:00) Almaty, Novosibirsk</Label>
-		<Label xml:lang="es-ES">(GMT+06:00) Almaty, Novosibirsk</Label>
-		<Label xml:lang="et-EE">(GMT+06:00) Almatõ, Novosibirsk</Label>
-		<Label xml:lang="fi-FI">(GMT+06:00) Alma-Ata, Novosibirsk</Label>
-		<Label xml:lang="fr-FR">(GMT+06:00) Almaty, Novossibirsk</Label>
-		<Label xml:lang="he-IL">(GMT+06:00) אלמטי, נובוסיבירסק</Label>
-		<Label xml:lang="hr-HR">(GMT+06:00) Almati, Novosibirsk</Label>
-		<Label xml:lang="hu-HU">(GMT+06:00) Almaty, Novoszibirszk</Label>
-		<Label xml:lang="it-IT">(GMT+6.00) Almaty, Novosibirsk</Label>
-		<Label xml:lang="ja-JP">(GMT+06:00) アルマティ、ノボシビルスク</Label>
-		<Label xml:lang="ko-KR">(GMT+06:00) 알마티, 노보시비르스크</Label>
-		<Label xml:lang="lt-LT">(GMT+06:00) Almata, Novosibirskas</Label>
-		<Label xml:lang="lv-LV">(GMT+06:00) Alma-Ata, Novosibirska</Label>
-		<Label xml:lang="nb-NO">(GMT+06:00) Almaty, Novosibirsk</Label>
-		<Label xml:lang="nl-NL">(GMT+06:00) Almaty, Novosibirsk</Label>
-		<Label xml:lang="pl-PL">(GMT+06:00) Ałma-Ata, Nowosybirsk</Label>
-		<Label xml:lang="pt-BR">(GMT+06:00) Almaty, Novosibirsk</Label>
-		<Label xml:lang="pt-PT">(GMT+06:00) Almaty, Novosibirsk</Label>
-		<Label xml:lang="ro-RO">(GMT+06:00) Alma-Ata, Novosibirsk</Label>
-		<Label xml:lang="ru-RU">(GMT+06:00) Омск, Новосибирск, Алма-Ата</Label>
-		<Label xml:lang="sk-SK">(GMT+06:00) Alma-Ata, Novosibirsk</Label>
-		<Label xml:lang="sl-SI">(GMT+06:00) Almati, Novosibirsk</Label>
-		<Label xml:lang="sv-SE">(GMT+06:00) Almaty, Novosibirsk</Label>
-		<Label xml:lang="th-TH">(GMT+06:00) อัลมาตี โนโวซิเบียร์ซค์</Label>
-		<Label xml:lang="tr-TR">(GMT+06:00) Almatı, Novosibirsk</Label>
-		<Label xml:lang="uk-UA">(GMT+06:00) Алмати, Новосибірськ</Label>
-		<Label xml:lang="zh-CN">(GMT+06:00) 阿拉木图，新西伯利亚</Label>
-		<Label xml:lang="zh-TW">(GMT+06:00) 阿馬提，諾曼斯比爾斯科</Label>
-		<Label xml:lang="sr-SP-Latn">(GMT+06:00) Alma Ata, Novosibirsk</Label>
+		<Label xml:lang="en">(GMT+06:00) Novosibirsk</Label>
+		<Label xml:lang="ar-SA">(GMT+06:00) نوفوسيبرسك</Label>
+		<Label xml:lang="bg-BG">(GMT+06:00) Новосибирск</Label>
+		<Label xml:lang="cs-CZ">(GMT+06:00) Novosibirsk</Label>
+		<Label xml:lang="da-DK">(GMT+06:00) Novosibirsk</Label>
+		<Label xml:lang="de-DE">(GMT+06:00) Nowosibirsk</Label>
+		<Label xml:lang="el-GR">(Γκρίνουιτς+06:00) Νοβοσιμπίρσκ</Label>
+		<Label xml:lang="en-US">(GMT+06:00) Novosibirsk</Label>
+		<Label xml:lang="es-ES">(GMT+06:00) Novosibirsk</Label>
+		<Label xml:lang="et-EE">(GMT+06:00) Novosibirsk</Label>
+		<Label xml:lang="fi-FI">(GMT+06:00) Novosibirsk</Label>
+		<Label xml:lang="fr-FR">(GMT+06:00) Novossibirsk</Label>
+		<Label xml:lang="he-IL">(GMT+06:00) נובוסיבירסק</Label>
+		<Label xml:lang="hr-HR">(GMT+06:00) Novosibirsk</Label>
+		<Label xml:lang="hu-HU">(GMT+06:00) Novoszibirszk</Label>
+		<Label xml:lang="it-IT">(GMT+06.00) Novosibirsk</Label>
+		<Label xml:lang="ja-JP">(GMT+06:00) ノボシビルスク</Label>
+		<Label xml:lang="ko-KR">(GMT+06:00) 노보시비르스크</Label>
+		<Label xml:lang="lt-LT">(GMT+06:00) Novosibirskas</Label>
+		<Label xml:lang="lv-LV">(GMT+06:00) Novosibirska</Label>
+		<Label xml:lang="nb-NO">(GMT+06:00) Novosibirsk</Label>
+		<Label xml:lang="nl-NL">(GMT+06:00) Novosibirsk</Label>
+		<Label xml:lang="pl-PL">(GMT+06:00) Nowosybirsk</Label>
+		<Label xml:lang="pt-BR">(GMT+06:00) Novosibirsk</Label>
+		<Label xml:lang="pt-PT">(GMT+06:00) Novosibirsk</Label>
+		<Label xml:lang="ro-RO">(GMT+06:00) Novosibirsk</Label>
+		<Label xml:lang="ru-RU">(GMT+06:00) Новосибирск</Label>
+		<Label xml:lang="sk-SK">(GMT+06:00) Novosibirsk</Label>
+		<Label xml:lang="sl-SI">(GMT+06:00) Novosibirsk</Label>
+		<Label xml:lang="sv-SE">(GMT+06:00) Novosibirsk</Label>
+		<Label xml:lang="th-TH">(GMT+06:00) โนโวซิเบียร์ซค์</Label>
+		<Label xml:lang="tr-TR">(GMT+06:00) Novosibirsk</Label>
+		<Label xml:lang="uk-UA">(GMT+06:00) Новосибірськ</Label>
+		<Label xml:lang="zh-CN">(GMT+06:00) 新西伯利亚</Label>
+		<Label xml:lang="zh-TW">(GMT+06:00) 新西伯利亞</Label>
+		<Label xml:lang="sr-SP-Latn">(GMT+06:00) Novosibirsk</Label>
 		<Label xml:lang="en" Type="Standard">N. Central Asia Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">شمال آسيا الوسطى - توقيت رسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Сев. Центр. Азия - станд. време</Label>
@@ -7054,42 +7303,42 @@
 	</TimeZone>
 	<TimeZone Name="NorthAsiaEastStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\North Asia East Standard Time">North Asia East Standard Time</Link>
-		<Label xml:lang="en">(GMT+08:00) Irkutsk, Ulaan Bataar</Label>
-		<Label xml:lang="ar-SA">(GMT+08:00)أركوتسك، أولان بتار</Label>
-		<Label xml:lang="bg-BG">(GMT+08:00) Иркутск, Улан Батор</Label>
-		<Label xml:lang="cs-CZ">(GMT+08:00) Irkutsk, Ulánbátar</Label>
-		<Label xml:lang="da-DK">(GMT+08:00) Irkutsk, Ulaanbataar</Label>
-		<Label xml:lang="de-DE">(GMT+08:00) Irkutsk, Ulan-Bator</Label>
-		<Label xml:lang="el-GR">(Γκρίνουιτς+08:00) Ιρκούτσκ, Ουλάν Μπατόρ</Label>
-		<Label xml:lang="en-US">(GMT+08:00) Irkutsk, Ulaan Bataar</Label>
-		<Label xml:lang="es-ES">(GMT+08:00) Irkutsk, Ulaan Bataar</Label>
-		<Label xml:lang="et-EE">(GMT+08:00) Irkutsk, Ulaanbaatar</Label>
-		<Label xml:lang="fi-FI">(GMT+08:00) Irkutsk, Ulan Bator</Label>
-		<Label xml:lang="fr-FR">(GMT+08:00) Irkoutsk, Oulan-Bator</Label>
-		<Label xml:lang="he-IL">(GMT+08:00) ירקוטסק, אולאן בטאר</Label>
-		<Label xml:lang="hr-HR">(GMT+08:00) Irkutsk, Ulan Bator</Label>
-		<Label xml:lang="hu-HU">(GMT+08:00) Irkutszk, Ulánbátor</Label>
-		<Label xml:lang="it-IT">(GMT+8.00) Irkutsk, Ulaan Bataar</Label>
-		<Label xml:lang="ja-JP">(GMT+08:00) イルクーツク、ウランバートル</Label>
-		<Label xml:lang="ko-KR">(GMT+08:00) 이르쿠츠크, 울란바토르</Label>
-		<Label xml:lang="lt-LT">(GMT+08:00) Irkutskas, Ulan Batorius</Label>
-		<Label xml:lang="lv-LV">(GMT+08:00) Irkutska, Ulanbatora</Label>
-		<Label xml:lang="nb-NO">(GMT+08:00) Irkutsk, Ulan Bator</Label>
-		<Label xml:lang="nl-NL">(GMT+08:00) Irkoetsk, Ulaan Bataar</Label>
-		<Label xml:lang="pl-PL">(GMT+08:00) Irkuck, Ułan Bator</Label>
-		<Label xml:lang="pt-BR">(GMT+08:00) Irkutsk, Ulan-Bator</Label>
-		<Label xml:lang="pt-PT">(GMT+08:00) Irkutsk, Ulaan Bataar</Label>
-		<Label xml:lang="ro-RO">(GMT+08:00) Irkutsk, Ulan Bator</Label>
-		<Label xml:lang="ru-RU">(GMT+08:00) Иркутск, Улан-Батор</Label>
-		<Label xml:lang="sk-SK">(GMT+08:00) Irkutsk, Ulánbátar</Label>
-		<Label xml:lang="sl-SI">(GMT+08:00) Irkutsk, Ulan Bator</Label>
-		<Label xml:lang="sv-SE">(GMT+08:00) Irkutsk, Ulan Bator</Label>
-		<Label xml:lang="th-TH">(GMT+08:00) เออคุทสค์ อูลานบาตอร์</Label>
-		<Label xml:lang="tr-TR">(GMT+08:00) Irkutsk, Ulaan Bataar</Label>
-		<Label xml:lang="uk-UA">(GMT+08:00) Іркутськ, Улан-Батор</Label>
-		<Label xml:lang="zh-CN">(GMT+08:00) 伊尔库茨克，乌兰巴托</Label>
-		<Label xml:lang="zh-TW">(GMT+08:00) 伊爾庫次克，烏蘭巴圖</Label>
-		<Label xml:lang="sr-SP-Latn">(GMT+08:00) Irkutsk, Ulan Bator</Label>
+		<Label xml:lang="en">(GMT+08:00) Irkutsk</Label>
+		<Label xml:lang="ar-SA">(GMT+08:00) إركوتسك</Label>
+		<Label xml:lang="bg-BG">(GMT+08:00) Иркутск</Label>
+		<Label xml:lang="cs-CZ">(GMT+08:00) Irkutsk</Label>
+		<Label xml:lang="da-DK">(GMT+08:00) Irkutsk</Label>
+		<Label xml:lang="de-DE">(GMT+08:00) Irkutsk</Label>
+		<Label xml:lang="el-GR">(Γκρίνουιτς+08:00) Ιρκούτσκ</Label>
+		<Label xml:lang="en-US">(GMT+08:00) Irkutsk</Label>
+		<Label xml:lang="es-ES">(GMT+08:00) Irkutsk</Label>
+		<Label xml:lang="et-EE">(GMT+08:00) Irkutsk</Label>
+		<Label xml:lang="fi-FI">(GMT+08:00) Irkutsk</Label>
+		<Label xml:lang="fr-FR">(GMT+08:00) Irkoutsk</Label>
+		<Label xml:lang="he-IL">(GMT+08:00) אירקוטסק</Label>
+		<Label xml:lang="hr-HR">(GMT+08:00) Irkutsk</Label>
+		<Label xml:lang="hu-HU">(GMT+08:00) Irkutszk</Label>
+		<Label xml:lang="it-IT">(GMT+08.00) Irkutsk</Label>
+		<Label xml:lang="ja-JP">(GMT+08:00) イルクーツク</Label>
+		<Label xml:lang="ko-KR">(GMT+08:00) 이르쿠츠크</Label>
+		<Label xml:lang="lt-LT">(GMT+08:00) Irkutskas</Label>
+		<Label xml:lang="lv-LV">(GMT+08:00) Irkutska</Label>
+		<Label xml:lang="nb-NO">(GMT+08:00) Irkutsk</Label>
+		<Label xml:lang="nl-NL">(GMT+08:00) Irkoetsk</Label>
+		<Label xml:lang="pl-PL">(GMT+08:00) Irkuck</Label>
+		<Label xml:lang="pt-BR">(GMT+08:00) Irkutsk</Label>
+		<Label xml:lang="pt-PT">(GMT+08:00) Irkutsk</Label>
+		<Label xml:lang="ro-RO">(GMT+08:00) Irkutsk</Label>
+		<Label xml:lang="ru-RU">(GMT+08:00) Иркутск</Label>
+		<Label xml:lang="sk-SK">(GMT+08:00) Irkutsk</Label>
+		<Label xml:lang="sl-SI">(GMT+08:00) Irkutsk</Label>
+		<Label xml:lang="sv-SE">(GMT+08:00) Irkutsk</Label>
+		<Label xml:lang="th-TH">(GMT+08:00) เออคุทสค์</Label>
+		<Label xml:lang="tr-TR">(GMT+08:00) İrkutsk</Label>
+		<Label xml:lang="uk-UA">(GMT+08:00) Іркутськ</Label>
+		<Label xml:lang="zh-CN">(GMT+08:00) 伊尔库茨克</Label>
+		<Label xml:lang="zh-TW">(GMT+08:00) 伊爾庫次克</Label>
+		<Label xml:lang="sr-SP-Latn">(GMT+08:00) Irkutsk</Label>
 		<Label xml:lang="en" Type="Standard">North Asia East Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">شرق آسيا الشمالية - توقيت رسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Североизт. Азия - станд. време</Label>
@@ -7778,7 +8027,7 @@
 		<Label xml:lang="ar-SA">(GMT-04:00) أسونسيون</Label>
 		<Label xml:lang="bg-BG">(GMT-04:00) Асунсион</Label>
 		<Label xml:lang="cs-CZ">(GMT-04:00) Asunción</Label>
-		<Label xml:lang="da-DK">(GMT--04:00) Asuncion</Label>
+		<Label xml:lang="da-DK">(GMT-04:00) Asuncion</Label>
 		<Label xml:lang="de-DE">(GMT-04:00) Asuncion</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς-04:00) Ασουνσιόν</Label>
 		<Label xml:lang="en-US">(GMT-04:00) Asuncion</Label>
@@ -7789,7 +8038,7 @@
 		<Label xml:lang="he-IL">(GMT-04:00) אסונסיון</Label>
 		<Label xml:lang="hr-HR">(GMT-04:00) Asuncion</Label>
 		<Label xml:lang="hu-HU">(GMT-04:00) Asuncion</Label>
-		<Label xml:lang="it-IT">(GMT-04:00) Asuncion</Label>
+		<Label xml:lang="it-IT">(GMT-04.00) Asuncion</Label>
 		<Label xml:lang="ja-JP">(GMT-04:00) アスンシオン</Label>
 		<Label xml:lang="ko-KR">(GMT-04:00) 아순시온</Label>
 		<Label xml:lang="lt-LT">(GMT-04:00) Asunsjonas</Label>
@@ -8190,7 +8439,7 @@
 		<Label xml:lang="he-IL">(GMT-03:00) קאיין</Label>
 		<Label xml:lang="hr-HR">(GMT-03:00) Cayenne</Label>
 		<Label xml:lang="hu-HU">(GMT-03:00) Cayenne</Label>
-		<Label xml:lang="it-IT">(GMT-03:00) Caienna</Label>
+		<Label xml:lang="it-IT">(GMT-03.00) Caienna</Label>
 		<Label xml:lang="ja-JP">(GMT-03:00) カイエンヌ</Label>
 		<Label xml:lang="ko-KR">(GMT-03:00) 카옌</Label>
 		<Label xml:lang="lt-LT">(GMT-03:00) Kajenas</Label>
@@ -8291,7 +8540,7 @@
 		<Label xml:lang="ar-SA">(GMT-05:00) بوجوتا، ليما، كويتو</Label>
 		<Label xml:lang="bg-BG">(GMT-05:00) Богота, Лима, Куито</Label>
 		<Label xml:lang="cs-CZ">(GMT-05:00) Bogota, Lima, Quito</Label>
-		<Label xml:lang="da-DK">(GMT--05:00) Bogota, Lima, Quito</Label>
+		<Label xml:lang="da-DK">(GMT-05:00) Bogota, Lima, Quito</Label>
 		<Label xml:lang="de-DE">(GMT-05:00) Bogotá, Lima, Quito</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς-05:00) Μπογκοτά, Λίμα, Κουίτο</Label>
 		<Label xml:lang="en-US">(GMT-05:00) Bogota, Lima, Quito</Label>
@@ -8403,7 +8652,7 @@
 		<Label xml:lang="ar-SA">(GMT-04:00) جورج تاون, لاباز, سان جوان</Label>
 		<Label xml:lang="bg-BG">(GMT-04:00) Джорджтаун, Ла Пас, Сан Хуан</Label>
 		<Label xml:lang="cs-CZ">(GMT-04:00) Georgetown, La Paz, San Juan</Label>
-		<Label xml:lang="da-DK">(GMT--04:00) Georgetown, La Paz, San Juan</Label>
+		<Label xml:lang="da-DK">(GMT-04:00) Georgetown, La Paz, San Juan</Label>
 		<Label xml:lang="de-DE">(GMT-04:00) Georgetown, La Paz, San Juan</Label>
 		<Label xml:lang="el-GR">(Γκρίνουιτς-04:00) Τζόρτζταουν, Λα Παζ, Σαν Χουάν</Label>
 		<Label xml:lang="en-US">(GMT-04:00) Georgetown, La Paz, San Juan</Label>
@@ -8414,7 +8663,7 @@
 		<Label xml:lang="he-IL">(GMT-04:00) ג'ורג'טאון. לה פאס, סאן חואן</Label>
 		<Label xml:lang="hr-HR">(GMT-04:00) Georgetown, La Paz, San Juan</Label>
 		<Label xml:lang="hu-HU">(GMT-04:00) Georgetown, La Paz, San Juan</Label>
-		<Label xml:lang="it-IT">(GMT-04:00) Georgetown, La Paz, San Juan</Label>
+		<Label xml:lang="it-IT">(GMT-04.00) Georgetown, La Paz, San Juan</Label>
 		<Label xml:lang="ja-JP">(GMT-04:00) ジョージタウン、ラパス、サンフアン</Label>
 		<Label xml:lang="ko-KR">(GMT-04:00) 조지타운, 라파스, 산후안</Label>
 		<Label xml:lang="lt-LT">(GMT-04:00) Džordžtaunas, La Pasas, San Chuanas</Label>
@@ -9528,6 +9777,118 @@
 		<Label xml:lang="sr-SP-Latn" Type="Daylight">Letnje/zimsko vreme na Tongi</Label>
 		<Info Bias="-13:00:00" />
 	</TimeZone>
+	<TimeZone Name="UlaanbaatarStandardTime">
+		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Ulaanbaatar Standard Time">Ulaanbaatar Standard Time</Link>
+		<Label xml:lang="en">(GMT+08:00) Ulaanbaatar</Label>
+		<Label xml:lang="ar-SA">(GMT+08:00) أولان باتار</Label>
+		<Label xml:lang="bg-BG">(GMT+08:00) Улан Батор</Label>
+		<Label xml:lang="cs-CZ">(GMT+08:00) Ulánbátar</Label>
+		<Label xml:lang="da-DK">(GMT+08:00) Ulaanbaatar</Label>
+		<Label xml:lang="de-DE">(GMT+08:00) Ulan-Bator</Label>
+		<Label xml:lang="el-GR">(Γκρίνουιτς+08:00) Ουλάν Μπατόρ</Label>
+		<Label xml:lang="en-US">(GMT+08:00) Ulaanbaatar</Label>
+		<Label xml:lang="es-ES">(GMT+08:00) Ulán Bator</Label>
+		<Label xml:lang="et-EE">(GMT+08:00) Ulaanbaatar</Label>
+		<Label xml:lang="fi-FI">(GMT+08:00) Ulan Bator</Label>
+		<Label xml:lang="fr-FR">(GMT+08:00) Oulan-Bator</Label>
+		<Label xml:lang="he-IL">(GMT+08:00) אולאן באטור</Label>
+		<Label xml:lang="hr-HR">(GMT+08:00) Ulan Bator</Label>
+		<Label xml:lang="hu-HU">(GMT+08:00) Ulánbátor</Label>
+		<Label xml:lang="it-IT">(GMT+08.00) Ulaanbaatar</Label>
+		<Label xml:lang="ja-JP">(GMT+08:00) ウランバートル</Label>
+		<Label xml:lang="ko-KR">(GMT+08:00) 울란바토르</Label>
+		<Label xml:lang="lt-LT">(GMT+08:00) Ulan Batoras</Label>
+		<Label xml:lang="lv-LV">(GMT+08:00) Ulanbatora</Label>
+		<Label xml:lang="nb-NO">(GMT+08:00) Ulan Bator</Label>
+		<Label xml:lang="nl-NL">(GMT+08:00) Ulaanbaatar</Label>
+		<Label xml:lang="pl-PL">(GMT+08:00) Ułan Bator</Label>
+		<Label xml:lang="pt-BR">(GMT+08:00) Ulaanbaatar</Label>
+		<Label xml:lang="pt-PT">(GMT+08:00) Ulan Bator</Label>
+		<Label xml:lang="ro-RO">(GMT+08:00) Ulan Bator</Label>
+		<Label xml:lang="ru-RU">(GMT+08:00) Улан-Батор</Label>
+		<Label xml:lang="sk-SK">(GMT+08:00) Ulánbátar</Label>
+		<Label xml:lang="sl-SI">(GMT+08:00) Ulan Bator</Label>
+		<Label xml:lang="sv-SE">(GMT+08:00) Ulan Bator</Label>
+		<Label xml:lang="th-TH">(GMT+08:00) อูลานบาตอร์</Label>
+		<Label xml:lang="tr-TR">(GMT+08:00) Ulanbator</Label>
+		<Label xml:lang="uk-UA">(GMT+08:00) Улан-Батор</Label>
+		<Label xml:lang="zh-CN">(GMT+08:00) 乌兰巴托</Label>
+		<Label xml:lang="zh-TW">(GMT+08:00) 庫倫</Label>
+		<Label xml:lang="sr-SP-Latn">(GMT+08:00) Ulan Bator</Label>
+		<Label xml:lang="en" Type="Standard">Ulaanbaatar Standard Time</Label>
+		<Label xml:lang="ar-SA" Type="Standard">أولان باتار - التوقيت الرسمي</Label>
+		<Label xml:lang="bg-BG" Type="Standard">Улан Батор - стандартно време</Label>
+		<Label xml:lang="cs-CZ" Type="Standard">Ulánbátar (běžný čas)</Label>
+		<Label xml:lang="da-DK" Type="Standard">Ulaanbaatar, normaltid</Label>
+		<Label xml:lang="de-DE" Type="Standard">Ulan-Bator Normalzeit</Label>
+		<Label xml:lang="el-GR" Type="Standard">Χειμερινή ώρα Ουλάν Μπατόρ</Label>
+		<Label xml:lang="en-US" Type="Standard">Ulaanbaatar Standard Time</Label>
+		<Label xml:lang="es-ES" Type="Standard">Hora estándar de Ulán Bator</Label>
+		<Label xml:lang="et-EE" Type="Standard">Ulaanbaatari standardaeg</Label>
+		<Label xml:lang="fi-FI" Type="Standard">Ulan Batorin normaaliaika</Label>
+		<Label xml:lang="fr-FR" Type="Standard">Oulan-Bator</Label>
+		<Label xml:lang="he-IL" Type="Standard">שעון רגיל של אולאן באטור </Label>
+		<Label xml:lang="hr-HR" Type="Standard">Ulanbatorsko standardno vrijeme</Label>
+		<Label xml:lang="hu-HU" Type="Standard">Ulánbátori téli idő</Label>
+		<Label xml:lang="it-IT" Type="Standard">Ora solare Ulaanbaatar</Label>
+		<Label xml:lang="ja-JP" Type="Standard">ウランバートル標準時</Label>
+		<Label xml:lang="ko-KR" Type="Standard">울란바토르 표준시</Label>
+		<Label xml:lang="lt-LT" Type="Standard">Ulan Batoro standartinis laikas</Label>
+		<Label xml:lang="lv-LV" Type="Standard">Ulanbatoras standarta laiks</Label>
+		<Label xml:lang="nb-NO" Type="Standard">Ulan Bator (normaltid)</Label>
+		<Label xml:lang="nl-NL" Type="Standard">Ulaanbaatar (standaardtijd)</Label>
+		<Label xml:lang="pl-PL" Type="Standard">Ułan Bator (czas standardowy)</Label>
+		<Label xml:lang="pt-BR" Type="Standard">Hora Padrão de Ulaanbaatar</Label>
+		<Label xml:lang="pt-PT" Type="Standard">Hora Padrão de Ulan Bator</Label>
+		<Label xml:lang="ro-RO" Type="Standard">Ora standard Ulan Bator</Label>
+		<Label xml:lang="ru-RU" Type="Standard">Улан-Батор (зима)</Label>
+		<Label xml:lang="sk-SK" Type="Standard">Ulánbátar (normálny čas)</Label>
+		<Label xml:lang="sl-SI" Type="Standard">Ulanbatorski standardni čas</Label>
+		<Label xml:lang="sv-SE" Type="Standard">Ulan Bator, normaltid</Label>
+		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของอูลานบาตอร์</Label>
+		<Label xml:lang="tr-TR" Type="Standard">Ulanbator Standart Saati</Label>
+		<Label xml:lang="uk-UA" Type="Standard">Улан-Батор (зима)</Label>
+		<Label xml:lang="zh-CN" Type="Standard">乌兰巴托标准时间</Label>
+		<Label xml:lang="zh-TW" Type="Standard">庫倫標準時間</Label>
+		<Label xml:lang="sr-SP-Latn" Type="Standard">Standardno vreme u Ulan Batoru</Label>
+		<Label xml:lang="en" Type="Daylight">Ulaanbaatar Daylight Time</Label>
+		<Label xml:lang="ar-SA" Type="Daylight">أولان باتار - التوقيت الصيفي</Label>
+		<Label xml:lang="bg-BG" Type="Daylight">Улан Батор  - лятно час. време</Label>
+		<Label xml:lang="cs-CZ" Type="Daylight">Ulánbátar (letní čas)</Label>
+		<Label xml:lang="da-DK" Type="Daylight">Ulaanbaatar, sommertid</Label>
+		<Label xml:lang="de-DE" Type="Daylight">Ulan-Bator Sommerzeit</Label>
+		<Label xml:lang="el-GR" Type="Daylight">Θερινή ώρα Ουλάν Μπατόρ</Label>
+		<Label xml:lang="en-US" Type="Daylight">Ulaanbaatar Daylight Time</Label>
+		<Label xml:lang="es-ES" Type="Daylight">Hora de verano de Ulán Bator</Label>
+		<Label xml:lang="et-EE" Type="Daylight">Ulaanbaatari suveaeg</Label>
+		<Label xml:lang="fi-FI" Type="Daylight">Ulan Batorin kesäaika</Label>
+		<Label xml:lang="fr-FR" Type="Daylight">Oulan-Bator (heure d'été)</Label>
+		<Label xml:lang="he-IL" Type="Daylight"> שעון קיץ של אולאן באטור</Label>
+		<Label xml:lang="hr-HR" Type="Daylight">Ulanbatorsko ljetno vrijeme</Label>
+		<Label xml:lang="hu-HU" Type="Daylight">Ulánbátori nyári idő</Label>
+		<Label xml:lang="it-IT" Type="Daylight">Ora legale Ulaanbaatar</Label>
+		<Label xml:lang="ja-JP" Type="Daylight">ウランバートル夏時間</Label>
+		<Label xml:lang="ko-KR" Type="Daylight">울란바토르 일광 절약 시간</Label>
+		<Label xml:lang="lt-LT" Type="Daylight">Ulan Batoro vasaros laikas</Label>
+		<Label xml:lang="lv-LV" Type="Daylight">Ulanbatoras vasaras laiks</Label>
+		<Label xml:lang="nb-NO" Type="Daylight">Ulan Bator (sommertid)</Label>
+		<Label xml:lang="nl-NL" Type="Daylight">Ulaanbaatar (zomertijd)</Label>
+		<Label xml:lang="pl-PL" Type="Daylight">Ułan Bator (czas letni)</Label>
+		<Label xml:lang="pt-BR" Type="Daylight">Horário de Verão de Ulaanbaatar</Label>
+		<Label xml:lang="pt-PT" Type="Daylight">Hora de Verão de Ulan Bator</Label>
+		<Label xml:lang="ro-RO" Type="Daylight">Ora de vară Ulan Bator</Label>
+		<Label xml:lang="ru-RU" Type="Daylight">Улан-Батор (лето)</Label>
+		<Label xml:lang="sk-SK" Type="Daylight">Ulánbátar (letný čas)</Label>
+		<Label xml:lang="sl-SI" Type="Daylight">Ulanbatorski poletni čas</Label>
+		<Label xml:lang="sv-SE" Type="Daylight">Ulan Bator, sommartid</Label>
+		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของอูลานบาตอร์</Label>
+		<Label xml:lang="tr-TR" Type="Daylight">Ulanbator Yaz Saati</Label>
+		<Label xml:lang="uk-UA" Type="Daylight">Улан-Батор (літо)</Label>
+		<Label xml:lang="zh-CN" Type="Daylight">乌兰巴托夏令时</Label>
+		<Label xml:lang="zh-TW" Type="Daylight">庫倫日光節約時間</Label>
+		<Label xml:lang="sr-SP-Latn" Type="Daylight">Letnje vreme u Ulan Batoru</Label>
+		<Info Bias="-08:00:00" />
+	</TimeZone>
 	<TimeZone Name="USEasternStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\US Eastern Standard Time">US Eastern Standard Time</Link>
 		<Label xml:lang="en">(GMT-05:00) Indiana (East)</Label>
@@ -9755,7 +10116,7 @@
 	<TimeZone Name="UTC">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\UTC">UTC</Link>
 		<Label xml:lang="en">(GMT) Coordinated Universal Time</Label>
-		<Label xml:lang="ar-SA">توقيت عالمي متفق عليه (GMT)</Label>
+		<Label xml:lang="ar-SA">‫(GMT) توقيت عالمي متفق عليه‬</Label>
 		<Label xml:lang="bg-BG">(GMT) Координирано универсално вр. </Label>
 		<Label xml:lang="cs-CZ">(GMT) Koordinovaný světový čas</Label>
 		<Label xml:lang="da-DK">(GMT) Coordinated Universal Time</Label>
@@ -9764,11 +10125,11 @@
 		<Label xml:lang="en-US">(GMT) Coordinated Universal Time</Label>
 		<Label xml:lang="es-ES">(GMT) Hora universal coordinada</Label>
 		<Label xml:lang="et-EE">(GMT) Maailmaaeg</Label>
-		<Label xml:lang="fi-FI">GMT-aika (Coordinated Universal Time)</Label>
+		<Label xml:lang="fi-FI">(GMT) Coordinated Universal Time</Label>
 		<Label xml:lang="fr-FR">(GMT) Temps universel coordonné</Label>
 		<Label xml:lang="he-IL">(GMT) זמן אוניברסלי מתואם</Label>
-		<Label xml:lang="hr-HR">(GMT) Coordinated Universal Time</Label>
-		<Label xml:lang="hu-HU">Egyezményes világidő (GMT)</Label>
+		<Label xml:lang="hr-HR">(GMT) Univerzalno koordinirano vrijeme</Label>
+		<Label xml:lang="hu-HU">(GMT) Egyezményes világidő</Label>
 		<Label xml:lang="it-IT">(GMT) Coordinated Universal Time</Label>
 		<Label xml:lang="ja-JP">(GMT) 協定世界時</Label>
 		<Label xml:lang="ko-KR">(GMT) 협정 세계시</Label>
@@ -9776,19 +10137,19 @@
 		<Label xml:lang="lv-LV">(GMT) Universālais koordinētais laiks</Label>
 		<Label xml:lang="nb-NO">(GMT) Coordinated Universal Time</Label>
 		<Label xml:lang="nl-NL">(GMT) Coordinated Universal Time</Label>
-		<Label xml:lang="pl-PL">Uniwersalny czas koordynowany (GMT)</Label>
+		<Label xml:lang="pl-PL">(GMT) Uniwersalny czas koordynowany</Label>
 		<Label xml:lang="pt-BR">(GMT) Horário Coordenado Universal</Label>
 		<Label xml:lang="pt-PT">(GMT) Hora Universal Coordenada</Label>
 		<Label xml:lang="ro-RO">(GMT) Ora universală</Label>
-		<Label xml:lang="ru-RU">Время в формате GMT </Label>
+		<Label xml:lang="ru-RU">(GMT) Время в формате GMT</Label>
 		<Label xml:lang="sk-SK">(GMT) Koordinovaný svetový čas</Label>
 		<Label xml:lang="sl-SI">(GMT) Usklajen univerzalni čas</Label>
-		<Label xml:lang="sv-SE">GMT-tid (Coordinated Universal Time)</Label>
+		<Label xml:lang="sv-SE">(GMT) Coordinated Universal Time</Label>
 		<Label xml:lang="th-TH">(GMT) เวลามาตรฐานสากล</Label>
 		<Label xml:lang="tr-TR">(GMT) Eşgüdümlü Evrensel Saat</Label>
 		<Label xml:lang="uk-UA">(GMT) всесвітній координований час</Label>
-		<Label xml:lang="zh-CN">协调世界时(GMT)</Label>
-		<Label xml:lang="zh-TW">(GMT) Coordinated Universal Time</Label>
+		<Label xml:lang="zh-CN">(GMT) 协调世界时</Label>
+		<Label xml:lang="zh-TW">(GMT) 國際標准時間</Label>
 		<Label xml:lang="sr-SP-Latn">(GMT) Coordinated Universal Time</Label>
 		<Label xml:lang="en" Type="Standard">Coordinated Universal Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">توقيت عالمي متفق عليه</Label>
@@ -9803,7 +10164,7 @@
 		<Label xml:lang="fi-FI" Type="Standard">GMT-aika</Label>
 		<Label xml:lang="fr-FR" Type="Standard">Temps universel coordonné</Label>
 		<Label xml:lang="he-IL" Type="Standard">זמן אוניברסלי מתואם</Label>
-		<Label xml:lang="hr-HR" Type="Standard">Coordinated Universal Time</Label>
+		<Label xml:lang="hr-HR" Type="Standard">Univ. koordinirano vrijeme</Label>
 		<Label xml:lang="hu-HU" Type="Standard">Egyezményes világidő</Label>
 		<Label xml:lang="it-IT" Type="Standard">Coordinated Universal Time</Label>
 		<Label xml:lang="ja-JP" Type="Standard">協定世界時</Label>
@@ -9824,7 +10185,7 @@
 		<Label xml:lang="tr-TR" Type="Standard">Eşgüdümlü Evrensel Saat</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Всесвітній координований час</Label>
 		<Label xml:lang="zh-CN" Type="Standard">协调世界时</Label>
-		<Label xml:lang="zh-TW" Type="Standard">Coordinated Universal Time</Label>
+		<Label xml:lang="zh-TW" Type="Standard">國際標准時間</Label>
 		<Label xml:lang="sr-SP-Latn" Type="Standard">Coordinated Universal Time</Label>
 		<Label xml:lang="en" Type="Daylight">Coordinated Universal Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">توقيت عالمي متفق عليه</Label>
@@ -9839,7 +10200,7 @@
 		<Label xml:lang="fi-FI" Type="Daylight">GMT-aika</Label>
 		<Label xml:lang="fr-FR" Type="Daylight">Temps universel coordonné</Label>
 		<Label xml:lang="he-IL" Type="Daylight">זמן אוניברסלי מתואם</Label>
-		<Label xml:lang="hr-HR" Type="Daylight">Coordinated Universal Time</Label>
+		<Label xml:lang="hr-HR" Type="Daylight">Univ. koordinirano vrijeme</Label>
 		<Label xml:lang="hu-HU" Type="Daylight">Egyezményes világidő</Label>
 		<Label xml:lang="it-IT" Type="Daylight">Coordinated Universal Time</Label>
 		<Label xml:lang="ja-JP" Type="Daylight">協定世界時</Label>
@@ -9860,7 +10221,7 @@
 		<Label xml:lang="tr-TR" Type="Daylight">Eşgüdümlü Evrensel Saat</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Всесвітній координований час</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">协调世界时</Label>
-		<Label xml:lang="zh-TW" Type="Daylight">Coordinated Universal Time</Label>
+		<Label xml:lang="zh-TW" Type="Daylight">國際標准時間</Label>
 		<Label xml:lang="sr-SP-Latn" Type="Daylight">Coordinated Universal Time</Label>
 		<Info Bias="00:00:00" />
 	</TimeZone>
@@ -9881,7 +10242,7 @@
 		<Label xml:lang="he-IL">(GMT-04:30) קראקס</Label>
 		<Label xml:lang="hr-HR">(GMT-04:30) Caracas</Label>
 		<Label xml:lang="hu-HU">(GMT-04:30) Caracas</Label>
-		<Label xml:lang="it-IT">(GMT-4:30) Caracas</Label>
+		<Label xml:lang="it-IT">(GMT-4.30) Caracas</Label>
 		<Label xml:lang="ja-JP">(GMT-04:30) カラカス</Label>
 		<Label xml:lang="ko-KR">(GMT-04:30) 카라카스</Label>
 		<Label xml:lang="lt-LT">(GMT-04:30) Karakasas</Label>
@@ -10216,6 +10577,15 @@
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="March" Time="03:00:00">Last Sunday of March at 3:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="October" Time="02:00:00">Last Sunday of October at 2:00</Date>
 		</Info>
+		<Info Year="2008" Bias="-08:00:00">
+			<Date Type="Standard" Week="Last" Day="Sunday" Month="March" Time="03:00:00">Last Sunday of March at 3:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="October" Time="02:00:00">Last Sunday of October at 2:00</Date>
+		</Info>
+		<Info Year="2009" Bias="-08:00:00">
+			<Date Type="Standard" Week="Last" Day="Sunday" Month="March" Time="03:00:00">Last Sunday of March at 3:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Thursday" Month="January" Time="00:00:00">First Thursday of January at 0:00</Date>
+		</Info>
+		<Info Year="2010" Bias="-08:00:00" />
 	</TimeZone>
 	<TimeZone Name="WCentralAfricaStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\W. Central Africa Standard Time">W. Central Africa Standard Time</Link>
@@ -10461,7 +10831,7 @@
 		<Label xml:lang="he-IL">(GMT+05:00) טשקנט</Label>
 		<Label xml:lang="hr-HR">(GMT+05:00) Taškent</Label>
 		<Label xml:lang="hu-HU">(GMT+05:00) Taskent</Label>
-		<Label xml:lang="it-IT">(GMT+5:00) Tashkent</Label>
+		<Label xml:lang="it-IT">(GMT+5.00) Tashkent</Label>
 		<Label xml:lang="ja-JP">(GMT+05:00) タシケント</Label>
 		<Label xml:lang="ko-KR">(GMT+05:00) 타슈켄트</Label>
 		<Label xml:lang="lt-LT">(GMT+05:00) Taškentas</Label>
