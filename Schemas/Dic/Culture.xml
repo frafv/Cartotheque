@@ -1,0 +1,2607 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CultureList xmlns="urn:geo-schemas-xml-frafv:culture" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:geo-schemas-xml-frafv:culture urn:geo-schemas-xml-frafv:proxy ..\GeoProxy.xsd ..\Culture.xsd urn:schemas-xml-frafv:proxy ..\Proxy.xsd">
+<LanguageList>
+	<Language Name="af">
+		<Label xml:lang="en">Afrikaans</Label>
+		<Label xml:lang="ru">Африкаанс</Label>
+		<Label Type="Org" xml:lang="af">Afrikaans</Label>
+		<Code Source="ISO639-1">af</Code>
+		<Code Source="ISO639-2">afr</Code>
+		<Code Source="IETF">af</Code>
+		<Code Source="NLS" Encoding="Hex">0036</Code>
+		<Language Name="af-ZA">
+			<Label xml:lang="en">Afrikaans (South Africa)</Label>
+			<Label xml:lang="ru">Африкаанс (Южная Африка)</Label>
+			<Label Type="Org" xml:lang="af-ZA">Afrikaans (Suid Afrika)</Label>
+			<Code Source="ISO639-1">af</Code>
+			<Code Source="ISO639-2">afr</Code>
+			<Code Source="IETF">af-ZA</Code>
+			<Code Source="NLS" Encoding="Hex">0436</Code>
+		</Language>
+	</Language>
+	<Language Name="ar">
+		<Label xml:lang="en">Arabic</Label>
+		<Label xml:lang="ru">Арабский</Label>
+		<Label xml:lang="ru" Type="Abbr">араб.</Label>
+		<Label Type="Org" xml:lang="ar">العربية</Label>
+		<Code Source="ISO639-1">ar</Code>
+		<Code Source="ISO639-2">ara</Code>
+		<Code Source="IETF">ar</Code>
+		<Code Source="NLS" Encoding="Hex">0001</Code>
+		<Language Name="ar-AE">
+			<Label xml:lang="en">Arabic (U.A.E.)</Label>
+			<Label xml:lang="ru">Арабский (ОАЭ)</Label>
+			<Label Type="Org" xml:lang="ar-AE">العربية (الإمارات العربية المتحدة)</Label>
+			<Code Source="ISO639-1">ar</Code>
+			<Code Source="ISO639-2">ara</Code>
+			<Code Source="IETF">ar-AE</Code>
+			<Code Source="NLS" Encoding="Hex">3801</Code>
+		</Language>
+		<Language Name="ar-BH">
+			<Label xml:lang="en">Arabic (Bahrain)</Label>
+			<Label xml:lang="ru">Арабский (Бахрейн)</Label>
+			<Label Type="Org" xml:lang="ar-BH">العربية (البحرين)</Label>
+			<Code Source="ISO639-1">ar</Code>
+			<Code Source="ISO639-2">ara</Code>
+			<Code Source="IETF">ar-BH</Code>
+			<Code Source="NLS" Encoding="Hex">3C01</Code>
+		</Language>
+		<Language Name="ar-DZ">
+			<Label xml:lang="en">Arabic (Algeria)</Label>
+			<Label xml:lang="ru">Арабский (Алжир)</Label>
+			<Label Type="Org" xml:lang="ar-DZ">العربية (الجزائر)</Label>
+			<Code Source="ISO639-1">ar</Code>
+			<Code Source="ISO639-2">ara</Code>
+			<Code Source="IETF">ar-DZ</Code>
+			<Code Source="NLS" Encoding="Hex">1401</Code>
+		</Language>
+		<Language Name="ar-EG">
+			<Label xml:lang="en">Arabic (Egypt)</Label>
+			<Label xml:lang="ru">Арабский (Египет)</Label>
+			<Label Type="Org" xml:lang="ar-EG">العربية (مصر)</Label>
+			<Code Source="ISO639-1">ar</Code>
+			<Code Source="ISO639-2">ara</Code>
+			<Code Source="IETF">ar-EG</Code>
+			<Code Source="NLS" Encoding="Hex">0C01</Code>
+		</Language>
+		<Language Name="ar-IQ">
+			<Label xml:lang="en">Arabic (Iraq)</Label>
+			<Label xml:lang="ru">Арабский (Ирак)</Label>
+			<Label Type="Org" xml:lang="ar-IQ">العربية (العراق)</Label>
+			<Code Source="ISO639-1">ar</Code>
+			<Code Source="ISO639-2">ara</Code>
+			<Code Source="IETF">ar-IQ</Code>
+			<Code Source="NLS" Encoding="Hex">0801</Code>
+		</Language>
+		<Language Name="ar-JO">
+			<Label xml:lang="en">Arabic (Jordan)</Label>
+			<Label xml:lang="ru">Арабский (Иордания)</Label>
+			<Label Type="Org" xml:lang="ar-JO">العربية (الأردن)</Label>
+			<Code Source="ISO639-1">ar</Code>
+			<Code Source="ISO639-2">ara</Code>
+			<Code Source="IETF">ar-JO</Code>
+			<Code Source="NLS" Encoding="Hex">2C01</Code>
+		</Language>
+		<Language Name="ar-KW">
+			<Label xml:lang="en">Arabic (Kuwait)</Label>
+			<Label xml:lang="ru">Арабский (Кувейт)</Label>
+			<Label Type="Org" xml:lang="ar-KW">العربية (الكويت)</Label>
+			<Code Source="ISO639-1">ar</Code>
+			<Code Source="ISO639-2">ara</Code>
+			<Code Source="IETF">ar-KW</Code>
+			<Code Source="NLS" Encoding="Hex">3401</Code>
+		</Language>
+		<Language Name="ar-LB">
+			<Label xml:lang="en">Arabic (Lebanon)</Label>
+			<Label xml:lang="ru">Арабский (Ливан)</Label>
+			<Label Type="Org" xml:lang="ar-LB">العربية (لبنان)</Label>
+			<Code Source="ISO639-1">ar</Code>
+			<Code Source="ISO639-2">ara</Code>
+			<Code Source="IETF">ar-LB</Code>
+			<Code Source="NLS" Encoding="Hex">3001</Code>
+		</Language>
+		<Language Name="ar-LY">
+			<Label xml:lang="en">Arabic (Libya)</Label>
+			<Label xml:lang="ru">Арабский (Ливия)</Label>
+			<Label Type="Org" xml:lang="ar-LY">العربية (ليبيا)</Label>
+			<Code Source="ISO639-1">ar</Code>
+			<Code Source="ISO639-2">ara</Code>
+			<Code Source="IETF">ar-LY</Code>
+			<Code Source="NLS" Encoding="Hex">1001</Code>
+		</Language>
+		<Language Name="ar-MA">
+			<Label xml:lang="en">Arabic (Morocco)</Label>
+			<Label xml:lang="ru">Арабский (Марокко)</Label>
+			<Label Type="Org" xml:lang="ar-MA">العربية (المملكة المغربية)</Label>
+			<Code Source="ISO639-1">ar</Code>
+			<Code Source="ISO639-2">ara</Code>
+			<Code Source="IETF">ar-MA</Code>
+			<Code Source="NLS" Encoding="Hex">1801</Code>
+		</Language>
+		<Language Name="ar-OM">
+			<Label xml:lang="en">Arabic (Oman)</Label>
+			<Label xml:lang="ru">Арабский (Оман)</Label>
+			<Label Type="Org" xml:lang="ar-OM">العربية (عمان)</Label>
+			<Code Source="ISO639-1">ar</Code>
+			<Code Source="ISO639-2">ara</Code>
+			<Code Source="IETF">ar-OM</Code>
+			<Code Source="NLS" Encoding="Hex">2001</Code>
+		</Language>
+		<Language Name="ar-QA">
+			<Label xml:lang="en">Arabic (Qatar)</Label>
+			<Label xml:lang="ru">Арабская (Катар)</Label>
+			<Label Type="Org" xml:lang="ar-QA">العربية (قطر)</Label>
+			<Code Source="ISO639-1">ar</Code>
+			<Code Source="ISO639-2">ara</Code>
+			<Code Source="IETF">ar-QA</Code>
+			<Code Source="NLS" Encoding="Hex">4001</Code>
+		</Language>
+		<Language Name="ar-SA">
+			<Label xml:lang="en">Arabic (Saudi Arabia)</Label>
+			<Label xml:lang="ru">Арабский (Саудовская Аравия)</Label>
+			<Label Type="Org" xml:lang="ar-SA">العربية (المملكة العربية السعودية)</Label>
+			<Code Source="ISO639-1">ar</Code>
+			<Code Source="ISO639-2">ara</Code>
+			<Code Source="IETF">ar-SA</Code>
+			<Code Source="NLS" Encoding="Hex">0401</Code>
+		</Language>
+		<Language Name="ar-SY">
+			<Label xml:lang="en">Arabic (Syria)</Label>
+			<Label xml:lang="ru">Арабский (Сирия)</Label>
+			<Label Type="Org" xml:lang="ar-SY">العربية (سوريا)</Label>
+			<Code Source="ISO639-1">ar</Code>
+			<Code Source="ISO639-2">ara</Code>
+			<Code Source="IETF">ar-SY</Code>
+			<Code Source="NLS" Encoding="Hex">2801</Code>
+		</Language>
+		<Language Name="ar-TN">
+			<Label xml:lang="en">Arabic (Tunisia)</Label>
+			<Label xml:lang="ru">Арабский (Тунис)</Label>
+			<Label Type="Org" xml:lang="ar-TN">العربية (تونس)</Label>
+			<Code Source="ISO639-1">ar</Code>
+			<Code Source="ISO639-2">ara</Code>
+			<Code Source="IETF">ar-TN</Code>
+			<Code Source="NLS" Encoding="Hex">1C01</Code>
+		</Language>
+		<Language Name="ar-YE">
+			<Label xml:lang="en">Arabic (Yemen)</Label>
+			<Label xml:lang="ru">Арабский (Йемен)</Label>
+			<Label Type="Org" xml:lang="ar-YE">العربية (اليمن)</Label>
+			<Code Source="ISO639-1">ar</Code>
+			<Code Source="ISO639-2">ara</Code>
+			<Code Source="IETF">ar-YE</Code>
+			<Code Source="NLS" Encoding="Hex">2401</Code>
+		</Language>
+	</Language>
+	<Language Name="arn">
+		<Label xml:lang="en">Mapudungun</Label>
+		<Label xml:lang="ru">Арaуканский</Label>
+		<Label Type="Org" xml:lang="arn-CL">Mapudungun</Label>
+		<Language Name="arn-CL">
+			<Label xml:lang="en">Mapudungun (Chile)</Label>
+			<Label xml:lang="ru">Арaуканский (Чили)</Label>
+			<Label Type="Org" xml:lang="arn-CL">Mapudungun (Chile)</Label>
+			<Code Source="ISO639-1">arn</Code>
+			<Code Source="ISO639-2">arn</Code>
+			<Code Source="IETF">arn-CL</Code>
+			<Code Source="NLS" Encoding="Hex">047A</Code>
+		</Language>
+	</Language>
+	<Language Name="az">
+		<Label xml:lang="en">Azeri</Label>
+		<Label xml:lang="ru">Азербайджанский</Label>
+		<Label Type="Org" xml:lang="az">Azərbaycan­ılı</Label>
+		<Label Type="Org" xml:lang="az-Cyrl-AZ">Азәрбајҹан</Label>
+		<Label Type="Org" xml:lang="az-Latn-AZ">Azərbaycan­ılı</Label>
+		<Code Source="ISO639-1">az</Code>
+		<Code Source="ISO639-2">aze</Code>
+		<Code Source="IETF">az</Code>
+		<Code Source="NLS" Encoding="Hex">002C</Code>
+		<Language Name="az-Cyrl-AZ">
+			<Label xml:lang="en">Azeri (Cyrillic, Azerbaijan)</Label>
+			<Label xml:lang="ru">азербайджанский (кириллица, Азербайджан)</Label>
+			<Label Type="Org" xml:lang="az-Cyrl-AZ">Азәрбајҹан (Азәрбајҹан)</Label>
+			<Code Source="ISO639-1">az</Code>
+			<Code Source="ISO639-2">aze</Code>
+			<Code Source="IETF">az-Cyrl-AZ</Code>
+			<Code Source="NLS" Encoding="Hex">082C</Code>
+		</Language>
+		<Language Name="az-Latn-AZ">
+			<Label xml:lang="en">Azeri (Latin, Azerbaijan)</Label>
+			<Label xml:lang="ru">азербайджанский (латиница, Азербайджан)</Label>
+			<Label Type="Org" xml:lang="az-Latn-AZ">Azərbaycan­ılı (Azərbaycanca)</Label>
+			<Code Source="ISO639-1">az</Code>
+			<Code Source="ISO639-2">aze</Code>
+			<Code Source="IETF">az-Latn-AZ</Code>
+			<Code Source="NLS" Encoding="Hex">042C</Code>
+		</Language>
+	</Language>
+	<Language Name="be">
+		<Label xml:lang="en">Belarusian</Label>
+		<Label xml:lang="ru">Белорусский</Label>
+		<Label xml:lang="ru" Type="Abbr">бел.</Label>
+		<Label Type="Org" xml:lang="be">Беларускі</Label>
+		<Code Source="ISO639-1">be</Code>
+		<Code Source="ISO639-2">bel</Code>
+		<Code Source="IETF">be</Code>
+		<Code Source="NLS" Encoding="Hex">0023</Code>
+		<Language Name="be-BY">
+			<Label xml:lang="en">Belarusian (Belarus)</Label>
+			<Label xml:lang="ru">Белорусский (Белоруссия)</Label>
+			<Label Type="Org" xml:lang="be-BY">Беларускі (Беларусь)</Label>
+			<Code Source="ISO639-1">be</Code>
+			<Code Source="ISO639-2">bel</Code>
+			<Code Source="IETF">be-BY</Code>
+			<Code Source="NLS" Encoding="Hex">0423</Code>
+		</Language>
+	</Language>
+	<Language Name="bg">
+		<Label xml:lang="en">Bulgarian</Label>
+		<Label xml:lang="ru">Болгарский</Label>
+		<Label xml:lang="ru" Type="Abbr">болг.</Label>
+		<Label Type="Org" xml:lang="bg">български</Label>
+		<Code Source="ISO639-1">bg</Code>
+		<Code Source="ISO639-2">bul</Code>
+		<Code Source="IETF">bg</Code>
+		<Code Source="NLS" Encoding="Hex">0002</Code>
+		<Language Name="bg-BG">
+			<Label xml:lang="en">Bulgarian (Bulgaria)</Label>
+			<Label xml:lang="ru">Болгарский (Болгария)</Label>
+			<Label Type="Org" xml:lang="bg-BG">български (България)</Label>
+			<Code Source="ISO639-1">bg</Code>
+			<Code Source="ISO639-2">bul</Code>
+			<Code Source="IETF">bg-BG</Code>
+			<Code Source="NLS" Encoding="Hex">0402</Code>
+		</Language>
+	</Language>
+	<Language Name="bs">
+		<Label xml:lang="en">Bosnian</Label>
+		<Label xml:lang="ru">Боснийский</Label>
+		<Label Type="Org" xml:lang="bs-Cyrl-BA">босански</Label>
+		<Label Type="Org" xml:lang="bs-Latn-BA">bosanski</Label>
+		<Language Name="bs-Cyrl-BA">
+			<Label xml:lang="en">Bosnian (Cyrillic) (Bosnia and Herzegovina)</Label>
+			<Label xml:lang="ru">Боснийский (кириллица, Босния и Герцеговина)</Label>
+			<Label Type="Org" xml:lang="bs-Cyrl-BA">босански (Босна и Херцеговина)</Label>
+			<Code Source="ISO639-1">bs</Code>
+			<Code Source="ISO639-2">bs</Code>
+			<Code Source="IETF">bs-Cyrl-BA</Code>
+			<Code Source="NLS" Encoding="Hex">201A</Code>
+		</Language>
+		<Language Name="bs-Latn-BA">
+			<Label xml:lang="en">Bosnian (Bosnia and Herzegovina)</Label>
+			<Label xml:lang="ru">Боснийский (латиница, Босния и Герцеговина)</Label>
+			<Label Type="Org" xml:lang="bs-Latn-BA">bosanski (Bosna i Hercegovina)</Label>
+			<Code Source="ISO639-1">bs</Code>
+			<Code Source="ISO639-2">bs</Code>
+			<Code Source="IETF">bs-Latn-BA</Code>
+			<Code Source="NLS" Encoding="Hex">141A</Code>
+		</Language>
+	</Language>
+	<Language Name="ca">
+		<Label xml:lang="en">Catalan</Label>
+		<Label xml:lang="ru">Каталонский</Label>
+		<Label xml:lang="ru" Type="Abbr">катал.</Label>
+		<Label Type="Org" xml:lang="ca">català</Label>
+		<Code Source="ISO639-1">ca</Code>
+		<Code Source="ISO639-2">cat</Code>
+		<Code Source="IETF">ca</Code>
+		<Code Source="NLS" Encoding="Hex">0003</Code>
+		<Language Name="ca-ES">
+			<Label xml:lang="en">Catalan (Catalan)</Label>
+			<Label xml:lang="ru">Каталонский (Каталония)</Label>
+			<Label Type="Org" xml:lang="ca-ES">català (català)</Label>
+			<Code Source="ISO639-1">ca</Code>
+			<Code Source="ISO639-2">cat</Code>
+			<Code Source="IETF">ca-ES</Code>
+			<Code Source="NLS" Encoding="Hex">0403</Code>
+		</Language>
+	</Language>
+	<Language Name="cs">
+		<Label xml:lang="en">Czech</Label>
+		<Label xml:lang="ru">Чешский</Label>
+		<Label xml:lang="ru" Type="Abbr">чеш.</Label>
+		<Label Type="Org" xml:lang="cs">čeština</Label>
+		<Code Source="ISO639-1">cs</Code>
+		<Code Source="ISO639-2">ces</Code>
+		<Code Source="IETF">cs</Code>
+		<Code Source="NLS" Encoding="Hex">0005</Code>
+		<Language Name="cs-CS" EndPeriod="1993-06">
+			<Label xml:lang="en">Czech (Czechoslovakia)</Label>
+			<Label xml:lang="ru">Чешский (Чехословакия)</Label>
+			<Label Type="Org" xml:lang="cs-CZ">čeština (Československo)</Label>
+			<Code Source="ISO639-1">cs</Code>
+			<Code Source="ISO639-2">ces</Code>
+			<Code Source="IETF">cs-CS</Code>
+		</Language>
+		<Language Name="cs-CZ">
+			<Label xml:lang="en">Czech (Czech Republic)</Label>
+			<Label xml:lang="ru">Чешский (Чешская республика)</Label>
+			<Label Type="Org" xml:lang="cs-CZ">čeština (Česká republika)</Label>
+			<Code Source="ISO639-1">cs</Code>
+			<Code Source="ISO639-2">ces</Code>
+			<Code Source="IETF">cs-CZ</Code>
+			<Code Source="NLS" Encoding="Hex">0405</Code>
+		</Language>
+	</Language>
+	<Language Name="cy">
+		<Label xml:lang="en">Welsh</Label>
+		<Label xml:lang="ru">Валлийский</Label>
+		<Label Type="Org" xml:lang="cy-GB">Cymraeg</Label>
+		<Language Name="cy-GB">
+			<Label xml:lang="en">Welsh (United Kingdom)</Label>
+			<Label xml:lang="ru">Валлийский</Label>
+			<Label Type="Org" xml:lang="cy-GB">Cymraeg (y Deyrnas Unedig)</Label>
+			<Code Source="ISO639-1">cy</Code>
+			<Code Source="ISO639-2">cy</Code>
+			<Code Source="IETF">cy-GB</Code>
+			<Code Source="NLS" Encoding="Hex">0452</Code>
+		</Language>
+	</Language>
+	<Language Name="da">
+		<Label xml:lang="en">Danish</Label>
+		<Label xml:lang="ru">Датский</Label>
+		<Label xml:lang="ru" Type="Abbr">дат.</Label>
+		<Label Type="Org" xml:lang="da">dansk</Label>
+		<Code Source="ISO639-1">da</Code>
+		<Code Source="ISO639-2">dan</Code>
+		<Code Source="IETF">da</Code>
+		<Code Source="NLS" Encoding="Hex">0006</Code>
+		<Language Name="da-DK">
+			<Label xml:lang="en">Danish (Denmark)</Label>
+			<Label xml:lang="ru">Датский (Дания)</Label>
+			<Label Type="Org" xml:lang="da-DK">dansk (Danmark)</Label>
+			<Code Source="ISO639-1">da</Code>
+			<Code Source="ISO639-2">dan</Code>
+			<Code Source="IETF">da-DK</Code>
+			<Code Source="NLS" Encoding="Hex">0406</Code>
+		</Language>
+	</Language>
+	<Language Name="de">
+		<Label xml:lang="en">German</Label>
+		<Label xml:lang="ru">Немецкий</Label>
+		<Label xml:lang="ru" Type="Abbr">нем.</Label>
+		<Label Type="Org" xml:lang="de">Deutsch</Label>
+		<Code Source="ISO639-1">de</Code>
+		<Code Source="ISO639-2">deu</Code>
+		<Code Source="IETF">de</Code>
+		<Code Source="NLS" Encoding="Hex">0007</Code>
+		<Language Name="de-AT">
+			<Label xml:lang="en">German (Austria)</Label>
+			<Label xml:lang="ru">Немецкий (Австрия)</Label>
+			<Label Type="Org" xml:lang="de-AT">Deutsch (Österreich)</Label>
+			<Code Source="ISO639-1">de</Code>
+			<Code Source="ISO639-2">deu</Code>
+			<Code Source="IETF">de-AT</Code>
+			<Code Source="NLS" Encoding="Hex">0C07</Code>
+		</Language>
+		<Language Name="de-CH">
+			<Label xml:lang="en">German (Switzerland)</Label>
+			<Label xml:lang="ru">Немецкий (Швейцария)</Label>
+			<Label Type="Org" xml:lang="de-CH">Deutsch (Schweiz)</Label>
+			<Code Source="ISO639-1">de</Code>
+			<Code Source="ISO639-2">deu</Code>
+			<Code Source="IETF">de-CH</Code>
+			<Code Source="NLS" Encoding="Hex">0807</Code>
+		</Language>
+		<Language Name="de-DD" EndPeriod="1990-10">
+			<Label xml:lang="en">German (GDR)</Label>
+			<Label xml:lang="ru">Немецкий (ГДР)</Label>
+			<Label Type="Org" xml:lang="de-DE">Deutsch (DDR)</Label>
+			<Code Source="ISO639-1">de</Code>
+			<Code Source="ISO639-2">deu</Code>
+			<Code Source="IETF">de-DD</Code>
+		</Language>
+		<Language Name="de-FRG" EndPeriod="1990-10">
+			<Label xml:lang="en">German (FRG)</Label>
+			<Label xml:lang="ru">Немецкий (ФРГ)</Label>
+			<Label Type="Org" xml:lang="de-DE">Deutsch (BRD)</Label>
+			<Code Source="ISO639-1">de</Code>
+			<Code Source="ISO639-2">deu</Code>
+			<Code Source="IETF">de-DE</Code>
+		</Language>
+		<Language Name="de-DE" StartPeriod="1990-10">
+			<Label xml:lang="en">German (Germany)</Label>
+			<Label xml:lang="ru">Немецкий (Германия)</Label>
+			<Label Type="Org" xml:lang="de-DE">Deutsch (Deutschland)</Label>
+			<Code Source="ISO639-1">de</Code>
+			<Code Source="ISO639-2">deu</Code>
+			<Code Source="IETF">de-DE</Code>
+			<Code Source="NLS" Encoding="Hex">0407</Code>
+		</Language>
+		<Language Name="de-LI">
+			<Label xml:lang="en">German (Liechtenstein)</Label>
+			<Label xml:lang="ru">Немецкий (Лихтенштейн)</Label>
+			<Label Type="Org" xml:lang="de-LI">Deutsch (Liechtenstein)</Label>
+			<Code Source="ISO639-1">de</Code>
+			<Code Source="ISO639-2">deu</Code>
+			<Code Source="IETF">de-LI</Code>
+			<Code Source="NLS" Encoding="Hex">1407</Code>
+		</Language>
+		<Language Name="de-LU">
+			<Label xml:lang="en">German (Luxembourg)</Label>
+			<Label xml:lang="ru">Немецкий (Люксембург)</Label>
+			<Label Type="Org" xml:lang="de-LU">Deutsch (Luxemburg)</Label>
+			<Code Source="ISO639-1">de</Code>
+			<Code Source="ISO639-2">deu</Code>
+			<Code Source="IETF">de-LU</Code>
+			<Code Source="NLS" Encoding="Hex">1007</Code>
+		</Language>
+	</Language>
+	<Language Name="dv">
+		<Label xml:lang="en">Divehi</Label>
+		<Label xml:lang="ru">дивихай</Label>
+		<Label Type="Org" xml:lang="dv">ދިވެހިބަސް</Label>
+		<Code Source="ISO639-1">dv</Code>
+		<Code Source="ISO639-2">div</Code>
+		<Code Source="IETF">dv</Code>
+		<Code Source="NLS" Encoding="Hex">0065</Code>
+		<Language Name="dv-MV">
+			<Label xml:lang="en">Divehi (Maldives)</Label>
+			<Label xml:lang="ru">дивихай (Мальдивы)</Label>
+			<Label Type="Org" xml:lang="dv-MV">ދިވެހިބަސް (ދިވެހި ރާއްޖެ)</Label>
+			<Code Source="ISO639-1">dv</Code>
+			<Code Source="ISO639-2">div</Code>
+			<Code Source="IETF">dv-MV</Code>
+			<Code Source="NLS" Encoding="Hex">0465</Code>
+		</Language>
+	</Language>
+	<Language Name="el">
+		<Label xml:lang="en">Greek</Label>
+		<Label xml:lang="ru">Греческий</Label>
+		<Label xml:lang="ru" Type="Abbr">греч.</Label>
+		<Label Type="Org" xml:lang="el">ελληνικά</Label>
+		<Code Source="ISO639-1">el</Code>
+		<Code Source="ISO639-2">ell</Code>
+		<Code Source="IETF">el</Code>
+		<Code Source="NLS" Encoding="Hex">0008</Code>
+		<Language Name="el-GR">
+			<Label xml:lang="en">Greek (Greece)</Label>
+			<Label xml:lang="ru">Греческий (Греция)</Label>
+			<Label Type="Org" xml:lang="el-GR">ελληνικά (Ελλάδα)</Label>
+			<Code Source="ISO639-1">el</Code>
+			<Code Source="ISO639-2">ell</Code>
+			<Code Source="IETF">el-GR</Code>
+			<Code Source="NLS" Encoding="Hex">0408</Code>
+		</Language>
+	</Language>
+	<Language Name="en">
+		<Label Type="Org" xml:lang="en">English</Label>
+		<Label xml:lang="ru">Английский</Label>
+		<Label xml:lang="ru" Type="Abbr">англ.</Label>
+		<Code Source="ISO639-1">en</Code>
+		<Code Source="ISO639-2">eng</Code>
+		<Code Source="IETF">en</Code>
+		<Code Source="NLS" Encoding="Hex">0009</Code>
+		<Language Name="en-029">
+			<Label xml:lang="en">English (Caribbean)</Label>
+			<Label xml:lang="ru">английский (Карибский бассейн)</Label>
+			<Label Type="Org" xml:lang="en-029">English (Caribbean)</Label>
+			<Code Source="ISO639-1">en</Code>
+			<Code Source="ISO639-2">eng</Code>
+			<Code Source="IETF">en-029</Code>
+			<Code Source="NLS" Encoding="Hex">2409</Code>
+		</Language>
+		<Language Name="en-AU">
+			<Label xml:lang="en">English (Australia)</Label>
+			<Label xml:lang="ru">Английский (Австралия)</Label>
+			<Label Type="Org" xml:lang="en-AU">English (Australia)</Label>
+			<Code Source="ISO639-1">en</Code>
+			<Code Source="ISO639-2">eng</Code>
+			<Code Source="IETF">en-AU</Code>
+			<Code Source="NLS" Encoding="Hex">0C09</Code>
+		</Language>
+		<Language Name="en-BZ">
+			<Label xml:lang="en">English (Belize)</Label>
+			<Label xml:lang="ru">Английский (Белиз)</Label>
+			<Label Type="Org" xml:lang="en-BZ">English (Belize)</Label>
+			<Code Source="ISO639-1">en</Code>
+			<Code Source="ISO639-2">eng</Code>
+			<Code Source="IETF">en-BZ</Code>
+			<Code Source="NLS" Encoding="Hex">2809</Code>
+		</Language>
+		<Language Name="en-CA">
+			<Label xml:lang="en">English (Canada)</Label>
+			<Label xml:lang="ru">Английский (Канада)</Label>
+			<Label Type="Org" xml:lang="en-CA">English (Canada)</Label>
+			<Code Source="ISO639-1">en</Code>
+			<Code Source="ISO639-2">eng</Code>
+			<Code Source="IETF">en-CA</Code>
+			<Code Source="NLS" Encoding="Hex">1009</Code>
+		</Language>
+		<Language Name="en-GB">
+			<Label xml:lang="en">English (United Kingdom)</Label>
+			<Label xml:lang="ru">Английский (Великобритания)</Label>
+			<Label Type="Org" xml:lang="en-GB">English (United Kingdom)</Label>
+			<Code Source="ISO639-1">en</Code>
+			<Code Source="ISO639-2">eng</Code>
+			<Code Source="IETF">en-GB</Code>
+			<Code Source="NLS" Encoding="Hex">0809</Code>
+		</Language>
+		<Language Name="en-IE">
+			<Label xml:lang="en">English (Ireland)</Label>
+			<Label xml:lang="ru">Английский (Ирландия)</Label>
+			<Label Type="Org" xml:lang="en-IE">English (Eire)</Label>
+			<Code Source="ISO639-1">en</Code>
+			<Code Source="ISO639-2">eng</Code>
+			<Code Source="IETF">en-IE</Code>
+			<Code Source="NLS" Encoding="Hex">1809</Code>
+		</Language>
+		<Language Name="en-JM">
+			<Label xml:lang="en">English (Jamaica)</Label>
+			<Label xml:lang="ru">Английский (Ямайка)</Label>
+			<Label Type="Org" xml:lang="en-JM">English (Jamaica)</Label>
+			<Code Source="ISO639-1">en</Code>
+			<Code Source="ISO639-2">eng</Code>
+			<Code Source="IETF">en-JM</Code>
+			<Code Source="NLS" Encoding="Hex">2009</Code>
+		</Language>
+		<Language Name="en-NZ">
+			<Label xml:lang="en">English (New Zealand)</Label>
+			<Label xml:lang="ru">Английский (Новая Зеландия)</Label>
+			<Label Type="Org" xml:lang="en-NZ">English (New Zealand)</Label>
+			<Code Source="ISO639-1">en</Code>
+			<Code Source="ISO639-2">eng</Code>
+			<Code Source="IETF">en-NZ</Code>
+			<Code Source="NLS" Encoding="Hex">1409</Code>
+		</Language>
+		<Language Name="en-PH">
+			<Label xml:lang="en">English (Republic of the Philippines)</Label>
+			<Label xml:lang="ru">Английский (Республика Филиппины)</Label>
+			<Label Type="Org" xml:lang="en-PH">English (Philippines)</Label>
+			<Code Source="ISO639-1">en</Code>
+			<Code Source="ISO639-2">eng</Code>
+			<Code Source="IETF">en-PH</Code>
+			<Code Source="NLS" Encoding="Hex">3409</Code>
+		</Language>
+		<Language Name="en-TT">
+			<Label xml:lang="en">English (Trinidad and Tobago)</Label>
+			<Label xml:lang="ru">Английский (Тринидад и Тобаго)</Label>
+			<Label Type="Org" xml:lang="en-TT">English (Trinidad y Tobago)</Label>
+			<Code Source="ISO639-1">en</Code>
+			<Code Source="ISO639-2">eng</Code>
+			<Code Source="IETF">en-TT</Code>
+			<Code Source="NLS" Encoding="Hex">2C09</Code>
+		</Language>
+		<Language Name="en-US">
+			<Label xml:lang="en">English (United States)</Label>
+			<Label xml:lang="ru">Английский (США)</Label>
+			<Label Type="Org" xml:lang="en-US">English (United States)</Label>
+			<Code Source="ISO639-1">en</Code>
+			<Code Source="ISO639-2">eng</Code>
+			<Code Source="IETF">en-US</Code>
+			<Code Source="NLS" Encoding="Hex">0409</Code>
+		</Language>
+		<Language Name="en-ZA">
+			<Label xml:lang="en">English (South Africa)</Label>
+			<Label xml:lang="ru">Английский (Южная Африка)</Label>
+			<Label Type="Org" xml:lang="en-ZA">English (South Africa)</Label>
+			<Code Source="ISO639-1">en</Code>
+			<Code Source="ISO639-2">eng</Code>
+			<Code Source="IETF">en-ZA</Code>
+			<Code Source="NLS" Encoding="Hex">1C09</Code>
+		</Language>
+		<Language Name="en-ZW">
+			<Label xml:lang="en">English (Zimbabwe)</Label>
+			<Label xml:lang="ru">Английский (Зимбабве)</Label>
+			<Label Type="Org" xml:lang="en-ZW">English (Zimbabwe)</Label>
+			<Code Source="ISO639-1">en</Code>
+			<Code Source="ISO639-2">eng</Code>
+			<Code Source="IETF">en-ZW</Code>
+			<Code Source="NLS" Encoding="Hex">3009</Code>
+		</Language>
+	</Language>
+	<Language Name="es">
+		<Label xml:lang="en">Spanish</Label>
+		<Label xml:lang="ru">Испанский</Label>
+		<Label xml:lang="ru" Type="Abbr">исп.</Label>
+		<Label Type="Org" xml:lang="es">español</Label>
+		<Code Source="ISO639-1">es</Code>
+		<Code Source="ISO639-2">spa</Code>
+		<Code Source="IETF">es</Code>
+		<Code Source="NLS" Encoding="Hex">000A</Code>
+		<Language Name="es-AR">
+			<Label xml:lang="en">Spanish (Argentina)</Label>
+			<Label xml:lang="ru">Испанский (Аргентина)</Label>
+			<Label Type="Org" xml:lang="es-AR">Español (Argentina)</Label>
+			<Code Source="ISO639-1">es</Code>
+			<Code Source="ISO639-2">spa</Code>
+			<Code Source="IETF">es-AR</Code>
+			<Code Source="NLS" Encoding="Hex">2C0A</Code>
+		</Language>
+		<Language Name="es-BO">
+			<Label xml:lang="en">Spanish (Bolivia)</Label>
+			<Label xml:lang="ru">Испанский (Боливия)</Label>
+			<Label Type="Org" xml:lang="es-BO">Español (Bolivia)</Label>
+			<Code Source="ISO639-1">es</Code>
+			<Code Source="ISO639-2">spa</Code>
+			<Code Source="IETF">es-BO</Code>
+			<Code Source="NLS" Encoding="Hex">400A</Code>
+		</Language>
+		<Language Name="es-CL">
+			<Label xml:lang="en">Spanish (Chile)</Label>
+			<Label xml:lang="ru">Испанский (Чили)</Label>
+			<Label Type="Org" xml:lang="es-CL">Español (Chile)</Label>
+			<Code Source="ISO639-1">es</Code>
+			<Code Source="ISO639-2">spa</Code>
+			<Code Source="IETF">es-CL</Code>
+			<Code Source="NLS" Encoding="Hex">340A</Code>
+		</Language>
+		<Language Name="es-CO">
+			<Label xml:lang="en">Spanish (Colombia)</Label>
+			<Label xml:lang="ru">Испанский (Колумбия)</Label>
+			<Label Type="Org" xml:lang="es-CO">Español (Colombia)</Label>
+			<Code Source="ISO639-1">es</Code>
+			<Code Source="ISO639-2">spa</Code>
+			<Code Source="IETF">es-CO</Code>
+			<Code Source="NLS" Encoding="Hex">240A</Code>
+		</Language>
+		<Language Name="es-CR">
+			<Label xml:lang="en">Spanish (Costa Rica)</Label>
+			<Label xml:lang="ru">Испанский (Коста-Рика)</Label>
+			<Label Type="Org" xml:lang="es-CR">Español (Costa Rica)</Label>
+			<Code Source="ISO639-1">es</Code>
+			<Code Source="ISO639-2">spa</Code>
+			<Code Source="IETF">es-CR</Code>
+			<Code Source="NLS" Encoding="Hex">140A</Code>
+		</Language>
+		<Language Name="es-DO">
+			<Label xml:lang="en">Spanish (Dominican Republic)</Label>
+			<Label xml:lang="ru">Испанский (Доминиканская республика)</Label>
+			<Label Type="Org" xml:lang="es-DO">Español (República Dominicana)</Label>
+			<Code Source="ISO639-1">es</Code>
+			<Code Source="ISO639-2">spa</Code>
+			<Code Source="IETF">es-DO</Code>
+			<Code Source="NLS" Encoding="Hex">1C0A</Code>
+		</Language>
+		<Language Name="es-EC">
+			<Label xml:lang="en">Spanish (Ecuador)</Label>
+			<Label xml:lang="ru">Испанский (Эквадор)</Label>
+			<Label Type="Org" xml:lang="es-EC">Español (Ecuador)</Label>
+			<Code Source="ISO639-1">es</Code>
+			<Code Source="ISO639-2">spa</Code>
+			<Code Source="IETF">es-EC</Code>
+			<Code Source="NLS" Encoding="Hex">300A</Code>
+		</Language>
+		<Language Name="es-ES">
+			<Label xml:lang="en">Spanish (Spain)</Label>
+			<Label xml:lang="ru">Испанский (Испания)</Label>
+			<Label Type="Org" xml:lang="es-ES">español (España)</Label>
+			<Code Source="ISO639-1">es</Code>
+			<Code Source="ISO639-2">spa</Code>
+			<Code Source="IETF">es-ES</Code>
+			<Code Source="NLS" Encoding="Hex">0C0A</Code>
+		</Language>
+		<Language Name="es-GT">
+			<Label xml:lang="en">Spanish (Guatemala)</Label>
+			<Label xml:lang="ru">Испанский (Гватемала)</Label>
+			<Label Type="Org" xml:lang="es-GT">Español (Guatemala)</Label>
+			<Code Source="ISO639-1">es</Code>
+			<Code Source="ISO639-2">spa</Code>
+			<Code Source="IETF">es-GT</Code>
+			<Code Source="NLS" Encoding="Hex">100A</Code>
+		</Language>
+		<Language Name="es-HN">
+			<Label xml:lang="en">Spanish (Honduras)</Label>
+			<Label xml:lang="ru">Испанский (Гондурас)</Label>
+			<Label Type="Org" xml:lang="es-HN">Español (Honduras)</Label>
+			<Code Source="ISO639-1">es</Code>
+			<Code Source="ISO639-2">spa</Code>
+			<Code Source="IETF">es-HN</Code>
+			<Code Source="NLS" Encoding="Hex">480A</Code>
+		</Language>
+		<Language Name="es-MX">
+			<Label xml:lang="en">Spanish (Mexico)</Label>
+			<Label xml:lang="ru">Испанский (Мексика)</Label>
+			<Label Type="Org" xml:lang="es-MX">Español (México)</Label>
+			<Code Source="ISO639-1">es</Code>
+			<Code Source="ISO639-2">spa</Code>
+			<Code Source="IETF">es-MX</Code>
+			<Code Source="NLS" Encoding="Hex">080A</Code>
+		</Language>
+		<Language Name="es-NI">
+			<Label xml:lang="en">Spanish (Nicaragua)</Label>
+			<Label xml:lang="ru">Испанский (Никарагуа)</Label>
+			<Label Type="Org" xml:lang="es-NI">Español (Nicaragua)</Label>
+			<Code Source="ISO639-1">es</Code>
+			<Code Source="ISO639-2">spa</Code>
+			<Code Source="IETF">es-NI</Code>
+			<Code Source="NLS" Encoding="Hex">4C0A</Code>
+		</Language>
+		<Language Name="es-PA">
+			<Label xml:lang="en">Spanish (Panama)</Label>
+			<Label xml:lang="ru">Испанский (Панама)</Label>
+			<Label Type="Org" xml:lang="es-PA">Español (Panamá)</Label>
+			<Code Source="ISO639-1">es</Code>
+			<Code Source="ISO639-2">spa</Code>
+			<Code Source="IETF">es-PA</Code>
+			<Code Source="NLS" Encoding="Hex">180A</Code>
+		</Language>
+		<Language Name="es-PE">
+			<Label xml:lang="en">Spanish (Peru)</Label>
+			<Label xml:lang="ru">Испанский (Перу)</Label>
+			<Label Type="Org" xml:lang="es-PE">Español (Perú)</Label>
+			<Code Source="ISO639-1">es</Code>
+			<Code Source="ISO639-2">spa</Code>
+			<Code Source="IETF">es-PE</Code>
+			<Code Source="NLS" Encoding="Hex">280A</Code>
+		</Language>
+		<Language Name="es-PR">
+			<Label xml:lang="en">Spanish (Puerto Rico)</Label>
+			<Label xml:lang="ru">Испанский (Пуэрто-Рико)</Label>
+			<Label Type="Org" xml:lang="es-PR">Español (Puerto Rico)</Label>
+			<Code Source="ISO639-1">es</Code>
+			<Code Source="ISO639-2">spa</Code>
+			<Code Source="IETF">es-PR</Code>
+			<Code Source="NLS" Encoding="Hex">500A</Code>
+		</Language>
+		<Language Name="es-PY">
+			<Label xml:lang="en">Spanish (Paraguay)</Label>
+			<Label xml:lang="ru">Испанский (Парагвай)</Label>
+			<Label Type="Org" xml:lang="es-PY">Español (Paraguay)</Label>
+			<Code Source="ISO639-1">es</Code>
+			<Code Source="ISO639-2">spa</Code>
+			<Code Source="IETF">es-PY</Code>
+			<Code Source="NLS" Encoding="Hex">3C0A</Code>
+		</Language>
+		<Language Name="es-SV">
+			<Label xml:lang="en">Spanish (El Salvador)</Label>
+			<Label xml:lang="ru">Испанский (Сальвадор)</Label>
+			<Label Type="Org" xml:lang="es-SV">Español (El Salvador)</Label>
+			<Code Source="ISO639-1">es</Code>
+			<Code Source="ISO639-2">spa</Code>
+			<Code Source="IETF">es-SV</Code>
+			<Code Source="NLS" Encoding="Hex">440A</Code>
+		</Language>
+		<Language Name="es-UY">
+			<Label xml:lang="en">Spanish (Uruguay)</Label>
+			<Label xml:lang="ru">Испанский (Уругвай)</Label>
+			<Label Type="Org" xml:lang="es-UY">Español (Uruguay)</Label>
+			<Code Source="ISO639-1">es</Code>
+			<Code Source="ISO639-2">spa</Code>
+			<Code Source="IETF">es-UY</Code>
+			<Code Source="NLS" Encoding="Hex">380A</Code>
+		</Language>
+		<Language Name="es-VE">
+			<Label xml:lang="en">Spanish (Venezuela)</Label>
+			<Label xml:lang="ru">Испанский (Венесуэла)</Label>
+			<Label Type="Org" xml:lang="es-VE">Español (Republica Bolivariana de Venezuela)</Label>
+			<Code Source="ISO639-1">es</Code>
+			<Code Source="ISO639-2">spa</Code>
+			<Code Source="IETF">es-VE</Code>
+			<Code Source="NLS" Encoding="Hex">200A</Code>
+		</Language>
+	</Language>
+	<Language Name="et">
+		<Label xml:lang="en">Estonian</Label>
+		<Label xml:lang="ru">Эстонский</Label>
+		<Label xml:lang="ru" Type="Abbr">эстон.</Label>
+		<Label Type="Org" xml:lang="et">eesti</Label>
+		<Code Source="ISO639-1">et</Code>
+		<Code Source="ISO639-2">est</Code>
+		<Code Source="IETF">et</Code>
+		<Code Source="NLS" Encoding="Hex">0025</Code>
+		<Language Name="et-EE">
+			<Label xml:lang="en">Estonian (Estonia)</Label>
+			<Label xml:lang="ru">Эстонский (Эстония)</Label>
+			<Label Type="Org" xml:lang="et-EE">eesti (Eesti)</Label>
+			<Code Source="ISO639-1">et</Code>
+			<Code Source="ISO639-2">est</Code>
+			<Code Source="IETF">et-EE</Code>
+			<Code Source="NLS" Encoding="Hex">0425</Code>
+		</Language>
+	</Language>
+	<Language Name="eu">
+		<Label xml:lang="en">Basque</Label>
+		<Label xml:lang="ru">Баскский</Label>
+		<Label xml:lang="ru" Type="Abbr">баск.</Label>
+		<Label Type="Org" xml:lang="eu">euskara</Label>
+		<Code Source="ISO639-1">eu</Code>
+		<Code Source="ISO639-2">eus</Code>
+		<Code Source="IETF">eu</Code>
+		<Code Source="NLS" Encoding="Hex">002D</Code>
+		<Language Name="eu-ES">
+			<Label xml:lang="en">Basque (Basque)</Label>
+			<Label xml:lang="ru">Баскский (Страна Басков)</Label>
+			<Label Type="Org" xml:lang="eu-ES">euskara (euskara)</Label>
+			<Code Source="ISO639-1">eu</Code>
+			<Code Source="ISO639-2">eus</Code>
+			<Code Source="IETF">eu-ES</Code>
+			<Code Source="NLS" Encoding="Hex">042D</Code>
+		</Language>
+	</Language>
+	<Language Name="fa">
+		<Label xml:lang="en">Persian</Label>
+		<Label xml:lang="ru">Фарси</Label>
+		<Label xml:lang="ru" Type="Abbr">перс.</Label>
+		<Label Type="Org" xml:lang="fa">فارسى</Label>
+		<Code Source="ISO639-1">fa</Code>
+		<Code Source="ISO639-2">fas</Code>
+		<Code Source="IETF">fa</Code>
+		<Code Source="NLS" Encoding="Hex">0029</Code>
+		<Language Name="fa-IR">
+			<Label xml:lang="en">Persian (Iran)</Label>
+			<Label xml:lang="ru">Фарси (Иран)</Label>
+			<Label Type="Org" xml:lang="fa-IR">فارسى (ايران)</Label>
+			<Code Source="ISO639-1">fa</Code>
+			<Code Source="ISO639-2">fas</Code>
+			<Code Source="IETF">fa-IR</Code>
+			<Code Source="NLS" Encoding="Hex">0429</Code>
+		</Language>
+	</Language>
+	<Language Name="fi">
+		<Label xml:lang="en">Finnish</Label>
+		<Label xml:lang="ru">Финский</Label>
+		<Label xml:lang="ru" Type="Abbr">фин.</Label>
+		<Label Type="Org" xml:lang="fi">suomi</Label>
+		<Code Source="ISO639-1">fi</Code>
+		<Code Source="ISO639-2">fin</Code>
+		<Code Source="IETF">fi</Code>
+		<Code Source="NLS" Encoding="Hex">000B</Code>
+		<Language Name="fi-FI">
+			<Label xml:lang="en">Finnish (Finland)</Label>
+			<Label xml:lang="ru">Финский (Финляндия)</Label>
+			<Label Type="Org" xml:lang="fi-FI">suomi (Suomi)</Label>
+			<Code Source="ISO639-1">fi</Code>
+			<Code Source="ISO639-2">fin</Code>
+			<Code Source="IETF">fi-FI</Code>
+			<Code Source="NLS" Encoding="Hex">040B</Code>
+		</Language>
+	</Language>
+	<Language Name="fil">
+		<Label xml:lang="en">Filipino</Label>
+		<Label xml:lang="ru">Филиппинский</Label>
+		<Label Type="Org" xml:lang="fil-PH">Filipino</Label>
+		<Language Name="fil-PH">
+			<Label xml:lang="en">Filipino (Philippines)</Label>
+			<Label xml:lang="ru">Филиппинский (Филиппины)</Label>
+			<Label Type="Org" xml:lang="fil-PH">Filipino (Pilipinas)</Label>
+			<Code Source="ISO639-1">fil</Code>
+			<Code Source="ISO639-2">fil</Code>
+			<Code Source="IETF">fil-PH</Code>
+			<Code Source="NLS" Encoding="Hex">0464</Code>
+		</Language>
+	</Language>
+	<Language Name="fo">
+		<Label xml:lang="en">Faroese</Label>
+		<Label xml:lang="ru">Фарерский</Label>
+		<Label Type="Org" xml:lang="fo">føroyskt</Label>
+		<Code Source="ISO639-1">fo</Code>
+		<Code Source="ISO639-2">fao</Code>
+		<Code Source="IETF">fo</Code>
+		<Code Source="NLS" Encoding="Hex">0038</Code>
+		<Language Name="fo-FO">
+			<Label xml:lang="en">Faroese (Faroe Islands)</Label>
+			<Label xml:lang="ru">Фарерский (Фарерские о-ва)</Label>
+			<Label Type="Org" xml:lang="fo-FO">føroyskt (Føroyar)</Label>
+			<Code Source="ISO639-1">fo</Code>
+			<Code Source="ISO639-2">fao</Code>
+			<Code Source="IETF">fo-FO</Code>
+			<Code Source="NLS" Encoding="Hex">0438</Code>
+		</Language>
+	</Language>
+	<Language Name="fr">
+		<Label xml:lang="en">French</Label>
+		<Label xml:lang="ru">Французский</Label>
+		<Label xml:lang="ru" Type="Abbr">фран.</Label>
+		<Label Type="Org" xml:lang="fr">français</Label>
+		<Code Source="ISO639-1">fr</Code>
+		<Code Source="ISO639-2">fra</Code>
+		<Code Source="IETF">fr</Code>
+		<Code Source="NLS" Encoding="Hex">000C</Code>
+		<Language Name="fr-BE">
+			<Label xml:lang="en">French (Belgium)</Label>
+			<Label xml:lang="ru">Французский (Бельгия)</Label>
+			<Label Type="Org" xml:lang="fr-BE">français (Belgique)</Label>
+			<Code Source="ISO639-1">fr</Code>
+			<Code Source="ISO639-2">fra</Code>
+			<Code Source="IETF">fr-BE</Code>
+			<Code Source="NLS" Encoding="Hex">080C</Code>
+		</Language>
+		<Language Name="fr-CA">
+			<Label xml:lang="en">French (Canada)</Label>
+			<Label xml:lang="ru">Французский (Канада)</Label>
+			<Label Type="Org" xml:lang="fr-CA">français (Canada)</Label>
+			<Code Source="ISO639-1">fr</Code>
+			<Code Source="ISO639-2">fra</Code>
+			<Code Source="IETF">fr-CA</Code>
+			<Code Source="NLS" Encoding="Hex">0C0C</Code>
+		</Language>
+		<Language Name="fr-CH">
+			<Label xml:lang="en">French (Switzerland)</Label>
+			<Label xml:lang="ru">Французский (Швейцария)</Label>
+			<Label Type="Org" xml:lang="fr-CH">français (Suisse)</Label>
+			<Code Source="ISO639-1">fr</Code>
+			<Code Source="ISO639-2">fra</Code>
+			<Code Source="IETF">fr-CH</Code>
+			<Code Source="NLS" Encoding="Hex">100C</Code>
+		</Language>
+		<Language Name="fr-FR">
+			<Label xml:lang="en">French (France)</Label>
+			<Label xml:lang="ru">Французский (Франция)</Label>
+			<Label Type="Org" xml:lang="fr-FR">français (France)</Label>
+			<Code Source="ISO639-1">fr</Code>
+			<Code Source="ISO639-2">fra</Code>
+			<Code Source="IETF">fr-FR</Code>
+			<Code Source="NLS" Encoding="Hex">040C</Code>
+		</Language>
+		<Language Name="fr-LU">
+			<Label xml:lang="en">French (Luxembourg)</Label>
+			<Label xml:lang="ru">Французский (Люксембург)</Label>
+			<Label Type="Org" xml:lang="fr-LU">français (Luxembourg)</Label>
+			<Code Source="ISO639-1">fr</Code>
+			<Code Source="ISO639-2">fra</Code>
+			<Code Source="IETF">fr-LU</Code>
+			<Code Source="NLS" Encoding="Hex">140C</Code>
+		</Language>
+		<Language Name="fr-MC">
+			<Label xml:lang="en">French (Principality of Monaco)</Label>
+			<Label xml:lang="ru">Французский (Монако)</Label>
+			<Label Type="Org" xml:lang="fr-MC">français (Principauté de Monaco)</Label>
+			<Code Source="ISO639-1">fr</Code>
+			<Code Source="ISO639-2">fra</Code>
+			<Code Source="IETF">fr-MC</Code>
+			<Code Source="NLS" Encoding="Hex">180C</Code>
+		</Language>
+	</Language>
+	<Language Name="fy">
+		<Label xml:lang="en">Frisian</Label>
+		<Label xml:lang="ru">Фризский</Label>
+		<Label Type="Org" xml:lang="fy-NL">Frysk</Label>
+		<Language Name="fy-NL">
+			<Label xml:lang="en">Frisian (Netherlands)</Label>
+			<Label xml:lang="ru">Фризский (Нидерланды)</Label>
+			<Label Type="Org" xml:lang="fy-NL">Frysk (Nederlân)</Label>
+			<Code Source="ISO639-1">fy</Code>
+			<Code Source="ISO639-2">fy</Code>
+			<Code Source="IETF">fy-NL</Code>
+			<Code Source="NLS" Encoding="Hex">0462</Code>
+		</Language>
+	</Language>
+	<Language Name="ga">
+		<Label xml:lang="en">Irish</Label>
+		<Label xml:lang="ru">Ирландский</Label>
+		<Label Type="Org" xml:lang="ga-IE">Gaeilge</Label>
+		<Language Name="ga-IE">
+			<Label xml:lang="en">Irish (Ireland)</Label>
+			<Label xml:lang="ru">Ирландский (Ирландия)</Label>
+			<Label Type="Org" xml:lang="ga-IE">Gaeilge (Éire)</Label>
+			<Code Source="ISO639-1">ga</Code>
+			<Code Source="ISO639-2">ga</Code>
+			<Code Source="IETF">ga-IE</Code>
+			<Code Source="NLS" Encoding="Hex">083C</Code>
+		</Language>
+	</Language>
+	<Language Name="gl">
+		<Label xml:lang="en">Galician</Label>
+		<Label xml:lang="ru">Галицийский</Label>
+		<Label Type="Org" xml:lang="gl">galego</Label>
+		<Code Source="ISO639-1">gl</Code>
+		<Code Source="ISO639-2">glg</Code>
+		<Code Source="IETF">gl</Code>
+		<Code Source="NLS" Encoding="Hex">0056</Code>
+		<Language Name="gl-ES">
+			<Label xml:lang="en">Galician (Galician)</Label>
+			<Label xml:lang="ru">Галицийский (Галиция)</Label>
+			<Label Type="Org" xml:lang="gl-ES">galego (galego)</Label>
+			<Code Source="ISO639-1">gl</Code>
+			<Code Source="ISO639-2">glg</Code>
+			<Code Source="IETF">gl-ES</Code>
+			<Code Source="NLS" Encoding="Hex">0456</Code>
+		</Language>
+	</Language>
+	<Language Name="gu">
+		<Label xml:lang="en">Gujarati</Label>
+		<Label xml:lang="ru">Гуджарати</Label>
+		<Label Type="Org" xml:lang="gu">ગુજરાતી</Label>
+		<Code Source="ISO639-1">gu</Code>
+		<Code Source="ISO639-2">guj</Code>
+		<Code Source="IETF">gu</Code>
+		<Code Source="NLS" Encoding="Hex">0047</Code>
+		<Language Name="gu-IN">
+			<Label xml:lang="en">Gujarati (India)</Label>
+			<Label xml:lang="ru">Гуджарати (Индия)</Label>
+			<Label Type="Org" xml:lang="gu-IN">ગુજરાતી (ભારત)</Label>
+			<Code Source="ISO639-1">gu</Code>
+			<Code Source="ISO639-2">guj</Code>
+			<Code Source="IETF">gu-IN</Code>
+			<Code Source="NLS" Encoding="Hex">0447</Code>
+		</Language>
+	</Language>
+	<Language Name="he">
+		<Label xml:lang="en">Hebrew</Label>
+		<Label xml:lang="ru">Иврит</Label>
+		<Label xml:lang="ru" Type="Abbr">ивр.</Label>
+		<Label Type="Org" xml:lang="he">עברית</Label>
+		<Code Source="ISO639-1">he</Code>
+		<Code Source="ISO639-2">heb</Code>
+		<Code Source="IETF">he</Code>
+		<Code Source="NLS" Encoding="Hex">000D</Code>
+		<Language Name="he-IL">
+			<Label xml:lang="en">Hebrew (Israel)</Label>
+			<Label xml:lang="ru">Иврит (Израиль)</Label>
+			<Label Type="Org" xml:lang="he-IL">עברית (ישראל)</Label>
+			<Code Source="ISO639-1">he</Code>
+			<Code Source="ISO639-2">heb</Code>
+			<Code Source="IETF">he-IL</Code>
+			<Code Source="NLS" Encoding="Hex">040D</Code>
+		</Language>
+	</Language>
+	<Language Name="hi">
+		<Label xml:lang="en">Hindi</Label>
+		<Label xml:lang="ru">Хинди</Label>
+		<Label Type="Org" xml:lang="hi">हिंदी</Label>
+		<Code Source="ISO639-1">hi</Code>
+		<Code Source="ISO639-2">hin</Code>
+		<Code Source="IETF">hi</Code>
+		<Code Source="NLS" Encoding="Hex">0039</Code>
+		<Language Name="hi-IN">
+			<Label xml:lang="en">Hindi (India)</Label>
+			<Label xml:lang="ru">Хинди (Индия)</Label>
+			<Label Type="Org" xml:lang="hi-IN">हिंदी (भारत)</Label>
+			<Code Source="ISO639-1">hi</Code>
+			<Code Source="ISO639-2">hin</Code>
+			<Code Source="IETF">hi-IN</Code>
+			<Code Source="NLS" Encoding="Hex">0439</Code>
+		</Language>
+	</Language>
+	<Language Name="hr">
+		<Label xml:lang="en">Croatian</Label>
+		<Label xml:lang="ru">Хорватский</Label>
+		<Label xml:lang="ru" Type="Abbr">хорв.</Label>
+		<Label Type="Org" xml:lang="hr">hrvatski</Label>
+		<Code Source="ISO639-1">hr</Code>
+		<Code Source="ISO639-2">hrv</Code>
+		<Code Source="IETF">hr</Code>
+		<Code Source="NLS" Encoding="Hex">001A</Code>
+		<Language Name="hr-BA">
+			<Label xml:lang="en">Croatian (Bosnia and Herzegovina)</Label>
+			<Label xml:lang="ru">Хорватский (Босния и Герцеговина)</Label>
+			<Label Type="Org" xml:lang="hr-BA">hrvatski (Bosna i Hercegovina)</Label>
+			<Code Source="ISO639-1">hr</Code>
+			<Code Source="ISO639-2">hr</Code>
+			<Code Source="IETF">hr-BA</Code>
+			<Code Source="NLS" Encoding="Hex">101A</Code>
+		</Language>
+		<Language Name="hr-HR">
+			<Label xml:lang="en">Croatian (Croatia)</Label>
+			<Label xml:lang="ru">Хорватский (Хорватия)</Label>
+			<Label Type="Org" xml:lang="hr-HR">hrvatski (Hrvatska)</Label>
+			<Code Source="ISO639-1">hr</Code>
+			<Code Source="ISO639-2">hrv</Code>
+			<Code Source="IETF">hr-HR</Code>
+			<Code Source="NLS" Encoding="Hex">041A</Code>
+		</Language>
+	</Language>
+	<Language Name="hu">
+		<Label xml:lang="en">Hungarian</Label>
+		<Label xml:lang="ru">Венгерский</Label>
+		<Label xml:lang="ru" Type="Abbr">венг.</Label>
+		<Label Type="Org" xml:lang="hu">magyar</Label>
+		<Code Source="ISO639-1">hu</Code>
+		<Code Source="ISO639-2">hun</Code>
+		<Code Source="IETF">hu</Code>
+		<Code Source="NLS" Encoding="Hex">000E</Code>
+		<Language Name="hu-HU">
+			<Label xml:lang="en">Hungarian (Hungary)</Label>
+			<Label xml:lang="ru">Венгерский (Венгрия)</Label>
+			<Label Type="Org" xml:lang="hu-HU">magyar (Magyarország)</Label>
+			<Code Source="ISO639-1">hu</Code>
+			<Code Source="ISO639-2">hun</Code>
+			<Code Source="IETF">hu-HU</Code>
+			<Code Source="NLS" Encoding="Hex">040E</Code>
+		</Language>
+	</Language>
+	<Language Name="hy">
+		<Label xml:lang="en">Armenian</Label>
+		<Label xml:lang="ru">Армянский</Label>
+		<Label Type="Org" xml:lang="hy">Հայերեն</Label>
+		<Code Source="ISO639-1">hy</Code>
+		<Code Source="ISO639-2">hye</Code>
+		<Code Source="IETF">hy</Code>
+		<Code Source="NLS" Encoding="Hex">002B</Code>
+		<Language Name="hy-AM">
+			<Label xml:lang="en">Armenian (Armenia)</Label>
+			<Label xml:lang="ru">Армянский (Армения)</Label>
+			<Label Type="Org" xml:lang="hy-AM">Հայերեն (Հայաստան)</Label>
+			<Code Source="ISO639-1">hy</Code>
+			<Code Source="ISO639-2">hye</Code>
+			<Code Source="IETF">hy-AM</Code>
+			<Code Source="NLS" Encoding="Hex">042B</Code>
+		</Language>
+	</Language>
+	<Language Name="id">
+		<Label xml:lang="en">Indonesian</Label>
+		<Label xml:lang="ru">Индонезийский</Label>
+		<Label xml:lang="ru" Type="Abbr">индон.</Label>
+		<Label Type="Org" xml:lang="id">Bahasa Indonesia</Label>
+		<Code Source="ISO639-1">id</Code>
+		<Code Source="ISO639-2">ind</Code>
+		<Code Source="IETF">id</Code>
+		<Code Source="NLS" Encoding="Hex">0021</Code>
+		<Language Name="id-ID">
+			<Label xml:lang="en">Indonesian (Indonesia)</Label>
+			<Label xml:lang="ru">Индонезийский (Индонезия)</Label>
+			<Label Type="Org" xml:lang="id-ID">Bahasa Indonesia (Indonesia)</Label>
+			<Code Source="ISO639-1">id</Code>
+			<Code Source="ISO639-2">ind</Code>
+			<Code Source="IETF">id-ID</Code>
+			<Code Source="NLS" Encoding="Hex">0421</Code>
+		</Language>
+	</Language>
+	<Language Name="is">
+		<Label xml:lang="en">Icelandic</Label>
+		<Label xml:lang="ru">Исландский</Label>
+		<Label xml:lang="ru" Type="Abbr">исл.</Label>
+		<Label Type="Org" xml:lang="is">íslenska</Label>
+		<Code Source="ISO639-1">is</Code>
+		<Code Source="ISO639-2">isl</Code>
+		<Code Source="IETF">is</Code>
+		<Code Source="NLS" Encoding="Hex">000F</Code>
+		<Language Name="is-IS">
+			<Label xml:lang="en">Icelandic (Iceland)</Label>
+			<Label xml:lang="ru">Исландский (Исландия)</Label>
+			<Label Type="Org" xml:lang="is-IS">íslenska (Ísland)</Label>
+			<Code Source="ISO639-1">is</Code>
+			<Code Source="ISO639-2">isl</Code>
+			<Code Source="IETF">is-IS</Code>
+			<Code Source="NLS" Encoding="Hex">040F</Code>
+		</Language>
+	</Language>
+	<Language Name="it">
+		<Label xml:lang="en">Italian</Label>
+		<Label xml:lang="ru">Итальянский</Label>
+		<Label xml:lang="ru" Type="Abbr">итал.</Label>
+		<Label Type="Org" xml:lang="it">italiano</Label>
+		<Code Source="ISO639-1">it</Code>
+		<Code Source="ISO639-2">ita</Code>
+		<Code Source="IETF">it</Code>
+		<Code Source="NLS" Encoding="Hex">0010</Code>
+		<Language Name="it-CH">
+			<Label xml:lang="en">Italian (Switzerland)</Label>
+			<Label xml:lang="ru">Итальянский (Швейцария)</Label>
+			<Label Type="Org" xml:lang="it-CH">italiano (Svizzera)</Label>
+			<Code Source="ISO639-1">it</Code>
+			<Code Source="ISO639-2">ita</Code>
+			<Code Source="IETF">it-CH</Code>
+			<Code Source="NLS" Encoding="Hex">0810</Code>
+		</Language>
+		<Language Name="it-IT">
+			<Label xml:lang="en">Italian (Italy)</Label>
+			<Label xml:lang="ru">Итальянский (Италия)</Label>
+			<Label Type="Org" xml:lang="it-IT">italiano (Italia)</Label>
+			<Code Source="ISO639-1">it</Code>
+			<Code Source="ISO639-2">ita</Code>
+			<Code Source="IETF">it-IT</Code>
+			<Code Source="NLS" Encoding="Hex">0410</Code>
+		</Language>
+	</Language>
+	<Language Name="iu">
+		<Label xml:lang="en">Inuktitut</Label>
+		<Label xml:lang="ru">Инуктитут</Label>
+		<Label Type="Org" xml:lang="iu-Latn-CA">Inuktitut</Label>
+		<Language Name="iu-Latn-CA">
+			<Label xml:lang="en">Inuktitut (Latin) (Canada)</Label>
+			<Label xml:lang="ru">Инуктитут (латиница, Канада)</Label>
+			<Label Type="Org" xml:lang="iu-Latn-CA">Inuktitut (Kanatami) (kanata)</Label>
+			<Code Source="ISO639-1">iu</Code>
+			<Code Source="ISO639-2">iu</Code>
+			<Code Source="IETF">iu-Latn-CA</Code>
+			<Code Source="NLS" Encoding="Hex">085D</Code>
+		</Language>
+	</Language>
+	<Language Name="ja">
+		<Label xml:lang="en">Japanese</Label>
+		<Label xml:lang="ru">Японский</Label>
+		<Label xml:lang="ru" Type="Abbr">япон.</Label>
+		<Label Type="Org" xml:lang="ja">日本語</Label>
+		<Code Source="ISO639-1">ja</Code>
+		<Code Source="ISO639-2">jpn</Code>
+		<Code Source="IETF">ja</Code>
+		<Code Source="NLS" Encoding="Hex">0011</Code>
+		<Language Name="ja-JP">
+			<Label xml:lang="en">Japanese (Japan)</Label>
+			<Label xml:lang="ru">Японский (Япония)</Label>
+			<Label Type="Org" xml:lang="ja-JP">日本語 (日本)</Label>
+			<Code Source="ISO639-1">ja</Code>
+			<Code Source="ISO639-2">jpn</Code>
+			<Code Source="IETF">ja-JP</Code>
+			<Code Source="NLS" Encoding="Hex">0411</Code>
+		</Language>
+	</Language>
+	<Language Name="ka">
+		<Label xml:lang="en">Georgian</Label>
+		<Label xml:lang="ru">Грузинский</Label>
+		<Label Type="Org" xml:lang="ka">ქართული</Label>
+		<Code Source="ISO639-1">ka</Code>
+		<Code Source="ISO639-2">kat</Code>
+		<Code Source="IETF">ka</Code>
+		<Code Source="NLS" Encoding="Hex">0037</Code>
+		<Language Name="ka-GE">
+			<Label xml:lang="en">Georgian (Georgia)</Label>
+			<Label xml:lang="ru">Грузинский (Грузия)</Label>
+			<Label Type="Org" xml:lang="ka-GE">ქართული (საქართველო)</Label>
+			<Code Source="ISO639-1">ka</Code>
+			<Code Source="ISO639-2">kat</Code>
+			<Code Source="IETF">ka-GE</Code>
+			<Code Source="NLS" Encoding="Hex">0437</Code>
+		</Language>
+	</Language>
+	<Language Name="kk">
+		<Label xml:lang="en">Kazakh</Label>
+		<Label xml:lang="ru">Казахский</Label>
+		<Label Type="Org" xml:lang="kk">Қазащb</Label>
+		<Code Source="ISO639-1">kk</Code>
+		<Code Source="ISO639-2">kaz</Code>
+		<Code Source="IETF">kk</Code>
+		<Code Source="NLS" Encoding="Hex">003F</Code>
+		<Language Name="kk-KZ">
+			<Label xml:lang="en">Kazakh (Kazakhstan)</Label>
+			<Label xml:lang="ru">Казахский (Казахстан)</Label>
+			<Label Type="Org" xml:lang="kk-KZ">Қазақ (Қазақстан)</Label>
+			<Code Source="ISO639-1">kk</Code>
+			<Code Source="ISO639-2">kaz</Code>
+			<Code Source="IETF">kk-KZ</Code>
+			<Code Source="NLS" Encoding="Hex">043F</Code>
+		</Language>
+	</Language>
+	<Language Name="kn">
+		<Label xml:lang="en">Kannada</Label>
+		<Label xml:lang="ru">Каннада</Label>
+		<Label Type="Org" xml:lang="kn">ಕನ್ನಡ</Label>
+		<Code Source="ISO639-1">kn</Code>
+		<Code Source="ISO639-2">kan</Code>
+		<Code Source="IETF">kn</Code>
+		<Code Source="NLS" Encoding="Hex">004B</Code>
+		<Language Name="kn-IN">
+			<Label xml:lang="en">Kannada (India)</Label>
+			<Label xml:lang="ru">Каннада (Индия)</Label>
+			<Label Type="Org" xml:lang="kn-IN">ಕನ್ನಡ (ಭಾರತ)</Label>
+			<Code Source="ISO639-1">kn</Code>
+			<Code Source="ISO639-2">kan</Code>
+			<Code Source="IETF">kn-IN</Code>
+			<Code Source="NLS" Encoding="Hex">044B</Code>
+		</Language>
+	</Language>
+	<Language Name="ko">
+		<Label xml:lang="en">Korean</Label>
+		<Label xml:lang="ru">Корейский</Label>
+		<Label xml:lang="ru" Type="Abbr">кор.</Label>
+		<Label Type="Org" xml:lang="ko">한국어</Label>
+		<Code Source="ISO639-1">ko</Code>
+		<Code Source="ISO639-2">kor</Code>
+		<Code Source="IETF">ko</Code>
+		<Code Source="NLS" Encoding="Hex">0012</Code>
+		<Language Name="ko-KR">
+			<Label xml:lang="en">Korean (Korea)</Label>
+			<Label xml:lang="ru">Корейский (Корея)</Label>
+			<Label Type="Org" xml:lang="ko-KR">한국어 (대한민국)</Label>
+			<Code Source="ISO639-1">ko</Code>
+			<Code Source="ISO639-2">kor</Code>
+			<Code Source="IETF">ko-KR</Code>
+			<Code Source="NLS" Encoding="Hex">0412</Code>
+		</Language>
+	</Language>
+	<Language Name="kok">
+		<Label xml:lang="en">Konkani</Label>
+		<Label xml:lang="ru">Конкани</Label>
+		<Label Type="Org" xml:lang="kok">कोंकणी</Label>
+		<Code Source="ISO639-1">kok</Code>
+		<Code Source="ISO639-2">kok</Code>
+		<Code Source="IETF">kok</Code>
+		<Code Source="NLS" Encoding="Hex">0057</Code>
+		<Language Name="kok-IN">
+			<Label xml:lang="en">Konkani (India)</Label>
+			<Label xml:lang="ru">Конкани (Индия)</Label>
+			<Label Type="Org" xml:lang="kok-IN">कोंकणी (भारत)</Label>
+			<Code Source="ISO639-1">kok</Code>
+			<Code Source="ISO639-2">kok</Code>
+			<Code Source="IETF">kok-IN</Code>
+			<Code Source="NLS" Encoding="Hex">0457</Code>
+		</Language>
+	</Language>
+	<Language Name="ky">
+		<Label xml:lang="en">Kyrgyz</Label>
+		<Label xml:lang="ru">Киргизский</Label>
+		<Label Type="Org" xml:lang="ky">Кыргыз</Label>
+		<Code Source="ISO639-1">ky</Code>
+		<Code Source="ISO639-2">kir</Code>
+		<Code Source="IETF">ky</Code>
+		<Code Source="NLS" Encoding="Hex">0040</Code>
+		<Language Name="ky-KG">
+			<Label xml:lang="en">Kyrgyz (Kyrgyzstan)</Label>
+			<Label xml:lang="ru">киргизский (Киргизия)</Label>
+			<Label Type="Org" xml:lang="ky-KG">Кыргыз (Кыргызстан)</Label>
+			<Code Source="ISO639-1">ky</Code>
+			<Code Source="ISO639-2">kir</Code>
+			<Code Source="IETF">ky-KG</Code>
+			<Code Source="NLS" Encoding="Hex">0440</Code>
+		</Language>
+	</Language>
+	<Language Name="lb">
+		<Label xml:lang="en">Luxembourgish</Label>
+		<Label xml:lang="ru">Люксембургский</Label>
+		<Label Type="Org" xml:lang="lb-LU">Lëtzebuergesch</Label>
+		<Language Name="lb-LU">
+			<Label xml:lang="en">Luxembourgish (Luxembourg)</Label>
+			<Label xml:lang="ru">Люксембургский (Люксембург)</Label>
+			<Label Type="Org" xml:lang="lb-LU">Lëtzebuergesch (Luxembourg)</Label>
+			<Code Source="ISO639-1">lb</Code>
+			<Code Source="ISO639-2">lb</Code>
+			<Code Source="IETF">lb-LU</Code>
+			<Code Source="NLS" Encoding="Hex">046E</Code>
+		</Language>
+	</Language>
+	<Language Name="lt">
+		<Label xml:lang="en">Lithuanian</Label>
+		<Label xml:lang="ru">Литовский</Label>
+		<Label xml:lang="ru" Type="Abbr">лит.</Label>
+		<Label Type="Org" xml:lang="lt">lietuvių</Label>
+		<Code Source="ISO639-1">lt</Code>
+		<Code Source="ISO639-2">lit</Code>
+		<Code Source="IETF">lt</Code>
+		<Code Source="NLS" Encoding="Hex">0027</Code>
+		<Language Name="lt-LT">
+			<Label xml:lang="en">Lithuanian (Lithuania)</Label>
+			<Label xml:lang="ru">Литовский (Литва)</Label>
+			<Label Type="Org" xml:lang="lt-LT">lietuvių (Lietuva)</Label>
+			<Code Source="ISO639-1">lt</Code>
+			<Code Source="ISO639-2">lit</Code>
+			<Code Source="IETF">lt-LT</Code>
+			<Code Source="NLS" Encoding="Hex">0427</Code>
+		</Language>
+	</Language>
+	<Language Name="lv">
+		<Label xml:lang="en">Latvian</Label>
+		<Label xml:lang="ru">Латышский</Label>
+		<Label xml:lang="ru" Type="Abbr">латыш.</Label>
+		<Label Type="Org" xml:lang="lv">latviešu</Label>
+		<Code Source="ISO639-1">lv</Code>
+		<Code Source="ISO639-2">lav</Code>
+		<Code Source="IETF">lv</Code>
+		<Code Source="NLS" Encoding="Hex">0026</Code>
+		<Language Name="lv-LV">
+			<Label xml:lang="en">Latvian (Latvia)</Label>
+			<Label xml:lang="ru">Латышский (Латвия)</Label>
+			<Label Type="Org" xml:lang="lv-LV">latviešu (Latvija)</Label>
+			<Code Source="ISO639-1">lv</Code>
+			<Code Source="ISO639-2">lav</Code>
+			<Code Source="IETF">lv-LV</Code>
+			<Code Source="NLS" Encoding="Hex">0426</Code>
+		</Language>
+	</Language>
+	<Language Name="mi">
+		<Label xml:lang="en">Maori</Label>
+		<Label xml:lang="ru">Маорийский</Label>
+		<Label Type="Org" xml:lang="mi-NZ">Reo Māori</Label>
+		<Language Name="mi-NZ">
+			<Label xml:lang="en">Maori (New Zealand)</Label>
+			<Label xml:lang="ru">Маорийский</Label>
+			<Label Type="Org" xml:lang="mi-NZ">Reo Māori (Aotearoa)</Label>
+			<Code Source="ISO639-1">mi</Code>
+			<Code Source="ISO639-2">mi</Code>
+			<Code Source="IETF">mi-NZ</Code>
+			<Code Source="NLS" Encoding="Hex">0481</Code>
+		</Language>
+	</Language>
+	<Language Name="mk">
+		<Label xml:lang="en">Macedonian</Label>
+		<Label xml:lang="ru">македонский</Label>
+		<Label Type="Org" xml:lang="mk">македонски јазик</Label>
+		<Code Source="ISO639-1">mk</Code>
+		<Code Source="ISO639-2">mkd</Code>
+		<Code Source="IETF">mk</Code>
+		<Code Source="NLS" Encoding="Hex">002F</Code>
+		<Language Name="mk-MK">
+			<Label xml:lang="en">Macedonian (Former Yugoslav Republic of Macedonia)</Label>
+			<Label xml:lang="ru">македонский (Бывшая Югославская Республика Македония)</Label>
+			<Label Type="Org" xml:lang="mk-MK">македонски јазик (Македонија)</Label>
+			<Code Source="ISO639-1">mk</Code>
+			<Code Source="ISO639-2">mkd</Code>
+			<Code Source="IETF">mk-MK</Code>
+			<Code Source="NLS" Encoding="Hex">042F</Code>
+		</Language>
+	</Language>
+	<Language Name="mn">
+		<Label xml:lang="en">Mongolian</Label>
+		<Label xml:lang="ru">Монгольский</Label>
+		<Label Type="Org" xml:lang="mn">Монгол хэл</Label>
+		<Code Source="ISO639-1">mn</Code>
+		<Code Source="ISO639-2">mon</Code>
+		<Code Source="IETF">mn</Code>
+		<Code Source="NLS" Encoding="Hex">0050</Code>
+		<Language Name="mn-MN">
+			<Label xml:lang="en">Mongolian (Cyrillic, Mongolia)</Label>
+			<Label xml:lang="ru">монгольский (кириллица, Монголия)</Label>
+			<Label Type="Org" xml:lang="mn-MN">Монгол хэл (Монгол улс)</Label>
+			<Code Source="ISO639-1">mn</Code>
+			<Code Source="ISO639-2">mon</Code>
+			<Code Source="IETF">mn-MN</Code>
+			<Code Source="NLS" Encoding="Hex">0450</Code>
+		</Language>
+	</Language>
+	<Language Name="moh">
+		<Label xml:lang="en">Mohawk</Label>
+		<Label xml:lang="ru">Могавк</Label>
+		<Label Type="Org" xml:lang="moh-CA">Kanien'kéha</Label>
+		<Language Name="moh-CA">
+			<Label xml:lang="en">Mohawk (Canada)</Label>
+			<Label xml:lang="ru">Могавк (Могавк)</Label>
+			<Label Type="Org" xml:lang="moh-CA">Kanien'kéha (Canada)</Label>
+			<Code Source="ISO639-1">moh</Code>
+			<Code Source="ISO639-2">moh</Code>
+			<Code Source="IETF">moh-CA</Code>
+			<Code Source="NLS" Encoding="Hex">047C</Code>
+		</Language>
+	</Language>
+	<Language Name="mr">
+		<Label xml:lang="en">Marathi</Label>
+		<Label xml:lang="ru">Маратхи</Label>
+		<Label Type="Org" xml:lang="mr">मराठी</Label>
+		<Code Source="ISO639-1">mr</Code>
+		<Code Source="ISO639-2">mar</Code>
+		<Code Source="IETF">mr</Code>
+		<Code Source="NLS" Encoding="Hex">004E</Code>
+		<Language Name="mr-IN">
+			<Label xml:lang="en">Marathi (India)</Label>
+			<Label xml:lang="ru">Маратхи (Индия)</Label>
+			<Label Type="Org" xml:lang="mr-IN">मराठी (भारत)</Label>
+			<Code Source="ISO639-1">mr</Code>
+			<Code Source="ISO639-2">mar</Code>
+			<Code Source="IETF">mr-IN</Code>
+			<Code Source="NLS" Encoding="Hex">044E</Code>
+		</Language>
+	</Language>
+	<Language Name="ms">
+		<Label xml:lang="en">Malay</Label>
+		<Label xml:lang="ru">Малайский</Label>
+		<Label Type="Org" xml:lang="ms">Bahasa Malaysia</Label>
+		<Code Source="ISO639-1">ms</Code>
+		<Code Source="ISO639-2">msa</Code>
+		<Code Source="IETF">ms</Code>
+		<Code Source="NLS" Encoding="Hex">003E</Code>
+		<Language Name="ms-BN">
+			<Label xml:lang="en">Malay (Brunei Darussalam)</Label>
+			<Label xml:lang="ru">Малайский (Бруней, Дар-эс-Салам)</Label>
+			<Label Type="Org" xml:lang="ms-BN">Bahasa Malaysia (Brunei Darussalam)</Label>
+			<Code Source="ISO639-1">ms</Code>
+			<Code Source="ISO639-2">msa</Code>
+			<Code Source="IETF">ms-BN</Code>
+			<Code Source="NLS" Encoding="Hex">083E</Code>
+		</Language>
+		<Language Name="ms-MY">
+			<Label xml:lang="en">Malay (Malaysia)</Label>
+			<Label xml:lang="ru">Малайский (Малайзия)</Label>
+			<Label Type="Org" xml:lang="ms-MY">Bahasa Malaysia (Malaysia)</Label>
+			<Code Source="ISO639-1">ms</Code>
+			<Code Source="ISO639-2">msa</Code>
+			<Code Source="IETF">ms-MY</Code>
+			<Code Source="NLS" Encoding="Hex">043E</Code>
+		</Language>
+	</Language>
+	<Language Name="mt">
+		<Label xml:lang="en">Maltese</Label>
+		<Label xml:lang="ru">Мальтийский</Label>
+		<Label Type="Org" xml:lang="mt-MT">Malti</Label>
+		<Language Name="mt-MT">
+			<Label xml:lang="en">Maltese (Malta)</Label>
+			<Label xml:lang="ru">Мальтийский</Label>
+			<Label Type="Org" xml:lang="mt-MT">Malti (Malta)</Label>
+			<Code Source="ISO639-1">mt</Code>
+			<Code Source="ISO639-2">mt</Code>
+			<Code Source="IETF">mt-MT</Code>
+			<Code Source="NLS" Encoding="Hex">043A</Code>
+		</Language>
+	</Language>
+	<Language Name="nb">
+		<Label xml:lang="en">Norwegian, Bokmål</Label>
+		<Label xml:lang="ru">Норвежский, диалект Bokmål</Label>
+		<Label Type="Org" xml:lang="nb-NO">norsk, bokmål</Label>
+		<Language Name="nb-NO">
+			<Label xml:lang="en">Norwegian, Bokmål (Norway)</Label>
+			<Label xml:lang="ru">Норвежский, диалект Bokmål</Label>
+			<Label Type="Org" xml:lang="nb-NO">norsk, bokmål (Norge)</Label>
+			<Code Source="ISO639-1">nb</Code>
+			<Code Source="ISO639-2">nob</Code>
+			<Code Source="IETF">nb-NO</Code>
+			<Code Source="NLS" Encoding="Hex">0414</Code>
+		</Language>
+	</Language>
+	<Language Name="nl">
+		<Label xml:lang="en">Dutch</Label>
+		<Label xml:lang="ru">Голландский</Label>
+		<Label xml:lang="ru" Type="Abbr">голл.</Label>
+		<Label Type="Org" xml:lang="nl">Nederlands</Label>
+		<Code Source="ISO639-1">nl</Code>
+		<Code Source="ISO639-2">nld</Code>
+		<Code Source="IETF">nl</Code>
+		<Code Source="NLS" Encoding="Hex">0013</Code>
+		<Language Name="nl-BE">
+			<Label xml:lang="en">Dutch (Belgium)</Label>
+			<Label xml:lang="ru">Голландский (Бельгия)</Label>
+			<Label Type="Org" xml:lang="nl-BE">Nederlands (België)</Label>
+			<Code Source="ISO639-1">nl</Code>
+			<Code Source="ISO639-2">nld</Code>
+			<Code Source="IETF">nl-BE</Code>
+			<Code Source="NLS" Encoding="Hex">0813</Code>
+		</Language>
+		<Language Name="nl-NL">
+			<Label xml:lang="en">Dutch (Netherlands)</Label>
+			<Label xml:lang="ru">Голландский (Нидерланды)</Label>
+			<Label Type="Org" xml:lang="nl-NL">Nederlands (Nederland)</Label>
+			<Code Source="ISO639-1">nl</Code>
+			<Code Source="ISO639-2">nld</Code>
+			<Code Source="IETF">nl-NL</Code>
+			<Code Source="NLS" Encoding="Hex">0413</Code>
+		</Language>
+	</Language>
+	<Language Name="nn">
+		<Label xml:lang="en">Norwegian, Nynorsk</Label>
+		<Label xml:lang="ru">Норвежский, диалект Nynorsk</Label>
+		<Label Type="Org" xml:lang="nn-NO">norsk, nynorsk</Label>
+		<Language Name="nn-NO">
+			<Label xml:lang="en">Norwegian, Nynorsk (Norway)</Label>
+			<Label xml:lang="ru">Норвежский, диалект Nynorsk</Label>
+			<Label Type="Org" xml:lang="nn-NO">norsk, nynorsk (Noreg)</Label>
+			<Code Source="ISO639-1">nn</Code>
+			<Code Source="ISO639-2">nno</Code>
+			<Code Source="IETF">nn-NO</Code>
+			<Code Source="NLS" Encoding="Hex">0814</Code>
+		</Language>
+	</Language>
+	<Language Name="no">
+		<Label xml:lang="en">Norwegian</Label>
+		<Label xml:lang="ru">Норвежский</Label>
+		<Label xml:lang="ru" Type="Abbr">норв.</Label>
+		<Label Type="Org" xml:lang="no">norsk</Label>
+		<Code Source="ISO639-1">no</Code>
+		<Code Source="ISO639-2">nor</Code>
+		<Code Source="IETF">no</Code>
+		<Code Source="NLS" Encoding="Hex">0014</Code>
+	</Language>
+	<Language Name="ns">
+		<Label xml:lang="en">Northern Sotho</Label>
+		<Label xml:lang="ru">Суто северный</Label>
+		<Label Type="Org" xml:lang="ns-ZA">Sesotho sa Leboa</Label>
+		<Language Name="ns-ZA">
+			<Label xml:lang="en">Northern Sotho (South Africa)</Label>
+			<Label xml:lang="ru">Суто северный</Label>
+			<Label Type="Org" xml:lang="ns-ZA">Sesotho sa Leboa (Afrika Borwa)</Label>
+			<Code Source="ISO639-1">ns</Code>
+			<Code Source="ISO639-2">ns</Code>
+			<Code Source="IETF">ns-ZA</Code>
+			<Code Source="NLS" Encoding="Hex">046C</Code>
+		</Language>
+	</Language>
+	<Language Name="pa">
+		<Label xml:lang="en">Punjabi</Label>
+		<Label xml:lang="ru">Пенджабский</Label>
+		<Label Type="Org" xml:lang="pa">ਪੰਜਾਬੀ</Label>
+		<Code Source="ISO639-1">pa</Code>
+		<Code Source="ISO639-2">pan</Code>
+		<Code Source="IETF">pa</Code>
+		<Code Source="NLS" Encoding="Hex">0046</Code>
+		<Language Name="pa-IN">
+			<Label xml:lang="en">Punjabi (India)</Label>
+			<Label xml:lang="ru">Пенджабский (Индия)</Label>
+			<Label Type="Org" xml:lang="pa-IN">ਪੰਜਾਬੀ (ਭਾਰਤ)</Label>
+			<Code Source="ISO639-1">pa</Code>
+			<Code Source="ISO639-2">pan</Code>
+			<Code Source="IETF">pa-IN</Code>
+			<Code Source="NLS" Encoding="Hex">0446</Code>
+		</Language>
+	</Language>
+	<Language Name="pl">
+		<Label xml:lang="en">Polish</Label>
+		<Label xml:lang="ru">Польский</Label>
+		<Label Type="Org" xml:lang="pl">polski</Label>
+		<Code Source="ISO639-1">pl</Code>
+		<Code Source="ISO639-2">pol</Code>
+		<Code Source="IETF">pl</Code>
+		<Code Source="NLS" Encoding="Hex">0015</Code>
+		<Language Name="pl-PL">
+			<Label xml:lang="en">Polish (Poland)</Label>
+			<Label xml:lang="ru">Польский (Польша)</Label>
+			<Label xml:lang="ru" Type="Abbr">пол.</Label>
+			<Label Type="Org" xml:lang="pl-PL">polski (Polska)</Label>
+			<Code Source="ISO639-1">pl</Code>
+			<Code Source="ISO639-2">pol</Code>
+			<Code Source="IETF">pl-PL</Code>
+			<Code Source="NLS" Encoding="Hex">0415</Code>
+		</Language>
+	</Language>
+	<Language Name="pt">
+		<Label xml:lang="en">Portuguese</Label>
+		<Label xml:lang="ru">Португальский</Label>
+		<Label xml:lang="ru" Type="Abbr">порт.</Label>
+		<Label Type="Org" xml:lang="pt">Português</Label>
+		<Code Source="ISO639-1">pt</Code>
+		<Code Source="ISO639-2">por</Code>
+		<Code Source="IETF">pt</Code>
+		<Code Source="NLS" Encoding="Hex">0016</Code>
+		<Language Name="pt-BR">
+			<Label xml:lang="en">Portuguese (Brazil)</Label>
+			<Label xml:lang="ru">Португальский (Бразилия)</Label>
+			<Label Type="Org" xml:lang="pt-BR">Português (Brasil)</Label>
+			<Code Source="ISO639-1">pt</Code>
+			<Code Source="ISO639-2">por</Code>
+			<Code Source="IETF">pt-BR</Code>
+			<Code Source="NLS" Encoding="Hex">0416</Code>
+		</Language>
+		<Language Name="pt-PT">
+			<Label xml:lang="en">Portuguese (Portugal)</Label>
+			<Label xml:lang="ru">Португальский (Португалия)</Label>
+			<Label Type="Org" xml:lang="pt-PT">português (Portugal)</Label>
+			<Code Source="ISO639-1">pt</Code>
+			<Code Source="ISO639-2">por</Code>
+			<Code Source="IETF">pt-PT</Code>
+			<Code Source="NLS" Encoding="Hex">0816</Code>
+		</Language>
+	</Language>
+	<Language Name="quz">
+		<Label xml:lang="en">Quechua</Label>
+		<Label xml:lang="ru">Кечуа</Label>
+		<Label Type="Org" xml:lang="quz-BO">runasimi</Label>
+		<Label Type="Org" xml:lang="quz-EC">runasimi</Label>
+		<Label Type="Org" xml:lang="quz-PE">runasimi</Label>
+		<Language Name="quz-BO">
+			<Label xml:lang="en">Quechua (Bolivia)</Label>
+			<Label xml:lang="ru">Кечуа (Боливия)</Label>
+			<Label Type="Org" xml:lang="quz-BO">runasimi (Bolivia Suyu)</Label>
+			<Code Source="ISO639-1">quz</Code>
+			<Code Source="ISO639-2">quz</Code>
+			<Code Source="IETF">quz-BO</Code>
+			<Code Source="NLS" Encoding="Hex">046B</Code>
+		</Language>
+		<Language Name="quz-EC">
+			<Label xml:lang="en">Quechua (Ecuador)</Label>
+			<Label xml:lang="ru">Кечуа (Эквадор)</Label>
+			<Label Type="Org" xml:lang="quz-EC">runasimi (Ecuador Suyu)</Label>
+			<Code Source="ISO639-1">quz</Code>
+			<Code Source="ISO639-2">quz</Code>
+			<Code Source="IETF">quz-EC</Code>
+			<Code Source="NLS" Encoding="Hex">086B</Code>
+		</Language>
+		<Language Name="quz-PE">
+			<Label xml:lang="en">Quechua (Peru)</Label>
+			<Label xml:lang="ru">Кечуа (Перу)</Label>
+			<Label Type="Org" xml:lang="quz-PE">runasimi (Peru Suyu)</Label>
+			<Code Source="ISO639-1">quz</Code>
+			<Code Source="ISO639-2">quz</Code>
+			<Code Source="IETF">quz-PE</Code>
+			<Code Source="NLS" Encoding="Hex">0C6B</Code>
+		</Language>
+	</Language>
+	<Language Name="rm">
+		<Label xml:lang="en">Romansh</Label>
+		<Label xml:lang="ru">Ретороманский</Label>
+		<Label Type="Org" xml:lang="rm-CH">Rumantsch</Label>
+		<Language Name="rm-CH">
+			<Label xml:lang="en">Romansh (Switzerland)</Label>
+			<Label xml:lang="ru">Ретороманский (Швейцария)</Label>
+			<Label Type="Org" xml:lang="rm-CH">Rumantsch (Svizra)</Label>
+			<Code Source="ISO639-1">rm</Code>
+			<Code Source="ISO639-2">rm</Code>
+			<Code Source="IETF">rm-CH</Code>
+			<Code Source="NLS" Encoding="Hex">0417</Code>
+		</Language>
+	</Language>
+	<Language Name="ro">
+		<Label xml:lang="en">Romanian</Label>
+		<Label xml:lang="ru">Румынский</Label>
+		<Label xml:lang="ru" Type="Abbr">рум.</Label>
+		<Label Type="Org" xml:lang="ro">română</Label>
+		<Code Source="ISO639-1">ro</Code>
+		<Code Source="ISO639-2">ron</Code>
+		<Code Source="IETF">ro</Code>
+		<Code Source="NLS" Encoding="Hex">0018</Code>
+		<Language Name="ro-RO">
+			<Label xml:lang="en">Romanian (Romania)</Label>
+			<Label xml:lang="ru">Румынский (Румыния)</Label>
+			<Label Type="Org" xml:lang="ro-RO">română (România)</Label>
+			<Code Source="ISO639-1">ro</Code>
+			<Code Source="ISO639-2">ron</Code>
+			<Code Source="IETF">ro-RO</Code>
+			<Code Source="NLS" Encoding="Hex">0418</Code>
+		</Language>
+	</Language>
+	<Language Name="ru">
+		<Label xml:lang="en">Russian</Label>
+		<Label Type="Org" xml:lang="ru">Русский</Label>
+		<Label xml:lang="ru" Type="Abbr">рус.</Label>
+		<Code Source="ISO639-1">ru</Code>
+		<Code Source="ISO639-2">rus</Code>
+		<Code Source="IETF">ru</Code>
+		<Code Source="NLS" Encoding="Hex">0019</Code>
+		<Language Name="ru-SU" EndPeriod="1992-09">
+			<Label xml:lang="en">Russian (USSR)</Label>
+			<Label xml:lang="ru">Русский (СССР)</Label>
+			<Label Type="Org" xml:lang="ru-RU">Русский (СССР)</Label>
+			<Code Source="ISO639-1">ru</Code>
+			<Code Source="ISO639-2">rus</Code>
+			<Code Source="IETF">ru-SU</Code>
+		</Language>
+		<Language Name="ru-RU">
+			<Label xml:lang="en">Russian (Russia)</Label>
+			<Label xml:lang="ru">Русский (Россия)</Label>
+			<Label Type="Org" xml:lang="ru-RU">Русский (Россия)</Label>
+			<Code Source="ISO639-1">ru</Code>
+			<Code Source="ISO639-2">rus</Code>
+			<Code Source="IETF">ru-RU</Code>
+			<Code Source="NLS" Encoding="Hex">0419</Code>
+		</Language>
+	</Language>
+	<Language Name="sa">
+		<Label xml:lang="en">Sanskrit</Label>
+		<Label xml:lang="ru">Санскрит</Label>
+		<Label Type="Org" xml:lang="sa">संस्कृत</Label>
+		<Code Source="ISO639-1">sa</Code>
+		<Code Source="ISO639-2">san</Code>
+		<Code Source="IETF">sa</Code>
+		<Code Source="NLS" Encoding="Hex">004F</Code>
+		<Language Name="sa-IN">
+			<Label xml:lang="en">Sanskrit (India)</Label>
+			<Label xml:lang="ru">Санскрит (Индия)</Label>
+			<Label Type="Org" xml:lang="sa-IN">संस्कृत (भारतम्)</Label>
+			<Code Source="ISO639-1">sa</Code>
+			<Code Source="ISO639-2">san</Code>
+			<Code Source="IETF">sa-IN</Code>
+			<Code Source="NLS" Encoding="Hex">044F</Code>
+		</Language>
+	</Language>
+	<Language Name="se">
+		<Label xml:lang="en">Sami (Northern)</Label>
+		<Label xml:lang="ru">Саамский северный</Label>
+		<Label Type="Org" xml:lang="se-FI">davvisámegiella</Label>
+		<Label Type="Org" xml:lang="se-NO">davvisámegiella</Label>
+		<Label Type="Org" xml:lang="se-SE">davvisámegiella</Label>
+		<Language Name="se-FI">
+			<Label xml:lang="en">Sami (Northern) (Finland)</Label>
+			<Label xml:lang="ru">Саамский северный (Финляндия)</Label>
+			<Label Type="Org" xml:lang="se-FI">davvisámegiella (Suopma)</Label>
+			<Code Source="ISO639-1">se</Code>
+			<Code Source="ISO639-2">se</Code>
+			<Code Source="IETF">se-FI</Code>
+			<Code Source="NLS" Encoding="Hex">0C3B</Code>
+		</Language>
+		<Language Name="se-NO">
+			<Label xml:lang="en">Sami (Northern) (Norway)</Label>
+			<Label xml:lang="ru">Саамский северный (Норвегия)</Label>
+			<Label Type="Org" xml:lang="se-NO">davvisámegiella (Norga)</Label>
+			<Code Source="ISO639-1">se</Code>
+			<Code Source="ISO639-2">se</Code>
+			<Code Source="IETF">se-NO</Code>
+			<Code Source="NLS" Encoding="Hex">043B</Code>
+		</Language>
+		<Language Name="se-SE">
+			<Label xml:lang="en">Sami (Northern) (Sweden)</Label>
+			<Label xml:lang="ru">Саамский северный (Швеция)</Label>
+			<Label Type="Org" xml:lang="se-SE">davvisámegiella (Ruoŧŧa)</Label>
+			<Code Source="ISO639-1">se</Code>
+			<Code Source="ISO639-2">se</Code>
+			<Code Source="IETF">se-SE</Code>
+			<Code Source="NLS" Encoding="Hex">083B</Code>
+		</Language>
+	</Language>
+	<Language Name="sk">
+		<Label xml:lang="en">Slovak</Label>
+		<Label xml:lang="ru">Словацкий</Label>
+		<Label Type="Org" xml:lang="sk">slovenčina</Label>
+		<Code Source="ISO639-1">sk</Code>
+		<Code Source="ISO639-2">slk</Code>
+		<Code Source="IETF">sk</Code>
+		<Code Source="NLS" Encoding="Hex">001B</Code>
+		<Language Name="sk-CS" EndPeriod="1993-06">
+			<Label xml:lang="en">Slovak (Czechoslovakia)</Label>
+			<Label xml:lang="ru">Словацкий (Чехословакия)</Label>
+			<Label Type="Org" xml:lang="cs-CZ">slovenčina (Československo)</Label>
+			<Code Source="ISO639-1">sk</Code>
+			<Code Source="ISO639-2">slk</Code>
+			<Code Source="IETF">cs-SK</Code>
+		</Language>
+		<Language Name="sk-SK">
+			<Label xml:lang="en">Slovak (Slovakia)</Label>
+			<Label xml:lang="ru">Словацкий (Словакия)</Label>
+			<Label xml:lang="ru" Type="Abbr">словац.</Label>
+			<Label Type="Org" xml:lang="sk-SK">slovenčina (Slovenská republika)</Label>
+			<Code Source="ISO639-1">sk</Code>
+			<Code Source="ISO639-2">slk</Code>
+			<Code Source="IETF">sk-SK</Code>
+			<Code Source="NLS" Encoding="Hex">041B</Code>
+		</Language>
+	</Language>
+	<Language Name="sl">
+		<Label xml:lang="en">Slovenian</Label>
+		<Label xml:lang="ru">Словенский</Label>
+		<Label xml:lang="ru" Type="Abbr">слов.</Label>
+		<Label Type="Org" xml:lang="sl">slovenski</Label>
+		<Code Source="ISO639-1">sl</Code>
+		<Code Source="ISO639-2">slv</Code>
+		<Code Source="IETF">sl</Code>
+		<Code Source="NLS" Encoding="Hex">0024</Code>
+		<Language Name="sl-SI">
+			<Label xml:lang="en">Slovenian (Slovenia)</Label>
+			<Label xml:lang="ru">Словенский (Словения)</Label>
+			<Label Type="Org" xml:lang="sl-SI">slovenski (Slovenija)</Label>
+			<Code Source="ISO639-1">sl</Code>
+			<Code Source="ISO639-2">slv</Code>
+			<Code Source="IETF">sl-SI</Code>
+			<Code Source="NLS" Encoding="Hex">0424</Code>
+		</Language>
+	</Language>
+	<Language Name="sma">
+		<Label xml:lang="en">Sami (Southern)</Label>
+		<Label xml:lang="ru">Саамский южный</Label>
+		<Label Type="Org" xml:lang="sma-NO">åarjelsaemiengiele</Label>
+		<Label Type="Org" xml:lang="sma-SE">åarjelsaemiengiele</Label>
+		<Language Name="sma-NO">
+			<Label xml:lang="en">Sami (Southern) (Norway)</Label>
+			<Label xml:lang="ru">Саамский южный (Норвегия)</Label>
+			<Label Type="Org" xml:lang="sma-NO">åarjelsaemiengiele (Nöörje)</Label>
+			<Code Source="ISO639-1">sma</Code>
+			<Code Source="ISO639-2">sma</Code>
+			<Code Source="IETF">sma-NO</Code>
+			<Code Source="NLS" Encoding="Hex">183B</Code>
+		</Language>
+		<Language Name="sma-SE">
+			<Label xml:lang="en">Sami (Southern) (Sweden)</Label>
+			<Label xml:lang="ru">Саамский южный (Швеция)</Label>
+			<Label Type="Org" xml:lang="sma-SE">åarjelsaemiengiele (Sveerje)</Label>
+			<Code Source="ISO639-1">sma</Code>
+			<Code Source="ISO639-2">sma</Code>
+			<Code Source="IETF">sma-SE</Code>
+			<Code Source="NLS" Encoding="Hex">1C3B</Code>
+		</Language>
+	</Language>
+	<Language Name="smj">
+		<Label xml:lang="en">Sami (Lule)</Label>
+		<Label xml:lang="ru">Саамский Лул</Label>
+		<Label Type="Org" xml:lang="smj-NO">julevusámegiella</Label>
+		<Label Type="Org" xml:lang="smj-SE">julevusámegiella</Label>
+		<Language Name="smj-NO">
+			<Label xml:lang="en">Sami (Lule) (Norway)</Label>
+			<Label xml:lang="ru">Саамский Лул (Норвегия)</Label>
+			<Label Type="Org" xml:lang="smj-NO">julevusámegiella (Vuodna)</Label>
+			<Code Source="ISO639-1">smj</Code>
+			<Code Source="ISO639-2">smj</Code>
+			<Code Source="IETF">smj-NO</Code>
+			<Code Source="NLS" Encoding="Hex">103B</Code>
+		</Language>
+		<Language Name="smj-SE">
+			<Label xml:lang="en">Sami (Lule) (Sweden)</Label>
+			<Label xml:lang="ru">Саамский Лул (Швеция)</Label>
+			<Label Type="Org" xml:lang="smj-SE">julevusámegiella (Svierik)</Label>
+			<Code Source="ISO639-1">smj</Code>
+			<Code Source="ISO639-2">smj</Code>
+			<Code Source="IETF">smj-SE</Code>
+			<Code Source="NLS" Encoding="Hex">143B</Code>
+		</Language>
+	</Language>
+	<Language Name="smn">
+		<Label xml:lang="en">Sami (Inari)</Label>
+		<Label xml:lang="ru">Саамский Инари</Label>
+		<Label Type="Org" xml:lang="smn-FI">sämikielâ</Label>
+		<Language Name="smn-FI">
+			<Label xml:lang="en">Sami (Inari) (Finland)</Label>
+			<Label xml:lang="ru">Саамский Инари (Финляндия)</Label>
+			<Label Type="Org" xml:lang="smn-FI">sämikielâ (Suomâ)</Label>
+			<Code Source="ISO639-1">smn</Code>
+			<Code Source="ISO639-2">smn</Code>
+			<Code Source="IETF">smn-FI</Code>
+			<Code Source="NLS" Encoding="Hex">243B</Code>
+		</Language>
+	</Language>
+	<Language Name="sms">
+		<Label xml:lang="en">Sami (Skolt)</Label>
+		<Label xml:lang="ru">Саамский Скольт</Label>
+		<Label Type="Org" xml:lang="sms-FI">sääm´ǩiõll</Label>
+		<Language Name="sms-FI">
+			<Label xml:lang="en">Sami (Skolt) (Finland)</Label>
+			<Label xml:lang="ru">Саамский Скольт (Финляндия)</Label>
+			<Label Type="Org" xml:lang="sms-FI">sääm´ǩiõll (Lää´ddjânnam)</Label>
+			<Code Source="ISO639-1">sms</Code>
+			<Code Source="ISO639-2">sms</Code>
+			<Code Source="IETF">sms-FI</Code>
+			<Code Source="NLS" Encoding="Hex">203B</Code>
+		</Language>
+	</Language>
+	<Language Name="sq">
+		<Label xml:lang="en">Albanian</Label>
+		<Label xml:lang="ru">Албанский</Label>
+		<Label xml:lang="ru" Type="Abbr">албан.</Label>
+		<Label Type="Org" xml:lang="sq">shqipe</Label>
+		<Code Source="ISO639-1">sq</Code>
+		<Code Source="ISO639-2">sqi</Code>
+		<Code Source="IETF">sq</Code>
+		<Code Source="NLS" Encoding="Hex">001C</Code>
+		<Language Name="sq-AL">
+			<Label xml:lang="en">Albanian (Albania)</Label>
+			<Label xml:lang="ru">Албанский (Албания)</Label>
+			<Label Type="Org" xml:lang="sq-AL">shqipe (Shqipëria)</Label>
+			<Code Source="ISO639-1">sq</Code>
+			<Code Source="ISO639-2">sqi</Code>
+			<Code Source="IETF">sq-AL</Code>
+			<Code Source="NLS" Encoding="Hex">041C</Code>
+		</Language>
+	</Language>
+	<Language Name="sr">
+		<Label xml:lang="en">Serbian</Label>
+		<Label xml:lang="ru">Сербский</Label>
+		<Label Type="Org" xml:lang="sr">srpski</Label>
+		<Label Type="Org" xml:lang="sr-Cyrl-BA">српски</Label>
+		<Label Type="Org" xml:lang="sr-Latn-BA">srpski</Label>
+		<Code Source="ISO639-1">sr</Code>
+		<Code Source="ISO639-2">srp</Code>
+		<Code Source="IETF">sr</Code>
+		<Code Source="NLS" Encoding="Hex">7C1A</Code>
+		<Language Name="sr-Cyrl-BA">
+			<Label xml:lang="en">Serbian (Cyrillic) (Bosnia and Herzegovina)</Label>
+			<Label xml:lang="ru">Сербский (кириллица, Босния и Герцеговина)</Label>
+			<Label Type="Org" xml:lang="sr-Cyrl-BA">српски (Босна и Херцеговина)</Label>
+			<Code Source="ISO639-1">sr</Code>
+			<Code Source="ISO639-2">sr</Code>
+			<Code Source="IETF">sr-Cyrl-BA</Code>
+			<Code Source="NLS" Encoding="Hex">1C1A</Code>
+		</Language>
+		<Language Name="sr-Cyrl-CS" EndPeriod="2006-09">
+			<Label xml:lang="en">Serbian (Cyrillic, Serbia)</Label>
+			<Label xml:lang="ru">сербский (кириллица, Сербия)</Label>
+			<Label Type="Org" xml:lang="sr-Cyrl-CS">српски (Србија)</Label>
+			<Code Source="ISO639-1">sr</Code>
+			<Code Source="ISO639-2">srp</Code>
+			<Code Source="IETF">sr-Cyrl-CS</Code>
+			<Code Source="NLS" Encoding="Hex">0C1A</Code>
+		</Language>
+		<Language Name="sr-SP-Cyrl">
+			<Label xml:lang="en">Serbian (Cyrillic, Serbia)</Label>
+			<Label xml:lang="ru">сербский (кириллица, Сербия)</Label>
+			<Label Type="Org" xml:lang="sr-SP-Cyrl">српски (Србија)</Label>
+			<Code Source="IETF">sr-SP-Cyrl</Code>
+		</Language>
+		<Language Name="sr-Latn-BA">
+			<Label xml:lang="en">Serbian (Latin) (Bosnia and Herzegovina)</Label>
+			<Label xml:lang="ru">Сербский (латиница, Босния и Герцеговина)</Label>
+			<Label Type="Org" xml:lang="sr-Latn-BA">srpski (Bosna i Hercegovina)</Label>
+			<Code Source="ISO639-1">sr</Code>
+			<Code Source="ISO639-2">sr</Code>
+			<Code Source="IETF">sr-Latn-BA</Code>
+			<Code Source="NLS" Encoding="Hex">181A</Code>
+		</Language>
+		<Language Name="sr-Latn-CS" EndPeriod="2006-09">
+			<Label xml:lang="en">Serbian (Latin, Serbia)</Label>
+			<Label xml:lang="ru">сербский (латиница, Сербия)</Label>
+			<Label Type="Org" xml:lang="sr-Latn-CS">srpski (Srbija)</Label>
+			<Code Source="ISO639-1">sr</Code>
+			<Code Source="ISO639-2">srp</Code>
+			<Code Source="IETF">sr-Latn-CS</Code>
+			<Code Source="NLS" Encoding="Hex">081A</Code>
+		</Language>
+		<Language Name="sr-SP-Latn" EndPeriod="2006-09">
+			<Label xml:lang="en">Serbian (Latin, Serbia)</Label>
+			<Label xml:lang="ru">сербский (латиница, Сербия)</Label>
+			<Label Type="Org" xml:lang="sr-SP-Latn">srpski (Srbija)</Label>
+			<Code Source="IETF">sr-SP-Latn</Code>
+		</Language>
+	</Language>
+	<Language Name="sv">
+		<Label xml:lang="en">Swedish</Label>
+		<Label xml:lang="ru">Шведский</Label>
+		<Label xml:lang="ru" Type="Abbr">швед.</Label>
+		<Label Type="Org" xml:lang="sv">svenska</Label>
+		<Code Source="ISO639-1">sv</Code>
+		<Code Source="ISO639-2">swe</Code>
+		<Code Source="IETF">sv</Code>
+		<Code Source="NLS" Encoding="Hex">001D</Code>
+		<Language Name="sv-FI">
+			<Label xml:lang="en">Swedish (Finland)</Label>
+			<Label xml:lang="ru">Шведский (Финляндия)</Label>
+			<Label Type="Org" xml:lang="sv-FI">svenska (Finland)</Label>
+			<Code Source="ISO639-1">sv</Code>
+			<Code Source="ISO639-2">swe</Code>
+			<Code Source="IETF">sv-FI</Code>
+			<Code Source="NLS" Encoding="Hex">081D</Code>
+		</Language>
+		<Language Name="sv-SE">
+			<Label xml:lang="en">Swedish (Sweden)</Label>
+			<Label xml:lang="ru">Шведский (Швеция)</Label>
+			<Label Type="Org" xml:lang="sv-SE">svenska (Sverige)</Label>
+			<Code Source="ISO639-1">sv</Code>
+			<Code Source="ISO639-2">swe</Code>
+			<Code Source="IETF">sv-SE</Code>
+			<Code Source="NLS" Encoding="Hex">041D</Code>
+		</Language>
+	</Language>
+	<Language Name="sw">
+		<Label xml:lang="en">Kiswahili</Label>
+		<Label xml:lang="ru">суахили</Label>
+		<Label Type="Org" xml:lang="sw">Kiswahili</Label>
+		<Code Source="ISO639-1">sw</Code>
+		<Code Source="ISO639-2">swa</Code>
+		<Code Source="IETF">sw</Code>
+		<Code Source="NLS" Encoding="Hex">0041</Code>
+		<Language Name="sw-KE">
+			<Label xml:lang="en">Kiswahili (Kenya)</Label>
+			<Label xml:lang="ru">суахили (Кения)</Label>
+			<Label Type="Org" xml:lang="sw-KE">Kiswahili (Kenya)</Label>
+			<Code Source="ISO639-1">sw</Code>
+			<Code Source="ISO639-2">swa</Code>
+			<Code Source="IETF">sw-KE</Code>
+			<Code Source="NLS" Encoding="Hex">0441</Code>
+		</Language>
+	</Language>
+	<Language Name="syr">
+		<Label xml:lang="en">Syriac</Label>
+		<Label xml:lang="ru">Сирийский</Label>
+		<Label Type="Org" xml:lang="syr">ܣܘܪܝܝܐ</Label>
+		<Code Source="ISO639-1">syr</Code>
+		<Code Source="ISO639-2">syr</Code>
+		<Code Source="IETF">syr</Code>
+		<Code Source="NLS" Encoding="Hex">005A</Code>
+		<Language Name="syr-SY">
+			<Label xml:lang="en">Syriac (Syria)</Label>
+			<Label xml:lang="ru">Сирийский (Сирия)</Label>
+			<Label Type="Org" xml:lang="syr-SY">ܣܘܪܝܝܐ (سوريا)</Label>
+			<Code Source="ISO639-1">syr</Code>
+			<Code Source="ISO639-2">syr</Code>
+			<Code Source="IETF">syr-SY</Code>
+			<Code Source="NLS" Encoding="Hex">045A</Code>
+		</Language>
+	</Language>
+	<Language Name="ta">
+		<Label xml:lang="en">Tamil</Label>
+		<Label xml:lang="ru">Тамильский</Label>
+		<Label Type="Org" xml:lang="ta">தமிழ்</Label>
+		<Code Source="ISO639-1">ta</Code>
+		<Code Source="ISO639-2">tam</Code>
+		<Code Source="IETF">ta</Code>
+		<Code Source="NLS" Encoding="Hex">0049</Code>
+		<Language Name="ta-IN">
+			<Label xml:lang="en">Tamil (India)</Label>
+			<Label xml:lang="ru">Тамильский (Индия)</Label>
+			<Label Type="Org" xml:lang="ta-IN">தமிழ் (இந்தியா)</Label>
+			<Code Source="ISO639-1">ta</Code>
+			<Code Source="ISO639-2">tam</Code>
+			<Code Source="IETF">ta-IN</Code>
+			<Code Source="NLS" Encoding="Hex">0449</Code>
+		</Language>
+	</Language>
+	<Language Name="te">
+		<Label xml:lang="en">Telugu</Label>
+		<Label xml:lang="ru">Телугу</Label>
+		<Label Type="Org" xml:lang="te">తెలుగు</Label>
+		<Code Source="ISO639-1">te</Code>
+		<Code Source="ISO639-2">tel</Code>
+		<Code Source="IETF">te</Code>
+		<Code Source="NLS" Encoding="Hex">004A</Code>
+		<Language Name="te-IN">
+			<Label xml:lang="en">Telugu (India)</Label>
+			<Label xml:lang="ru">Телугу (Индия)</Label>
+			<Label Type="Org" xml:lang="te-IN">తెలుగు (భారత దేశం)</Label>
+			<Code Source="ISO639-1">te</Code>
+			<Code Source="ISO639-2">tel</Code>
+			<Code Source="IETF">te-IN</Code>
+			<Code Source="NLS" Encoding="Hex">044A</Code>
+		</Language>
+	</Language>
+	<Language Name="th">
+		<Label xml:lang="en">Thai</Label>
+		<Label xml:lang="ru">Тайский</Label>
+		<Label xml:lang="ru" Type="Abbr">тай.</Label>
+		<Label Type="Org" xml:lang="th">ไทย</Label>
+		<Code Source="ISO639-1">th</Code>
+		<Code Source="ISO639-2">tha</Code>
+		<Code Source="IETF">th</Code>
+		<Code Source="NLS" Encoding="Hex">001E</Code>
+		<Language Name="th-TH">
+			<Label xml:lang="en">Thai (Thailand)</Label>
+			<Label xml:lang="ru">Тайский (Таиланд)</Label>
+			<Label Type="Org" xml:lang="th-TH">ไทย (ไทย)</Label>
+			<Code Source="ISO639-1">th</Code>
+			<Code Source="ISO639-2">tha</Code>
+			<Code Source="IETF">th-TH</Code>
+			<Code Source="NLS" Encoding="Hex">041E</Code>
+		</Language>
+	</Language>
+	<Language Name="tn">
+		<Label xml:lang="en">Tswana</Label>
+		<Label xml:lang="ru">Тсвана</Label>
+		<Label Type="Org" xml:lang="tn-ZA">Setswana</Label>
+		<Language Name="tn-ZA">
+			<Label xml:lang="en">Tswana (South Africa)</Label>
+			<Label xml:lang="ru">Тсвана</Label>
+			<Label Type="Org" xml:lang="tn-ZA">Setswana (Aforika Borwa)</Label>
+			<Code Source="ISO639-1">tn</Code>
+			<Code Source="ISO639-2">tn</Code>
+			<Code Source="IETF">tn-ZA</Code>
+			<Code Source="NLS" Encoding="Hex">0432</Code>
+		</Language>
+	</Language>
+	<Language Name="tr">
+		<Label xml:lang="en">Turkish</Label>
+		<Label xml:lang="ru">Турецкий</Label>
+		<Label xml:lang="ru" Type="Abbr">тур.</Label>
+		<Label Type="Org" xml:lang="tr">Türkçe</Label>
+		<Code Source="ISO639-1">tr</Code>
+		<Code Source="ISO639-2">tur</Code>
+		<Code Source="IETF">tr</Code>
+		<Code Source="NLS" Encoding="Hex">001F</Code>
+		<Language Name="tr-TR">
+			<Label xml:lang="en">Turkish (Turkey)</Label>
+			<Label xml:lang="ru">Турецкий (Турция)</Label>
+			<Label Type="Org" xml:lang="tr-TR">Türkçe (Türkiye)</Label>
+			<Code Source="ISO639-1">tr</Code>
+			<Code Source="ISO639-2">tur</Code>
+			<Code Source="IETF">tr-TR</Code>
+			<Code Source="NLS" Encoding="Hex">041F</Code>
+		</Language>
+	</Language>
+	<Language Name="tt">
+		<Label xml:lang="en">Tatar</Label>
+		<Label xml:lang="ru">Татарский</Label>
+		<Label Type="Org" xml:lang="tt">Татар</Label>
+		<Code Source="ISO639-1">tt</Code>
+		<Code Source="ISO639-2">tat</Code>
+		<Code Source="IETF">tt</Code>
+		<Code Source="NLS" Encoding="Hex">0044</Code>
+		<Language Name="tt-RU">
+			<Label xml:lang="en">Tatar (Russia)</Label>
+			<Label xml:lang="ru">Татарский (Россия)</Label>
+			<Label Type="Org" xml:lang="tt-RU">Татар (Россия)</Label>
+			<Code Source="ISO639-1">tt</Code>
+			<Code Source="ISO639-2">tat</Code>
+			<Code Source="IETF">tt-RU</Code>
+			<Code Source="NLS" Encoding="Hex">0444</Code>
+		</Language>
+	</Language>
+	<Language Name="uk">
+		<Label xml:lang="en">Ukrainian</Label>
+		<Label xml:lang="ru">Украинский</Label>
+		<Label xml:lang="ru" Type="Abbr">укр.</Label>
+		<Label Type="Org" xml:lang="uk">україньска</Label>
+		<Code Source="ISO639-1">uk</Code>
+		<Code Source="ISO639-2">ukr</Code>
+		<Code Source="IETF">uk</Code>
+		<Code Source="NLS" Encoding="Hex">0022</Code>
+		<Language Name="uk-UA">
+			<Label xml:lang="en">Ukrainian (Ukraine)</Label>
+			<Label xml:lang="ru">Украинский (Украина)</Label>
+			<Label Type="Org" xml:lang="uk-UA">україньска (Україна)</Label>
+			<Code Source="ISO639-1">uk</Code>
+			<Code Source="ISO639-2">ukr</Code>
+			<Code Source="IETF">uk-UA</Code>
+			<Code Source="NLS" Encoding="Hex">0422</Code>
+		</Language>
+	</Language>
+	<Language Name="ur">
+		<Label xml:lang="en">Urdu</Label>
+		<Label xml:lang="ru">Урду</Label>
+		<Label xml:lang="ru" Type="Abbr">урду</Label>
+		<Label Type="Org" xml:lang="ur">اُردو</Label>
+		<Code Source="ISO639-1">ur</Code>
+		<Code Source="ISO639-2">urd</Code>
+		<Code Source="IETF">ur</Code>
+		<Code Source="NLS" Encoding="Hex">0020</Code>
+		<Language Name="ur-PK">
+			<Label xml:lang="en">Urdu (Islamic Republic of Pakistan)</Label>
+			<Label xml:lang="ru">Урду (Исламская Республика Пакистан)</Label>
+			<Label Type="Org" xml:lang="ur-PK">اُردو (پاکستان)</Label>
+			<Code Source="ISO639-1">ur</Code>
+			<Code Source="ISO639-2">urd</Code>
+			<Code Source="IETF">ur-PK</Code>
+			<Code Source="NLS" Encoding="Hex">0420</Code>
+		</Language>
+	</Language>
+	<Language Name="uz">
+		<Label xml:lang="en">Uzbek</Label>
+		<Label xml:lang="ru">Узбекский</Label>
+		<Label Type="Org" xml:lang="uz">U'zbek</Label>
+		<Label Type="Org" xml:lang="uz-Cyrl-UZ">Ўзбек</Label>
+		<Label Type="Org" xml:lang="uz-Latn-UZ">U'zbek</Label>
+		<Code Source="ISO639-1">uz</Code>
+		<Code Source="ISO639-2">uzb</Code>
+		<Code Source="IETF">uz</Code>
+		<Code Source="NLS" Encoding="Hex">0043</Code>
+		<Language Name="uz-Cyrl-UZ">
+			<Label xml:lang="en">Uzbek (Cyrillic, Uzbekistan)</Label>
+			<Label xml:lang="ru">узбекский (кириллица, Узбекистан)</Label>
+			<Label Type="Org" xml:lang="uz-Cyrl-UZ">Ўзбек (Ўзбекистон)</Label>
+			<Code Source="ISO639-1">uz</Code>
+			<Code Source="ISO639-2">uzb</Code>
+			<Code Source="IETF">uz-Cyrl-UZ</Code>
+			<Code Source="NLS" Encoding="Hex">0843</Code>
+		</Language>
+		<Language Name="uz-Latn-UZ">
+			<Label xml:lang="en">Uzbek (Latin, Uzbekistan)</Label>
+			<Label xml:lang="ru">узбекский (латиница, Узбекистан)</Label>
+			<Label Type="Org" xml:lang="uz-Latn-UZ">U'zbek (U'zbekiston Respublikasi)</Label>
+			<Code Source="ISO639-1">uz</Code>
+			<Code Source="ISO639-2">uzb</Code>
+			<Code Source="IETF">uz-Latn-UZ</Code>
+			<Code Source="NLS" Encoding="Hex">0443</Code>
+		</Language>
+	</Language>
+	<Language Name="vi">
+		<Label xml:lang="en">Vietnamese</Label>
+		<Label xml:lang="ru">Вьетнамский</Label>
+		<Label xml:lang="ru" Type="Abbr">вьет.</Label>
+		<Label Type="Org" xml:lang="vi">Tiếng Việt</Label>
+		<Code Source="ISO639-1">vi</Code>
+		<Code Source="ISO639-2">vie</Code>
+		<Code Source="IETF">vi</Code>
+		<Code Source="NLS" Encoding="Hex">002A</Code>
+		<Language Name="vi-VN">
+			<Label xml:lang="en">Vietnamese (Vietnam)</Label>
+			<Label xml:lang="ru">вьетнамский (Вьетнам)</Label>
+			<Label Type="Org" xml:lang="vi-VN">Tiếng Việt (Việt Nam)</Label>
+			<Code Source="ISO639-1">vi</Code>
+			<Code Source="ISO639-2">vie</Code>
+			<Code Source="IETF">vi-VN</Code>
+			<Code Source="NLS" Encoding="Hex">042A</Code>
+		</Language>
+	</Language>
+	<Language Name="xh">
+		<Label xml:lang="en">Xhosa</Label>
+		<Label xml:lang="ru">Кхоса</Label>
+		<Label Type="Org" xml:lang="xh-ZA">isiXhosa</Label>
+		<Language Name="xh-ZA">
+			<Label xml:lang="en">Xhosa (South Africa)</Label>
+			<Label xml:lang="ru">Кхоса</Label>
+			<Label Type="Org" xml:lang="xh-ZA">isiXhosa (uMzantsi Afrika)</Label>
+			<Code Source="ISO639-1">xh</Code>
+			<Code Source="ISO639-2">xh</Code>
+			<Code Source="IETF">xh-ZA</Code>
+			<Code Source="NLS" Encoding="Hex">0434</Code>
+		</Language>
+	</Language>
+	<Language Name="zh">
+		<Label xml:lang="en">Chinese</Label>
+		<Label xml:lang="ru">Китайский</Label>
+		<Label xml:lang="ru" Type="Abbr">кит.</Label>
+		<Label Type="Org" xml:lang="zh-CHS">中文</Label>
+		<Label Type="Org" xml:lang="zh-CHT">中文</Label>
+		<Label Type="Org" xml:lang="zh-CN">中文</Label>
+		<Label Type="Org" xml:lang="zh-HK">中文</Label>
+		<Label Type="Org" xml:lang="zh-MO">中文</Label>
+		<Label Type="Org" xml:lang="zh-SG">中文</Label>
+		<Label Type="Org" xml:lang="zh-TW">中文</Label>
+		<Language Name="zh-CHS">
+			<Label xml:lang="en">Chinese (Simplified)</Label>
+			<Label xml:lang="ru">Китайский (упрощенное письмо)</Label>
+			<Label xml:lang="ru" Type="Abbr">кит.</Label>
+			<Label Type="Org" xml:lang="zh-CHS">中文(简体)</Label>
+			<Code Source="ISO639-1">zh</Code>
+			<Code Source="ISO639-2">zho</Code>
+			<Code Source="IETF">zh-CHS</Code>
+			<Code Source="NLS" Encoding="Hex">0004</Code>
+		</Language>
+		<Language Name="zh-CHT">
+			<Label xml:lang="en">Chinese (Traditional)</Label>
+			<Label xml:lang="ru">Китайский (традиционное письмо)</Label>
+			<Label xml:lang="ru" Type="Abbr">кит.</Label>
+			<Label Type="Org" xml:lang="zh-CHT">中文(繁體)</Label>
+			<Code Source="ISO639-1">zh</Code>
+			<Code Source="ISO639-2">zho</Code>
+			<Code Source="IETF">zh-CHT</Code>
+			<Code Source="NLS" Encoding="Hex">7C04</Code>
+		</Language>
+		<Language Name="zh-CN">
+			<Label xml:lang="en">Chinese (People's Republic of China)</Label>
+			<Label xml:lang="ru">Китайский (Китайская Народная Республика)</Label>
+			<Label Type="Org" xml:lang="zh-CN">中文(中华人民共和国)</Label>
+			<Code Source="ISO639-1">zh</Code>
+			<Code Source="ISO639-2">zho</Code>
+			<Code Source="IETF">zh-CN</Code>
+			<Code Source="NLS" Encoding="Hex">0804</Code>
+		</Language>
+		<Language Name="zh-HK">
+			<Label xml:lang="en">Chinese (Hong Kong S.A.R.)</Label>
+			<Label xml:lang="ru">Китайский (Гонконг)</Label>
+			<Label Type="Org" xml:lang="zh-HK">中文(香港特别行政區)</Label>
+			<Code Source="ISO639-1">zh</Code>
+			<Code Source="ISO639-2">zho</Code>
+			<Code Source="IETF">zh-HK</Code>
+			<Code Source="NLS" Encoding="Hex">0C04</Code>
+		</Language>
+		<Language Name="zh-MO">
+			<Label xml:lang="en">Chinese (Macao S.A.R.)</Label>
+			<Label xml:lang="ru">китайский (Макао)</Label>
+			<Label Type="Org" xml:lang="zh-MO">中文(澳門特别行政區)</Label>
+			<Code Source="ISO639-1">zh</Code>
+			<Code Source="ISO639-2">zho</Code>
+			<Code Source="IETF">zh-MO</Code>
+			<Code Source="NLS" Encoding="Hex">1404</Code>
+		</Language>
+		<Language Name="zh-SG">
+			<Label xml:lang="en">Chinese (Singapore)</Label>
+			<Label xml:lang="ru">Китайский (Сингапур)</Label>
+			<Label Type="Org" xml:lang="zh-SG">中文(新加坡)</Label>
+			<Code Source="ISO639-1">zh</Code>
+			<Code Source="ISO639-2">zho</Code>
+			<Code Source="IETF">zh-SG</Code>
+			<Code Source="NLS" Encoding="Hex">1004</Code>
+		</Language>
+		<Language Name="zh-TW">
+			<Label xml:lang="en">Chinese (Taiwan)</Label>
+			<Label xml:lang="ru">Китайский (Тайвань)</Label>
+			<Label Type="Org" xml:lang="zh-TW">中文(台灣)</Label>
+			<Code Source="ISO639-1">zh</Code>
+			<Code Source="ISO639-2">zho</Code>
+			<Code Source="IETF">zh-TW</Code>
+			<Code Source="NLS" Encoding="Hex">0404</Code>
+		</Language>
+	</Language>
+	<Language Name="zu">
+		<Label xml:lang="en">Zulu</Label>
+		<Label xml:lang="ru">Зулусский</Label>
+		<Label Type="Org" xml:lang="zu-ZA">isiZulu</Label>
+		<Language Name="zu-ZA">
+			<Label xml:lang="en">Zulu (South Africa)</Label>
+			<Label xml:lang="ru">Зулусский</Label>
+			<Label Type="Org" xml:lang="zu-ZA">isiZulu (iNingizimu Afrika)</Label>
+			<Code Source="ISO639-1">zu</Code>
+			<Code Source="ISO639-2">zu</Code>
+			<Code Source="IETF">zu-ZA</Code>
+			<Code Source="NLS" Encoding="Hex">0435</Code>
+		</Language>
+	</Language>
+</LanguageList>
+<ExportList xmlns="urn:schemas-xml-frafv:proxy">
+	<Prefix External="lang"/>
+	<Export Name="af"/>
+	<Export Name="af-ZA"/>
+	<Export Name="ar"/>
+	<Export Name="ar-AE"/>
+	<Export Name="ar-BH"/>
+	<Export Name="ar-DZ"/>
+	<Export Name="ar-EG"/>
+	<Export Name="ar-IQ"/>
+	<Export Name="ar-JO"/>
+	<Export Name="ar-KW"/>
+	<Export Name="ar-LB"/>
+	<Export Name="ar-LY"/>
+	<Export Name="ar-MA"/>
+	<Export Name="ar-OM"/>
+	<Export Name="ar-QA"/>
+	<Export Name="ar-SA"/>
+	<Export Name="ar-SY"/>
+	<Export Name="ar-TN"/>
+	<Export Name="ar-YE"/>
+	<Export Name="arn-CL"/>
+	<Export Name="az"/>
+	<Export Name="az-Cyrl-AZ"/>
+	<Export Name="az-Latn-AZ"/>
+	<Export Name="be"/>
+	<Export Name="be-BY"/>
+	<Export Name="bg"/>
+	<Export Name="bg-BG"/>
+	<Export Name="bs-Cyrl-BA"/>
+	<Export Name="bs-Latn-BA"/>
+	<Export Name="ca"/>
+	<Export Name="ca-ES"/>
+	<Export Name="cs"/>
+	<Export Name="cs-CS"/>
+	<Export Name="cs-CZ"/>
+	<Export Name="cy-GB"/>
+	<Export Name="da"/>
+	<Export Name="da-DK"/>
+	<Export Name="de"/>
+	<Export Name="de-AT"/>
+	<Export Name="de-CH"/>
+	<Export Name="de-DD"/>
+	<Export Name="de-FRG"/>
+	<Export Name="de-DE"/>
+	<Export Name="de-LI"/>
+	<Export Name="de-LU"/>
+	<Export Name="dv"/>
+	<Export Name="dv-MV"/>
+	<Export Name="el"/>
+	<Export Name="el-GR"/>
+	<Export Name="en"/>
+	<Export Name="en-029"/>
+	<Export Name="en-AU"/>
+	<Export Name="en-BZ"/>
+	<Export Name="en-CA"/>
+	<Export Name="en-GB"/>
+	<Export Name="en-IE"/>
+	<Export Name="en-JM"/>
+	<Export Name="en-NZ"/>
+	<Export Name="en-PH"/>
+	<Export Name="en-TT"/>
+	<Export Name="en-US"/>
+	<Export Name="en-ZA"/>
+	<Export Name="en-ZW"/>
+	<Export Name="es"/>
+	<Export Name="es-AR"/>
+	<Export Name="es-BO"/>
+	<Export Name="es-CL"/>
+	<Export Name="es-CO"/>
+	<Export Name="es-CR"/>
+	<Export Name="es-DO"/>
+	<Export Name="es-EC"/>
+	<Export Name="es-ES"/>
+	<Export Name="es-GT"/>
+	<Export Name="es-HN"/>
+	<Export Name="es-MX"/>
+	<Export Name="es-NI"/>
+	<Export Name="es-PA"/>
+	<Export Name="es-PE"/>
+	<Export Name="es-PR"/>
+	<Export Name="es-PY"/>
+	<Export Name="es-SV"/>
+	<Export Name="es-UY"/>
+	<Export Name="es-VE"/>
+	<Export Name="et"/>
+	<Export Name="et-EE"/>
+	<Export Name="eu"/>
+	<Export Name="eu-ES"/>
+	<Export Name="fa"/>
+	<Export Name="fa-IR"/>
+	<Export Name="fi"/>
+	<Export Name="fi-FI"/>
+	<Export Name="fil-PH"/>
+	<Export Name="fo"/>
+	<Export Name="fo-FO"/>
+	<Export Name="fr"/>
+	<Export Name="fr-BE"/>
+	<Export Name="fr-CA"/>
+	<Export Name="fr-CH"/>
+	<Export Name="fr-FR"/>
+	<Export Name="fr-LU"/>
+	<Export Name="fr-MC"/>
+	<Export Name="fy-NL"/>
+	<Export Name="ga-IE"/>
+	<Export Name="gl"/>
+	<Export Name="gl-ES"/>
+	<Export Name="gu"/>
+	<Export Name="gu-IN"/>
+	<Export Name="he"/>
+	<Export Name="he-IL"/>
+	<Export Name="hi"/>
+	<Export Name="hi-IN"/>
+	<Export Name="hr"/>
+	<Export Name="hr-BA"/>
+	<Export Name="hr-HR"/>
+	<Export Name="hu"/>
+	<Export Name="hu-HU"/>
+	<Export Name="hy"/>
+	<Export Name="hy-AM"/>
+	<Export Name="id"/>
+	<Export Name="id-ID"/>
+	<Export Name="is"/>
+	<Export Name="is-IS"/>
+	<Export Name="it"/>
+	<Export Name="it-CH"/>
+	<Export Name="it-IT"/>
+	<Export Name="iu-Latn-CA"/>
+	<Export Name="ja"/>
+	<Export Name="ja-JP"/>
+	<Export Name="ka"/>
+	<Export Name="ka-GE"/>
+	<Export Name="kk"/>
+	<Export Name="kk-KZ"/>
+	<Export Name="kn"/>
+	<Export Name="kn-IN"/>
+	<Export Name="ko"/>
+	<Export Name="ko-KR"/>
+	<Export Name="kok"/>
+	<Export Name="kok-IN"/>
+	<Export Name="ky"/>
+	<Export Name="ky-KG"/>
+	<Export Name="lb-LU"/>
+	<Export Name="lt"/>
+	<Export Name="lt-LT"/>
+	<Export Name="lv"/>
+	<Export Name="lv-LV"/>
+	<Export Name="mi-NZ"/>
+	<Export Name="mk"/>
+	<Export Name="mk-MK"/>
+	<Export Name="mn"/>
+	<Export Name="mn-MN"/>
+	<Export Name="moh-CA"/>
+	<Export Name="mr"/>
+	<Export Name="mr-IN"/>
+	<Export Name="ms"/>
+	<Export Name="ms-BN"/>
+	<Export Name="ms-MY"/>
+	<Export Name="mt-MT"/>
+	<Export Name="nb-NO"/>
+	<Export Name="nl"/>
+	<Export Name="nl-BE"/>
+	<Export Name="nl-NL"/>
+	<Export Name="nn-NO"/>
+	<Export Name="no"/>
+	<Export Name="ns-ZA"/>
+	<Export Name="pa"/>
+	<Export Name="pa-IN"/>
+	<Export Name="pl"/>
+	<Export Name="pl-PL"/>
+	<Export Name="pt"/>
+	<Export Name="pt-BR"/>
+	<Export Name="pt-PT"/>
+	<Export Name="quz-BO"/>
+	<Export Name="quz-EC"/>
+	<Export Name="quz-PE"/>
+	<Export Name="rm-CH"/>
+	<Export Name="ro"/>
+	<Export Name="ro-RO"/>
+	<Export Name="ru"/>
+	<Export Name="ru-SU"/>
+	<Export Name="ru-RU"/>
+	<Export Name="sa"/>
+	<Export Name="sa-IN"/>
+	<Export Name="se-FI"/>
+	<Export Name="se-NO"/>
+	<Export Name="se-SE"/>
+	<Export Name="sk"/>
+	<Export Name="sk-CS"/>
+	<Export Name="sk-SK"/>
+	<Export Name="sl"/>
+	<Export Name="sl-SI"/>
+	<Export Name="sma-NO"/>
+	<Export Name="sma-SE"/>
+	<Export Name="smj-NO"/>
+	<Export Name="smj-SE"/>
+	<Export Name="smn-FI"/>
+	<Export Name="sms-FI"/>
+	<Export Name="sq"/>
+	<Export Name="sq-AL"/>
+	<Export Name="sr"/>
+	<Export Name="sr-Cyrl-BA"/>
+	<Export Name="sr-Cyrl-CS"/>
+	<Export Name="sr-SP-Cyrl"/>
+	<Export Name="sr-Latn-BA"/>
+	<Export Name="sr-Latn-CS"/>
+	<Export Name="sr-SP-Latn"/>
+	<Export Name="sv"/>
+	<Export Name="sv-FI"/>
+	<Export Name="sv-SE"/>
+	<Export Name="sw"/>
+	<Export Name="sw-KE"/>
+	<Export Name="syr"/>
+	<Export Name="syr-SY"/>
+	<Export Name="ta"/>
+	<Export Name="ta-IN"/>
+	<Export Name="te"/>
+	<Export Name="te-IN"/>
+	<Export Name="th"/>
+	<Export Name="th-TH"/>
+	<Export Name="tn-ZA"/>
+	<Export Name="tr"/>
+	<Export Name="tr-TR"/>
+	<Export Name="tt"/>
+	<Export Name="tt-RU"/>
+	<Export Name="uk"/>
+	<Export Name="uk-UA"/>
+	<Export Name="ur"/>
+	<Export Name="ur-PK"/>
+	<Export Name="uz"/>
+	<Export Name="uz-Cyrl-UZ"/>
+	<Export Name="uz-Latn-UZ"/>
+	<Export Name="vi"/>
+	<Export Name="vi-VN"/>
+	<Export Name="xh-ZA"/>
+	<Export Name="zh-CHS"/>
+	<Export Name="zh-CHT"/>
+	<Export Name="zh-CN"/>
+	<Export Name="zh-HK"/>
+	<Export Name="zh-MO"/>
+	<Export Name="zh-SG"/>
+	<Export Name="zh-TW"/>
+	<Export Name="zu-ZA"/>
+</ExportList>
+<ExternalList xmlns="urn:geo-schemas-xml-frafv:proxy" xmlns:e="urn:schemas-xml-frafv:proxy">
+	<e:Prefix External="org"/>
+	<Company e:Name="IETF">
+		<Label Type="Abbr" xml:lang="en">IETF</Label>
+	</Company>
+	<Company e:Name="ISO639-1" e:External="ISO3166_alpha2">
+		<Label xml:lang="en">ISO 3166-1 alpha-2</Label>
+	</Company>
+	<Company e:Name="ISO639-2" e:External="ISO3166_alpha3">
+		<Label xml:lang="en">ISO 3166-1 alpha-2</Label>
+	</Company>
+	<Company e:Name="NLS">
+		<Label Type="Abbr" xml:lang="en">NLS</Label>
+	</Company>
+</ExternalList>
+</CultureList>

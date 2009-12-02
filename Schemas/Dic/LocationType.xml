@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocationList xmlns="urn:geo-schemas-xml-frafv:location" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:geo-schemas-xml-frafv:location ..\Location.xsd urn:geo-schemas-xml-frafv:proxy ..\GeoProxy.xsd urn:schemas-xml-frafv:proxy ..\Proxy.xsd">
+<ContinentList>
+	<Continent Name="Africa">
+		<Label xml:lang="en">Africa</Label>
+		<Label xml:lang="ru">Африка</Label>
+		<Label xml:lang="fr">Afrique</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Africa"/>
+	</Continent>
+	<Continent Name="Antarctica">
+		<Label xml:lang="en">Antarctica</Label>
+		<Label xml:lang="ru">Антарктида</Label>
+		<Label xml:lang="fr">Antarctique</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Antarctica"/>
+	</Continent>
+	<Continent Name="Australia">
+		<Label xml:lang="en">Australia</Label>
+		<Label xml:lang="ru">Австралия</Label>
+		<Label xml:lang="fr">Australinea</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Australia_%28continent%29"/>
+	</Continent>
+	<Continent Name="Eurasia">
+		<Label xml:lang="en">Eurasia</Label>
+		<Label xml:lang="ru">Евразия</Label>
+		<Label xml:lang="fr">Eurasie</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Eurasia"/>
+	</Continent>
+	<Continent Name="NAmerica">
+		<Label xml:lang="en">North America</Label>
+		<Label xml:lang="ru">Северная Америка</Label>
+		<Label xml:lang="fr">Amérique du Nord</Label>
+		<Web URL="http://en.wikipedia.org/wiki/North_America"/>
+	</Continent>
+	<Continent Name="SAmerica">
+		<Label xml:lang="en">South America</Label>
+		<Label xml:lang="ru">Южная Америка</Label>
+		<Label xml:lang="fr">Amérique du Sud</Label>
+		<Web URL="http://en.wikipedia.org/wiki/South_America"/>
+	</Continent>
+</ContinentList>
+<LocationTypeList>
+	<LocationType Name="Country">
+		<Label xml:lang="en">Country</Label>
+		<Label xml:lang="ru">Страна</Label>
+		<Label xml:lang="fr">Pays</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Country"/>
+	</LocationType>
+	<LocationType Name="State">
+		<Label xml:lang="en">State</Label>
+		<Label xml:lang="ru">Государство или штат</Label>
+		<Label xml:lang="fr">État</Label>
+		<Web URL="http://en.wikipedia.org/wiki/State_%28polity%29"/>
+	</LocationType>
+	<LocationType Name="Region">
+		<Label xml:lang="en">Region</Label>
+		<Label xml:lang="ru">Регион</Label>
+		<Label xml:lang="fr">Région</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Region"/>
+	</LocationType>
+	<LocationType Name="Oblast">
+		<Label xml:lang="en">Oblast</Label>
+		<Label xml:lang="ru">Область</Label>
+		<Label xml:lang="fr">Oblast</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Oblast"/>
+	</LocationType>
+	<LocationType Name="Department">
+		<Label xml:lang="en">Department</Label>
+		<Label xml:lang="ru">Депертамент</Label>
+		<Label xml:lang="fr">Département</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Department_%28administrative_division%29"/>
+	</LocationType>
+	<LocationType Name="Community">
+		<Label xml:lang="en">Community</Label>
+		<Label xml:lang="ru">Сообщество</Label>
+		<Label xml:lang="fr">Communauté</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Community_%28administrative_division%29"/>
+	</LocationType>
+	<LocationType Name="City">
+		<Label xml:lang="en">City</Label>
+		<Label xml:lang="ru">Город</Label>
+		<Label xml:lang="fr">Ville</Label>
+		<Web URL="http://en.wikipedia.org/wiki/City"/>
+	</LocationType>
+	<LocationType Name="Town">
+		<Label xml:lang="en">Town</Label>
+		<Label xml:lang="ru">Небольшой город</Label>
+		<Label xml:lang="fr">Commune</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Town"/>
+	</LocationType>
+</LocationTypeList>
+<ExportList xmlns="urn:schemas-xml-frafv:proxy">
+	<Prefix External="locEarth"/>
+	<Export Name="Africa"/>
+	<Export Name="Antarctica"/>
+	<Export Name="Australia"/>
+	<Export Name="Eurasia"/>
+	<Export Name="NAmerica"/>
+	<Export Name="SAmerica"/>
+</ExportList>
+<ExportList xmlns="urn:schemas-xml-frafv:proxy">
+	<Prefix External="loctype"/>
+	<Export Name="Country"/>
+	<Export Name="State"/>
+	<Export Name="Region"/>
+	<Export Name="Oblast"/>
+	<Export Name="Department"/>
+	<Export Name="Community"/>
+	<Export Name="City"/>
+	<Export Name="Town"/>
+</ExportList>
+<ExternalList xmlns="urn:geo-schemas-xml-frafv:proxy" xmlns:e="urn:schemas-xml-frafv:proxy">
+	<e:Prefix External="lang"/>
+	<Language e:Name="en">
+		<Label Type="Org" xml:lang="en">English</Label>
+		<Label xml:lang="ru">Английский</Label>
+	</Language>
+	<Language e:Name="fr">
+		<Label xml:lang="en">French</Label>
+		<Label xml:lang="ru">Французский</Label>
+		<Label Type="Org" xml:lang="fr">français</Label>
+	</Language>
+	<Language e:Name="ru">
+		<Label xml:lang="en">Russian</Label>
+		<Label Type="Org" xml:lang="ru">Русский</Label>
+	</Language>
+</ExternalList>
+</LocationList>

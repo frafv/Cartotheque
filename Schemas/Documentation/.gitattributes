@@ -1,1 +1,5 @@
 *.xml  mime-type=application/msword
+Culture.xml   namespace=urn:geo-schemas-xml-frafv:culture
+GeoProxy.xml  namespace=urn:geo-schemas-xml-frafv:proxy,urn:schemas-xml-frafv:proxy
+Location.xml  namespace=urn:geo-schemas-xml-frafv:location
+Proxy.xml     namespace=urn:schemas-xml-frafv:proxy

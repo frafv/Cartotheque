@@ -1,0 +1,12 @@
+Culture.xsd   namespace=urn:geo-schemas-xml-frafv:culture
+DI.xsd        namespace=urn:filesystem-schemas-xml-frafv:diskinfo
+GeoProxy.xsd  namespace=urn:geo-schemas-xml-frafv:proxy,urn:schemas-xml-frafv:proxy
+HR.xsd        namespace=urn:schemas-xml-frafv:hr,urn:schemas-xml-frafv:sharer
+Image.xsd     namespace=urn:multimedia-schemas-xml-frafv:image
+Location.xsd  namespace=urn:geo-schemas-xml-frafv:location
+Movie.xsd     namespace=urn:multimedia-schemas-xml-frafv:movie
+Proxy.xsd     namespace=urn:schemas-xml-frafv:proxy
+RateMe.xsd    namespace=urn:schemas-xml-frafv:rateme
+Sharer.xsd    namespace=urn:schemas-xml-frafv:sharer
+TimeZone.xsd  namespace=urn:geo-schemas-xml-frafv:timezone
+Video.xsd     namespace=urn:multimedia-schemas-xml-frafv:video

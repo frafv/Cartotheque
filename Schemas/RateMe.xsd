@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:r="urn:schemas-xml-frafv:rateme" targetNamespace="urn:schemas-xml-frafv:rateme" elementFormDefault="qualified">
+	<xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="http://www.w3.org/2001/xml.xsd"/>
+	<xs:element name="Form">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">RateMe participant form</xs:documentation>
+			<xs:documentation xml:lang="ru">Анкета участника RateMe</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:attribute name="ParticipantID">
+				<xs:annotation>
+					<xs:documentation xml:lang="en">RateMe participant ID</xs:documentation>
+					<xs:documentation xml:lang="ru">Идентификатор участника RateMe</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:list itemType="xs:float"/>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attribute name="FormID">
+				<xs:annotation>
+					<xs:documentation xml:lang="en">RateMe form ID</xs:documentation>
+					<xs:documentation xml:lang="ru">Идентификатор анкеты RateMe</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:list itemType="xs:unsignedInt"/>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attribute name="Location" type="xs:string">
+				<xs:annotation>
+					<xs:documentation xml:lang="en">RateMe participant location (city/country)</xs:documentation>
+					<xs:documentation xml:lang="ru">Местоположение (Город/Страна) участника RateMe</xs:documentation>
+				</xs:annotation>
+			</xs:attribute>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Link">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">RateMe image link</xs:documentation>
+			<xs:documentation xml:lang="ru">Ссылка на фотографию RateMe</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:attribute name="Participant" type="xs:IDREFS">
+				<xs:annotation>
+					<xs:documentation xml:lang="en">RateMe participant</xs:documentation>
+					<xs:documentation xml:lang="ru">Участник RateMe</xs:documentation>
+				</xs:annotation>
+			</xs:attribute>
+			<xs:attribute name="ImageID">
+				<xs:annotation>
+					<xs:documentation xml:lang="en">RateMe image ID</xs:documentation>
+					<xs:documentation xml:lang="ru">Идентификатор фотографии RateMe</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:list itemType="xs:unsignedInt"/>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attribute name="Keywords" type="xs:string">
+				<xs:annotation>
+					<xs:documentation xml:lang="en">RateMe image keywords</xs:documentation>
+					<xs:documentation xml:lang="ru">Ключевые слова по фотографии RateMe</xs:documentation>
+				</xs:annotation>
+			</xs:attribute>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:di="urn:filesystem-schemas-xml-frafv:diskinfo" targetNamespace="urn:filesystem-schemas-xml-frafv:diskinfo" elementFormDefault="qualified">
+	<xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="http://www.w3.org/2001/xml.xsd"/>
+	<xs:attributeGroup name="FSAttr">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">File system attributes</xs:documentation>
+			<xs:documentation xml:lang="ru">Атрибуты файловой системы</xs:documentation>
+		</xs:annotation>
+		<xs:attribute name="Name" type="xs:anyURI" use="required">
+			<xs:annotation>
+				<xs:documentation xml:lang="en">Object name</xs:documentation>
+				<xs:documentation xml:lang="ru">Название объекта</xs:documentation>
+			</xs:annotation>
+		</xs:attribute>
+		<xs:attribute name="Size" type="xs:unsignedInt">
+			<xs:annotation>
+				<xs:documentation xml:lang="en">Object size</xs:documentation>
+				<xs:documentation xml:lang="ru">Размер объекта</xs:documentation>
+			</xs:annotation>
+		</xs:attribute>
+		<xs:attribute name="Created" type="xs:dateTime">
+			<xs:annotation>
+				<xs:documentation xml:lang="en">Object creation date</xs:documentation>
+				<xs:documentation xml:lang="ru">Дата создания объекта</xs:documentation>
+			</xs:annotation>
+		</xs:attribute>
+	</xs:attributeGroup>
+	<xs:attributeGroup name="FSSize">
+		<xs:attribute name="Value" type="xs:decimal" use="required">
+			<xs:annotation>
+				<xs:documentation xml:lang="en">Size value</xs:documentation>
+				<xs:documentation xml:lang="ru">Размер</xs:documentation>
+			</xs:annotation>
+		</xs:attribute>
+		<xs:attribute name="Unit" use="required">
+			<xs:annotation>
+				<xs:documentation xml:lang="en">Size unit</xs:documentation>
+				<xs:documentation xml:lang="ru">Единица измерения размера</xs:documentation>
+			</xs:annotation>
+			<xs:simpleType>
+				<xs:restriction base="xs:string">
+					<xs:enumeration value="B"/>
+					<xs:enumeration value="KB"/>
+					<xs:enumeration value="MB"/>
+					<xs:enumeration value="GB"/>
+					<xs:enumeration value="BB"/>
+				</xs:restriction>
+			</xs:simpleType>
+		</xs:attribute>
+	</xs:attributeGroup>
+	<xs:element name="DiskInfo">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">Disk Information</xs:documentation>
+			<xs:documentation xml:lang="ru">Дисковая информация</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="di:Folder" minOccurs="0" maxOccurs="unbounded">
+					<xs:annotation>
+						<xs:documentation xml:lang="en">Root folders</xs:documentation>
+						<xs:documentation xml:lang="ru">Корневые папки</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element ref="di:File" minOccurs="0" maxOccurs="unbounded">
+					<xs:annotation>
+						<xs:documentation xml:lang="en">Root files</xs:documentation>
+						<xs:documentation xml:lang="ru">Корневые файлы</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:any namespace="##other" processContents="strict" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Folder">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">Folder</xs:documentation>
+			<xs:documentation xml:lang="ru">Папка</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="di:Size" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="di:Description" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="di:Folder" minOccurs="0" maxOccurs="unbounded">
+					<xs:annotation>
+						<xs:documentation xml:lang="en">Subfolders</xs:documentation>
+						<xs:documentation xml:lang="ru">Вложеннык папки</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element ref="di:File" minOccurs="0" maxOccurs="unbounded">
+					<xs:annotation>
+						<xs:documentation xml:lang="en">Files</xs:documentation>
+						<xs:documentation xml:lang="ru">Файлы</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:any namespace="##other" processContents="strict" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attributeGroup ref="di:FSAttr"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="File">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">File</xs:documentation>
+			<xs:documentation xml:lang="ru">Файл</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="di:Size" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="di:Description" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:any namespace="##other" processContents="strict" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attributeGroup ref="di:FSAttr"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Size">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">Size</xs:documentation>
+			<xs:documentation xml:lang="ru">Размер</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:attributeGroup ref="di:FSSize"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Description">
+		<xs:annotation>
+			<xs:documentation xml:lang="en">Description</xs:documentation>
+			<xs:documentation xml:lang="ru">Описание</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:simpleContent>
+				<xs:extension base="xs:string">
+					<xs:attribute ref="xml:lang"/>
+				</xs:extension>
+			</xs:simpleContent>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

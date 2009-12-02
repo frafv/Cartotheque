@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns="urn:geo-schemas-xml-frafv:proxy" xmlns:e="urn:schemas-xml-frafv:proxy" xmlns:p="urn:geo-schemas-xml-frafv:proxy" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xml="http://www.w3.org/XML/1998/namespace" targetNamespace="urn:geo-schemas-xml-frafv:proxy" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="http://www.w3.org/2001/xml.xsd"/>
+	<xs:import namespace="urn:schemas-xml-frafv:proxy" schemaLocation="Proxy.xsd"/>
+	<xs:attributeGroup name="Period">
+		<xs:attribute name="StartPeriod">
+			<xs:annotation>
+				<xs:documentation xml:lang="ru">Начало периода.</xs:documentation>
+				<xs:documentation xml:lang="en">Start Period.</xs:documentation>
+			</xs:annotation>
+			<xs:simpleType>
+				<xs:union memberTypes="xs:date xs:gYearMonth xs:gYear"/>
+			</xs:simpleType>
+		</xs:attribute>
+		<xs:attribute name="EndPeriod">
+			<xs:annotation>
+				<xs:documentation xml:lang="ru">Конец периода.</xs:documentation>
+				<xs:documentation xml:lang="en">End Period.</xs:documentation>
+			</xs:annotation>
+			<xs:simpleType>
+				<xs:union memberTypes="xs:date xs:gYearMonth">
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:enumeration value="Unknown">
+								<xs:annotation>
+									<xs:documentation xml:lang="ru">Конец периода точно неопределён</xs:documentation>
+								</xs:annotation>
+							</xs:enumeration>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:union>
+			</xs:simpleType>
+		</xs:attribute>
+	</xs:attributeGroup>
+	<xs:element name="Label">
+		<xs:annotation>
+			<xs:documentation xml:lang="ru">Название внешней сущности на разных языках.</xs:documentation>
+			<xs:documentation xml:lang="en">External entity name on languages.</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:simpleContent>
+				<xs:extension base="xs:string">
+					<xs:attribute ref="xml:lang" use="required">
+						<xs:annotation>
+							<xs:documentation xml:lang="ru">Язык названия.</xs:documentation>
+							<xs:documentation xml:lang="en">Label language.</xs:documentation>
+						</xs:annotation>
+					</xs:attribute>
+					<xs:attribute name="Type">
+						<xs:annotation>
+							<xs:documentation xml:lang="ru">Тип названия.</xs:documentation>
+							<xs:documentation xml:lang="en">Label type.</xs:documentation>
+						</xs:annotation>
+						<xs:simpleType>
+							<xs:restriction base="xs:string">
+								<xs:enumeration value="Org">
+									<xs:annotation>
+										<xs:documentation xml:lang="ru">Оригинальное название.</xs:documentation>
+										<xs:documentation xml:lang="en">Original label.</xs:documentation>
+									</xs:annotation>
+								</xs:enumeration>
+								<xs:enumeration value="Abbr">
+									<xs:annotation>
+										<xs:documentation xml:lang="ru">Аббревиатура или сокращение.</xs:documentation>
+										<xs:documentation xml:lang="en">Abbreviation.</xs:documentation>
+									</xs:annotation>
+								</xs:enumeration>
+							</xs:restriction>
+						</xs:simpleType>
+					</xs:attribute>
+				</xs:extension>
+			</xs:simpleContent>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="ExternalList">
+		<xs:annotation>
+			<xs:documentation xml:lang="ru">Внешний список.</xs:documentation>
+			<xs:documentation xml:lang="en">External list.</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="e:Prefix" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:choice>
+					<xs:element name="Language" maxOccurs="unbounded">
+						<xs:annotation>
+							<xs:documentation xml:lang="ru">Язык.</xs:documentation>
+							<xs:documentation xml:lang="en">Language.</xs:documentation>
+						</xs:annotation>
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element ref="p:Label" maxOccurs="unbounded">
+									<xs:annotation>
+										<xs:documentation xml:lang="ru">Название языка.</xs:documentation>
+										<xs:documentation xml:lang="en">Language name.</xs:documentation>
+									</xs:annotation>
+								</xs:element>
+							</xs:sequence>
+							<xs:attributeGroup ref="e:Link">
+								<xs:annotation>
+									<xs:documentation xml:lang="ru">Идентификатор языка.</xs:documentation>
+									<xs:documentation xml:lang="en">Language identifier.</xs:documentation>
+								</xs:annotation>
+							</xs:attributeGroup>
+						</xs:complexType>
+					</xs:element>
+					<xs:element name="Location" maxOccurs="unbounded">
+						<xs:annotation>
+							<xs:documentation xml:lang="ru">Местоположение.</xs:documentation>
+							<xs:documentation xml:lang="en">Location.</xs:documentation>
+						</xs:annotation>
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element ref="p:Label" maxOccurs="unbounded">
+									<xs:annotation>
+										<xs:documentation xml:lang="ru">Название местоположения.</xs:documentation>
+										<xs:documentation xml:lang="en">Location name.</xs:documentation>
+									</xs:annotation>
+								</xs:element>
+							</xs:sequence>
+							<xs:attributeGroup ref="e:Link">
+								<xs:annotation>
+									<xs:documentation xml:lang="ru">Идентификатор местоположения.</xs:documentation>
+									<xs:documentation xml:lang="en">Location identifier.</xs:documentation>
+								</xs:annotation>
+							</xs:attributeGroup>
+							<xs:attribute name="Type" use="required">
+								<xs:annotation>
+									<xs:documentation xml:lang="ru">Тип местоположения.</xs:documentation>
+									<xs:documentation xml:lang="en">Location type.</xs:documentation>
+								</xs:annotation>
+								<xs:simpleType>
+									<xs:restriction base="xs:string">
+										<xs:enumeration value="Continent">
+											<xs:annotation>
+												<xs:documentation xml:lang="ru">Континент.</xs:documentation>
+												<xs:documentation xml:lang="en">Continent.</xs:documentation>
+											</xs:annotation>
+										</xs:enumeration>
+										<xs:enumeration value="Country">
+											<xs:annotation>
+												<xs:documentation xml:lang="ru">Страна.</xs:documentation>
+												<xs:documentation xml:lang="en">Country.</xs:documentation>
+											</xs:annotation>
+										</xs:enumeration>
+										<xs:enumeration value="Region">
+											<xs:annotation>
+												<xs:documentation xml:lang="ru">Административный район.</xs:documentation>
+												<xs:documentation xml:lang="en">Administrative region.</xs:documentation>
+											</xs:annotation>
+										</xs:enumeration>
+										<xs:enumeration value="City">
+											<xs:annotation>
+												<xs:documentation xml:lang="ru">Населённый пункт.</xs:documentation>
+												<xs:documentation xml:lang="en">City.</xs:documentation>
+											</xs:annotation>
+										</xs:enumeration>
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:attribute>
+						</xs:complexType>
+					</xs:element>
+					<xs:element name="LocationType" maxOccurs="unbounded">
+						<xs:annotation>
+							<xs:documentation xml:lang="ru">Вид местоположения (административно-территориальное деление).</xs:documentation>
+							<xs:documentation xml:lang="en">Location kind (administrative division).</xs:documentation>
+						</xs:annotation>
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element ref="p:Label" maxOccurs="unbounded">
+									<xs:annotation>
+										<xs:documentation xml:lang="ru">Название вида местоположения.</xs:documentation>
+										<xs:documentation xml:lang="en">Location kind name.</xs:documentation>
+									</xs:annotation>
+								</xs:element>
+							</xs:sequence>
+							<xs:attributeGroup ref="e:Link">
+								<xs:annotation>
+									<xs:documentation xml:lang="ru">Идентификатор вида местоположения.</xs:documentation>
+									<xs:documentation xml:lang="en">Location kind identifier.</xs:documentation>
+								</xs:annotation>
+							</xs:attributeGroup>
+						</xs:complexType>
+					</xs:element>
+					<xs:element name="Company" maxOccurs="unbounded">
+						<xs:annotation>
+							<xs:documentation xml:lang="ru">Компания.</xs:documentation>
+							<xs:documentation xml:lang="en">Company.</xs:documentation>
+						</xs:annotation>
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element ref="p:Label" maxOccurs="unbounded">
+									<xs:annotation>
+										<xs:documentation xml:lang="ru">Название компании.</xs:documentation>
+										<xs:documentation xml:lang="en">Company name.</xs:documentation>
+									</xs:annotation>
+								</xs:element>
+							</xs:sequence>
+							<xs:attributeGroup ref="e:Link">
+								<xs:annotation>
+									<xs:documentation xml:lang="ru">Идентификатор компании.</xs:documentation>
+									<xs:documentation xml:lang="en">Company identifier.</xs:documentation>
+								</xs:annotation>
+							</xs:attributeGroup>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

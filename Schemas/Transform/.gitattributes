@@ -1,0 +1,3 @@
+\!LangExternal.xslt  namespace=urn:geo-schemas-xml-frafv:culture,urn:schemas-xml-frafv:proxy
+\!LocExternal.xslt   namespace=urn:geo-schemas-xml-frafv:location,urn:geo-schemas-xml-frafv:culture,urn:geo-schemas-xml-frafv:proxy,urn:schemas-xml-frafv:proxy
+External.xslt       namespace=urn:geo-schemas-xml-frafv:culture,urn:geo-schemas-xml-frafv:location,urn:schemas-xml-frafv:proxy

@@ -1,0 +1,1407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:p="urn:schemas-xml-frafv:sharer" targetNamespace="urn:schemas-xml-frafv:sharer" elementFormDefault="qualified">
+	<xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="http://www.w3.org/2001/xml.xsd"/>
+	<xs:attributeGroup name="Name">
+		<xs:attribute name="Name" type="xs:ID" use="required">
+			<xs:annotation>
+				<xs:documentation xml:lang="ru">Название</xs:documentation>
+				<xs:documentation xml:lang="en">Name</xs:documentation>
+				<xs:documentation source="Help" xml:lang="ru">Данный атрибут используется практически везде, где нужна уникальная идентификация объекта</xs:documentation>
+				<xs:appinfo source="Label">
+					<xs:documentation xml:lang="ru">Название</xs:documentation>
+					<xs:documentation xml:lang="ru" source="GenCase">Названия</xs:documentation>
+					<xs:documentation xml:lang="ru" source="DatCase">Названию</xs:documentation>
+					<xs:documentation xml:lang="ru" source="InstrCase">Названием</xs:documentation>
+					<xs:documentation xml:lang="ru" source="PrepCase">Названии</xs:documentation>
+					<xs:documentation xml:lang="en">Name</xs:documentation>
+				</xs:appinfo>
+			</xs:annotation>
+		</xs:attribute>
+	</xs:attributeGroup>
+	<xs:attributeGroup name="Period">
+		<xs:attribute name="StartPeriod">
+			<xs:annotation>
+				<xs:documentation xml:lang="ru">Начало периода</xs:documentation>
+				<xs:documentation xml:lang="en">Start Period</xs:documentation>
+				<xs:documentation source="Help" xml:lang="ru">Для человека обозначает первое знакомство с ним. Для местоположения - первое появление в данном месте. Для телефона и предметов - дата преобретения. Для фирмы - дата образования.</xs:documentation>
+			</xs:annotation>
+			<xs:simpleType>
+				<xs:union memberTypes="xs:date xs:gYearMonth xs:gYear"/>
+			</xs:simpleType>
+		</xs:attribute>
+		<xs:attribute name="EndPeriod">
+			<xs:annotation>
+				<xs:documentation xml:lang="ru">Конец периода</xs:documentation>
+				<xs:documentation xml:lang="en">End Period</xs:documentation>
+				<xs:documentation source="Help" xml:lang="ru">Для человека обозначает дату последней встречи. Для местоположения - последнее появление в данном месте. Для телефона и предметов - дата отказа или нарушения работоспособности. Для фирмы - дата распада.</xs:documentation>
+			</xs:annotation>
+			<xs:simpleType>
+				<xs:union memberTypes="xs:date xs:gYearMonth">
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:enumeration value="Unknown">
+								<xs:annotation>
+									<xs:documentation xml:lang="ru">Конец периода точно неопределён</xs:documentation>
+								</xs:annotation>
+							</xs:enumeration>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:union>
+			</xs:simpleType>
+		</xs:attribute>
+	</xs:attributeGroup>
+	<xs:attributeGroup name="Prof">
+		<xs:attribute name="Prof">
+			<xs:annotation>
+				<xs:documentation xml:lang="ru">Профессия</xs:documentation>
+				<xs:documentation xml:lang="en">Profession</xs:documentation>
+				<xs:documentation source="Help" xml:lang="ru">Профессия объекта (чаще всего это человек). Возможно несколько профессий, если это относится непосредственно к объекту или широкий круг обязаностей на занимаемой должности. В последнем случае лучше указывать одну профессию.</xs:documentation>
+			</xs:annotation>
+			<xs:simpleType>
+				<xs:list>
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:enumeration value="HR">
+								<xs:annotation>
+									<xs:documentation xml:lang="ru">Менеджер по персоналу</xs:documentation>
+									<xs:documentation xml:lang="en">Human Resource</xs:documentation>
+									<xs:documentation source="Help" xml:lang="ru">Работник отдела кадров</xs:documentation>
+								</xs:annotation>
+							</xs:enumeration>
+							<xs:enumeration value="Prog">
+								<xs:annotation>
+									<xs:documentation xml:lang="ru">Программист</xs:documentation>
+									<xs:documentation xml:lang="en">Programmer</xs:documentation>
+								</xs:annotation>
+							</xs:enumeration>
+							<xs:enumeration value="SA">
+								<xs:annotation>
+									<xs:documentation xml:lang="ru">Системный администратор</xs:documentation>
+									<xs:documentation xml:lang="en">System Administrator</xs:documentation>
+								</xs:annotation>
+							</xs:enumeration>
+							<xs:enumeration value="Analyst">
+								<xs:annotation>
+									<xs:documentation xml:lang="ru">Аналитик</xs:documentation>
+									<xs:documentation xml:lang="en">Analyst</xs:documentation>
+								</xs:annotation>
+							</xs:enumeration>
+							<xs:enumeration value="PM">
+								<xs:annotation>
+									<xs:documentation xml:lang="ru">Менеджер проектов</xs:documentation>
+									<xs:documentation xml:lang="en">Project Manager</xs:documentation>
+								</xs:annotation>
+							</xs:enumeration>
+							<xs:enumeration value="Arch">
+								<xs:annotation>
+									<xs:documentation xml:lang="ru">Архитектор</xs:documentation>
+									<xs:documentation xml:lang="en">Architect</xs:documentation>
+								</xs:annotation>
+							</xs:enumeration>
+							<xs:enumeration value="TechWriter">
+								<xs:annotation>
+									<xs:documentation xml:lang="ru">Технический писатель</xs:documentation>
+									<xs:documentation xml:lang="en">Tech Writer</xs:documentation>
+								</xs:annotation>
+							</xs:enumeration>
+							<xs:enumeration value="WebDesign">
+								<xs:annotation>
+									<xs:documentation xml:lang="ru">Веб-дизайнер</xs:documentation>
+									<xs:documentation xml:lang="en">Web-designer</xs:documentation>
+								</xs:annotation>
+							</xs:enumeration>
+							<xs:enumeration value="Econom">
+								<xs:annotation>
+									<xs:documentation xml:lang="ru">Экономист</xs:documentation>
+									<xs:documentation xml:lang="en">Economist</xs:documentation>
+								</xs:annotation>
+							</xs:enumeration>
+							<xs:enumeration value="Manager">
+								<xs:annotation>
+									<xs:documentation xml:lang="ru">Менеджер</xs:documentation>
+									<xs:documentation xml:lang="en">Manager</xs:documentation>
+									<xs:documentation source="Help" xml:lang="ru">Более продвинутый продовец. Используется только лишь в том случае, если нельзя точно установить род и круг деятельности.</xs:documentation>
+								</xs:annotation>
+							</xs:enumeration>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:list>
+			</xs:simpleType>
+		</xs:attribute>
+	</xs:attributeGroup>
+	<xs:element name="ParticipantList">
+		<xs:annotation>
+			<xs:documentation xml:lang="ru">Список участников</xs:documentation>
+			<xs:documentation xml:lang="en">Participant list</xs:documentation>
+			<xs:documentation source="Help" xml:lang="ru">Корневой элемент</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="p:Label" minOccurs="0" maxOccurs="unbounded">
+					<xs:annotation>
+						<xs:documentation source="Help" xml:lang="ru">Название списка на разных языках</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element ref="p:Location" minOccurs="0" maxOccurs="unbounded">
+					<xs:annotation>
+						<xs:documentation source="Help" xml:lang="ru">Определения местоположений, такие как, страна, города, общие места</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element ref="p:Company" minOccurs="0" maxOccurs="unbounded">
+					<xs:annotation>
+						<xs:documentation source="Help" xml:lang="ru">Информация об организациях, на которых ссылаются местоположения участников</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element ref="p:Participant" maxOccurs="unbounded">
+					<xs:annotation>
+						<xs:documentation source="Help" xml:lang="ru">Контактная информация о людях</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:any namespace="##other" processContents="strict" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attributeGroup ref="p:Prof">
+				<xs:annotation>
+					<xs:documentation source="Help" xml:lang="ru">Объединяет людей одной профессии</xs:documentation>
+				</xs:annotation>
+			</xs:attributeGroup>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Label">
+		<xs:annotation>
+			<xs:documentation xml:lang="ru">Название</xs:documentation>
+			<xs:appinfo source="Label">
+				<xs:documentation xml:lang="ru">Название</xs:documentation>
+				<xs:documentation xml:lang="ru" source="GenCase">Названия</xs:documentation>
+				<xs:documentation xml:lang="ru" source="DatCase">Названию</xs:documentation>
+				<xs:documentation xml:lang="ru" source="InstrCase">Названием</xs:documentation>
+				<xs:documentation xml:lang="ru" source="PrepCase">Названии</xs:documentation>
+				<xs:documentation xml:lang="en">Label</xs:documentation>
+			</xs:appinfo>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:simpleContent>
+				<xs:extension base="xs:string">
+					<xs:attribute ref="xml:lang" use="required"/>
+					<xs:attribute name="Type">
+						<xs:simpleType>
+							<xs:restriction base="xs:string">
+								<xs:enumeration value="Reg">
+									<xs:annotation>
+										<xs:documentation source="Help" xml:lang="ru">Юридическое название</xs:documentation>
+									</xs:annotation>
+								</xs:enumeration>
+								<xs:enumeration value="Org">
+									<xs:annotation>
+										<xs:documentation source="Help" xml:lang="ru">Оригинальное название</xs:documentation>
+									</xs:annotation>
+								</xs:enumeration>
+							</xs:restriction>
+						</xs:simpleType>
+					</xs:attribute>
+					<xs:attribute name="Prefix" type="xs:string"/>
+				</xs:extension>
+			</xs:simpleContent>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Note">
+		<xs:annotation>
+			<xs:documentation xml:lang="ru">Название</xs:documentation>
+			<xs:appinfo source="Label">
+				<xs:documentation xml:lang="ru">Название</xs:documentation>
+				<xs:documentation xml:lang="ru" source="GenCase">Названия</xs:documentation>
+				<xs:documentation xml:lang="ru" source="DatCase">Названию</xs:documentation>
+				<xs:documentation xml:lang="ru" source="InstrCase">Названием</xs:documentation>
+				<xs:documentation xml:lang="ru" source="PrepCase">Названии</xs:documentation>
+				<xs:documentation xml:lang="en">Label</xs:documentation>
+			</xs:appinfo>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:simpleContent>
+				<xs:extension base="xs:string">
+					<xs:attribute ref="xml:lang" use="required"/>
+				</xs:extension>
+			</xs:simpleContent>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Company">
+		<xs:annotation>
+			<xs:documentation xml:lang="ru">Организация</xs:documentation>
+			<xs:documentation xml:lang="en">Company</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="p:Label" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="p:Web" minOccurs="0" maxOccurs="unbounded">
+					<xs:annotation>
+						<xs:documentation source="Help" xml:lang="ru">Web страница организации</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element ref="p:Location" minOccurs="0" maxOccurs="unbounded">
+					<xs:annotation>
+						<xs:documentation source="Help" xml:lang="ru">Местоположение организации</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element ref="p:Phone" minOccurs="0" maxOccurs="unbounded">
+					<xs:annotation>
+						<xs:documentation source="Help" xml:lang="ru">Средства связи, не привязанные к местоположению участника</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element ref="p:Company" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attributeGroup ref="p:Name">
+				<xs:annotation>
+					<xs:documentation source="Help" xml:lang="ru">Используется для идентификации участника как внутри данного списка, так и для внешнего использования</xs:documentation>
+				</xs:annotation>
+			</xs:attributeGroup>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Participant">
+		<xs:annotation>
+			<xs:documentation xml:lang="ru">Участник</xs:documentation>
+			<xs:documentation xml:lang="en">Participant</xs:documentation>
+			<xs:appinfo source="Label">
+				<xs:documentation xml:lang="ru" source="F">Участница</xs:documentation>
+				<xs:documentation xml:lang="ru">Участник</xs:documentation>
+				<xs:documentation xml:lang="en">Participant</xs:documentation>
+				<xs:documentation xml:lang="ru" source="GenCase">Участника</xs:documentation>
+				<xs:documentation xml:lang="ru" source="GenCase F">Участницы</xs:documentation>
+			</xs:appinfo>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="p:Label" minOccurs="0" maxOccurs="unbounded">
+					<xs:annotation>
+						<xs:documentation xml:lang="ru">Показывать</xs:documentation>
+						<xs:documentation xml:lang="en">Show label</xs:documentation>
+						<xs:documentation source="Help" xml:lang="ru">Название (имя) участника, которое должно отображаться. Одно для каждого языка.</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:choice minOccurs="0" maxOccurs="unbounded">
+					<xs:annotation>
+						<xs:documentation source="Help" xml:lang="ru">Имена участника на разных языках</xs:documentation>
+					</xs:annotation>
+					<xs:element ref="p:FirstName"/>
+					<xs:element ref="p:LastName"/>
+					<xs:element ref="p:MiddleName"/>
+					<xs:element ref="p:Nickname"/>
+				</xs:choice>
+				<xs:element ref="p:Photo" minOccurs="0" maxOccurs="unbounded">
+					<xs:annotation>
+						<xs:documentation source="Help" xml:lang="ru">Фотография</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element ref="p:Web" minOccurs="0" maxOccurs="unbounded">
+					<xs:annotation>
+						<xs:documentation source="Help" xml:lang="ru">Личная web страница</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element ref="p:EMail" minOccurs="0" maxOccurs="unbounded">
+					<xs:annotation>
+						<xs:documentation source="Help" xml:lang="ru">Личный почтовый ящик, который не привязан ни к какому местоположению</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element ref="p:Messenger" minOccurs="0" maxOccurs="unbounded">
+					<xs:annotation>
+						<xs:documentation source="Help" xml:lang="ru">Номер в мессенджере (ICQ, Skype)</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element ref="p:Document" minOccurs="0" maxOccurs="unbounded">
+					<xs:annotation>
+						<xs:documentation source="Help" xml:lang="ru">Документ</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element ref="p:Location" minOccurs="0" maxOccurs="unbounded">
+					<xs:annotation>
+						<xs:documentation source="Help" xml:lang="ru">Местоположения участника, которые определяют его место работы или место жительства</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element ref="p:Phone" minOccurs="0" maxOccurs="unbounded">
+					<xs:annotation>
+						<xs:documentation source="Help" xml:lang="ru">Средства связи, не привязанные к местоположению участника</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element ref="p:Note" minOccurs="0" maxOccurs="unbounded">
+					<xs:annotation>
+						<xs:documentation xml:lang="ru">Заметки</xs:documentation>
+						<xs:documentation xml:lang="en">Notes</xs:documentation>
+						<xs:documentation source="Help" xml:lang="ru">Комментарий по участнику. Один для каждого языка.</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:any namespace="##other" processContents="strict" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attribute name="Sex">
+				<xs:annotation>
+					<xs:documentation xml:lang="ru">Пол</xs:documentation>
+					<xs:documentation xml:lang="en">Sex</xs:documentation>
+					<xs:documentation source="Help" xml:lang="ru">Атрибут определяет пол участника. Для людей (Mind=Human или отсутствует) является обязательным</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="Female">
+							<xs:annotation>
+								<xs:documentation xml:lang="ru">Женский</xs:documentation>
+								<xs:documentation xml:lang="en">Female</xs:documentation>
+								<xs:appinfo source="Label">
+									<xs:documentation xml:lang="ru">жен.</xs:documentation>
+									<xs:documentation xml:lang="ru" source="Org">Женский</xs:documentation>
+									<xs:documentation xml:lang="ru" source="Abbr">Ж</xs:documentation>
+									<xs:documentation xml:lang="en">Female</xs:documentation>
+									<xs:documentation xml:lang="en" source="Abbr">F</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="Male">
+							<xs:annotation>
+								<xs:documentation xml:lang="ru">Мужской</xs:documentation>
+								<xs:documentation xml:lang="en">Male</xs:documentation>
+								<xs:appinfo source="Label">
+									<xs:documentation xml:lang="ru">муж.</xs:documentation>
+									<xs:documentation xml:lang="ru" source="Org">Мужской</xs:documentation>
+									<xs:documentation xml:lang="ru" source="Abbr">М</xs:documentation>
+									<xs:documentation xml:lang="en">Male</xs:documentation>
+									<xs:documentation xml:lang="en" source="Abbr">M</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attributeGroup ref="p:Name">
+				<xs:annotation>
+					<xs:documentation source="Help" xml:lang="ru">Используется для идентификации участника как внутри данного списка, так и для внешнего использования</xs:documentation>
+				</xs:annotation>
+			</xs:attributeGroup>
+			<xs:attribute name="Birthday">
+				<xs:annotation>
+					<xs:documentation source="Help" xml:lang="ru">Дата рождения в формате XML (дата, либо дата с годом, либо только год)</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:union memberTypes="xs:date xs:gMonthDay xs:gYear"/>
+				</xs:simpleType>
+			</xs:attribute>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="FirstName">
+		<xs:annotation>
+			<xs:documentation xml:lang="ru">Имя</xs:documentation>
+			<xs:documentation xml:lang="en">First Name</xs:documentation>
+			<xs:appinfo source="Label">
+				<xs:documentation xml:lang="ru">Имя</xs:documentation>
+				<xs:documentation xml:lang="ru" source="Abbr">И.</xs:documentation>
+				<xs:documentation xml:lang="en">First Name</xs:documentation>
+			</xs:appinfo>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:simpleContent>
+				<xs:extension base="xs:string">
+					<xs:attribute ref="xml:lang" use="required"/>
+					<xs:attribute name="Type">
+						<xs:simpleType>
+							<xs:restriction base="xs:string">
+								<xs:enumeration value="Doc">
+									<xs:annotation>
+										<xs:documentation source="Help" xml:lang="ru">Имя по документу</xs:documentation>
+									</xs:annotation>
+								</xs:enumeration>
+							</xs:restriction>
+						</xs:simpleType>
+					</xs:attribute>
+				</xs:extension>
+			</xs:simpleContent>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="LastName">
+		<xs:annotation>
+			<xs:documentation xml:lang="ru">Фамилия</xs:documentation>
+			<xs:documentation xml:lang="en">Last Name</xs:documentation>
+			<xs:appinfo source="Label">
+				<xs:documentation xml:lang="ru">Фамилия</xs:documentation>
+				<xs:documentation xml:lang="ru" source="Abbr">Ф.</xs:documentation>
+				<xs:documentation xml:lang="en">Last Name</xs:documentation>
+			</xs:appinfo>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:simpleContent>
+				<xs:extension base="xs:string">
+					<xs:attribute ref="xml:lang" use="required"/>
+					<xs:attribute name="Type">
+						<xs:simpleType>
+							<xs:restriction base="xs:string">
+								<xs:enumeration value="Org">
+									<xs:annotation>
+										<xs:documentation source="Help" xml:lang="ru">Девичья фамилия</xs:documentation>
+									</xs:annotation>
+								</xs:enumeration>
+								<xs:enumeration value="Doc">
+									<xs:annotation>
+										<xs:documentation source="Help" xml:lang="ru">Фамилия по документу</xs:documentation>
+									</xs:annotation>
+								</xs:enumeration>
+							</xs:restriction>
+						</xs:simpleType>
+					</xs:attribute>
+					<xs:attribute name="Prefix" type="xs:string"/>
+					<xs:attribute name="Suffix" type="xs:string"/>
+				</xs:extension>
+			</xs:simpleContent>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="MiddleName">
+		<xs:annotation>
+			<xs:documentation xml:lang="ru">Отчество</xs:documentation>
+			<xs:documentation xml:lang="en">Middle Name</xs:documentation>
+			<xs:appinfo source="Label">
+				<xs:documentation xml:lang="ru">Отчество</xs:documentation>
+				<xs:documentation xml:lang="ru" source="Abbr">О.</xs:documentation>
+				<xs:documentation xml:lang="en">Middle Name</xs:documentation>
+			</xs:appinfo>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:simpleContent>
+				<xs:extension base="xs:string">
+					<xs:attribute ref="xml:lang" use="required"/>
+					<xs:attribute name="Type">
+						<xs:simpleType>
+							<xs:restriction base="xs:string">
+								<xs:enumeration value="Abbr">
+									<xs:annotation>
+										<xs:documentation source="Help" xml:lang="ru">Сокращение</xs:documentation>
+									</xs:annotation>
+								</xs:enumeration>
+							</xs:restriction>
+						</xs:simpleType>
+					</xs:attribute>
+				</xs:extension>
+			</xs:simpleContent>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Nickname">
+		<xs:annotation>
+			<xs:documentation xml:lang="ru">Прозвище</xs:documentation>
+			<xs:documentation xml:lang="en">Nickname</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:simpleContent>
+				<xs:extension base="xs:string">
+					<xs:attribute ref="xml:lang" use="required"/>
+				</xs:extension>
+			</xs:simpleContent>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Location">
+		<xs:annotation>
+			<xs:documentation xml:lang="ru">Местонахождение</xs:documentation>
+			<xs:documentation xml:lang="en">Location</xs:documentation>
+			<xs:documentation source="Help" xml:lang="ru">Данный элемент понимается в широком смысле. Это как конкретное местоположение объекта в определённый период времени/жизни, так и уточнение вышеописанного.</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="p:Label" minOccurs="0" maxOccurs="unbounded">
+					<xs:annotation>
+						<xs:documentation xml:lang="ru">Показывать</xs:documentation>
+						<xs:documentation xml:lang="en">Show label</xs:documentation>
+						<xs:documentation source="Help" xml:lang="ru">Название местонахождения</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element ref="p:EMail" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="p:Address" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="p:Phone" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:any namespace="##other" processContents="strict" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attribute name="Type" use="required">
+				<xs:annotation>
+					<xs:documentation xml:lang="ru">Тип местоположения</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="Home">
+							<xs:annotation>
+								<xs:documentation xml:lang="ru">Дом</xs:documentation>
+								<xs:documentation xml:lang="en">Home</xs:documentation>
+								<xs:documentation source="Help" xml:lang="ru">Домашний адрес постоянного местопроживания</xs:documentation>
+								<xs:appinfo source="Label">
+									<xs:documentation xml:lang="ru">Дом</xs:documentation>
+									<xs:documentation xml:lang="ru" source="Abbr">дом.</xs:documentation>
+									<xs:documentation xml:lang="en">Home</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="ParentHome">
+							<xs:annotation>
+								<xs:documentation xml:lang="ru">Родительский дом</xs:documentation>
+								<xs:documentation xml:lang="en">Parent Home</xs:documentation>
+								<xs:documentation source="Help" xml:lang="ru">Родительский домашний адрес</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="Work">
+							<xs:annotation>
+								<xs:documentation xml:lang="ru">Работа</xs:documentation>
+								<xs:documentation xml:lang="en">Work</xs:documentation>
+								<xs:documentation source="Help" xml:lang="ru">Рабочий адрес и способы связи</xs:documentation>
+								<xs:appinfo source="Label">
+									<xs:documentation xml:lang="ru">Работа</xs:documentation>
+									<xs:documentation xml:lang="ru" source="Abbr">раб.</xs:documentation>
+									<xs:documentation xml:lang="en">Work</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="Rent">
+							<xs:annotation>
+								<xs:documentation xml:lang="ru">Аренда</xs:documentation>
+								<xs:documentation xml:lang="en">Rent</xs:documentation>
+								<xs:documentation source="Help" xml:lang="ru">Адрес фактического проживания на арендуемой площади</xs:documentation>
+								<xs:appinfo source="Label">
+									<xs:documentation xml:lang="ru">Аренда</xs:documentation>
+									<xs:documentation xml:lang="ru" source="Abbr">дом.</xs:documentation>
+									<xs:documentation xml:lang="en">Rent</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="Reg">
+							<xs:annotation>
+								<xs:documentation xml:lang="ru">Регистрация</xs:documentation>
+								<xs:documentation xml:lang="en">Registration</xs:documentation>
+								<xs:documentation source="Help" xml:lang="ru">Адрес регистрации</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="Study">
+							<xs:annotation>
+								<xs:documentation xml:lang="ru">Учёба</xs:documentation>
+								<xs:documentation xml:lang="en">Study</xs:documentation>
+								<xs:documentation source="Help" xml:lang="ru">Учебное заведение</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attribute name="TimeZone">
+				<xs:annotation>
+					<xs:documentation xml:lang="ru">Часовой пояс местоположения</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="UTC-12 IDLW">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Dateline Standard Time, Internation Date Line West</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC-11 SST">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Samoa Standard Time (Samoa, Midway Islands), Bering Standard Time</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC-10 HST">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Hawaiian Standard Time (US Hawaii), Hawaii-Aleutian Standard Time (US Aleutian Islands)</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC-9:30 MART">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Marquesas Time</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC-9 AKST">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Alaska Standard Time (US Alaska), Yukon Standard Time</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">Second Sunday of March at 2:00 – First Sunday of November at 2:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC-8 PST">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Pacific Standard Time (Canada, US)</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">Second Sunday of March at 2:00 – First Sunday of November at 2:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC-8 PST Mexico">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Pacific Standard Time (Mexico)</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">First Sunday of April at 2:00 – Last Sunday of October at 2:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC-7 MST">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Mountain Standard Time (Canada, US)</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">Second Sunday of March at 2:00 – First Sunday of November at 2:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC-7 MST Mexico">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Mountain Standard Time (Mexico)</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">First Sunday of April at 2:00 – Last Sunday of October at 2:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC-7 MST Arizona">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Mountain Standard Time (US Arizona)</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC-6">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Central America Standard Time, Canada Central Standard Time (Canada Saskatchewan)</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC-6 CST">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Central Standard Time (Canada, US)</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">Second Sunday of March at 2:00 – First Sunday of November at 2:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC-6 CST Mexico">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Central Standard Time (Mexico)</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">First Sunday of April at 2:00 – Last Sunday of October at 2:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC-5 EST">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Eastern Standard Time (Canada, US)</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">Second Sunday of March at 2:00 – First Sunday of November at 2:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC-5">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Pacific Standard Time (Brazil, Colombia, Ecuador, Peru), Eastern Standard Time (US East Indiana)</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC-4:30 VET">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Venezuela Time</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC-4 AST">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Atlantic Standard Time (Canada)</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">Second Sunday of March at 2:00 – First Sunday of November at 2:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC-4 PST">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Pacific Standard Time (Chile Santiago)</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">Second Saturday of October at 23:59:59 – Second Saturday of March at 23:59:59</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC-4">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Western Standard Time (Bolivia), Atlantic Standard Time (Brazil Manaus)</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC-3:30 NST">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Newfoundland Standard Time (Canada)</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">Second Sunday of March at 0:01 – First Sunday of November at 0:01</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC-3 BST">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Brazil Standard Time</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">Second Sunday of October at 0:00 – Third Sunday of February at 0:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC-3 GST">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Greenland Standard Time</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">First Sunday of April at 2:00 – Last Sunday of October at 2:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC-3 UYT">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Uruguay Time</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">First Sunday of October at 2:00 – Second Sunday of March at 2:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC-3 ART">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Argentina Time</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC-2">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Mid-Atlantic Standard Time, Greenland Eastern Standard Time</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">Last Sunday of March at 2:00 – Last Sunday of September at 2:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC-1 AZOT">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Azores Standard Time (Portugal)</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">Last Sunday of March at 2:00 – Last Sunday of October at 3:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC-1 CVT">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Cape Verde Standard Time</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC GMT">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Greenwich Mean Time (Ireland, Portugal, UK)</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">Last Sunday of March at 1:00 – Last Sunday of October at 2:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC GT">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Greenwich Standard Time (Iceland, Liberia, Mali, Morocco)</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+1 CET">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Central Europe Standard Time</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">Last Sunday of March at 2:00 – Last Sunday of October at 3:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+1 WAT">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">West Africa Time</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+2 USZ1">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Eastern Europe Standard Time (Belarus), Russia Zone 1 (Russia Kaliningrad)</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">Last Sunday of March at 2:00 – Last Sunday of October at 3:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+2 Egypt">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Egypt Standard Time</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">Last Thursday of April at 23:59:59 – Last Thursday of September at 23:59:59</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+2 EET">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Eastern Europe Standard Time (Bulgaria, Cyprus, Estonia, Finland, Greece, Latvia, Lithuania, Moldova, Romania, Turkey, Ukraine)</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">Last Sunday of March at 3:00 – Last Sunday of October at 4:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+2 IST">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Israeli Standard Time</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">28 March at 2:00 – 5 October at 2:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+2 Jordan">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Jordan Standard Time</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">Last Thursday of March at 23:59:59 – Last Friday of October at 1:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+2">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Middle East Standard Time (Lebanon, Syria)</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">Last Sunday of March at 0:00 – Last Sunday of October at 0:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+2 SAST">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">South Africa Standard Time, Central Africa Standard Time</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+3 AST">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Arabic Standard Time (Iraq)</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">First Tuesday of April at 3:00 – First Wednesday of October at 4:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+3 EAT">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Arabic Standard Time (Bahrain, Kuwait, Saudi Arabia, Sudan, Yemen), East Africa Standard Time (Kenya), Georgian Standard Time</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+3 MSK">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Russian Standard Time</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">Last Sunday of March at 2:00 – Last Sunday of October at 3:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+3:30">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Iran Standard Time</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+4 AST">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Arabic Standard Time (United Arab Emirates, Oman)</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+4 AZT">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Azerbaijan Standard Time</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">Last Sunday of March at 4:00 – Last Sunday of October at 5:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+4">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Caucasus Standard Time (Armenia)</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">Last Sunday of March at 2:00 – Last Sunday of October at 3:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+4:30 AFT">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Afghanistan Time</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+5 YEKT">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Ekaterinburg Standard Time, Ural Time (Russia)</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">Last Sunday of March at 2:00 – Last Sunday of October at 3:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+5">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">West Asia Standard Time (Kazakhstan, Pakistan, Tajikistan, Turkmenistan, Uzbekistan)</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+5:30 IST">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">India Standard Time (India, Sri Lanka)</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+5:45 NPT">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Nepal Standard Time</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+6">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Central Asia Standard Time (Bangladesh, Kazakhstan, Kyrgyzstan)</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+6 USZ5">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">West-Siberian Time (Russia)</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">Last Sunday of March at 2:00 – Last Sunday of October at 3:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+6:30 MMT">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Myanmar Standard Time (Cocos Islands, Burma/Myanmar)</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+7 USZ6">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">North Asia Standard Time, Yenisei Time (Russia)</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">Last Sunday of March at 2:00 – Last Sunday of October at 3:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+7">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">SE Asia Standard Time (Indonesia, Thailand, Vietnam)</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+8 CCT">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">China Standard Time (China, Hong Kong), Malay Peninsula Standard Time (Malaysia, Singapore), Taipei Standard Time (Taiwan)</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+8 USZ7">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">North Asia East Standard Time, Irkutsk Time (Russia)</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">Last Sunday of March at 2:00 – Last Sunday of October at 3:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+8 AWST">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Australian Western Standard Time</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">Last Sunday of October at 2:00 – Last Sunday of March at 3:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+8:45 CWT">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Central West Time (Australia)</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+9">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Japan Standard Time, Korea Standard Time</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+9 USZ8">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Yakutsk Standard Time, Amur Time(Russia)</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">Last Sunday of March at 2:00 – Last Sunday of October at 3:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+9:30">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Australian Central Standard Time (Australia Northern Territory)</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+9:30 ACST">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Australian Central Standard Time</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">First Sunday of October at 2:00 – First Sunday of April at 3:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+10 AEST">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Australian Eastern Standard Time</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">First Sunday of October at 2:00 – First Sunday of April at 3:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+10">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Australian Eastern Standard Time (Australian Queensland), West Pacific Standard Time</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+10 Tasmania">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Tasmania Standard Time</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">First Sunday of October at 2:00 – First Sunday of April at 3:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+10 USZ9">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Vladivostok Time (Russia)</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">Last Sunday of March at 2:00 – Last Sunday of October at 3:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+11">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Central Pacific Standard Time, Okhotsk Time (Russia)</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+11:30 NFT">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Norfolk Time (Australia)</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+12">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Fiji Standard Time, Kamchatka Time (Russia)</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+12 NZST">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">New Zealand Standard Time</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">Last Sunday of September at 2:00 – First Sunday of April at 3:00</xs:documentation>
+								</xs:appinfo>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+13 TOT">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Tonga Standard Time, Phoenix Islands Time</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attributeGroup ref="p:Period"/>
+			<xs:attributeGroup ref="p:Prof"/>
+			<xs:attribute name="Company" type="xs:IDREF"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Address">
+		<xs:annotation>
+			<xs:documentation xml:lang="ru">Адрес</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:simpleContent>
+				<xs:extension base="xs:string">
+					<xs:attribute ref="xml:lang" use="required"/>
+					<xs:attribute name="Country" type="xs:string">
+						<xs:annotation>
+							<xs:documentation xml:lang="ru">Страна</xs:documentation>
+						</xs:annotation>
+					</xs:attribute>
+					<xs:attribute name="PostIndex">
+						<xs:annotation>
+							<xs:documentation xml:lang="ru">Почтовый индекс</xs:documentation>
+							<xs:documentation xml:lang="en">Post Index</xs:documentation>
+						</xs:annotation>
+						<xs:simpleType>
+							<xs:restriction base="xs:int">
+								<xs:minInclusive value="0"/>
+								<xs:maxInclusive value="999999"/>
+							</xs:restriction>
+						</xs:simpleType>
+					</xs:attribute>
+					<xs:attribute name="Region" type="xs:string">
+						<xs:annotation>
+							<xs:documentation xml:lang="ru">Район</xs:documentation>
+						</xs:annotation>
+					</xs:attribute>
+					<xs:attribute name="City" type="xs:string">
+						<xs:annotation>
+							<xs:documentation xml:lang="ru">Город</xs:documentation>
+						</xs:annotation>
+					</xs:attribute>
+					<xs:attribute name="Street" type="xs:string">
+						<xs:annotation>
+							<xs:documentation xml:lang="ru">Улица</xs:documentation>
+							<xs:documentation xml:lang="en">Street</xs:documentation>
+						</xs:annotation>
+					</xs:attribute>
+					<xs:attribute name="House">
+						<xs:annotation>
+							<xs:documentation xml:lang="ru">Дом</xs:documentation>
+							<xs:documentation xml:lang="en"/>
+							<xs:appinfo source="Label">
+								<xs:documentation xml:lang="ru">Дом</xs:documentation>
+								<xs:documentation xml:lang="ru" source="Abbr">д.</xs:documentation>
+								<xs:documentation xml:lang="en"/>
+							</xs:appinfo>
+						</xs:annotation>
+						<xs:simpleType>
+							<xs:restriction base="xs:string">
+								<xs:pattern value="\d+.?(/\d+.?)?"/>
+							</xs:restriction>
+						</xs:simpleType>
+					</xs:attribute>
+					<xs:attribute name="Frame" type="xs:string">
+						<xs:annotation>
+							<xs:documentation xml:lang="ru">Корпус</xs:documentation>
+							<xs:documentation xml:lang="en">Frame</xs:documentation>
+							<xs:appinfo source="Label">
+								<xs:documentation xml:lang="ru">Корпус</xs:documentation>
+								<xs:documentation xml:lang="ru" source="Abbr">к.</xs:documentation>
+								<xs:documentation xml:lang="en">Frame</xs:documentation>
+								<xs:documentation xml:lang="en" source="Abbr">frame</xs:documentation>
+							</xs:appinfo>
+						</xs:annotation>
+					</xs:attribute>
+					<xs:attribute name="Porch" type="xs:string">
+						<xs:annotation>
+							<xs:documentation xml:lang="ru">Подъезд</xs:documentation>
+						</xs:annotation>
+					</xs:attribute>
+					<xs:attribute name="PorchCode" type="xs:string">
+						<xs:annotation>
+							<xs:documentation xml:lang="ru">Домофон</xs:documentation>
+						</xs:annotation>
+					</xs:attribute>
+					<xs:attribute name="Floor" type="xs:unsignedInt">
+						<xs:annotation>
+							<xs:documentation xml:lang="ru">Этаж</xs:documentation>
+							<xs:documentation xml:lang="en">Floor</xs:documentation>
+							<xs:appinfo source="Label">
+								<xs:documentation xml:lang="ru">Этаж</xs:documentation>
+								<xs:documentation xml:lang="ru" source="Abbr">эт.</xs:documentation>
+								<xs:documentation xml:lang="en">Floor</xs:documentation>
+								<xs:documentation xml:lang="en" source="Abbr">floor</xs:documentation>
+							</xs:appinfo>
+						</xs:annotation>
+					</xs:attribute>
+					<xs:attribute name="Apartment" type="xs:string">
+						<xs:annotation>
+							<xs:documentation xml:lang="ru">Квартира</xs:documentation>
+							<xs:documentation xml:lang="en"/>
+							<xs:appinfo source="Label">
+								<xs:documentation xml:lang="ru">Квартира</xs:documentation>
+								<xs:documentation xml:lang="ru" source="Abbr">кв.</xs:documentation>
+								<xs:documentation xml:lang="en"/>
+							</xs:appinfo>
+						</xs:annotation>
+					</xs:attribute>
+					<xs:attribute name="Metro" type="xs:string">
+						<xs:annotation>
+							<xs:documentation xml:lang="ru">Ближайшее метро</xs:documentation>
+						</xs:annotation>
+					</xs:attribute>
+				</xs:extension>
+			</xs:simpleContent>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Phone">
+		<xs:annotation>
+			<xs:documentation xml:lang="ru">Телефон</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:simpleContent>
+				<xs:extension base="xs:string">
+					<xs:attribute name="Type" default="Phone">
+						<xs:annotation>
+							<xs:documentation xml:lang="ru">Тип телефона</xs:documentation>
+						</xs:annotation>
+						<xs:simpleType>
+							<xs:list>
+								<xs:simpleType>
+									<xs:restriction base="xs:string">
+										<xs:enumeration value="Phone">
+											<xs:annotation>
+												<xs:documentation xml:lang="ru">Телефон</xs:documentation>
+												<xs:documentation xml:lang="en">Phone</xs:documentation>
+												<xs:appinfo source="Label">
+													<xs:documentation xml:lang="ru">Телефон</xs:documentation>
+													<xs:documentation xml:lang="ru" source="Abbr">тел.</xs:documentation>
+													<xs:documentation xml:lang="en">Phone</xs:documentation>
+												</xs:appinfo>
+											</xs:annotation>
+										</xs:enumeration>
+										<xs:enumeration value="PhoneFax">
+											<xs:annotation>
+												<xs:documentation xml:lang="ru">Телефон/Факс</xs:documentation>
+												<xs:documentation xml:lang="en">Phone/Fax</xs:documentation>
+												<xs:appinfo source="Label">
+													<xs:documentation xml:lang="ru">Телефон/Факс</xs:documentation>
+													<xs:documentation xml:lang="ru" source="Abbr">тел./факс</xs:documentation>
+													<xs:documentation xml:lang="en">Phone/Fax</xs:documentation>
+												</xs:appinfo>
+											</xs:annotation>
+										</xs:enumeration>
+										<xs:enumeration value="Fax">
+											<xs:annotation>
+												<xs:documentation xml:lang="ru">Факс</xs:documentation>
+												<xs:documentation xml:lang="en">Fax</xs:documentation>
+												<xs:appinfo source="Label">
+													<xs:documentation xml:lang="ru">Факс</xs:documentation>
+													<xs:documentation xml:lang="ru" source="Abbr">факс</xs:documentation>
+													<xs:documentation xml:lang="en">Fax</xs:documentation>
+												</xs:appinfo>
+											</xs:annotation>
+										</xs:enumeration>
+										<xs:enumeration value="Modem">
+											<xs:annotation>
+												<xs:documentation xml:lang="ru">Модем</xs:documentation>
+												<xs:documentation xml:lang="en">Modem</xs:documentation>
+											</xs:annotation>
+										</xs:enumeration>
+										<xs:enumeration value="Mobile">
+											<xs:annotation>
+												<xs:documentation xml:lang="ru">Сотовый</xs:documentation>
+												<xs:documentation xml:lang="en">Mobile</xs:documentation>
+												<xs:appinfo source="Label">
+													<xs:documentation xml:lang="ru">Сотовый</xs:documentation>
+													<xs:documentation xml:lang="ru" source="Abbr">моб.</xs:documentation>
+													<xs:documentation xml:lang="en">Mobile</xs:documentation>
+												</xs:appinfo>
+											</xs:annotation>
+										</xs:enumeration>
+										<xs:enumeration value="Private">
+											<xs:annotation>
+												<xs:documentation xml:lang="ru">Личный</xs:documentation>
+												<xs:documentation xml:lang="en">Private</xs:documentation>
+											</xs:annotation>
+										</xs:enumeration>
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:list>
+						</xs:simpleType>
+					</xs:attribute>
+					<xs:attribute name="CountryCode">
+						<xs:annotation>
+							<xs:documentation xml:lang="ru">Код страны</xs:documentation>
+						</xs:annotation>
+						<xs:simpleType>
+							<xs:restriction base="xs:string">
+								<xs:pattern value="\d+"/>
+							</xs:restriction>
+						</xs:simpleType>
+					</xs:attribute>
+					<xs:attribute name="Code">
+						<xs:annotation>
+							<xs:documentation xml:lang="ru">Код города</xs:documentation>
+						</xs:annotation>
+						<xs:simpleType>
+							<xs:restriction base="xs:string">
+								<xs:pattern value="\d+"/>
+							</xs:restriction>
+						</xs:simpleType>
+					</xs:attribute>
+					<xs:attribute name="Number">
+						<xs:annotation>
+							<xs:documentation xml:lang="ru">Номер телефона</xs:documentation>
+						</xs:annotation>
+						<xs:simpleType>
+							<xs:restriction base="xs:string">
+								<xs:pattern value="\d+"/>
+							</xs:restriction>
+						</xs:simpleType>
+					</xs:attribute>
+					<xs:attribute name="Ext">
+						<xs:annotation>
+							<xs:documentation xml:lang="ru">Внутренний номер</xs:documentation>
+						</xs:annotation>
+						<xs:simpleType>
+							<xs:restriction base="xs:string">
+								<xs:pattern value="\d+"/>
+							</xs:restriction>
+						</xs:simpleType>
+					</xs:attribute>
+					<xs:attribute name="Operator" type="xs:string">
+						<xs:annotation>
+							<xs:documentation xml:lang="ru">Оператор связи</xs:documentation>
+						</xs:annotation>
+					</xs:attribute>
+					<xs:attributeGroup ref="p:Period"/>
+				</xs:extension>
+			</xs:simpleContent>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="EMail">
+		<xs:annotation>
+			<xs:documentation xml:lang="ru">Электронная почта</xs:documentation>
+			<xs:documentation xml:lang="en">e-mail</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:simpleContent>
+				<xs:extension base="xs:anyURI">
+					<xs:attribute name="URL" type="xs:anyURI"/>
+					<xs:attributeGroup ref="p:Period"/>
+				</xs:extension>
+			</xs:simpleContent>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Web">
+		<xs:annotation>
+			<xs:documentation xml:lang="ru">Домашняя страница в интернете</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:attribute name="URL" type="xs:anyURI" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Photo">
+		<xs:annotation>
+			<xs:documentation xml:lang="ru">Фотография</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:attribute name="URL" type="xs:anyURI" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Messenger">
+		<xs:annotation>
+			<xs:documentation xml:lang="ru">Аккаунты на серверах мгновенных сообщений</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:simpleContent>
+				<xs:extension base="xs:string">
+					<xs:attribute name="Type" use="required">
+						<xs:simpleType>
+							<xs:restriction base="xs:string">
+								<xs:enumeration value="ICQ"/>
+								<xs:enumeration value="Skype"/>
+							</xs:restriction>
+						</xs:simpleType>
+					</xs:attribute>
+					<xs:attribute name="Number">
+						<xs:simpleType>
+							<xs:restriction base="xs:string">
+								<xs:pattern value="\d+"/>
+							</xs:restriction>
+						</xs:simpleType>
+					</xs:attribute>
+					<xs:attribute name="Nickname" type="xs:string"/>
+					<xs:attributeGroup ref="p:Period"/>
+				</xs:extension>
+			</xs:simpleContent>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Document">
+		<xs:annotation>
+			<xs:documentation xml:lang="ru">Официальный документ удостоверяющий личность</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="p:Agency" minOccurs="0"/>
+			</xs:sequence>
+			<xs:attribute name="Type" use="required">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="DrivingLicence"/>
+						<xs:enumeration value="ForeignPassport"/>
+						<xs:enumeration value="Passport"/>
+						<xs:enumeration value="VISA"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attribute name="Series" type="xs:string"/>
+			<xs:attribute name="Number" type="xs:string"/>
+			<xs:attribute name="Country">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="RU"/>
+						<xs:enumeration value="UA"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attributeGroup ref="p:Period"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Agency">
+		<xs:annotation>
+			<xs:documentation xml:lang="ru">Организация выдавшая документ</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:simpleContent>
+				<xs:extension base="xs:string">
+					<xs:attribute ref="xml:lang" use="required"/>
+					<xs:attribute name="Code" type="xs:string"/>
+				</xs:extension>
+			</xs:simpleContent>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
