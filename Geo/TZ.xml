@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TimeZoneList xmlns="urn:geo-schemas-xml-frafv:timezone">
+<?xml-stylesheet type="text/xsl" href="Transform/TZViewEn.xsl"?>
+<TimeZoneList xmlns="urn:geo-schemas-xml-frafv:timezone" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:geo-schemas-xml-frafv:timezone Schemas/TimeZone.xsd urn:schemas-xml-frafv:proxy Schemas/Proxy.xsd urn:geo-schemas-xml-frafv:proxy Schemas/GeoProxy.xsd">
 	<TimeZone Name="AfghanistanStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Afghanistan Standard Time">Afghanistan Standard Time</Link>
 		<Label xml:lang="en">(GMT+04:30) Kabul</Label>
@@ -11165,4 +11166,576 @@
 		<Label xml:lang="en">Norfolk Time (Australia)</Label>
 		<Info Bias="-11:30:00" />
 	</TimeZone>
+	<ExportList xmlns="urn:schemas-xml-frafv:proxy">
+		<Prefix External="timezone" />
+		<Export Name="AfghanistanStandardTime" />
+		<Export Name="AlaskanStandardTime" />
+		<Export Name="ArabStandardTime" />
+		<Export Name="ArabianStandardTime" />
+		<Export Name="ArabicStandardTime" />
+		<Export Name="ArgentinaStandardTime" />
+		<Export Name="AtlanticStandardTime" />
+		<Export Name="AUSCentralStandardTime" />
+		<Export Name="AUSEasternStandardTime" />
+		<Export Name="AzerbaijanStandardTime" />
+		<Export Name="AzoresStandardTime" />
+		<Export Name="CanadaCentralStandardTime" />
+		<Export Name="CapeVerdeStandardTime" />
+		<Export Name="CaucasusStandardTime" />
+		<Export Name="CenAustraliaStandardTime" />
+		<Export Name="CentralAmericaStandardTime" />
+		<Export Name="CentralAsiaStandardTime" />
+		<Export Name="CentralBrazilianStandardTime" />
+		<Export Name="CentralEuropeStandardTime" />
+		<Export Name="CentralEuropeanStandardTime" />
+		<Export Name="CentralPacificStandardTime" />
+		<Export Name="CentralStandardTime" />
+		<Export Name="CentralStandardTimeMexico" />
+		<Export Name="ChinaStandardTime" />
+		<Export Name="DatelineStandardTime" />
+		<Export Name="EAfricaStandardTime" />
+		<Export Name="EAustraliaStandardTime" />
+		<Export Name="EEuropeStandardTime" />
+		<Export Name="ESouthAmericaStandardTime" />
+		<Export Name="EasternStandardTime" />
+		<Export Name="EgyptStandardTime" />
+		<Export Name="EkaterinburgStandardTime" />
+		<Export Name="FijiStandardTime" />
+		<Export Name="FLEStandardTime" />
+		<Export Name="GeorgianStandardTime" />
+		<Export Name="GMTStandardTime" />
+		<Export Name="GreenlandStandardTime" />
+		<Export Name="GreenwichStandardTime" />
+		<Export Name="GTBStandardTime" />
+		<Export Name="HawaiianStandardTime" />
+		<Export Name="IndiaStandardTime" />
+		<Export Name="IranStandardTime" />
+		<Export Name="IsraelStandardTime" />
+		<Export Name="JordanStandardTime" />
+		<Export Name="KamchatkaStandardTime" />
+		<Export Name="KoreaStandardTime" />
+		<Export Name="MauritiusStandardTime" />
+		<Export Name="MidAtlanticStandardTime" />
+		<Export Name="MiddleEastStandardTime" />
+		<Export Name="MontevideoStandardTime" />
+		<Export Name="MoroccoStandardTime" />
+		<Export Name="MountainStandardTime" />
+		<Export Name="MountainStandardTimeMexico" />
+		<Export Name="MyanmarStandardTime" />
+		<Export Name="NCentralAsiaStandardTime" />
+		<Export Name="NamibiaStandardTime" />
+		<Export Name="NepalStandardTime" />
+		<Export Name="NewZealandStandardTime" />
+		<Export Name="NewfoundlandStandardTime" />
+		<Export Name="NorthAsiaEastStandardTime" />
+		<Export Name="NorthAsiaStandardTime" />
+		<Export Name="PacificSAStandardTime" />
+		<Export Name="PacificStandardTime" />
+		<Export Name="PacificStandardTimeMexico" />
+		<Export Name="PakistanStandardTime" />
+		<Export Name="ParaguayStandardTime" />
+		<Export Name="RomanceStandardTime" />
+		<Export Name="RussianStandardTime" />
+		<Export Name="SAEasternStandardTime" />
+		<Export Name="SAPacificStandardTime" />
+		<Export Name="SAWesternStandardTime" />
+		<Export Name="SamoaStandardTime" />
+		<Export Name="SEAsiaStandardTime" />
+		<Export Name="SingaporeStandardTime" />
+		<Export Name="SouthAfricaStandardTime" />
+		<Export Name="SriLankaStandardTime" />
+		<Export Name="TaipeiStandardTime" />
+		<Export Name="TasmaniaStandardTime" />
+		<Export Name="TokyoStandardTime" />
+		<Export Name="TongaStandardTime" />
+		<Export Name="UlaanbaatarStandardTime" />
+		<Export Name="USEasternStandardTime" />
+		<Export Name="USMountainStandardTime" />
+		<Export Name="UTC" />
+		<Export Name="VenezuelaStandardTime" />
+		<Export Name="VladivostokStandardTime" />
+		<Export Name="WAustraliaStandardTime" />
+		<Export Name="WCentralAfricaStandardTime" />
+		<Export Name="WEuropeStandardTime" />
+		<Export Name="WestAsiaStandardTime" />
+		<Export Name="WestPacificStandardTime" />
+		<Export Name="YakutskStandardTime" />
+		<Export Name="MarquesasTime" />
+		<Export Name="CentralWestTime" />
+		<Export Name="NorfolkTime" />
+	</ExportList>
+	<ExportList xmlns="urn:schemas-xml-frafv:proxy">
+		<Export Name="DatelineStandardTime" External="UTC-12IDLW">
+			<Label xml:lang="en">Dateline Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">IDLW</Label>
+		</Export>
+		<Export Name="SamoaStandardTime" External="UTC-11">
+			<Label xml:lang="en">Samoa Standard Time</Label>
+		</Export>
+		<Export Name="HawaiianStandardTime" External="UTC-10">
+			<Label xml:lang="en">Hawaiian Standard Time</Label>
+		</Export>
+		<Export Name="MarquesasTime" External="UTC-930MART">
+			<Label xml:lang="en">Marquesas Time</Label>
+			<Label Type="Abbr" xml:lang="en">MART</Label>
+		</Export>
+		<Export Name="AlaskanStandardTime" External="UTC-9AKST">
+			<Label xml:lang="en">Alaskan Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">AKST</Label>
+		</Export>
+		<Export Name="PacificStandardTime PacificStandardTimeMexico" External="UTC-8PST">
+			<Label xml:lang="en">Pacific Standard Time, Pacific Standard Time (Mexico)</Label>
+			<Label Type="Abbr" xml:lang="en">PST</Label>
+		</Export>
+		<Export Name="USMountainStandardTime" External="UTC-7">
+			<Label xml:lang="en">US Mountain Standard Time</Label>
+		</Export>
+		<Export Name="MountainStandardTime MountainStandardTimeMexico" External="UTC-7MST">
+			<Label xml:lang="en">Mountain Standard Time, Mountain Standard Time (Mexico)</Label>
+			<Label Type="Abbr" xml:lang="en">MST</Label>
+		</Export>
+		<Export Name="CanadaCentralStandardTime CentralAmericaStandardTime" External="UTC-6">
+			<Label xml:lang="en">Canada Central Standard Time, Central America Standard Time</Label>
+		</Export>
+		<Export Name="CentralStandardTime CentralStandardTimeMexico" External="UTC-6CST">
+			<Label xml:lang="en">Central Standard Time, Central Standard Time (Mexico)</Label>
+			<Label Type="Abbr" xml:lang="en">CST</Label>
+		</Export>
+		<Export Name="SAPacificStandardTime USEasternStandardTime" External="UTC-5">
+			<Label xml:lang="en">SA Pacific Standard Time, US Eastern Standard Time</Label>
+		</Export>
+		<Export Name="EasternStandardTime" External="UTC-5EST">
+			<Label xml:lang="en">Eastern Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">EST</Label>
+		</Export>
+		<Export Name="VenezuelaStandardTime" External="UTC-430VET">
+			<Label xml:lang="en">Venezuela Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">VET</Label>
+		</Export>
+		<Export Name="SAWesternStandardTime" External="UTC-4">
+			<Label xml:lang="en">SA Western Standard Time</Label>
+		</Export>
+		<Export Name="AtlanticStandardTime" External="UTC-4AST">
+			<Label xml:lang="en">Atlantic Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">AST</Label>
+		</Export>
+		<Export Name="CentralBrazilianStandardTime" External="UTC-4Manaus">
+			<Label xml:lang="en">Central Brazilian Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">Manaus</Label>
+		</Export>
+		<Export Name="PacificSAStandardTime" External="UTC-4PST">
+			<Label xml:lang="en">Pacific SA Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">PST</Label>
+		</Export>
+		<Export Name="ParaguayStandardTime" External="UTC-4PYT">
+			<Label xml:lang="en">Paraguay Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">PYT</Label>
+		</Export>
+		<Export Name="NewfoundlandStandardTime" External="UTC-330NST">
+			<Label xml:lang="en">Newfoundland Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">NST</Label>
+		</Export>
+		<Export Name="SAEasternStandardTime" External="UTC-3">
+			<Label xml:lang="en">SA Eastern Standard Time</Label>
+		</Export>
+		<Export Name="ArgentinaStandardTime" External="UTC-3ART">
+			<Label xml:lang="en">Argentina Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">ART</Label>
+		</Export>
+		<Export Name="ESouthAmericaStandardTime" External="UTC-3BRT">
+			<Label xml:lang="en">E. South America Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">BRT</Label>
+		</Export>
+		<Export Name="GreenlandStandardTime" External="UTC-3GST">
+			<Label xml:lang="en">Greenland Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">GST</Label>
+		</Export>
+		<Export Name="MontevideoStandardTime" External="UTC-3UYT">
+			<Label xml:lang="en">Montevideo Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">UYT</Label>
+		</Export>
+		<Export Name="MidAtlanticStandardTime" External="UTC-2GST">
+			<Label xml:lang="en">Mid-Atlantic Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">GST</Label>
+		</Export>
+		<Export Name="CapeVerdeStandardTime" External="UTC-1">
+			<Label xml:lang="en">Cape Verde Standard Time</Label>
+		</Export>
+		<Export Name="AzoresStandardTime" External="UTC-1AZOT">
+			<Label xml:lang="en">Azores Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">AZOT</Label>
+		</Export>
+		<Export Name="UTC" External="UTC">
+			<Label xml:lang="en">Coordinated Universal Time</Label>
+		</Export>
+		<Export Name="GMTStandardTime" External="UTCGMT">
+			<Label xml:lang="en">GMT Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">GMT</Label>
+		</Export>
+		<Export Name="GreenwichStandardTime" External="UTCGT">
+			<Label xml:lang="en">Greenwich Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">GT</Label>
+		</Export>
+		<Export Name="MoroccoStandardTime" External="UTCMorocco">
+			<Label xml:lang="en">Morocco Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">Morocco</Label>
+		</Export>
+		<Export Name="WCentralAfricaStandardTime" External="UTC1">
+			<Label xml:lang="en">W. Central Africa Standard Time</Label>
+		</Export>
+		<Export Name="CentralEuropeStandardTime CentralEuropeanStandardTime RomanceStandardTime WEuropeStandardTime" External="UTC1CET">
+			<Label xml:lang="en">Central Europe Standard Time, Central European Standard Time, Romance Standard Time, W. Europe Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">CET</Label>
+		</Export>
+		<Export Name="SouthAfricaStandardTime" External="UTC2">
+			<Label xml:lang="en">South Africa Standard Time</Label>
+		</Export>
+		<Export Name="FLEStandardTime GTBStandardTime" External="UTC2EET">
+			<Label xml:lang="en">FLE Standard Time, GTB Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">EET</Label>
+		</Export>
+		<Export Name="MiddleEastStandardTime" External="UTC2EETAsia">
+			<Label xml:lang="en">Middle East Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">EET Asia</Label>
+		</Export>
+		<Export Name="EgyptStandardTime" External="UTC2Egypt">
+			<Label xml:lang="en">Egypt Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">Egypt</Label>
+		</Export>
+		<Export Name="IsraelStandardTime" External="UTC2IST">
+			<Label xml:lang="en">Jerusalem Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">IST</Label>
+		</Export>
+		<Export Name="JordanStandardTime" External="UTC2Jordan">
+			<Label xml:lang="en">Jordan Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">Jordan</Label>
+		</Export>
+		<Export Name="EEuropeStandardTime" External="UTC2USZ1">
+			<Label xml:lang="en">E. Europe Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">USZ1</Label>
+		</Export>
+		<Export Name="NamibiaStandardTime" External="UTC2WAT">
+			<Label xml:lang="en">Namibia Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">WAT</Label>
+		</Export>
+		<Export Name="ArabStandardTime ArabicStandardTime EAfricaStandardTime" External="UTC3">
+			<Label xml:lang="en">Arab Standard Time, Arabic Standard Time, E. Africa Standard Time</Label>
+		</Export>
+		<Export Name="RussianStandardTime" External="UTC3MSK">
+			<Label xml:lang="en">Russian Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">MSK</Label>
+		</Export>
+		<Export Name="IranStandardTime" External="UTC330">
+			<Label xml:lang="en">Iran Standard Time</Label>
+		</Export>
+		<Export Name="ArabianStandardTime GeorgianStandardTime" External="UTC4">
+			<Label xml:lang="en">Arabian Standard Time, Georgian Standard Time</Label>
+		</Export>
+		<Export Name="CaucasusStandardTime" External="UTC4AMT">
+			<Label xml:lang="en">Caucasus Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">AMT</Label>
+		</Export>
+		<Export Name="AzerbaijanStandardTime" External="UTC4AZT">
+			<Label xml:lang="en">Azerbaijan Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">AZT</Label>
+		</Export>
+		<Export Name="MauritiusStandardTime" External="UTC4MUT">
+			<Label xml:lang="en">Mauritius Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">MUT</Label>
+		</Export>
+		<Export Name="AfghanistanStandardTime" External="UTC430AFT">
+			<Label xml:lang="en">Afghanistan Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">AFT</Label>
+		</Export>
+		<Export Name="WestAsiaStandardTime" External="UTC5">
+			<Label xml:lang="en">West Asia Standard Time</Label>
+		</Export>
+		<Export Name="PakistanStandardTime" External="UTC5PKT">
+			<Label xml:lang="en">Pakistan Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">PKT</Label>
+		</Export>
+		<Export Name="EkaterinburgStandardTime" External="UTC5YEKT">
+			<Label xml:lang="en">Ekaterinburg Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">YEKT</Label>
+		</Export>
+		<Export Name="IndiaStandardTime SriLankaStandardTime" External="UTC530IST">
+			<Label xml:lang="en">India Standard Time, Sri Lanka Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">IST</Label>
+		</Export>
+		<Export Name="NepalStandardTime" External="UTC545NPT">
+			<Label xml:lang="en">Nepal Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">NPT</Label>
+		</Export>
+		<Export Name="CentralAsiaStandardTime" External="UTC6">
+			<Label xml:lang="en">Central Asia Standard Time</Label>
+		</Export>
+		<Export Name="NCentralAsiaStandardTime" External="UTC6USZ5">
+			<Label xml:lang="en">N. Central Asia Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">USZ5</Label>
+		</Export>
+		<Export Name="MyanmarStandardTime" External="UTC630MMT">
+			<Label xml:lang="en">Myanmar Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">MMT</Label>
+		</Export>
+		<Export Name="SEAsiaStandardTime" External="UTC7">
+			<Label xml:lang="en">SE Asia Standard Time</Label>
+		</Export>
+		<Export Name="NorthAsiaStandardTime" External="UTC7USZ6">
+			<Label xml:lang="en">North Asia Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">USZ6</Label>
+		</Export>
+		<Export Name="ChinaStandardTime SingaporeStandardTime TaipeiStandardTime UlaanbaatarStandardTime" External="UTC8">
+			<Label xml:lang="en">China Standard Time, Malay Peninsula Standard Time, Taipei Standard Time, Ulaanbaatar Standard Time</Label>
+		</Export>
+		<Export Name="WAustraliaStandardTime" External="UTC8AWST">
+			<Label xml:lang="en">W. Australia Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">AWST</Label>
+		</Export>
+		<Export Name="NorthAsiaEastStandardTime" External="UTC8USZ7">
+			<Label xml:lang="en">North Asia East Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">USZ7</Label>
+		</Export>
+		<Export Name="CentralWestTime" External="UTC845CWT">
+			<Label xml:lang="en">Central West Time (Australia)</Label>
+			<Label Type="Abbr" xml:lang="en">CWT</Label>
+		</Export>
+		<Export Name="KoreaStandardTime TokyoStandardTime" External="UTC9">
+			<Label xml:lang="en">Korea Standard Time, Tokyo Standard Time</Label>
+		</Export>
+		<Export Name="YakutskStandardTime" External="UTC9USZ8">
+			<Label xml:lang="en">Yakutsk Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">USZ8</Label>
+		</Export>
+		<Export Name="AUSCentralStandardTime" External="UTC930">
+			<Label xml:lang="en">AUS Central Standard Time</Label>
+		</Export>
+		<Export Name="CenAustraliaStandardTime" External="UTC930ACST">
+			<Label xml:lang="en">Cen. Australia Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">ACST</Label>
+		</Export>
+		<Export Name="EAustraliaStandardTime WestPacificStandardTime" External="UTC10">
+			<Label xml:lang="en">E. Australia Standard Time, West Pacific Standard Time</Label>
+		</Export>
+		<Export Name="AUSEasternStandardTime" External="UTC10AEST">
+			<Label xml:lang="en">AUS Eastern Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">AEST</Label>
+		</Export>
+		<Export Name="TasmaniaStandardTime" External="UTC10Tasmania">
+			<Label xml:lang="en">Tasmania Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">Tasmania</Label>
+		</Export>
+		<Export Name="VladivostokStandardTime" External="UTC10USZ9">
+			<Label xml:lang="en">Vladivostok Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">USZ9</Label>
+		</Export>
+		<Export Name="CentralPacificStandardTime" External="UTC11">
+			<Label xml:lang="en">Central Pacific Standard Time</Label>
+		</Export>
+		<Export Name="NorfolkTime" External="UTC1130NFT">
+			<Label xml:lang="en">Norfolk Time (Australia)</Label>
+			<Label Type="Abbr" xml:lang="en">NFT</Label>
+		</Export>
+		<Export Name="FijiStandardTime" External="UTC12">
+			<Label xml:lang="en">Fiji Standard Time</Label>
+		</Export>
+		<Export Name="NewZealandStandardTime" External="UTC12NZST">
+			<Label xml:lang="en">New Zealand Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">NZST</Label>
+		</Export>
+		<Export Name="KamchatkaStandardTime" External="UTC12UZ11">
+			<Label xml:lang="en">Kamchatka Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">UZ11</Label>
+		</Export>
+		<Export Name="TongaStandardTime" External="UTC13TOT">
+			<Label xml:lang="en">Tonga Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">TOT</Label>
+		</Export>
+	</ExportList>
+	<ExternalList xmlns="urn:geo-schemas-xml-frafv:proxy" xmlns:e="urn:schemas-xml-frafv:proxy">
+		<e:Prefix External="lang" />
+		<Language e:Name="ar-SA">
+			<Label xml:lang="en">Arabic</Label>
+			<Label xml:lang="ru">Арабский</Label>
+			<Label Type="Org" xml:lang="ar">العربية</Label>
+		</Language>
+		<Language e:Name="bg-BG">
+			<Label xml:lang="en">Bulgarian</Label>
+			<Label xml:lang="ru">Болгарский</Label>
+			<Label Type="Org" xml:lang="bg">български</Label>
+		</Language>
+		<Language e:Name="cs-CZ">
+			<Label xml:lang="en">Czech</Label>
+			<Label xml:lang="ru">Чешский</Label>
+			<Label Type="Org" xml:lang="cs">čeština</Label>
+		</Language>
+		<Language e:Name="da-DK">
+			<Label xml:lang="en">Danish</Label>
+			<Label xml:lang="ru">Датский</Label>
+			<Label Type="Org" xml:lang="da">dansk</Label>
+		</Language>
+		<Language e:Name="de-DE">
+			<Label xml:lang="en">German</Label>
+			<Label xml:lang="ru">Немецкий</Label>
+			<Label Type="Org" xml:lang="de">Deutsch</Label>
+		</Language>
+		<Language e:Name="el-GR">
+			<Label xml:lang="en">Greek</Label>
+			<Label xml:lang="ru">Греческий</Label>
+			<Label Type="Org" xml:lang="el">ελληνικά</Label>
+		</Language>
+		<Language e:Name="en">
+			<Label Type="Org" xml:lang="en">English</Label>
+			<Label xml:lang="ru">Английский</Label>
+		</Language>
+		<Language e:Name="en-US">
+			<Label xml:lang="en">English (United States)</Label>
+			<Label xml:lang="ru">Английский (США)</Label>
+			<Label Type="Org" xml:lang="en-US">English (United States)</Label>
+		</Language>
+		<Language e:Name="es-ES">
+			<Label xml:lang="en">Spanish</Label>
+			<Label xml:lang="ru">Испанский</Label>
+			<Label Type="Org" xml:lang="es">español</Label>
+		</Language>
+		<Language e:Name="et-EE">
+			<Label xml:lang="en">Estonian</Label>
+			<Label xml:lang="ru">Эстонский</Label>
+			<Label Type="Org" xml:lang="et">eesti</Label>
+		</Language>
+		<Language e:Name="fi-FI">
+			<Label xml:lang="en">Finnish</Label>
+			<Label xml:lang="ru">Финский</Label>
+			<Label Type="Org" xml:lang="fi">suomi</Label>
+		</Language>
+		<Language e:Name="fr-FR">
+			<Label xml:lang="en">French</Label>
+			<Label xml:lang="ru">Французский</Label>
+			<Label Type="Org" xml:lang="fr">français</Label>
+		</Language>
+		<Language e:Name="he-IL">
+			<Label xml:lang="en">Hebrew</Label>
+			<Label xml:lang="ru">Иврит</Label>
+			<Label Type="Org" xml:lang="he">עברית</Label>
+		</Language>
+		<Language e:Name="hr-HR">
+			<Label xml:lang="en">Croatian</Label>
+			<Label xml:lang="ru">Хорватский</Label>
+			<Label Type="Org" xml:lang="hr">hrvatski</Label>
+		</Language>
+		<Language e:Name="hu-HU">
+			<Label xml:lang="en">Hungarian</Label>
+			<Label xml:lang="ru">Венгерский</Label>
+			<Label Type="Org" xml:lang="hu">magyar</Label>
+		</Language>
+		<Language e:Name="it-IT">
+			<Label xml:lang="en">Italian</Label>
+			<Label xml:lang="ru">Итальянский</Label>
+			<Label Type="Org" xml:lang="it">italiano</Label>
+		</Language>
+		<Language e:Name="ja-JP">
+			<Label xml:lang="en">Japanese</Label>
+			<Label xml:lang="ru">Японский</Label>
+			<Label Type="Org" xml:lang="ja">日本語</Label>
+		</Language>
+		<Language e:Name="ko-KR">
+			<Label xml:lang="en">Korean</Label>
+			<Label xml:lang="ru">Корейский</Label>
+			<Label Type="Org" xml:lang="ko">한국어</Label>
+		</Language>
+		<Language e:Name="lt-LT">
+			<Label xml:lang="en">Lithuanian</Label>
+			<Label xml:lang="ru">Литовский</Label>
+			<Label Type="Org" xml:lang="lt">lietuvių</Label>
+		</Language>
+		<Language e:Name="lv-LV">
+			<Label xml:lang="en">Latvian</Label>
+			<Label xml:lang="ru">Латышский</Label>
+			<Label Type="Org" xml:lang="lv">latviešu</Label>
+		</Language>
+		<Language e:Name="nb-NO">
+			<Label xml:lang="en">Norwegian, Bokmål</Label>
+			<Label xml:lang="ru">Норвежский, диалект Bokmål</Label>
+			<Label Type="Org" xml:lang="nb-NO">norsk, bokmål</Label>
+		</Language>
+		<Language e:Name="nl-NL">
+			<Label xml:lang="en">Dutch</Label>
+			<Label xml:lang="ru">Голландский</Label>
+			<Label Type="Org" xml:lang="nl">Nederlands</Label>
+		</Language>
+		<Language e:Name="pl-PL">
+			<Label xml:lang="en">Polish</Label>
+			<Label xml:lang="ru">Польский</Label>
+			<Label Type="Org" xml:lang="pl">polski</Label>
+		</Language>
+		<Language e:Name="pt-BR">
+			<Label xml:lang="en">Portuguese (Brazil)</Label>
+			<Label xml:lang="ru">Португальский (Бразилия)</Label>
+			<Label Type="Org" xml:lang="pt-BR">Português (Brasil)</Label>
+		</Language>
+		<Language e:Name="pt-PT">
+			<Label xml:lang="en">Portuguese (Portugal)</Label>
+			<Label xml:lang="ru">Португальский (Португалия)</Label>
+			<Label Type="Org" xml:lang="pt-PT">português (Portugal)</Label>
+		</Language>
+		<Language e:Name="ro-RO">
+			<Label xml:lang="en">Romanian</Label>
+			<Label xml:lang="ru">Румынский</Label>
+			<Label Type="Org" xml:lang="ro">română</Label>
+		</Language>
+		<Language e:Name="ru">
+			<Label xml:lang="en">Russian</Label>
+			<Label Type="Org" xml:lang="ru">Русский</Label>
+		</Language>
+		<Language e:Name="ru-RU">
+			<Label xml:lang="en">Russian</Label>
+			<Label Type="Org" xml:lang="ru">Русский</Label>
+		</Language>
+		<Language e:Name="sk-SK">
+			<Label xml:lang="en">Slovak</Label>
+			<Label xml:lang="ru">Словацкий</Label>
+			<Label Type="Org" xml:lang="sk">slovenčina</Label>
+		</Language>
+		<Language e:Name="sl-SI">
+			<Label xml:lang="en">Slovenian</Label>
+			<Label xml:lang="ru">Словенский</Label>
+			<Label Type="Org" xml:lang="sl">slovenski</Label>
+		</Language>
+		<Language e:Name="sr-SP-Latn">
+			<Label xml:lang="en">Serbian</Label>
+			<Label xml:lang="ru">Сербский</Label>
+			<Label Type="Org" xml:lang="sr">srpski</Label>
+			<Label Type="Org" xml:lang="sr-Cyrl-BA">српски</Label>
+			<Label Type="Org" xml:lang="sr-Latn-BA">srpski</Label>
+		</Language>
+		<Language e:Name="sv-SE">
+			<Label xml:lang="en">Swedish</Label>
+			<Label xml:lang="ru">Шведский</Label>
+			<Label Type="Org" xml:lang="sv">svenska</Label>
+		</Language>
+		<Language e:Name="th-TH">
+			<Label xml:lang="en">Thai</Label>
+			<Label xml:lang="ru">Тайский</Label>
+			<Label Type="Org" xml:lang="th">ไทย</Label>
+		</Language>
+		<Language e:Name="tr-TR">
+			<Label xml:lang="en">Turkish</Label>
+			<Label xml:lang="ru">Турецкий</Label>
+			<Label Type="Org" xml:lang="tr">Türkçe</Label>
+		</Language>
+		<Language e:Name="uk-UA">
+			<Label xml:lang="en">Ukrainian</Label>
+			<Label xml:lang="ru">Украинский</Label>
+			<Label Type="Org" xml:lang="uk">україньска</Label>
+		</Language>
+		<Language e:Name="zh-CN">
+			<Label xml:lang="en">Chinese (People's Republic of China)</Label>
+			<Label xml:lang="ru">Китайский (Китайская Народная Республика)</Label>
+			<Label Type="Org" xml:lang="zh-CN">中文(中华人民共和国)</Label>
+		</Language>
+		<Language e:Name="zh-TW">
+			<Label xml:lang="en">Chinese (Taiwan)</Label>
+			<Label xml:lang="ru">Китайский (Тайвань)</Label>
+			<Label Type="Org" xml:lang="zh-TW">中文(台灣)</Label>
+		</Language>
+	</ExternalList>
 </TimeZoneList>

@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hr="urn:schemas-xml-frafv:hr" xmlns:p="urn:schemas-xml-frafv:sharer" targetNamespace="urn:schemas-xml-frafv:hr" elementFormDefault="qualified">
+	<xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="http://www.w3.org/2001/xml.xsd"/>
+	<xs:import namespace="urn:schemas-xml-frafv:sharer" schemaLocation="Sharer.xsd"/>
+	<xs:attributeGroup name="Name">
+		<xs:attribute name="Name" type="xs:ID" use="required">
+			<xs:annotation>
+				<xs:documentation xml:lang="ru">Название</xs:documentation>
+				<xs:documentation xml:lang="en">Name</xs:documentation>
+				<xs:documentation source="Help" xml:lang="ru">Данный атрибут используется практически везде, где нужна уникальная идентификация объекта</xs:documentation>
+				<xs:appinfo source="Label">
+					<xs:documentation xml:lang="ru">Название</xs:documentation>
+					<xs:documentation xml:lang="ru" source="GenCase">Названия</xs:documentation>
+					<xs:documentation xml:lang="ru" source="DatCase">Названию</xs:documentation>
+					<xs:documentation xml:lang="ru" source="InstrCase">Названием</xs:documentation>
+					<xs:documentation xml:lang="ru" source="PrepCase">Названии</xs:documentation>
+					<xs:documentation xml:lang="en">Name</xs:documentation>
+				</xs:appinfo>
+			</xs:annotation>
+		</xs:attribute>
+	</xs:attributeGroup>
+	<xs:attributeGroup name="Period">
+		<xs:attribute name="StartPeriod">
+			<xs:annotation>
+				<xs:documentation xml:lang="ru">Начало периода</xs:documentation>
+				<xs:documentation xml:lang="en">Start Period</xs:documentation>
+				<xs:documentation source="Help" xml:lang="ru">Для человека обозначает первое знакомство с ним. Для местоположения - первое появление в данном месте. Для телефона и предметов - дата преобретения. Для фирмы - дата образования.</xs:documentation>
+			</xs:annotation>
+			<xs:simpleType>
+				<xs:union memberTypes="xs:date xs:gYearMonth xs:gYear"/>
+			</xs:simpleType>
+		</xs:attribute>
+		<xs:attribute name="EndPeriod">
+			<xs:annotation>
+				<xs:documentation xml:lang="ru">Конец периода</xs:documentation>
+				<xs:documentation xml:lang="en">End Period</xs:documentation>
+				<xs:documentation source="Help" xml:lang="ru">Для человека обозначает дату последней встречи. Для местоположения - последнее появление в данном месте. Для телефона и предметов - дата отказа или нарушения работоспособности. Для фирмы - дата распада.</xs:documentation>
+			</xs:annotation>
+			<xs:simpleType>
+				<xs:union memberTypes="xs:date xs:gYearMonth">
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:enumeration value="Unknown">
+								<xs:annotation>
+									<xs:documentation xml:lang="ru">Конец периода точно неопределён</xs:documentation>
+								</xs:annotation>
+							</xs:enumeration>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:union>
+			</xs:simpleType>
+		</xs:attribute>
+	</xs:attributeGroup>
+	<xs:element name="Employee">
+		<xs:annotation>
+			<xs:documentation xml:lang="ru">Позиция на работе</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:annotation>
+				<xs:documentation source="Help" xml:lang="ru">Информация о сотруднике</xs:documentation>
+			</xs:annotation>
+			<xs:sequence>
+				<xs:element ref="p:Phone" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="hr:Salary" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element name="Property" minOccurs="0" maxOccurs="unbounded">
+					<xs:annotation>
+						<xs:documentation xml:lang="ru">Приписанное имущество</xs:documentation>
+					</xs:annotation>
+					<xs:complexType>
+						<xs:attribute name="Name" type="xs:string" use="required"/>
+						<xs:attributeGroup ref="p:Period"/>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+			<xs:attribute name="Company" type="xs:IDREF"/>
+			<xs:attribute name="Department" type="xs:string">
+				<xs:annotation>
+					<xs:documentation xml:lang="ru">Департамент или отдел</xs:documentation>
+				</xs:annotation>
+			</xs:attribute>
+			<xs:attribute name="Post">
+				<xs:annotation>
+					<xs:documentation xml:lang="ru">Должность</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="President">
+							<xs:annotation>
+								<xs:documentation xml:lang="ru">Президент</xs:documentation>
+								<xs:documentation xml:lang="en">President</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="Director">
+							<xs:annotation>
+								<xs:documentation xml:lang="ru">Генеральный директор</xs:documentation>
+								<xs:documentation xml:lang="en">Director General</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="Head">
+							<xs:annotation>
+								<xs:documentation xml:lang="ru">Директор департамента</xs:documentation>
+								<xs:documentation xml:lang="en">Department Head</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="SubLeader">
+							<xs:annotation>
+								<xs:documentation xml:lang="ru">Руководитель подразделения</xs:documentation>
+								<xs:documentation xml:lang="en">Subdivision Leader</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="Deputy">
+							<xs:annotation>
+								<xs:documentation xml:lang="ru">Заместитель директора департамента</xs:documentation>
+								<xs:documentation xml:lang="en">Department Deputy Head</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="HR">
+							<xs:annotation>
+								<xs:documentation xml:lang="ru">Менеджер по персоналу</xs:documentation>
+								<xs:documentation xml:lang="en">Нuman resources</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="OfficeMan">
+							<xs:annotation>
+								<xs:documentation xml:lang="ru">Офис-менеджер</xs:documentation>
+								<xs:documentation xml:lang="en">OfficeMan</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="Admin">
+							<xs:annotation>
+								<xs:documentation xml:lang="ru">Системный администратор</xs:documentation>
+								<xs:documentation xml:lang="en">System Administrator</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="PM">
+							<xs:annotation>
+								<xs:documentation xml:lang="ru">Менеджер проектов</xs:documentation>
+								<xs:documentation xml:lang="en">Project Manager</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="TeamLeader">
+							<xs:annotation>
+								<xs:documentation xml:lang="ru">Руководитель группы</xs:documentation>
+								<xs:documentation xml:lang="en">Team Leader</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="Analyst">
+							<xs:annotation>
+								<xs:documentation xml:lang="ru">Аналитик</xs:documentation>
+								<xs:documentation xml:lang="en">Analyst</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="Design">
+							<xs:annotation>
+								<xs:documentation xml:lang="ru">Дизайнер</xs:documentation>
+								<xs:documentation xml:lang="en">Design</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="Architect">
+							<xs:annotation>
+								<xs:documentation xml:lang="ru">Архитектор</xs:documentation>
+								<xs:documentation xml:lang="en">Architect</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="TechWriter">
+							<xs:annotation>
+								<xs:documentation xml:lang="ru">Технический писатель</xs:documentation>
+								<xs:documentation xml:lang="en">Tech Writer</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="LeadDev">
+							<xs:annotation>
+								<xs:documentation xml:lang="ru">Ведущий разработчик</xs:documentation>
+								<xs:documentation xml:lang="en">Lead Developer</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="Dev">
+							<xs:annotation>
+								<xs:documentation xml:lang="ru">Разработчик</xs:documentation>
+								<xs:documentation xml:lang="en">Developer</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="LeadExpert">
+							<xs:annotation>
+								<xs:documentation xml:lang="ru">Ведущий эксперт</xs:documentation>
+								<xs:documentation xml:lang="en">Lead Expert</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="Expert">
+							<xs:annotation>
+								<xs:documentation xml:lang="ru">Эксперт</xs:documentation>
+								<xs:documentation xml:lang="en">Expert</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="Student">
+							<xs:annotation>
+								<xs:documentation xml:lang="ru">Студент</xs:documentation>
+								<xs:documentation xml:lang="en">Student</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="TestLeader">
+							<xs:annotation>
+								<xs:documentation xml:lang="ru">Руководитель тестировщиков</xs:documentation>
+								<xs:documentation xml:lang="en">Test Leader</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="Tester">
+							<xs:annotation>
+								<xs:documentation xml:lang="ru">Тестировщик</xs:documentation>
+								<xs:documentation xml:lang="en">Tester</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attribute name="Office" type="xs:string">
+				<xs:annotation>
+					<xs:documentation xml:lang="ru">Офис</xs:documentation>
+				</xs:annotation>
+			</xs:attribute>
+			<xs:attribute name="Login" type="xs:string">
+				<xs:annotation>
+					<xs:documentation xml:lang="ru">Логин для входа в рабочую сеть</xs:documentation>
+				</xs:annotation>
+			</xs:attribute>
+			<xs:attributeGroup ref="p:Period"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Service">
+		<xs:annotation>
+			<xs:documentation xml:lang="ru">Дополнительные услуги на работе</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:attribute name="Type" use="required">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="MedInsurance"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attributeGroup ref="p:Period"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Salary">
+		<xs:annotation>
+			<xs:documentation xml:lang="ru">Ставка оклада на работе</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:attribute name="Type">
+				<xs:annotation>
+					<xs:documentation xml:lang="ru">Оклад на испытательном сроке</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="Probation"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attribute name="Amount" type="xs:unsignedInt">
+				<xs:annotation>
+					<xs:documentation xml:lang="ru">Сумма оклада</xs:documentation>
+				</xs:annotation>
+			</xs:attribute>
+			<xs:attribute name="Currency">
+				<xs:annotation>
+					<xs:documentation xml:lang="ru">Валюта оклада</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="USD"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attributeGroup ref="p:Period"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:attributeGroup name="Manufacturer">
+		<xs:attribute name="Manufacturer">
+			<xs:simpleType>
+				<xs:restriction base="xs:string">
+					<xs:enumeration value="3Com"/>
+					<xs:enumeration value="Acer"/>
+					<xs:enumeration value="ASUS"/>
+					<xs:enumeration value="ATI"/>
+					<xs:enumeration value="FUJITSU"/>
+					<xs:enumeration value="GoldStar"/>
+					<xs:enumeration value="HP"/>
+					<xs:enumeration value="IBM"/>
+					<xs:enumeration value="IIyama"/>
+					<xs:enumeration value="Intel"/>
+					<xs:enumeration value="LG"/>
+					<xs:enumeration value="MITSUMI"/>
+					<xs:enumeration value="Maxtor"/>
+					<xs:enumeration value="Microsoft"/>
+					<xs:enumeration value="NEC"/>
+					<xs:enumeration value="NVIDIA"/>
+					<xs:enumeration value="Oracle"/>
+					<xs:enumeration value="Philips"/>
+					<xs:enumeration value="Samsung"/>
+					<xs:enumeration value="SONY"/>
+					<xs:enumeration value="Seagate"/>
+					<xs:enumeration value="TEAC"/>
+					<xs:enumeration value="TOSHIBA"/>
+					<xs:enumeration value="TSSTcorp"/>
+					<xs:enumeration value="WD"/>
+				</xs:restriction>
+			</xs:simpleType>
+		</xs:attribute>
+	</xs:attributeGroup>
+	<xs:attributeGroup name="Size">
+		<xs:attribute name="Value" type="xs:decimal" use="required"/>
+		<xs:attribute name="Unit" use="required">
+			<xs:simpleType>
+				<xs:restriction base="xs:string">
+					<xs:enumeration value="B"/>
+					<xs:enumeration value="MB"/>
+					<xs:enumeration value="GB"/>
+					<xs:enumeration value="BB"/>
+				</xs:restriction>
+			</xs:simpleType>
+		</xs:attribute>
+	</xs:attributeGroup>
+	<xs:attributeGroup name="Freq">
+		<xs:attribute name="Value" type="xs:decimal" use="required"/>
+		<xs:attribute name="Unit" use="required">
+			<xs:simpleType>
+				<xs:restriction base="xs:string">
+					<xs:enumeration value="GHz"/>
+					<xs:enumeration value="MHz"/>
+				</xs:restriction>
+			</xs:simpleType>
+		</xs:attribute>
+	</xs:attributeGroup>
+	<xs:simpleType name="IP">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="\d\d\d\.\d\d\d\.\d\d\d\.\d\d\d"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:element name="Property">
+		<xs:annotation>
+			<xs:documentation xml:lang="ru">Имущество</xs:documentation>
+			<xs:documentation xml:lang="en">Property</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="hr:Hardware"/>
+				<xs:element ref="hr:Software" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attribute name="Type">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="Computer"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attribute name="Name" type="xs:ID" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Hardware">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="hr:CPU" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="hr:Memory" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="hr:Storage" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="hr:Audio" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="hr:Video" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="hr:Monitor" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="hr:NetworkAdapter" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attributeGroup ref="hr:Manufacturer"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Software">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="hr:OS"/>
+				<xs:element ref="hr:Server" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attribute name="Storage" type="xs:byte"/>
+			<xs:attribute name="Partition" type="xs:byte"/>
+			<xs:attributeGroup ref="p:Period"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="CPU">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="hr:Speed" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attribute name="Type" use="required">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="P3"/>
+						<xs:enumeration value="P4"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attribute name="Technology">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="HT"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attribute name="Stepping" type="xs:byte"/>
+			<xs:attribute name="Model" type="xs:byte"/>
+			<xs:attribute name="Family" type="xs:byte"/>
+			<xs:attribute name="Architecture">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="x64"/>
+						<xs:enumeration value="x86"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attributeGroup ref="p:Period"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Memory">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="hr:Size" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attributeGroup ref="p:Period"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Storage">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="hr:Size" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="hr:Partition" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attribute name="Type">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="CD"/>
+						<xs:enumeration value="CDRW"/>
+						<xs:enumeration value="CardReader"/>
+						<xs:enumeration value="DVD"/>
+						<xs:enumeration value="DVDRW"/>
+						<xs:enumeration value="HDD"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attribute name="Num" type="xs:byte"/>
+			<xs:attribute name="Model" type="xs:string"/>
+			<xs:attributeGroup ref="hr:Manufacturer"/>
+			<xs:attributeGroup ref="p:Period"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Audio">
+		<xs:complexType>
+			<xs:attribute name="Model" type="xs:string" use="required"/>
+			<xs:attributeGroup ref="p:Period"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Video">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Memory" minOccurs="0" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:attributeGroup ref="hr:Size"/>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+			<xs:attribute name="Model" type="xs:string" use="required"/>
+			<xs:attributeGroup ref="hr:Manufacturer"/>
+			<xs:attribute name="Interface">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="AGP"/>
+						<xs:enumeration value="Internal"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attributeGroup ref="p:Period"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Monitor">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="hr:Resolution" minOccurs="0"/>
+			</xs:sequence>
+			<xs:attribute name="Widescreen" default="No">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="Yes"/>
+						<xs:enumeration value="No"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attribute name="Type">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="CRT"/>
+						<xs:enumeration value="LCD"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attribute name="Model" type="xs:string"/>
+			<xs:attributeGroup ref="hr:Manufacturer"/>
+			<xs:attribute name="Diagonal">
+				<xs:simpleType>
+					<xs:restriction base="xs:byte">
+						<xs:enumeration value="15"/>
+						<xs:enumeration value="17"/>
+						<xs:enumeration value="19"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attributeGroup ref="p:Period"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="NetworkAdapter">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="hr:Configuration" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attribute name="Model" type="xs:string"/>
+			<xs:attributeGroup ref="hr:Manufacturer"/>
+			<xs:attribute name="MACAddress">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:pattern value="[0-9A-F][0-9A-F][0-9A-F][0-9A-F][0-9A-F][0-9A-F][0-9A-F][0-9A-F][0-9A-F][0-9A-F][0-9A-F][0-9A-F]"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="OS">
+		<xs:complexType>
+			<xs:attribute name="Version">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:pattern value="\d\.\d\.\d\d\d\d"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attribute name="Type">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="Win2000Pro"/>
+						<xs:enumeration value="Win2003SE"/>
+						<xs:enumeration value="WinVistaBus"/>
+						<xs:enumeration value="WinXPPro"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attribute name="ServicePack" type="xs:byte"/>
+			<xs:attribute name="Root" type="xs:anyURI"/>
+			<xs:attribute name="Name" use="required">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:pattern value="[A-Z][0-9_A-Z]*"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attribute name="Language" type="xs:language" default="en"/>
+			<xs:attribute name="Build">
+				<xs:simpleType>
+					<xs:restriction base="xs:short">
+						<xs:pattern value="\d\d\d\d"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Server">
+		<xs:complexType>
+			<xs:attribute name="Version" type="xs:string"/>
+			<xs:attribute name="Type" use="required">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="SQL"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attribute name="Product" type="xs:short"/>
+			<xs:attributeGroup ref="hr:Manufacturer"/>
+			<xs:attribute name="Instance">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:pattern value="[A-Z][0-9_A-Z\\]*"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Speed">
+		<xs:complexType>
+			<xs:attributeGroup ref="hr:Freq"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Size">
+		<xs:complexType>
+			<xs:attributeGroup ref="hr:Size"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Partition">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="hr:Size" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attribute name="Num" type="xs:byte" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Resolution">
+		<xs:complexType>
+			<xs:attribute name="Width" use="required">
+				<xs:simpleType>
+					<xs:restriction base="xs:short">
+						<xs:enumeration value="240"/>
+						<xs:enumeration value="320"/>
+						<xs:enumeration value="640"/>
+						<xs:enumeration value="800"/>
+						<xs:enumeration value="1024"/>
+						<xs:enumeration value="1152"/>
+						<xs:enumeration value="1280"/>
+						<xs:enumeration value="1440"/>
+						<xs:enumeration value="1600"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attribute name="Height" use="required">
+				<xs:simpleType>
+					<xs:restriction base="xs:short">
+						<xs:enumeration value="200"/>
+						<xs:enumeration value="240"/>
+						<xs:enumeration value="320"/>
+						<xs:enumeration value="480"/>
+						<xs:enumeration value="600"/>
+						<xs:enumeration value="768"/>
+						<xs:enumeration value="800"/>
+						<xs:enumeration value="864"/>
+						<xs:enumeration value="900"/>
+						<xs:enumeration value="1024"/>
+						<xs:enumeration value="1200"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attribute name="Frequency">
+				<xs:simpleType>
+					<xs:restriction base="xs:byte">
+						<xs:enumeration value="60"/>
+						<xs:enumeration value="75"/>
+						<xs:enumeration value="85"/>
+						<xs:enumeration value="100"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Configuration">
+		<xs:complexType>
+			<xs:attribute name="Type" default="Static">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="Static"/>
+						<xs:enumeration value="DHCP"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attribute name="IP" type="hr:IP" use="required"/>
+			<xs:attribute name="Subnet" type="hr:IP" use="required"/>
+			<xs:attribute name="Gateway" type="hr:IP"/>
+			<xs:attributeGroup ref="p:Period"/>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

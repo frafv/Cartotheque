@@ -1,0 +1,2 @@
+Culture.xml       namespace=urn:geo-schemas-xml-frafv:culture,urn:geo-schemas-xml-frafv:proxy,urn:schemas-xml-frafv:proxy
+LocationType.xml  namespace=urn:geo-schemas-xml-frafv:location,urn:geo-schemas-xml-frafv:proxy,urn:schemas-xml-frafv:proxy

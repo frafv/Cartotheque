@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../Schemas/Transform/LocViewEn.xsl"?>
+<LocationList xmlns="urn:geo-schemas-xml-frafv:location" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:geo-schemas-xml-frafv:location Schemas/Location.xsd urn:geo-schemas-xml-frafv:proxy Schemas/GeoProxy.xsd urn:schemas-xml-frafv:proxy Schemas/Proxy.xsd">
+<CountryList>
+	<Location Continent="EarthAfrica"/>
+	<Country Name="Morocco">
+		<Label xml:lang="en">Morocco</Label>
+		<Label xml:lang="ru">Марокко</Label>
+		<Label xml:lang="fr">Maroc</Label>
+		<Label Type="Org" xml:lang="ar-MA">المغرب</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Morocco"/>
+		<Code Source="ISO3166">MA</Code>
+	</Country>
+</CountryList>
+<CityList>
+	<Location Country="Morocco"/>
+	<City Name="Ouarzazate">
+		<Label xml:lang="en">Ouarzazate</Label>
+		<Label xml:lang="ru">Варзазат</Label>
+		<Label xml:lang="fr">Ouarzazate</Label>
+		<Label Type="Org" xml:lang="ar-MA">ورزازات</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Ouarzazate"/>
+	</City>
+</CityList>
+<CountryList>
+	<Location Continent="EarthAntarctica"/>
+	<Country Name="Antarctica">
+		<Label xml:lang="en">Antarctica</Label>
+		<Label xml:lang="ru">Антарктида</Label>
+		<Label xml:lang="fr">Antarctique</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Antarctica"/>
+		<Code Source="ISO3166">AQ</Code>
+	</Country>
+</CountryList>
+<CountryList>
+	<Location Continent="EarthAustralia"/>
+	<Country Name="Australia">
+		<Label xml:lang="en">Australia</Label>
+		<Label xml:lang="ru">Австралия</Label>
+		<Label xml:lang="fr">Australie</Label>
+		<Label Type="Org" xml:lang="en-AU">Australia</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Australia"/>
+		<Code Source="ISO3166">AU</Code>
+	</Country>
+	<Country Name="NewZealand">
+		<Label xml:lang="en">New Zealand</Label>
+		<Label xml:lang="ru">Новая Зеландия</Label>
+		<Label xml:lang="fr">Nouvelle-Zélande</Label>
+		<Label Type="Org" xml:lang="en-NZ">New Zealand</Label>
+		<Label Type="Org" xml:lang="mi-NZ">Aotearoa</Label>
+		<Web URL="http://en.wikipedia.org/wiki/New_Zealand"/>
+		<Code Source="ISO3166">NZ</Code>
+	</Country>
+</CountryList>
+<CountryList>
+	<Location Continent="EarthEurasia"/>
+	<Country Name="Austria">
+		<Label xml:lang="en">Austria</Label>
+		<Label xml:lang="ru">Австрия</Label>
+		<Label xml:lang="fr">Autriche</Label>
+		<Label Type="Org" xml:lang="de-AT">Österreich</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Austria"/>
+		<Code Source="ISO3166">AT</Code>
+	</Country>
+	<Country Name="Belgium">
+		<Label xml:lang="en">Belgium</Label>
+		<Label xml:lang="ru">Бельгия</Label>
+		<Label xml:lang="fr">Belgique</Label>
+		<Label Type="Org" xml:lang="nl-BE">Koninkrijk België</Label>
+		<Label Type="Org" xml:lang="fr-BE">Royaume de Belgique</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Belgium"/>
+		<Code Source="ISO3166">BE</Code>
+	</Country>
+	<Country Name="Croatia">
+		<Label xml:lang="en">Croatia</Label>
+		<Label xml:lang="ru">Хорватия</Label>
+		<Label xml:lang="fr">Croatie</Label>
+		<Label Type="Org" xml:lang="hr-HR">Hrvatska</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Croatia"/>
+		<Code Source="ISO3166">HR</Code>
+	</Country>
+	<Country Name="Czech">
+		<Label xml:lang="en">Czech Republic</Label>
+		<Label xml:lang="ru">Чехия</Label>
+		<Label xml:lang="fr">République tchèque</Label>
+		<Label Type="Org" xml:lang="cs-CZ">Česká republika</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Czech_Republic"/>
+		<Code Source="ISO3166">CZ</Code>
+	</Country>
+	<Country Name="Denmark">
+		<Label xml:lang="en">Denmark</Label>
+		<Label xml:lang="ru">Дания</Label>
+		<Label xml:lang="fr">Danemark</Label>
+		<Label Type="Org" xml:lang="da-DK">Kongeriget Danmark</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Denmark"/>
+		<Code Source="ISO3166">DK</Code>
+	</Country>
+	<Country Name="Estonia">
+		<Label xml:lang="en">Estonia</Label>
+		<Label xml:lang="ru">Эстония</Label>
+		<Label xml:lang="fr">Estonie</Label>
+		<Label Type="Org" xml:lang="et-EE">Eesti</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Estonia"/>
+		<Code Source="ISO3166">EE</Code>
+	</Country>
+	<Country Name="EU">
+		<Label xml:lang="en">European Union</Label>
+		<Label xml:lang="ru">Европейский союз</Label>
+		<Label xml:lang="fr">Union européenne</Label>
+		<Label Type="Abbr" xml:lang="en">EU</Label>
+		<Web URL="http://en.wikipedia.org/wiki/European_Union"/>
+		<Form Type="Country">
+			<Reference Type="Union" Country="Austria Belgium Czech Denmark Estonia Finland France Germany Greece Hungary Ireland Italy Latvia Netherlands Poland Portugal Romania Slovakia Slovenia Spain Sweden UK WGermany"/>
+		</Form>
+		<Code Source="ISO3166">EU</Code>
+	</Country>
+	<Country Name="Finland">
+		<Label xml:lang="en">Finland</Label>
+		<Label xml:lang="ru">Финляндия</Label>
+		<Label xml:lang="fr">Finlande</Label>
+		<Label Type="Org" xml:lang="fi-FI">Suomi</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Finland"/>
+		<Code Source="ISO3166">FI</Code>
+	</Country>
+	<Country Name="France">
+		<Label xml:lang="en">France</Label>
+		<Label xml:lang="ru">Франция</Label>
+		<Label xml:lang="fr">France</Label>
+		<Label Type="Org" xml:lang="fr-FR">République française</Label>
+		<Web URL="http://en.wikipedia.org/wiki/France"/>
+		<Code Source="ISO3166">FR</Code>
+	</Country>
+	<Country Name="Germany">
+		<Label xml:lang="en">Germany</Label>
+		<Label xml:lang="ru">Германия</Label>
+		<Label xml:lang="fr">Allemagne</Label>
+		<Label Type="Org" xml:lang="de-DE">Bundesrepublik Deutschland</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Germany"/>
+		<Code Source="ISO3166">DE</Code>
+	</Country>
+	<Country Name="Greece">
+		<Label xml:lang="en">Greece</Label>
+		<Label xml:lang="ru">Греция</Label>
+		<Label xml:lang="fr">Grèce</Label>
+		<Label Type="Org" xml:lang="el-GR">Ελλάδα</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Greece"/>
+		<Code Source="ISO3166">GR</Code>
+	</Country>
+	<Country Name="Hungary">
+		<Label xml:lang="en">Hungary</Label>
+		<Label xml:lang="ru">Венгрия</Label>
+		<Label xml:lang="fr">Hongrie</Label>
+		<Label Type="Org" xml:lang="hu-HU">Magyarország</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Hungary"/>
+		<Code Source="ISO3166">HU</Code>
+	</Country>
+	<Country Name="Iceland">
+		<Label xml:lang="en">Iceland</Label>
+		<Label xml:lang="ru">Исландия</Label>
+		<Label xml:lang="fr">Islande</Label>
+		<Label Type="Org" xml:lang="is-IS">Ísland</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Iceland"/>
+		<Code Source="ISO3166">IS</Code>
+	</Country>
+	<Country Name="Ireland">
+		<Label xml:lang="en">Ireland</Label>
+		<Label xml:lang="ru">Ирландия</Label>
+		<Label xml:lang="fr">Irlande</Label>
+		<Label Type="Org" xml:lang="ga-IE">Éire</Label>
+		<Label Type="Org" xml:lang="en-IE">Ireland</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Ireland"/>
+		<Code Source="ISO3166">IE</Code>
+	</Country>
+	<Country Name="Italy">
+		<Label xml:lang="en">Italy</Label>
+		<Label xml:lang="ru">Италия</Label>
+		<Label xml:lang="fr">Italie</Label>
+		<Label Type="Org" xml:lang="it-IT">Italia</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Italy"/>
+		<Code Source="ISO3166">IT</Code>
+	</Country>
+	<Country Name="Japan">
+		<Label xml:lang="en">Japan</Label>
+		<Label xml:lang="ru">Япония</Label>
+		<Label xml:lang="fr">Japon</Label>
+		<Label Type="Org" xml:lang="ja-JP">日本国</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Japan"/>
+		<Code Source="ISO3166">JP</Code>
+	</Country>
+	<Country Name="Latvia">
+		<Label xml:lang="en">Latvia</Label>
+		<Label xml:lang="ru">Латвия</Label>
+		<Label xml:lang="fr">Lettonie</Label>
+		<Label Type="Org" xml:lang="lv-LV">Latvija</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Latvia"/>
+		<Code Source="ISO3166">LV</Code>
+	</Country>
+	<Country Name="Malaysia">
+		<Label xml:lang="en">Malaysia</Label>
+		<Label xml:lang="ru">Малайзия</Label>
+		<Label xml:lang="fr">Malaisie</Label>
+		<Label Type="Org" xml:lang="ms-MY">Malaysia</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Malaysia"/>
+		<Code Source="ISO3166">MY</Code>
+	</Country>
+	<Country Name="Malta">
+		<Label xml:lang="en">Malta</Label>
+		<Label xml:lang="ru">Мальта</Label>
+		<Label xml:lang="fr">Malte</Label>
+		<Label Type="Org" xml:lang="mt-MT">Repubblika ta' Malta</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Malta"/>
+		<Code Source="ISO3166">MT</Code>
+	</Country>
+	<Country Name="Netherlands">
+		<Label xml:lang="en">Netherlands</Label>
+		<Label xml:lang="ru">Нидерланды</Label>
+		<Label xml:lang="fr">Pays-Bas</Label>
+		<Label Type="Org" xml:lang="nl-NL">Nederland</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Netherlands"/>
+		<Code Source="ISO3166">NL</Code>
+	</Country>
+	<Country Name="Norway">
+		<Label xml:lang="en">Norway</Label>
+		<Label xml:lang="ru">Норвегия</Label>
+		<Label xml:lang="fr">Norvège</Label>
+		<Label Type="Org" xml:lang="nb-NO">Norge</Label>
+		<Label Type="Org" xml:lang="nn-NO">Noreg</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Norway"/>
+		<Code Source="ISO3166">NO</Code>
+	</Country>
+	<Country Name="Philippines">
+		<Label xml:lang="en">Philippines</Label>
+		<Label xml:lang="ru">Филиппины</Label>
+		<Label xml:lang="fr">Filipino</Label>
+		<Label Type="Org" xml:lang="en-PH">Philippines</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Philippines"/>
+		<Code Source="ISO3166">PH</Code>
+	</Country>
+	<Country Name="Poland">
+		<Label xml:lang="en">Poland</Label>
+		<Label xml:lang="ru">Польша</Label>
+		<Label xml:lang="fr">Pologne</Label>
+		<Label Type="Org" xml:lang="pl-PL">Polska</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Poland"/>
+		<Code Source="ISO3166">PL</Code>
+	</Country>
+	<Country Name="Portugal">
+		<Label xml:lang="en">Portugal</Label>
+		<Label xml:lang="ru">Португалия</Label>
+		<Label xml:lang="fr">Portugal</Label>
+		<Label Type="Org" xml:lang="pt-PT">República Portuguesa</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Portugal"/>
+		<Code Source="ISO3166">PT</Code>
+	</Country>
+	<Country Name="Romania">
+		<Label xml:lang="en">Romania</Label>
+		<Label xml:lang="ru">Румыния</Label>
+		<Label xml:lang="fr">Roumanie</Label>
+		<Label Type="Org" xml:lang="ro-RO">România</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Romania"/>
+		<Code Source="ISO3166">RO</Code>
+	</Country>
+	<Country Name="Russia">
+		<Label xml:lang="en">Russia</Label>
+		<Label xml:lang="ru">Российская Федерация</Label>
+		<Label xml:lang="fr">Russie</Label>
+		<Label Type="Abbr" xml:lang="ru">РФ</Label>
+		<Label Type="Org" xml:lang="ru-RU">Российская Федерация</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Russia"/>
+		<Code Source="ISO3166">RU</Code>
+	</Country>
+	<Country Name="Scotland">
+		<Label xml:lang="en">Scotland</Label>
+		<Label xml:lang="ru">Шотландия</Label>
+		<Label xml:lang="fr">Écosse</Label>
+		<Label Type="Org" xml:lang="en-GB">Scotland</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Scotland"/>
+	</Country>
+	<Country Name="Singapore">
+		<Label xml:lang="en">Singapore</Label>
+		<Label xml:lang="ru">Сингапур</Label>
+		<Label xml:lang="fr">Singapour</Label>
+		<Label Type="Org" xml:lang="zh-SG">新加坡共和国</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Singapore"/>
+		<Code Source="ISO3166">SG</Code>
+	</Country>
+	<Country Name="SKorea">
+		<Label xml:lang="en">South Korea</Label>
+		<Label xml:lang="ru">Южная Корея</Label>
+		<Label xml:lang="fr">Corée du Sud</Label>
+		<Label Type="Org" xml:lang="ko-KR">대한민국</Label>
+		<Web URL="http://en.wikipedia.org/wiki/South_Korea"/>
+		<Code Source="ISO3166">KR</Code>
+	</Country>
+	<Country Name="Slovakia">
+		<Label xml:lang="en">Slovakia</Label>
+		<Label xml:lang="ru">Словакия</Label>
+		<Label xml:lang="fr">Slovaquie</Label>
+		<Label Type="Org" xml:lang="sk-SK">Slovensko</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Slovakia"/>
+		<Code Source="ISO3166">SK</Code>
+	</Country>
+	<Country Name="Slovenia">
+		<Label xml:lang="en">Slovenia</Label>
+		<Label xml:lang="ru">Словения</Label>
+		<Label xml:lang="fr">Slovénie</Label>
+		<Label Type="Org" xml:lang="sl-SI">Republika Slovenija</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Slovenia"/>
+		<Code Source="ISO3166">SI</Code>
+	</Country>
+	<Country Name="Spain">
+		<Label xml:lang="en">Spain</Label>
+		<Label xml:lang="ru">Испания</Label>
+		<Label xml:lang="fr">Espagne</Label>
+		<Label Type="Org" xml:lang="es-ES">España</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Spain"/>
+		<Code Source="ISO3166">ES</Code>
+	</Country>
+	<Country Name="Sweden">
+		<Label xml:lang="en">Sweden</Label>
+		<Label xml:lang="ru">Швеция</Label>
+		<Label xml:lang="fr">Suède</Label>
+		<Label Type="Org" xml:lang="sv-SE">Konungariket Sverige</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Sweden"/>
+		<Code Source="ISO3166">SE</Code>
+	</Country>
+	<Country Name="Switzerland">
+		<Label xml:lang="en">Switzerland</Label>
+		<Label xml:lang="ru">Швейцария</Label>
+		<Label xml:lang="fr">Suisse</Label>
+		<Label Type="Org" xml:lang="de-CH">Schweiz</Label>
+		<Label Type="Org" xml:lang="it-CH">Svizzera</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Switzerland"/>
+		<Code Source="ISO3166">CH</Code>
+	</Country>
+	<Country Name="Turkey">
+		<Label xml:lang="en">Turkey</Label>
+		<Label xml:lang="ru">Турция</Label>
+		<Label xml:lang="fr">Turquie</Label>
+		<Label Type="Org" xml:lang="tr-TR">Türkiye</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Turkey"/>
+		<Code Source="ISO3166">TR</Code>
+	</Country>
+	<Country Name="UAE">
+		<Label xml:lang="en">United Arab Emirates</Label>
+		<Label xml:lang="ru">Объединенные Арабские Эмираты</Label>
+		<Label xml:lang="fr">Émirats arabes unis</Label>
+		<Label Type="Abbr" xml:lang="en">UAE</Label>
+		<Label Type="Abbr" xml:lang="ru">ОАЭ</Label>
+		<Label Type="Abbr" xml:lang="fr">UAE</Label>
+		<Label Type="Org" xml:lang="ar-AE">دولة الإمارات العربية المتحدة</Label>
+		<Web URL="http://en.wikipedia.org/wiki/United_Arab_Emirates"/>
+		<Code Source="ISO3166">AE</Code>
+	</Country>
+	<Country Name="UK">
+		<Label xml:lang="en">United Kingdom (of Great Britain and Northern Ireland)</Label>
+		<Label xml:lang="ru">Соединенное Королевство (Великобритании и Северной Ирландии)</Label>
+		<Label xml:lang="fr">Royaume-Uni</Label>
+		<Label Type="Abbr" xml:lang="en">UK</Label>
+		<Label Type="Org" xml:lang="en-GB">United Kingdom (of Great Britain and Northern Ireland)</Label>
+		<Web URL="http://en.wikipedia.org/wiki/United_Kingdom"/>
+		<Form Type="State">
+			<Reference Type="Union" Country="Scotland"/>
+		</Form>
+		<Code Source="ISO3166">GB</Code>
+	</Country>
+	<Country Name="USSR" EndPeriod="1991-12-26">
+		<Label xml:lang="en">Soviet Union (Union of Soviet Socialist Republics)</Label>
+		<Label xml:lang="ru">Союз Советских Социалистических Республик</Label>
+		<Label xml:lang="fr">Union des républiques socialistes soviétiques</Label>
+		<Label Type="Abbr" xml:lang="en">USSR</Label>
+		<Label Type="Abbr" xml:lang="ru">СССР</Label>
+		<Label Type="Abbr" xml:lang="fr">URSS</Label>
+		<Label Type="Org" xml:lang="ru-SU">Союз Советских Социалистических Республик, СССР</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Soviet_Union"/>
+		<Form>
+			<Reference Type="Split" Country="Russia"/>
+		</Form>
+		<Code Source="ISO3166">SU</Code>
+	</Country>
+	<Country Name="WGermany" EndPeriod="1990-10-03">
+		<Label xml:lang="en">West Germany (Federal Republic of Germany)</Label>
+		<Label xml:lang="ru">Федеративная Республика Германия</Label>
+		<Label xml:lang="fr">Allemagne de l'Ouest (République fédérale d'Allemagne)</Label>
+		<Label Type="Abbr" xml:lang="ru">ФРГ</Label>
+		<Label Type="Org" xml:lang="de-DE">Westdeutschland (Bundesrepublik Deutschland)</Label>
+		<Web URL="http://en.wikipedia.org/wiki/West_Germany"/>
+		<Form>
+			<Reference Type="Join" Country="Germany"/>
+		</Form>
+		<Code Source="ISO3166">DE</Code>
+	</Country>
+</CountryList>
+<RegionList>
+	<Location Country="France"/>
+	<Region Name="Brittany">
+		<Label xml:lang="en">Brittany</Label>
+		<Label xml:lang="ru">Бретань</Label>
+		<Label xml:lang="fr">Bretagne</Label>
+		<Label Type="Org" xml:lang="fr-FR">Bretagne</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Brittany"/>
+	</Region>
+	<Region Name="IsleFrance">
+		<Label xml:lang="ru">Иль-де-Франс</Label>
+		<Label xml:lang="fr">Île-de-France</Label>
+		<Label Type="Org" xml:lang="fr-FR">Île-de-France</Label>
+		<Web URL="http://www.iledefrance.fr"/>
+		<Web URL="http://en.wikipedia.org/wiki/%C3%8Ele-de-France_%28region%29"/>
+	</Region>
+</RegionList>
+<RegionList>
+	<Location Country="France" Region="IsleFrance"/>
+	<Region Name="SeineMarne">
+		<Label xml:lang="ru">Сена и Марна</Label>
+		<Label xml:lang="fr">Seine-et-Marne</Label>
+		<Label Type="Org" xml:lang="fr-FR">Seine-et-Marne</Label>
+		<Web URL="http://www.seine-et-marne.fr"/>
+		<Web URL="http://en.wikipedia.org/wiki/Seine-et-Marne"/>
+		<Form Type="Department"/>
+		<Code Source="France">77</Code>
+	</Region>
+</RegionList>
+<RegionList>
+	<Location Country="Russia"/>
+	<Region Name="RUMO">
+		<Label xml:lang="en">Moscow</Label>
+		<Label Type="Part" xml:lang="ru">Московская</Label>
+		<Label Type="Abbr" xml:lang="ru">МО</Label>
+		<Label xml:lang="fr">Moscou</Label>
+		<Label Type="Org Part" xml:lang="ru-RU">Московская</Label>
+		<Web URL="http://www.mosreg.ru"/>
+		<Web URL="http://en.wikipedia.org/wiki/Moscow_Oblast"/>
+		<Form Type="Oblast"/>
+	</Region>
+</RegionList>
+<RegionList>
+	<Location Country="Spain"/>
+	<Region Name="ValencianCommunity">
+		<Label Type="Part" xml:lang="en">Valencian</Label>
+		<Label xml:lang="ru">Валенсия</Label>
+		<Label Type="Part" xml:lang="fr">valencienne</Label>
+		<Label Type="Org" xml:lang="es-ES">Comunidad Valenciana</Label>
+		<Web URL="http://www.gva.es"/>
+		<Web URL="http://en.wikipedia.org/wiki/Valencian_Community"/>
+		<Form Type="Community"/>
+	</Region>
+</RegionList>
+<RegionList>
+	<Location Country="Scotland"/>
+	<Region Name="ScotlandHighlands">
+		<Label xml:lang="en">Scottish Highlands</Label>
+		<Label xml:lang="ru">Северо-шотландское нагорье</Label>
+		<Label xml:lang="fr">Highlands</Label>
+		<Label Type="Org" xml:lang="en-GB">Scottish Highlands</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Scottish_Highlands"/>
+	</Region>
+</RegionList>
+<CityList>
+	<Location Country="France" Region="IsleFrance"/>
+	<City Name="Paris">
+		<Label xml:lang="en">Paris</Label>
+		<Label xml:lang="ru">Париж</Label>
+		<Label xml:lang="fr">Paris</Label>
+		<Label Type="Org" xml:lang="fr-FR">Paris</Label>
+		<Web URL="http://www.paris.fr"/>
+		<Web URL="http://en.wikipedia.org/wiki/Paris"/>
+	</City>
+</CityList>
+<CityList>
+	<Location Country="Russia" Region="RUMO"/>
+	<City Name="Moscow">
+		<Label xml:lang="en">Moscow</Label>
+		<Label xml:lang="ru">Москва</Label>
+		<Label xml:lang="fr">Moscou</Label>
+		<Label Type="Org" xml:lang="ru-RU">Москва</Label>
+		<Web URL="http://www.mos.ru"/>
+		<Web URL="http://en.wikipedia.org/wiki/Moscow"/>
+		<Form Type="City"/>
+	</City>
+	<City Name="Protvino">
+		<Label xml:lang="en">Protvino</Label>
+		<Label xml:lang="ru">Протвино</Label>
+		<Label xml:lang="fr">Protvino</Label>
+		<Label Type="Org" xml:lang="ru-RU">Протвино</Label>
+		<Web URL="http://www.protvino.ru"/>
+		<Web URL="http://en.wikipedia.org/wiki/Protvino"/>
+		<Form Type="Town"/>
+	</City>
+	<City Name="Reutov">
+		<Label xml:lang="en">Reutov</Label>
+		<Label xml:lang="ru">Реутов</Label>
+		<Label xml:lang="fr">Reoutov</Label>
+		<Label Type="Org" xml:lang="ru-RU">Реутов</Label>
+		<Web URL="http://www.reutov.net"/>
+		<Web URL="http://en.wikipedia.org/wiki/Reutov"/>
+		<Form Type="Town"/>
+	</City>
+</CityList>
+<CityList>
+	<Location Country="Spain" Region="ValencianCommunity"/>
+	<City Name="Alicante">
+		<Label xml:lang="en">Alicante</Label>
+		<Label xml:lang="ru">Аликанте</Label>
+		<Label xml:lang="fr">Alicante</Label>
+		<Label Type="Org" xml:lang="es-ES">Alicante</Label>
+		<Web URL="http://www.alicante.es"/>
+		<Web URL="http://en.wikipedia.org/wiki/Alicante"/>
+	</City>
+</CityList>
+<CityList>
+	<Location Country="UK" Region="ScotlandHighlands"/>
+	<City Name="Durness">
+		<Label xml:lang="en">Durness</Label>
+		<Label xml:lang="ru">Дернесс</Label>
+		<Label Type="Org" xml:lang="en-GB">Durness</Label>
+		<Web URL="http://www.durness.org"/>
+		<Web URL="http://en.wikipedia.org/wiki/Durness"/>
+	</City>
+</CityList>
+<CountryList>
+	<Location Continent="EarthNAmerica"/>
+	<Country Name="Canada">
+		<Label xml:lang="en">Canada</Label>
+		<Label xml:lang="ru">Канада</Label>
+		<Label xml:lang="fr">Canada</Label>
+		<Label Type="Org" xml:lang="en-CA">Canada</Label>
+		<Label Type="Org" xml:lang="fr-CA">Canada</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Canada"/>
+		<Code Source="ISO3166">CA</Code>
+	</Country>
+	<Country Name="Mexico">
+		<Label xml:lang="en">Mexico</Label>
+		<Label xml:lang="ru">Мексика</Label>
+		<Label xml:lang="fr">Mexique</Label>
+		<Label Type="Org" xml:lang="es-MX">México</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Mexico"/>
+		<Code Source="ISO3166">MX</Code>
+	</Country>
+	<Country Name="USA">
+		<Label xml:lang="en">United States of America</Label>
+		<Label xml:lang="ru">Соединенные Штаты Америки</Label>
+		<Label xml:lang="fr">États-Unis d'Amérique</Label>
+		<Label Type="Abbr" xml:lang="en">USA</Label>
+		<Label Type="Abbr" xml:lang="ru">США</Label>
+		<Label Type="Org" xml:lang="en-US">United States of America</Label>
+		<Web URL="http://en.wikipedia.org/wiki/United_States"/>
+		<Code Source="ISO3166">US</Code>
+	</Country>
+</CountryList>
+<RegionList>
+	<Location Country="USA"/>
+	<Region Name="USFL">
+		<Label xml:lang="en">Florida</Label>
+		<Label xml:lang="ru">Флорида</Label>
+		<Label xml:lang="fr">Floride</Label>
+		<Label Type="Org" xml:lang="en-US">Florida</Label>
+		<Web URL="http://www.myflorida.com"/>
+		<Web URL="http://en.wikipedia.org/wiki/Florida"/>
+		<Form Type="State"/>
+		<Code Source="USA">FL</Code>
+	</Region>
+</RegionList>
+<CityList>
+	<Location Country="USA" Region="USFL"/>
+	<City Name="FortLauderdale">
+		<Label xml:lang="en">Fort Lauderdale</Label>
+		<Label xml:lang="ru">Форт-Лодердейл</Label>
+		<Label Type="Org" xml:lang="en-US">Fort Lauderdale</Label>
+		<Web URL="http://info.ci.ftlaud.fl.us"/>
+		<Web URL="http://en.wikipedia.org/wiki/Fort_Lauderdale%2C_Florida"/>
+	</City>
+</CityList>
+<CountryList>
+	<Location Continent="EarthSAmerica"/>
+	<Country Name="Argentina">
+		<Label xml:lang="en">Argentina</Label>
+		<Label xml:lang="ru">Аргентина</Label>
+		<Label xml:lang="fr">Argentine</Label>
+		<Label Type="Org" xml:lang="es-AR">República Argentina</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Argentina"/>
+		<Code Source="ISO3166">AR</Code>
+	</Country>
+	<Country Name="Brazil">
+		<Label xml:lang="en">Brazil</Label>
+		<Label xml:lang="ru">Бразилия</Label>
+		<Label xml:lang="fr">Brésil</Label>
+		<Label Type="Org" xml:lang="pt-BR">República Federativa do Brasil</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Brazil"/>
+		<Code Source="ISO3166">BR</Code>
+	</Country>
+	<Country Name="Chile">
+		<Label xml:lang="en">Chile</Label>
+		<Label xml:lang="ru">Чили</Label>
+		<Label xml:lang="fr">Chili</Label>
+		<Label Type="Org" xml:lang="es-CL">República de Chile</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Chile"/>
+		<Code Source="ISO3166">CL</Code>
+	</Country>
+	<Country Name="Peru">
+		<Label xml:lang="en">Peru</Label>
+		<Label xml:lang="ru">Перу</Label>
+		<Label xml:lang="fr">Pérou</Label>
+		<Label Type="Org" xml:lang="es-PE">Perú</Label>
+		<Web URL="http://en.wikipedia.org/wiki/Peru"/>
+		<Code Source="ISO3166">PE</Code>
+	</Country>
+</CountryList>
+<ExportList xmlns="urn:schemas-xml-frafv:proxy">
+	<Prefix External="loc"/>
+	<Export Name="Morocco"/>
+	<Export Name="Ouarzazate"/>
+	<Export Name="Antarctica"/>
+	<Export Name="Australia"/>
+	<Export Name="NewZealand"/>
+	<Export Name="Austria"/>
+	<Export Name="Belgium"/>
+	<Export Name="Croatia"/>
+	<Export Name="Czech"/>
+	<Export Name="Denmark"/>
+	<Export Name="Estonia"/>
+	<Export Name="EU"/>
+	<Export Name="Finland"/>
+	<Export Name="France"/>
+	<Export Name="Germany"/>
+	<Export Name="Greece"/>
+	<Export Name="Hungary"/>
+	<Export Name="Iceland"/>
+	<Export Name="Ireland"/>
+	<Export Name="Italy"/>
+	<Export Name="Japan"/>
+	<Export Name="Latvia"/>
+	<Export Name="Malaysia"/>
+	<Export Name="Malta"/>
+	<Export Name="Netherlands"/>
+	<Export Name="Norway"/>
+	<Export Name="Philippines"/>
+	<Export Name="Poland"/>
+	<Export Name="Portugal"/>
+	<Export Name="Romania"/>
+	<Export Name="Russia"/>
+	<Export Name="Scotland"/>
+	<Export Name="Singapore"/>
+	<Export Name="SKorea"/>
+	<Export Name="Slovakia"/>
+	<Export Name="Slovenia"/>
+	<Export Name="Spain"/>
+	<Export Name="Sweden"/>
+	<Export Name="Switzerland"/>
+	<Export Name="Turkey"/>
+	<Export Name="UAE"/>
+	<Export Name="UK"/>
+	<Export Name="USSR"/>
+	<Export Name="WGermany"/>
+	<Export Name="Brittany"/>
+	<Export Name="IsleFrance"/>
+	<Export Name="SeineMarne"/>
+	<Export Name="RUMO"/>
+	<Export Name="ValencianCommunity"/>
+	<Export Name="ScotlandHighlands"/>
+	<Export Name="Paris"/>
+	<Export Name="Moscow"/>
+	<Export Name="Protvino"/>
+	<Export Name="Reutov"/>
+	<Export Name="Alicante"/>
+	<Export Name="Durness"/>
+	<Export Name="Canada"/>
+	<Export Name="Mexico"/>
+	<Export Name="USA"/>
+	<Export Name="USFL"/>
+	<Export Name="FortLauderdale"/>
+	<Export Name="Argentina"/>
+	<Export Name="Brazil"/>
+	<Export Name="Chile"/>
+	<Export Name="Peru"/>
+</ExportList>
+<ExternalList xmlns="urn:geo-schemas-xml-frafv:proxy" xmlns:e="urn:schemas-xml-frafv:proxy">
+	<e:Prefix External="lang"/>
+	<Language e:Name="ar-AE">
+		<Label xml:lang="en">Arabic (U.A.E.)</Label>
+		<Label xml:lang="ru">Арабский (ОАЭ)</Label>
+		<Label Type="Org" xml:lang="ar-AE">العربية (الإمارات العربية المتحدة)</Label>
+	</Language>
+	<Language e:Name="ar-MA">
+		<Label xml:lang="en">Arabic (Morocco)</Label>
+		<Label xml:lang="ru">Арабский (Марокко)</Label>
+		<Label Type="Org" xml:lang="ar-MA">العربية (المملكة المغربية)</Label>
+	</Language>
+	<Language e:Name="cs-CZ">
+		<Label xml:lang="en">Czech (Czech Republic)</Label>
+		<Label xml:lang="ru">Чешский (Чешская республика)</Label>
+		<Label Type="Org" xml:lang="cs-CZ">čeština (Česká republika)</Label>
+	</Language>
+	<Language e:Name="da-DK">
+		<Label xml:lang="en">Danish (Denmark)</Label>
+		<Label xml:lang="ru">Датский (Дания)</Label>
+		<Label Type="Org" xml:lang="da-DK">dansk (Danmark)</Label>
+	</Language>
+	<Language e:Name="de-AT">
+		<Label xml:lang="en">German (Austria)</Label>
+		<Label xml:lang="ru">Немецкий (Австрия)</Label>
+		<Label Type="Org" xml:lang="de-AT">Deutsch (Österreich)</Label>
+	</Language>
+	<Language e:Name="de-CH">
+		<Label xml:lang="en">German (Switzerland)</Label>
+		<Label xml:lang="ru">Немецкий (Швейцария)</Label>
+		<Label Type="Org" xml:lang="de-CH">Deutsch (Schweiz)</Label>
+	</Language>
+	<Language e:Name="de-DE">
+		<Label xml:lang="en">German (Germany)</Label>
+		<Label xml:lang="ru">Немецкий (Германия)</Label>
+		<Label Type="Org" xml:lang="de-DE">Deutsch (Deutschland)</Label>
+	</Language>
+	<Language e:Name="el-GR">
+		<Label xml:lang="en">Greek (Greece)</Label>
+		<Label xml:lang="ru">Греческий (Греция)</Label>
+		<Label Type="Org" xml:lang="el-GR">ελληνικά (Ελλάδα)</Label>
+	</Language>
+	<Language e:Name="en">
+		<Label Type="Org" xml:lang="en">English</Label>
+		<Label xml:lang="ru">Английский</Label>
+	</Language>
+	<Language e:Name="en-AU">
+		<Label xml:lang="en">English (Australia)</Label>
+		<Label xml:lang="ru">Английский (Австралия)</Label>
+		<Label Type="Org" xml:lang="en-AU">English (Australia)</Label>
+	</Language>
+	<Language e:Name="en-CA">
+		<Label xml:lang="en">English (Canada)</Label>
+		<Label xml:lang="ru">Английский (Канада)</Label>
+		<Label Type="Org" xml:lang="en-CA">English (Canada)</Label>
+	</Language>
+	<Language e:Name="en-GB">
+		<Label xml:lang="en">English (United Kingdom)</Label>
+		<Label xml:lang="ru">Английский (Великобритания)</Label>
+		<Label Type="Org" xml:lang="en-GB">English (United Kingdom)</Label>
+	</Language>
+	<Language e:Name="en-IE">
+		<Label xml:lang="en">English (Ireland)</Label>
+		<Label xml:lang="ru">Английский (Ирландия)</Label>
+		<Label Type="Org" xml:lang="en-IE">English (Eire)</Label>
+	</Language>
+	<Language e:Name="en-NZ">
+		<Label xml:lang="en">English (New Zealand)</Label>
+		<Label xml:lang="ru">Английский (Новая Зеландия)</Label>
+		<Label Type="Org" xml:lang="en-NZ">English (New Zealand)</Label>
+	</Language>
+	<Language e:Name="en-PH">
+		<Label xml:lang="en">English (Republic of the Philippines)</Label>
+		<Label xml:lang="ru">Английский (Республика Филиппины)</Label>
+		<Label Type="Org" xml:lang="en-PH">English (Philippines)</Label>
+	</Language>
+	<Language e:Name="en-US">
+		<Label xml:lang="en">English (United States)</Label>
+		<Label xml:lang="ru">Английский (США)</Label>
+		<Label Type="Org" xml:lang="en-US">English (United States)</Label>
+	</Language>
+	<Language e:Name="es-AR">
+		<Label xml:lang="en">Spanish (Argentina)</Label>
+		<Label xml:lang="ru">Испанский (Аргентина)</Label>
+		<Label Type="Org" xml:lang="es-AR">Español (Argentina)</Label>
+	</Language>
+	<Language e:Name="es-CL">
+		<Label xml:lang="en">Spanish (Chile)</Label>
+		<Label xml:lang="ru">Испанский (Чили)</Label>
+		<Label Type="Org" xml:lang="es-CL">Español (Chile)</Label>
+	</Language>
+	<Language e:Name="es-ES">
+		<Label xml:lang="en">Spanish (Spain)</Label>
+		<Label xml:lang="ru">Испанский (Испания)</Label>
+		<Label Type="Org" xml:lang="es-ES">español (España)</Label>
+	</Language>
+	<Language e:Name="es-MX">
+		<Label xml:lang="en">Spanish (Mexico)</Label>
+		<Label xml:lang="ru">Испанский (Мексика)</Label>
+		<Label Type="Org" xml:lang="es-MX">Español (México)</Label>
+	</Language>
+	<Language e:Name="es-PE">
+		<Label xml:lang="en">Spanish (Peru)</Label>
+		<Label xml:lang="ru">Испанский (Перу)</Label>
+		<Label Type="Org" xml:lang="es-PE">Español (Perú)</Label>
+	</Language>
+	<Language e:Name="et-EE">
+		<Label xml:lang="en">Estonian (Estonia)</Label>
+		<Label xml:lang="ru">Эстонский (Эстония)</Label>
+		<Label Type="Org" xml:lang="et-EE">eesti (Eesti)</Label>
+	</Language>
+	<Language e:Name="fi-FI">
+		<Label xml:lang="en">Finnish (Finland)</Label>
+		<Label xml:lang="ru">Финский (Финляндия)</Label>
+		<Label Type="Org" xml:lang="fi-FI">suomi (Suomi)</Label>
+	</Language>
+	<Language e:Name="fr">
+		<Label xml:lang="en">French</Label>
+		<Label xml:lang="ru">Французский</Label>
+		<Label Type="Org" xml:lang="fr">français</Label>
+	</Language>
+	<Language e:Name="fr-BE">
+		<Label xml:lang="en">French (Belgium)</Label>
+		<Label xml:lang="ru">Французский (Бельгия)</Label>
+		<Label Type="Org" xml:lang="fr-BE">français (Belgique)</Label>
+	</Language>
+	<Language e:Name="fr-CA">
+		<Label xml:lang="en">French (Canada)</Label>
+		<Label xml:lang="ru">Французский (Канада)</Label>
+		<Label Type="Org" xml:lang="fr-CA">français (Canada)</Label>
+	</Language>
+	<Language e:Name="fr-FR">
+		<Label xml:lang="en">French (France)</Label>
+		<Label xml:lang="ru">Французский (Франция)</Label>
+		<Label Type="Org" xml:lang="fr-FR">français (France)</Label>
+	</Language>
+	<Language e:Name="ga-IE">
+		<Label xml:lang="en">Irish (Ireland)</Label>
+		<Label xml:lang="ru">Ирландский (Ирландия)</Label>
+		<Label Type="Org" xml:lang="ga-IE">Gaeilge (Éire)</Label>
+	</Language>
+	<Language e:Name="hr-HR">
+		<Label xml:lang="en">Croatian (Croatia)</Label>
+		<Label xml:lang="ru">Хорватский (Хорватия)</Label>
+		<Label Type="Org" xml:lang="hr-HR">hrvatski (Hrvatska)</Label>
+	</Language>
+	<Language e:Name="hu-HU">
+		<Label xml:lang="en">Hungarian (Hungary)</Label>
+		<Label xml:lang="ru">Венгерский (Венгрия)</Label>
+		<Label Type="Org" xml:lang="hu-HU">magyar (Magyarország)</Label>
+	</Language>
+	<Language e:Name="is-IS">
+		<Label xml:lang="en">Icelandic (Iceland)</Label>
+		<Label xml:lang="ru">Исландский (Исландия)</Label>
+		<Label Type="Org" xml:lang="is-IS">íslenska (Ísland)</Label>
+	</Language>
+	<Language e:Name="it-CH">
+		<Label xml:lang="en">Italian (Switzerland)</Label>
+		<Label xml:lang="ru">Итальянский (Швейцария)</Label>
+		<Label Type="Org" xml:lang="it-CH">italiano (Svizzera)</Label>
+	</Language>
+	<Language e:Name="it-IT">
+		<Label xml:lang="en">Italian (Italy)</Label>
+		<Label xml:lang="ru">Итальянский (Италия)</Label>
+		<Label Type="Org" xml:lang="it-IT">italiano (Italia)</Label>
+	</Language>
+	<Language e:Name="ja-JP">
+		<Label xml:lang="en">Japanese (Japan)</Label>
+		<Label xml:lang="ru">Японский (Япония)</Label>
+		<Label Type="Org" xml:lang="ja-JP">日本語 (日本)</Label>
+	</Language>
+	<Language e:Name="ko-KR">
+		<Label xml:lang="en">Korean (Korea)</Label>
+		<Label xml:lang="ru">Корейский (Корея)</Label>
+		<Label Type="Org" xml:lang="ko-KR">한국어 (대한민국)</Label>
+	</Language>
+	<Language e:Name="lv-LV">
+		<Label xml:lang="en">Latvian (Latvia)</Label>
+		<Label xml:lang="ru">Латышский (Латвия)</Label>
+		<Label Type="Org" xml:lang="lv-LV">latviešu (Latvija)</Label>
+	</Language>
+	<Language e:Name="mi-NZ">
+		<Label xml:lang="en">Maori (New Zealand)</Label>
+		<Label xml:lang="ru">Маорийский</Label>
+		<Label Type="Org" xml:lang="mi-NZ">Reo Māori (Aotearoa)</Label>
+	</Language>
+	<Language e:Name="ms-MY">
+		<Label xml:lang="en">Malay (Malaysia)</Label>
+		<Label xml:lang="ru">Малайский (Малайзия)</Label>
+		<Label Type="Org" xml:lang="ms-MY">Bahasa Malaysia (Malaysia)</Label>
+	</Language>
+	<Language e:Name="mt-MT">
+		<Label xml:lang="en">Maltese (Malta)</Label>
+		<Label xml:lang="ru">Мальтийский</Label>
+		<Label Type="Org" xml:lang="mt-MT">Malti (Malta)</Label>
+	</Language>
+	<Language e:Name="nb-NO">
+		<Label xml:lang="en">Norwegian, Bokmål (Norway)</Label>
+		<Label xml:lang="ru">Норвежский, диалект Bokmål</Label>
+		<Label Type="Org" xml:lang="nb-NO">norsk, bokmål (Norge)</Label>
+	</Language>
+	<Language e:Name="nl-BE">
+		<Label xml:lang="en">Dutch (Belgium)</Label>
+		<Label xml:lang="ru">Голландский (Бельгия)</Label>
+		<Label Type="Org" xml:lang="nl-BE">Nederlands (België)</Label>
+	</Language>
+	<Language e:Name="nl-NL">
+		<Label xml:lang="en">Dutch (Netherlands)</Label>
+		<Label xml:lang="ru">Голландский (Нидерланды)</Label>
+		<Label Type="Org" xml:lang="nl-NL">Nederlands (Nederland)</Label>
+	</Language>
+	<Language e:Name="nn-NO">
+		<Label xml:lang="en">Norwegian, Nynorsk (Norway)</Label>
+		<Label xml:lang="ru">Норвежский, диалект Nynorsk</Label>
+		<Label Type="Org" xml:lang="nn-NO">norsk, nynorsk (Noreg)</Label>
+	</Language>
+	<Language e:Name="pl-PL">
+		<Label xml:lang="en">Polish (Poland)</Label>
+		<Label xml:lang="ru">Польский (Польша)</Label>
+		<Label Type="Org" xml:lang="pl-PL">polski (Polska)</Label>
+	</Language>
+	<Language e:Name="pt-BR">
+		<Label xml:lang="en">Portuguese (Brazil)</Label>
+		<Label xml:lang="ru">Португальский (Бразилия)</Label>
+		<Label Type="Org" xml:lang="pt-BR">Português (Brasil)</Label>
+	</Language>
+	<Language e:Name="pt-PT">
+		<Label xml:lang="en">Portuguese (Portugal)</Label>
+		<Label xml:lang="ru">Португальский (Португалия)</Label>
+		<Label Type="Org" xml:lang="pt-PT">português (Portugal)</Label>
+	</Language>
+	<Language e:Name="ro-RO">
+		<Label xml:lang="en">Romanian (Romania)</Label>
+		<Label xml:lang="ru">Румынский (Румыния)</Label>
+		<Label Type="Org" xml:lang="ro-RO">română (România)</Label>
+	</Language>
+	<Language e:Name="ru">
+		<Label xml:lang="en">Russian</Label>
+		<Label Type="Org" xml:lang="ru">Русский</Label>
+	</Language>
+	<Language e:Name="ru-RU">
+		<Label xml:lang="en">Russian (Russia)</Label>
+		<Label xml:lang="ru">Русский (Россия)</Label>
+		<Label Type="Org" xml:lang="ru-RU">Русский (Россия)</Label>
+	</Language>
+	<Language e:Name="ru-SU">
+		<Label xml:lang="en">Russian (USSR)</Label>
+		<Label xml:lang="ru">Русский (СССР)</Label>
+		<Label Type="Org" xml:lang="ru-RU">Русский (СССР)</Label>
+	</Language>
+	<Language e:Name="sk-SK">
+		<Label xml:lang="en">Slovak (Slovakia)</Label>
+		<Label xml:lang="ru">Словацкий (Словакия)</Label>
+		<Label Type="Org" xml:lang="sk-SK">slovenčina (Slovenská republika)</Label>
+	</Language>
+	<Language e:Name="sl-SI">
+		<Label xml:lang="en">Slovenian (Slovenia)</Label>
+		<Label xml:lang="ru">Словенский (Словения)</Label>
+		<Label Type="Org" xml:lang="sl-SI">slovenski (Slovenija)</Label>
+	</Language>
+	<Language e:Name="sv-SE">
+		<Label xml:lang="en">Swedish (Sweden)</Label>
+		<Label xml:lang="ru">Шведский (Швеция)</Label>
+		<Label Type="Org" xml:lang="sv-SE">svenska (Sverige)</Label>
+	</Language>
+	<Language e:Name="tr-TR">
+		<Label xml:lang="en">Turkish (Turkey)</Label>
+		<Label xml:lang="ru">Турецкий (Турция)</Label>
+		<Label Type="Org" xml:lang="tr-TR">Türkçe (Türkiye)</Label>
+	</Language>
+	<Language e:Name="zh-SG">
+		<Label xml:lang="en">Chinese (Singapore)</Label>
+		<Label xml:lang="ru">Китайский (Сингапур)</Label>
+		<Label Type="Org" xml:lang="zh-SG">中文(新加坡)</Label>
+	</Language>
+</ExternalList>
+<ExternalList xmlns="urn:geo-schemas-xml-frafv:proxy" xmlns:e="urn:schemas-xml-frafv:proxy">
+	<e:Prefix External="loc"/>
+	<Location Type="Continent" e:Name="EarthAfrica">
+		<Label xml:lang="en">Africa</Label>
+		<Label xml:lang="ru">Африка</Label>
+		<Label xml:lang="fr">Afrique</Label>
+	</Location>
+	<Location Type="Continent" e:Name="EarthAntarctica">
+		<Label xml:lang="en">Antarctica</Label>
+		<Label xml:lang="ru">Антарктида</Label>
+		<Label xml:lang="fr">Antarctique</Label>
+	</Location>
+	<Location Type="Continent" e:Name="EarthAustralia">
+		<Label xml:lang="en">Australia</Label>
+		<Label xml:lang="ru">Австралия</Label>
+		<Label xml:lang="fr">Australinea</Label>
+	</Location>
+	<Location Type="Continent" e:Name="EarthEurasia">
+		<Label xml:lang="en">Eurasia</Label>
+		<Label xml:lang="ru">Евразия</Label>
+		<Label xml:lang="fr">Eurasie</Label>
+	</Location>
+	<Location Type="Continent" e:Name="EarthNAmerica">
+		<Label xml:lang="en">North America</Label>
+		<Label xml:lang="ru">Северная Америка</Label>
+		<Label xml:lang="fr">Amérique du Nord</Label>
+	</Location>
+	<Location Type="Continent" e:Name="EarthSAmerica">
+		<Label xml:lang="en">South America</Label>
+		<Label xml:lang="ru">Южная Америка</Label>
+		<Label xml:lang="fr">Amérique du Sud</Label>
+	</Location>
+</ExternalList>
+<ExternalList xmlns="urn:geo-schemas-xml-frafv:proxy" xmlns:e="urn:schemas-xml-frafv:proxy">
+	<e:Prefix External="loctype"/>
+	<LocationType e:Name="City">
+		<Label xml:lang="en">City</Label>
+		<Label xml:lang="ru">Город</Label>
+		<Label xml:lang="fr">Ville</Label>
+		<Label Type="Part" Pos="Prefix" xml:lang="ru">город</Label>
+		<Label Type="Abbr Part" Pos="Prefix" xml:lang="ru">г.</Label>
+	</LocationType>
+	<LocationType e:Name="Community">
+		<Label xml:lang="en">Community</Label>
+		<Label xml:lang="ru">Сообщество</Label>
+		<Label xml:lang="fr">Communauté</Label>
+		<Label Type="Part" Pos="Suffix" xml:lang="en">Community</Label>
+		<Label Type="Part" Pos="Prefix" xml:lang="fr">Communauté</Label>
+	</LocationType>
+	<LocationType e:Name="Country">
+		<Label xml:lang="en">Country</Label>
+		<Label xml:lang="ru">Страна</Label>
+		<Label xml:lang="fr">Pays</Label>
+	</LocationType>
+	<LocationType e:Name="Department">
+		<Label xml:lang="en">Department</Label>
+		<Label xml:lang="ru">Депертамент</Label>
+		<Label xml:lang="fr">Département</Label>
+	</LocationType>
+	<LocationType e:Name="Oblast">
+		<Label xml:lang="en">Oblast</Label>
+		<Label xml:lang="ru">Область</Label>
+		<Label xml:lang="fr">Oblast</Label>
+		<Label Type="Part" Pos="Suffix" xml:lang="ru">область</Label>
+		<Label Type="Abbr Part" Pos="Suffix" xml:lang="ru">обл.</Label>
+	</LocationType>
+	<LocationType e:Name="State">
+		<Label xml:lang="en">State</Label>
+		<Label xml:lang="ru">Государство или штат</Label>
+		<Label xml:lang="fr">État</Label>
+		<Label xml:lang="ru" Type="Part">штат</Label>
+	</LocationType>
+	<LocationType e:Name="Town">
+		<Label xml:lang="en">Town</Label>
+		<Label xml:lang="ru">Небольшой город</Label>
+		<Label xml:lang="fr">Commune</Label>
+		<Label Type="Part" Pos="Prefix" xml:lang="ru">город</Label>
+		<Label Type="Abbr Part" Pos="Prefix" xml:lang="ru">г.</Label>
+	</LocationType>
+</ExternalList>
+<ExternalList xmlns="urn:geo-schemas-xml-frafv:proxy" xmlns:e="urn:schemas-xml-frafv:proxy">
+	<e:Prefix External="org"/>
+	<Company e:Name="ISO3166" e:External="ISO3166_alpha2">
+		<Label xml:lang="en">ISO 3166-1 alpha-2</Label>
+		<Label Type="Abbr" xml:lang="en">ISO 3166-1</Label>
+	</Company>
+</ExternalList>
+</LocationList>
