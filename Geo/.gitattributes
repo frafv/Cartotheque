@@ -1,2 +1,1 @@
-TZVista.xml    namespace=urn:geo-schemas-xml-frafv:timezone
-TZ.xml         namespace=urn:geo-schemas-xml-frafv:timezone
+TZ.xml  namespace=urn:geo-schemas-xml-frafv:timezone,urn:geo-schemas-xml-frafv:proxy,urn:schemas-xml-frafv:proxy

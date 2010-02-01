@@ -587,7 +587,15 @@
 						</xs:enumeration>
 						<xs:enumeration value="UTC-11">
 							<xs:annotation>
+								<xs:documentation xml:lang="en">UTC-11</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC-11 Samoa">
+							<xs:annotation>
 								<xs:documentation xml:lang="en">Samoa Standard Time</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">Last Saturday of September at 23:59:59 – First Friday of January at 0:00</xs:documentation>
+								</xs:appinfo>
 							</xs:annotation>
 						</xs:enumeration>
 						<xs:enumeration value="UTC-10">
@@ -742,6 +750,11 @@
 								</xs:appinfo>
 							</xs:annotation>
 						</xs:enumeration>
+						<xs:enumeration value="UTC-2">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">UTC-02</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
 						<xs:enumeration value="UTC-2 GST">
 							<xs:annotation>
 								<xs:documentation xml:lang="en">Mid-Atlantic Standard Time</xs:documentation>
@@ -843,7 +856,7 @@
 							<xs:annotation>
 								<xs:documentation xml:lang="en">Jordan Standard Time</xs:documentation>
 								<xs:appinfo source="DST">
-									<xs:documentation xml:lang="en">Last Thursday of March at 23:59:59 – Last Friday of October at 1:00</xs:documentation>
+									<xs:documentation xml:lang="en">Last Thursday of March at 0:00 – Last Friday of September at 1:00</xs:documentation>
 								</xs:appinfo>
 							</xs:annotation>
 						</xs:enumeration>
@@ -908,9 +921,6 @@
 						<xs:enumeration value="UTC+4 MUT">
 							<xs:annotation>
 								<xs:documentation xml:lang="en">Mauritius Standard Time</xs:documentation>
-								<xs:appinfo source="DST">
-									<xs:documentation xml:lang="en">Last Sunday of October at 2:00 – First Tuesday of January at 0:00</xs:documentation>
-								</xs:appinfo>
 							</xs:annotation>
 						</xs:enumeration>
 						<xs:enumeration value="UTC+4:30 AFT">
@@ -927,7 +937,7 @@
 							<xs:annotation>
 								<xs:documentation xml:lang="en">Pakistan Standard Time</xs:documentation>
 								<xs:appinfo source="DST">
-									<xs:documentation xml:lang="en">Second Tuesday of April at 23:59:59 – Last Saturday of October at 23:59:59</xs:documentation>
+									<xs:documentation xml:lang="en">Last Saturday of May at 23:59:59 – Last Friday of October at 23:59:59</xs:documentation>
 								</xs:appinfo>
 							</xs:annotation>
 						</xs:enumeration>
@@ -952,6 +962,14 @@
 						<xs:enumeration value="UTC+6">
 							<xs:annotation>
 								<xs:documentation xml:lang="en">Central Asia Standard Time</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+6 BDT">
+							<xs:annotation>
+								<xs:documentation xml:lang="en">Bangladesh Standard Time</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">Third Friday of June at 23:00 – First Thursday of January at 0:00</xs:documentation>
+								</xs:appinfo>
 							</xs:annotation>
 						</xs:enumeration>
 						<xs:enumeration value="UTC+6 USZ5">
@@ -1073,14 +1091,22 @@
 						</xs:enumeration>
 						<xs:enumeration value="UTC+12">
 							<xs:annotation>
+								<xs:documentation xml:lang="en">UTC+12</xs:documentation>
+							</xs:annotation>
+						</xs:enumeration>
+						<xs:enumeration value="UTC+12 Fiji">
+							<xs:annotation>
 								<xs:documentation xml:lang="en">Fiji Standard Time</xs:documentation>
+								<xs:appinfo source="DST">
+									<xs:documentation xml:lang="en">Last Sunday of November at 2:00 – Last Sunday of April at 3:00</xs:documentation>
+								</xs:appinfo>
 							</xs:annotation>
 						</xs:enumeration>
 						<xs:enumeration value="UTC+12 NZST">
 							<xs:annotation>
 								<xs:documentation xml:lang="en">New Zealand Standard Time</xs:documentation>
 								<xs:appinfo source="DST">
-									<xs:documentation xml:lang="en">Last Sunday of September at 2:00 – Third Sunday of March at 3:00</xs:documentation>
+									<xs:documentation xml:lang="en">First Sunday of October at 2:00 – Third Sunday of March at 3:00</xs:documentation>
 								</xs:appinfo>
 							</xs:annotation>
 						</xs:enumeration>
