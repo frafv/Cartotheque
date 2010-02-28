@@ -24,6 +24,7 @@
 							<xs:enumeration value="Unknown">
 								<xs:annotation>
 									<xs:documentation xml:lang="ru">Конец периода точно неопределён</xs:documentation>
+									<xs:documentation xml:lang="ru">End Period is unknown but exists.</xs:documentation>
 								</xs:annotation>
 							</xs:enumeration>
 						</xs:restriction>
@@ -32,73 +33,139 @@
 			</xs:simpleType>
 		</xs:attribute>
 	</xs:attributeGroup>
-	<xs:element name="Label">
+	<xs:complexType name="LabelType">
 		<xs:annotation>
 			<xs:documentation xml:lang="ru">Название местности на разных языках.</xs:documentation>
 			<xs:documentation xml:lang="en">Location name on languages.</xs:documentation>
 		</xs:annotation>
-		<xs:complexType>
-			<xs:simpleContent>
-				<xs:extension base="xs:string">
-					<xs:attribute ref="xml:lang" use="required">
-						<xs:annotation>
-							<xs:documentation xml:lang="ru">Язык названия.</xs:documentation>
-							<xs:documentation xml:lang="en">Label language.</xs:documentation>
-						</xs:annotation>
-					</xs:attribute>
-					<xs:attribute name="Type">
-						<xs:annotation>
-							<xs:documentation xml:lang="ru">Тип названия</xs:documentation>
-							<xs:documentation xml:lang="en">Label type</xs:documentation>
-						</xs:annotation>
-						<xs:simpleType>
-							<xs:restriction base="xs:string">
-								<xs:enumeration value="Org">
-									<xs:annotation>
-										<xs:documentation xml:lang="en">Original label.</xs:documentation>
-										<xs:documentation xml:lang="ru">Оригинальное название.</xs:documentation>
-									</xs:annotation>
-								</xs:enumeration>
-								<xs:enumeration value="Abbr">
-									<xs:annotation>
-										<xs:documentation xml:lang="en">Abbreviation.</xs:documentation>
-										<xs:documentation xml:lang="ru">Аббревиатура.</xs:documentation>
-									</xs:annotation>
-								</xs:enumeration>
-							</xs:restriction>
-						</xs:simpleType>
-					</xs:attribute>
-				</xs:extension>
-			</xs:simpleContent>
-		</xs:complexType>
-	</xs:element>
-	<xs:element name="Web">
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute ref="xml:lang" use="required">
+					<xs:annotation>
+						<xs:documentation xml:lang="ru">Язык названия.</xs:documentation>
+						<xs:documentation xml:lang="en">Label language.</xs:documentation>
+					</xs:annotation>
+				</xs:attribute>
+				<xs:attribute name="Type">
+					<xs:annotation>
+						<xs:documentation xml:lang="ru">Тип названия</xs:documentation>
+						<xs:documentation xml:lang="en">Label type</xs:documentation>
+					</xs:annotation>
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:enumeration value="Org">
+								<xs:annotation>
+									<xs:documentation xml:lang="ru">Оригинальное название.</xs:documentation>
+									<xs:documentation xml:lang="en">Original label.</xs:documentation>
+								</xs:annotation>
+							</xs:enumeration>
+							<xs:enumeration value="Abbr">
+								<xs:annotation>
+									<xs:documentation xml:lang="ru">Аббревиатура.</xs:documentation>
+									<xs:documentation xml:lang="en">Abbreviation.</xs:documentation>
+								</xs:annotation>
+							</xs:enumeration>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:attribute>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	<xs:complexType name="LocationLabelType">
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute ref="xml:lang" use="required">
+					<xs:annotation>
+						<xs:documentation xml:lang="ru">Язык названия.</xs:documentation>
+						<xs:documentation xml:lang="en">Label language.</xs:documentation>
+					</xs:annotation>
+				</xs:attribute>
+				<xs:attribute name="Type">
+					<xs:annotation>
+						<xs:documentation xml:lang="ru">Тип названия</xs:documentation>
+						<xs:documentation xml:lang="en">Label type</xs:documentation>
+					</xs:annotation>
+					<xs:simpleType>
+						<xs:list>
+							<xs:simpleType>
+								<xs:restriction base="xs:string">
+									<xs:enumeration value="Org">
+										<xs:annotation>
+											<xs:documentation xml:lang="ru">Оригинальное название.</xs:documentation>
+											<xs:documentation xml:lang="en">Original label.</xs:documentation>
+										</xs:annotation>
+									</xs:enumeration>
+									<xs:enumeration value="Abbr">
+										<xs:annotation>
+											<xs:documentation xml:lang="ru">Аббревиатура.</xs:documentation>
+											<xs:documentation xml:lang="en">Abbreviation.</xs:documentation>
+										</xs:annotation>
+									</xs:enumeration>
+									<xs:enumeration value="Part">
+										<xs:annotation>
+											<xs:documentation xml:lang="ru">Составное название.</xs:documentation>
+											<xs:documentation xml:lang="en">Part of label.</xs:documentation>
+										</xs:annotation>
+									</xs:enumeration>
+								</xs:restriction>
+							</xs:simpleType>
+						</xs:list>
+					</xs:simpleType>
+				</xs:attribute>
+				<xs:attribute name="Pos">
+					<xs:annotation>
+						<xs:documentation xml:lang="ru">Положение названия.</xs:documentation>
+						<xs:documentation xml:lang="en">Label position.</xs:documentation>
+					</xs:annotation>
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:enumeration value="Prefix">
+								<xs:annotation>
+									<xs:documentation xml:lang="ru">Название перед другими названиями.</xs:documentation>
+									<xs:documentation xml:lang="en">Label before another labels.</xs:documentation>
+								</xs:annotation>
+							</xs:enumeration>
+							<xs:enumeration value="Suffix">
+								<xs:annotation>
+									<xs:documentation xml:lang="ru">Название после других названий.</xs:documentation>
+									<xs:documentation xml:lang="en">Label after another labels.</xs:documentation>
+								</xs:annotation>
+							</xs:enumeration>
+							<xs:enumeration value="Exclusive">
+								<xs:annotation>
+									<xs:documentation xml:lang="ru">Название без других названий.</xs:documentation>
+									<xs:documentation xml:lang="en">Label without another labels.</xs:documentation>
+								</xs:annotation>
+							</xs:enumeration>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:attribute>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	<xs:complexType name="WebType">
 		<xs:annotation>
 			<xs:documentation xml:lang="ru">Сайт о местоположении.</xs:documentation>
 			<xs:documentation xml:lang="en">Location Web resource.</xs:documentation>
 		</xs:annotation>
-		<xs:complexType>
-			<xs:attribute name="URL" type="xs:anyURI" use="required"/>
-		</xs:complexType>
-	</xs:element>
-	<xs:element name="Code">
+		<xs:attribute name="URL" type="xs:anyURI" use="required"/>
+	</xs:complexType>
+	<xs:complexType name="CodeType">
 		<xs:annotation>
 			<xs:documentation xml:lang="ru">Код местоположения.</xs:documentation>
 			<xs:documentation xml:lang="en">Location code.</xs:documentation>
 		</xs:annotation>
-		<xs:complexType>
-			<xs:simpleContent>
-				<xs:extension base="xs:string">
-					<xs:attribute name="Source" type="xs:IDREF" use="required">
-						<xs:annotation>
-							<xs:documentation xml:lang="ru">Организация стандарта либо кода.</xs:documentation>
-							<xs:documentation xml:lang="en">Code standart organization.</xs:documentation>
-						</xs:annotation>
-					</xs:attribute>
-				</xs:extension>
-			</xs:simpleContent>
-		</xs:complexType>
-	</xs:element>
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="Source" type="xs:IDREF" use="required">
+					<xs:annotation>
+						<xs:documentation xml:lang="ru">Организация стандарта либо кода.</xs:documentation>
+						<xs:documentation xml:lang="en">Code standart organization.</xs:documentation>
+					</xs:annotation>
+				</xs:attribute>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
 	<xs:complexType name="ReferenceType">
 		<xs:annotation>
 			<xs:documentation xml:lang="ru">Состав либо вхождение в состав определяющие форму.</xs:documentation>
@@ -166,13 +233,13 @@
 					</xs:annotation>
 					<xs:complexType>
 						<xs:sequence>
-							<xs:element ref="l:Label" minOccurs="0" maxOccurs="unbounded">
+							<xs:element name="Label" type="l:LabelType" minOccurs="0" maxOccurs="unbounded">
 								<xs:annotation>
 									<xs:documentation xml:lang="ru">Название континента.</xs:documentation>
 									<xs:documentation xml:lang="en">Continent name.</xs:documentation>
 								</xs:annotation>
 							</xs:element>
-							<xs:element ref="l:Web" minOccurs="0" maxOccurs="unbounded">
+							<xs:element name="Web" type="l:WebType" minOccurs="0" maxOccurs="unbounded">
 								<xs:annotation>
 									<xs:documentation xml:lang="ru">Сайт о континенте.</xs:documentation>
 									<xs:documentation xml:lang="en">Continent Web resource.</xs:documentation>
@@ -204,13 +271,13 @@
 					</xs:annotation>
 					<xs:complexType>
 						<xs:sequence>
-							<xs:element ref="l:Label" minOccurs="0" maxOccurs="unbounded">
+							<xs:element name="Label" type="l:LocationLabelType" minOccurs="0" maxOccurs="unbounded">
 								<xs:annotation>
 									<xs:documentation xml:lang="ru">Название вида местоположения.</xs:documentation>
 									<xs:documentation xml:lang="en">Location kind name.</xs:documentation>
 								</xs:annotation>
 							</xs:element>
-							<xs:element ref="l:Web" minOccurs="0" maxOccurs="unbounded">
+							<xs:element name="Web" type="l:WebType" minOccurs="0" maxOccurs="unbounded">
 								<xs:annotation>
 									<xs:documentation xml:lang="ru">Сайт поясняющий вид.</xs:documentation>
 									<xs:documentation xml:lang="en">Kind Web resource.</xs:documentation>
@@ -256,13 +323,13 @@
 					</xs:annotation>
 					<xs:complexType>
 						<xs:sequence>
-							<xs:element ref="l:Label" minOccurs="0" maxOccurs="unbounded">
+							<xs:element name="Label" type="l:LocationLabelType" minOccurs="0" maxOccurs="unbounded">
 								<xs:annotation>
 									<xs:documentation xml:lang="ru">Название страны.</xs:documentation>
 									<xs:documentation xml:lang="en">Country name.</xs:documentation>
 								</xs:annotation>
 							</xs:element>
-							<xs:element ref="l:Web" minOccurs="0" maxOccurs="unbounded">
+							<xs:element name="Web" type="l:WebType" minOccurs="0" maxOccurs="unbounded">
 								<xs:annotation>
 									<xs:documentation xml:lang="ru">Сайт о стране.</xs:documentation>
 									<xs:documentation xml:lang="en">Country Web resource.</xs:documentation>
@@ -300,7 +367,7 @@
 									</xs:complexContent>
 								</xs:complexType>
 							</xs:element>
-							<xs:element ref="l:Code" minOccurs="0" maxOccurs="unbounded">
+							<xs:element name="Code" type="l:CodeType" minOccurs="0" maxOccurs="unbounded">
 								<xs:annotation>
 									<xs:documentation xml:lang="ru">Код страны.</xs:documentation>
 									<xs:documentation xml:lang="en">Country code.</xs:documentation>
@@ -344,6 +411,12 @@
 								<xs:documentation xml:lang="en">Region.</xs:documentation>
 							</xs:annotation>
 						</xs:attribute>
+						<xs:attribute name="City" type="xs:IDREF">
+							<xs:annotation>
+								<xs:documentation xml:lang="ru">Населённый пункт для районов города.</xs:documentation>
+								<xs:documentation xml:lang="en">City of region.</xs:documentation>
+							</xs:annotation>
+						</xs:attribute>
 					</xs:complexType>
 				</xs:element>
 				<xs:element name="Region" maxOccurs="unbounded">
@@ -353,13 +426,13 @@
 					</xs:annotation>
 					<xs:complexType>
 						<xs:sequence>
-							<xs:element ref="l:Label" minOccurs="0" maxOccurs="unbounded">
+							<xs:element name="Label" type="l:LocationLabelType" minOccurs="0" maxOccurs="unbounded">
 								<xs:annotation>
 									<xs:documentation xml:lang="ru">Название района.</xs:documentation>
 									<xs:documentation xml:lang="en">Region name.</xs:documentation>
 								</xs:annotation>
 							</xs:element>
-							<xs:element ref="l:Web" minOccurs="0" maxOccurs="unbounded">
+							<xs:element name="Web" type="l:WebType" minOccurs="0" maxOccurs="unbounded">
 								<xs:annotation>
 									<xs:documentation xml:lang="ru">Сайт о районе.</xs:documentation>
 									<xs:documentation xml:lang="en">Region Web resource.</xs:documentation>
@@ -394,6 +467,12 @@
 																		<xs:documentation xml:lang="en">Regions.</xs:documentation>
 																	</xs:annotation>
 																</xs:attribute>
+																<xs:attribute name="City" type="xs:IDREF">
+																	<xs:annotation>
+																		<xs:documentation xml:lang="ru">Населённый пункт.</xs:documentation>
+																		<xs:documentation xml:lang="en">City.</xs:documentation>
+																	</xs:annotation>
+																</xs:attribute>
 															</xs:extension>
 														</xs:complexContent>
 													</xs:complexType>
@@ -403,7 +482,7 @@
 									</xs:complexContent>
 								</xs:complexType>
 							</xs:element>
-							<xs:element ref="l:Code" minOccurs="0" maxOccurs="unbounded">
+							<xs:element name="Code" type="l:CodeType" minOccurs="0" maxOccurs="unbounded">
 								<xs:annotation>
 									<xs:documentation xml:lang="ru">Код района.</xs:documentation>
 									<xs:documentation xml:lang="en">Region code.</xs:documentation>
@@ -456,13 +535,13 @@
 					</xs:annotation>
 					<xs:complexType>
 						<xs:sequence>
-							<xs:element ref="l:Label" minOccurs="0" maxOccurs="unbounded">
+							<xs:element name="Label" type="l:LocationLabelType" minOccurs="0" maxOccurs="unbounded">
 								<xs:annotation>
 									<xs:documentation xml:lang="ru">Название населённого пункта.</xs:documentation>
 									<xs:documentation xml:lang="en">City name.</xs:documentation>
 								</xs:annotation>
 							</xs:element>
-							<xs:element ref="l:Web" minOccurs="0" maxOccurs="unbounded">
+							<xs:element name="Web" type="l:WebType" minOccurs="0" maxOccurs="unbounded">
 								<xs:annotation>
 									<xs:documentation xml:lang="ru">Сайт о населённом пункте.</xs:documentation>
 									<xs:documentation xml:lang="en">City Web resource.</xs:documentation>
@@ -512,7 +591,7 @@
 									</xs:complexContent>
 								</xs:complexType>
 							</xs:element>
-							<xs:element ref="l:Code" minOccurs="0" maxOccurs="unbounded">
+							<xs:element name="Code" type="l:CodeType" minOccurs="0" maxOccurs="unbounded">
 								<xs:annotation>
 									<xs:documentation xml:lang="ru">Код населённого пункта.</xs:documentation>
 									<xs:documentation xml:lang="en">City code.</xs:documentation>
@@ -523,6 +602,59 @@
 							<xs:annotation>
 								<xs:documentation xml:lang="ru">Идентификатор населённого пункта.</xs:documentation>
 								<xs:documentation xml:lang="en">City identifier.</xs:documentation>
+							</xs:annotation>
+						</xs:attribute>
+						<xs:attributeGroup ref="l:Period"/>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="StreetList">
+		<xs:annotation>
+			<xs:documentation xml:lang="ru">Список улиц населённого пункта.</xs:documentation>
+			<xs:documentation xml:lang="en">Streets list.</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Location" maxOccurs="unbounded">
+					<xs:annotation>
+						<xs:documentation xml:lang="ru">Местоположение улиц.</xs:documentation>
+						<xs:documentation xml:lang="en">Street location.</xs:documentation>
+					</xs:annotation>
+					<xs:complexType>
+						<xs:attribute name="City" type="xs:IDREF">
+							<xs:annotation>
+								<xs:documentation xml:lang="ru">Населённый пункт.</xs:documentation>
+								<xs:documentation xml:lang="en">City.</xs:documentation>
+							</xs:annotation>
+						</xs:attribute>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="Street" maxOccurs="unbounded">
+					<xs:annotation>
+						<xs:documentation xml:lang="ru">Улица.</xs:documentation>
+						<xs:documentation xml:lang="en">Street.</xs:documentation>
+					</xs:annotation>
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Label" type="l:LocationLabelType" minOccurs="0" maxOccurs="unbounded">
+								<xs:annotation>
+									<xs:documentation xml:lang="ru">Название улицы.</xs:documentation>
+									<xs:documentation xml:lang="en">Street name.</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="Form" type="l:FormType" minOccurs="0" maxOccurs="unbounded">
+								<xs:annotation>
+									<xs:documentation xml:lang="ru">Улицы в рамках административно-территориального деления.</xs:documentation>
+									<xs:documentation xml:lang="en">Street form in administrative division.</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name="Name" type="xs:ID" use="required">
+							<xs:annotation>
+								<xs:documentation xml:lang="ru">Идентификатор улицы.</xs:documentation>
+								<xs:documentation xml:lang="en">Street identifier.</xs:documentation>
 							</xs:annotation>
 						</xs:attribute>
 						<xs:attributeGroup ref="l:Period"/>
@@ -544,6 +676,7 @@
 					<xs:element ref="l:CountryList"/>
 					<xs:element ref="l:RegionList"/>
 					<xs:element ref="l:CityList"/>
+					<xs:element ref="l:StreetList"/>
 				</xs:choice>
 				<xs:any namespace="##other" processContents="strict" minOccurs="0" maxOccurs="unbounded">
 					<xs:annotation>

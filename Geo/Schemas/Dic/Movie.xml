@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieList xmlns="urn:multimedia-schemas-xml-frafv:movie" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:multimedia-schemas-xml-frafv:movie ../Movie.xsd urn:schemas-xml-frafv:proxy ../Proxy.xsd urn:multimedia-schemas-xml-frafv:proxy ../MediaProxy.xsd">
+	<GenreList>
+		<Genre Name="Action">
+			<Label xml:lang="en">Action</Label>
+			<Label xml:lang="ru">Боевик</Label>
+			<Label xml:lang="en" Source="IMDb">Action</Label>
+		</Genre>
+		<Genre Name="Adventure">
+			<Label xml:lang="en">Adventure</Label>
+			<Label xml:lang="ru">Приключенческий фильм</Label>
+			<Label xml:lang="en" Source="IMDb">Adventure</Label>
+		</Genre>
+		<Genre Name="Biography">
+			<Label xml:lang="en">Biography</Label>
+			<Label xml:lang="ru">Биографический фильм</Label>
+			<Label xml:lang="en" Source="IMDb">Biography</Label>
+		</Genre>
+		<Genre Name="Comedy">
+			<Label xml:lang="en">Comedy</Label>
+			<Label xml:lang="ru">Комедия</Label>
+			<Label xml:lang="en" Source="IMDb">Comedy</Label>
+		</Genre>
+		<Genre Name="Crime">
+			<Label xml:lang="en">Crime</Label>
+			<Label xml:lang="ru">Криминальный фильм</Label>
+			<Label xml:lang="en" Source="IMDb">Crime</Label>
+		</Genre>
+		<Genre Name="Documentary">
+			<Label xml:lang="en">Documentary</Label>
+			<Label xml:lang="ru">Документальный фильм</Label>
+			<Label xml:lang="en" Source="IMDb">Documentary</Label>
+		</Genre>
+		<Genre Name="Drama">
+			<Label xml:lang="en">Drama</Label>
+			<Label xml:lang="ru">Драма</Label>
+			<Label xml:lang="en" Source="IMDb">Drama</Label>
+		</Genre>
+		<Genre Name="EccentricComedy" Origin="Comedy">
+			<Label xml:lang="en">Eccentric Comedy</Label>
+			<Label xml:lang="ru">Эксцентрическая комедия</Label>
+		</Genre>
+		<Genre Name="Family">
+			<Label xml:lang="en">Family</Label>
+			<Label xml:lang="ru">Семейный фильм</Label>
+			<Label xml:lang="en" Source="IMDb">Family</Label>
+		</Genre>
+		<Genre Name="Fantasy">
+			<Label xml:lang="en">Fantasy</Label>
+			<Label xml:lang="ru">Фэнтези, сказка</Label>
+			<Label xml:lang="en" Source="IMDb">Fantasy</Label>
+		</Genre>
+		<Genre Name="FilmNoir">
+			<Label xml:lang="en">Film-Noir</Label>
+			<Label xml:lang="ru">Нуар</Label>
+			<Label xml:lang="en" Source="IMDb">Film-Noir</Label>
+		</Genre>
+		<Genre Name="History">
+			<Label xml:lang="en">History</Label>
+			<Label xml:lang="ru">Исторический фильм</Label>
+			<Label xml:lang="en" Source="IMDb">History</Label>
+		</Genre>
+		<Genre Name="Horror">
+			<Label xml:lang="en">Horror</Label>
+			<Label xml:lang="ru">Фильм ужасов</Label>
+			<Label xml:lang="en" Source="IMDb">Horror</Label>
+		</Genre>
+		<Genre Name="Musical">
+			<Label xml:lang="en">Musical</Label>
+			<Label xml:lang="ru">Мюзикл</Label>
+			<Label xml:lang="en" Source="IMDb">Musical</Label>
+		</Genre>
+		<Genre Name="Mystery">
+			<Label xml:lang="en">Mystery</Label>
+			<Label xml:lang="ru">Детектив</Label>
+			<Label xml:lang="en" Source="IMDb">Mystery</Label>
+		</Genre>
+		<Genre Name="Parody" Origin="Comedy">
+			<Label xml:lang="en">Parody</Label>
+			<Label xml:lang="ru">Пародия</Label>
+		</Genre>
+		<Genre Name="Romance">
+			<Label xml:lang="en">Romance</Label>
+			<Label xml:lang="ru">Мелодрама</Label>
+			<Label xml:lang="en" Source="IMDb">Romance</Label>
+		</Genre>
+		<Genre Name="SciFi">
+			<Label xml:lang="en">Sci-Fi</Label>
+			<Label xml:lang="ru">Научно-фантастический фильм</Label>
+			<Label xml:lang="en" Source="IMDb">Sci-Fi</Label>
+		</Genre>
+		<Genre Name="Thriller">
+			<Label xml:lang="en">Thriller</Label>
+			<Label xml:lang="ru">Триллер</Label>
+			<Label xml:lang="en" Source="IMDb">Thriller</Label>
+		</Genre>
+		<Genre Name="War">
+			<Label xml:lang="en">War</Label>
+			<Label xml:lang="ru">Военный фильм</Label>
+			<Label xml:lang="en" Source="IMDb">War</Label>
+		</Genre>
+		<Genre Name="Western">
+			<Label xml:lang="en">Western</Label>
+			<Label xml:lang="ru">Вестерн</Label>
+			<Label xml:lang="en" Source="IMDb">Western</Label>
+		</Genre>
+	</GenreList>
+	<KindList>
+		<Kind Name="Animation">
+			<Label xml:lang="en">Animation</Label>
+			<Label xml:lang="ru">Анимационный фильм, мультфильм</Label>
+			<Label xml:lang="en" Source="IMDb">Animation</Label>
+			<Label xml:lang="en" Source="iTunes">Movie</Label>
+		</Kind>
+		<Kind Name="GameShow">
+			<Label xml:lang="en">Game-Show</Label>
+			<Label xml:lang="ru">Игровое шоу</Label>
+			<Label xml:lang="en" Source="IMDb">Game-Show</Label>
+		</Kind>
+		<Kind Name="Movie">
+			<Label xml:lang="en">Movie</Label>
+			<Label xml:lang="ru">Фильм</Label>
+			<Label xml:lang="en" Source="iTunes">Movie</Label>
+		</Kind>
+		<Kind Name="Music">
+			<Label xml:lang="en">Music video</Label>
+			<Label xml:lang="ru">Музыкальное видео</Label>
+			<Label xml:lang="en" Source="IMDb">Music</Label>
+			<Label xml:lang="en" Source="iTunes">Music Video</Label>
+		</Kind>
+		<Kind Name="News">
+			<Label xml:lang="en">News</Label>
+			<Label xml:lang="ru">Новости</Label>
+			<Label xml:lang="en" Source="IMDb">News</Label>
+		</Kind>
+		<Kind Name="RealityTV">
+			<Label xml:lang="en">Reality-TV</Label>
+			<Label xml:lang="ru">Реалити-шоу</Label>
+			<Label xml:lang="en" Source="IMDb">Reality-TV</Label>
+		</Kind>
+		<Kind Name="Short">
+			<Label xml:lang="en">Short</Label>
+			<Label xml:lang="ru">Короткометражный фильм</Label>
+			<Label xml:lang="en" Source="IMDb">Short</Label>
+			<Label xml:lang="en" Source="iTunes">Short Film</Label>
+		</Kind>
+		<Kind Name="Sport">
+			<Label xml:lang="en">Sport</Label>
+			<Label xml:lang="ru">Спортивный фильм</Label>
+			<Label xml:lang="en" Source="IMDb">Sport</Label>
+		</Kind>
+		<Kind Name="TalkShow">
+			<Label xml:lang="en">Talk-Show</Label>
+			<Label xml:lang="ru">Ток-шоу</Label>
+			<Label xml:lang="en" Source="IMDb">Talk-Show</Label>
+		</Kind>
+		<Kind Name="Series">
+			<Label xml:lang="en">TV Series</Label>
+			<Label xml:lang="ru">Сериал</Label>
+			<Label xml:lang="en" Source="iTunes">TV Show</Label>
+		</Kind>
+		<Kind Name="Season" Origin="Series">
+			<Label xml:lang="en">Season</Label>
+			<Label xml:lang="ru">Сезон</Label>
+		</Kind>
+		<Kind Name="Episode" Origin="Series">
+			<Label xml:lang="en">Episode</Label>
+			<Label xml:lang="ru">Серия</Label>
+		</Kind>
+		<Kind Name="Release" Origin="Series">
+			<Label xml:lang="en">Release</Label>
+			<Label xml:lang="ru">Выпуск</Label>
+		</Kind>
+		<Kind Name="TVRelease" Origin="Series">
+			<Label xml:lang="en">TV Release</Label>
+			<Label xml:lang="ru">Телевыпуск</Label>
+		</Kind>
+	</KindList>
+	<CertificationList>
+		<Certification Name="ACMA.E" Country="Australia" Type="Movie" Rating="0">
+			<Label xml:lang="en">E</Label>
+			<Label Type="Org" xml:lang="en">Exempt</Label>
+			<Label xml:lang="en" Source="iTunes">au-movie|E</Label>
+			<Web URL="http://www.classification.gov.au"/>
+			<Web URL="http://en.wikipedia.org/wiki/Office_of_Film_and_Literature_Classification_(Australia)"/>
+		</Certification>
+		<Certification Name="ACMA.G" Country="Australia" Type="Movie" Rating="100">
+			<Label xml:lang="en">G</Label>
+			<Label Type="Org" xml:lang="en">General</Label>
+			<Label xml:lang="en" Source="iTunes">au-movie|G</Label>
+			<Web URL="http://www.classification.gov.au"/>
+			<Web URL="http://en.wikipedia.org/wiki/Office_of_Film_and_Literature_Classification_(Australia)"/>
+		</Certification>
+		<Certification Name="ACMA.PG" Country="Australia" Type="Movie" Rating="200">
+			<Label xml:lang="en">PG</Label>
+			<Label Type="Org" xml:lang="en">Parental Guidance</Label>
+			<Label xml:lang="en" Source="iTunes">au-movie|PG</Label>
+			<Web URL="http://www.classification.gov.au"/>
+			<Web URL="http://en.wikipedia.org/wiki/Office_of_Film_and_Literature_Classification_(Australia)"/>
+		</Certification>
+		<Certification Name="ACMA.M" Country="Australia" Type="Movie" Rating="350">
+			<Label xml:lang="en">M</Label>
+			<Label Type="Org" xml:lang="en">Mature</Label>
+			<Label xml:lang="en" Source="iTunes">au-movie|M</Label>
+			<Web URL="http://www.classification.gov.au"/>
+			<Web URL="http://en.wikipedia.org/wiki/Office_of_Film_and_Literature_Classification_(Australia)"/>
+		</Certification>
+		<Certification Name="ACMA.MA15" Country="Australia" Type="Movie" Rating="375">
+			<Label xml:lang="en">MA 15+</Label>
+			<Label Type="Org" xml:lang="en">Mature Audience</Label>
+			<Label xml:lang="en" Source="iTunes">au-movie|MA 15+</Label>
+			<Web URL="http://www.classification.gov.au"/>
+			<Web URL="http://en.wikipedia.org/wiki/Office_of_Film_and_Literature_Classification_(Australia)"/>
+		</Certification>
+		<Certification Name="ACMA.R18" Country="Australia" Type="Movie" Rating="400">
+			<Label xml:lang="en">R 18+</Label>
+			<Label Type="Org" xml:lang="en">Restricted</Label>
+			<Label xml:lang="en" Source="iTunes">au-movie|R18+</Label>
+			<Web URL="http://www.classification.gov.au"/>
+			<Web URL="http://en.wikipedia.org/wiki/Office_of_Film_and_Literature_Classification_(Australia)"/>
+		</Certification>
+		<Certification Name="ACMA.X18" Country="Australia" Type="Movie" Rating="500">
+			<Label xml:lang="en">X 18+</Label>
+			<Label xml:lang="en" Source="iTunes">au-movie|X18+</Label>
+			<Web URL="http://www.classification.gov.au"/>
+			<Web URL="http://en.wikipedia.org/wiki/Office_of_Film_and_Literature_Classification_(Australia)"/>
+		</Certification>
+		<Certification Name="ACMA.Unrated" Country="Australia" Type="Movie" Rating="900">
+			<Label xml:lang="en">Unrated</Label>
+			<Label xml:lang="en" Source="iTunes">au-movie|UNRATED</Label>
+		</Certification>
+		<Certification Name="ACMA.RC" Country="Australia" Type="Movie" Rating="999">
+			<Label xml:lang="en">RC</Label>
+			<Label Type="Org" xml:lang="en">Refused Classification</Label>
+			<Label xml:lang="en" Source="iTunes">au-movie|RC</Label>
+			<Web URL="http://en.wikipedia.org/wiki/Office_of_Film_and_Literature_Classification_(Australia)"/>
+		</Certification>
+		<Certification Name="AU.P" Country="Australia" Type="TV" Rating="100">
+			<Label xml:lang="en">P</Label>
+			<Label Type="Org" xml:lang="en">Preschool children</Label>
+			<Label xml:lang="en" Source="iTunes">au-tv|P</Label>
+			<Web URL="http://en.wikipedia.org/wiki/Censorship_in_Australia"/>
+		</Certification>
+		<Certification Name="AU.C" Country="Australia" Type="TV" Rating="200">
+			<Label xml:lang="en">C</Label>
+			<Label Type="Org" xml:lang="en">Children</Label>
+			<Label xml:lang="en" Source="iTunes">au-tv|C</Label>
+			<Web URL="http://en.wikipedia.org/wiki/Censorship_in_Australia"/>
+		</Certification>
+		<Certification Name="AU.G" Country="Australia" Type="TV" Rating="300">
+			<Label xml:lang="en">G</Label>
+			<Label Type="Org" xml:lang="en">General</Label>
+			<Label xml:lang="en" Source="iTunes">au-tv|G</Label>
+			<Web URL="http://en.wikipedia.org/wiki/Censorship_in_Australia"/>
+		</Certification>
+		<Certification Name="AU.PG" Country="Australia" Type="TV" Rating="400">
+			<Label xml:lang="en">PG</Label>
+			<Label Type="Org" xml:lang="en">Parental Guidance</Label>
+			<Label xml:lang="en" Source="iTunes">au-tv|PG</Label>
+			<Web URL="http://en.wikipedia.org/wiki/Censorship_in_Australia"/>
+		</Certification>
+		<Certification Name="AU.M" Country="Australia" Type="TV" Rating="500">
+			<Label xml:lang="en">M</Label>
+			<Label Type="Org" xml:lang="en">Mature</Label>
+			<Label xml:lang="en" Source="iTunes">au-tv|M</Label>
+			<Web URL="http://en.wikipedia.org/wiki/Censorship_in_Australia"/>
+		</Certification>
+		<Certification Name="AU.MA15" Country="Australia" Type="TV" Rating="550">
+			<Label xml:lang="en">MA 15+</Label>
+			<Label Type="Org" xml:lang="en">Mature Audience</Label>
+			<Label xml:lang="en" Source="iTunes">au-tv|MA 15+</Label>
+			<Web URL="http://en.wikipedia.org/wiki/Censorship_in_Australia"/>
+		</Certification>
+		<Certification Name="AU.AV15" Country="Australia" Type="TV" Rating="570">
+			<Label xml:lang="en">AV 15+</Label>
+			<Label Type="Org" xml:lang="en">Adult Violence</Label>
+			<Label xml:lang="en" Source="iTunes">au-tv|AV 15+</Label>
+			<Web URL="http://en.wikipedia.org/wiki/Censorship_in_Australia"/>
+		</Certification>
+		<Certification Name="AU.Unrated" Country="Australia" Type="TV" Rating="900">
+			<Label xml:lang="en">Unrated</Label>
+			<Label xml:lang="en" Source="iTunes">au-tv|UNRATED</Label>
+		</Certification>
+		<Certification Name="CHV.E" Country="Canada" Type="Movie" Rating="0">
+			<Label xml:lang="en">E</Label>
+			<Label Type="Org" xml:lang="en">Exempt</Label>
+			<Label xml:lang="en" Source="iTunes">ca-movie|E</Label>
+			<Web URL="http://www.cmpda.ca"/>
+			<Web URL="http://en.wikipedia.org/wiki/Canadian_Home_Video_Rating_System"/>
+		</Certification>
+		<Certification Name="CHV.G" Country="Canada" Type="Movie" Rating="100">
+			<Label xml:lang="en">G</Label>
+			<Label Type="Org" xml:lang="en">General</Label>
+			<Label xml:lang="en" Source="iTunes">ca-movie|G</Label>
+			<Web URL="http://www.cmpda.ca"/>
+			<Web URL="http://en.wikipedia.org/wiki/Canadian_Home_Video_Rating_System"/>
+		</Certification>
+		<Certification Name="CHV.PG" Country="Canada" Type="Movie" Rating="200">
+			<Label xml:lang="en">PG</Label>
+			<Label Type="Org" xml:lang="en">Parental Guidance</Label>
+			<Label xml:lang="en" Source="iTunes">ca-movie|PG</Label>
+			<Web URL="http://www.cmpda.ca"/>
+			<Web URL="http://en.wikipedia.org/wiki/Canadian_Home_Video_Rating_System"/>
+		</Certification>
+		<Certification Name="CHV.14" Country="Canada" Type="Movie" Rating="325">
+			<Label xml:lang="en">14A</Label>
+			<Label Type="Org" xml:lang="en">14 Adult</Label>
+			<Label xml:lang="en" Source="iTunes">ca-movie|14</Label>
+			<Web URL="http://www.cmpda.ca"/>
+			<Web URL="http://en.wikipedia.org/wiki/Canadian_Home_Video_Rating_System"/>
+		</Certification>
+		<Certification Name="CHV.18" Country="Canada" Type="Movie" Rating="400">
+			<Label xml:lang="en">18A</Label>
+			<Label Type="Org" xml:lang="en">18 Adult</Label>
+			<Label xml:lang="en" Source="iTunes">ca-movie|18</Label>
+			<Web URL="http://www.cmpda.ca"/>
+			<Web URL="http://en.wikipedia.org/wiki/Canadian_Home_Video_Rating_System"/>
+		</Certification>
+		<Certification Name="CHV.R" Country="Canada" Type="Movie" Rating="500">
+			<Label xml:lang="en">R</Label>
+			<Label Type="Org" xml:lang="en">Restricted</Label>
+			<Label xml:lang="en" Source="iTunes">ca-movie|R</Label>
+			<Web URL="http://www.cmpda.ca"/>
+			<Web URL="http://en.wikipedia.org/wiki/Canadian_Home_Video_Rating_System"/>
+		</Certification>
+		<Certification Name="CHV.A" Country="Canada" Type="Movie" Rating="600">
+			<Label xml:lang="en">A</Label>
+			<Label Type="Org" xml:lang="en">Adult</Label>
+			<Label xml:lang="en" Source="iTunes">ca-movie|A</Label>
+			<Web URL="http://www.cmpda.ca"/>
+			<Web URL="http://en.wikipedia.org/wiki/Canadian_motion_picture_rating_system"/>
+		</Certification>
+		<Certification Name="CHV.Unrated" Country="Canada" Type="Movie" Rating="900">
+			<Label xml:lang="en">Unrated</Label>
+			<Label xml:lang="en" Source="iTunes">ca-movie|UNRATED</Label>
+		</Certification>
+		<Certification Name="CTR.E" Country="Canada" Type="TV" Rating="0">
+			<Label xml:lang="en">E</Label>
+			<Label Type="Org" xml:lang="en">Exempt</Label>
+			<Label xml:lang="en" Source="iTunes">ca-tv|E</Label>
+			<Web URL="http://en.wikipedia.org/wiki/Television_content_rating_systems"/>
+		</Certification>
+		<Certification Name="CTR.C" Country="Canada" Type="TV" Rating="100">
+			<Label xml:lang="en">C</Label>
+			<Label Type="Org" xml:lang="en">Children</Label>
+			<Label xml:lang="en" Source="iTunes">ca-tv|C</Label>
+			<Web URL="http://www.cab-acr.ca"/>
+			<Web URL="http://en.wikipedia.org/wiki/Television_content_rating_systems"/>
+		</Certification>
+		<Certification Name="CTR.C8" Country="Canada" Type="TV" Rating="200">
+			<Label xml:lang="en">C8+</Label>
+			<Label Type="Org" xml:lang="en">Children</Label>
+			<Label xml:lang="en" Source="iTunes">ca-tv|C8</Label>
+			<Web URL="http://www.cab-acr.ca"/>
+			<Web URL="http://en.wikipedia.org/wiki/Television_content_rating_systems"/>
+		</Certification>
+		<Certification Name="CTR.G" Country="Canada" Type="TV" Rating="300">
+			<Label xml:lang="en">G</Label>
+			<Label Type="Org" xml:lang="en">General</Label>
+			<Label xml:lang="en" Source="iTunes">ca-tv|G</Label>
+			<Web URL="http://www.cab-acr.ca"/>
+			<Web URL="http://en.wikipedia.org/wiki/Television_content_rating_systems"/>
+		</Certification>
+		<Certification Name="CTR.PG" Country="Canada" Type="TV" Rating="400">
+			<Label xml:lang="en">PG</Label>
+			<Label Type="Org" xml:lang="en">Parental Guidance</Label>
+			<Label xml:lang="en" Source="iTunes">ca-tv|PG</Label>
+			<Web URL="http://www.cab-acr.ca"/>
+			<Web URL="http://en.wikipedia.org/wiki/Television_content_rating_systems"/>
+		</Certification>
+		<Certification Name="CTR.14" Country="Canada" Type="TV" Rating="500">
+			<Label xml:lang="en">14+</Label>
+			<Label xml:lang="en" Source="iTunes">ca-tv|14+</Label>
+			<Web URL="http://www.cab-acr.ca"/>
+			<Web URL="http://en.wikipedia.org/wiki/Television_content_rating_systems"/>
+		</Certification>
+		<Certification Name="CTR.18" Country="Canada" Type="TV" Rating="600">
+			<Label xml:lang="en">18+</Label>
+			<Label Type="Org" xml:lang="en">Adult</Label>
+			<Label xml:lang="en" Source="iTunes">ca-tv|18+</Label>
+			<Web URL="http://www.cab-acr.ca"/>
+			<Web URL="http://en.wikipedia.org/wiki/Television_content_rating_systems"/>
+		</Certification>
+		<Certification Name="CTR.Unrated" Country="Canada" Type="TV" Rating="900">
+			<Label xml:lang="en">Unrated</Label>
+			<Label xml:lang="en" Source="iTunes">ca-tv|UNRATED</Label>
+		</Certification>
+		<Certification Name="IFCO.G" Country="Ireland" Type="Movie" Rating="100">
+			<Label xml:lang="en">G</Label>
+			<Label Type="Org" xml:lang="en">General</Label>
+			<Label xml:lang="en" Source="iTunes">ie-movie|G</Label>
+			<Web URL="http://www.ifco.ie"/>
+			<Web URL="http://en.wikipedia.org/wiki/Irish_Film_Classification_Office"/>
+		</Certification>
+		<Certification Name="IFCO.PG" Country="Ireland" Type="Movie" Rating="200">
+			<Label xml:lang="en">PG</Label>
+			<Label Type="Org" xml:lang="en">Parental Guidance</Label>
+			<Label xml:lang="en" Source="iTunes">ie-movie|PG</Label>
+			<Web URL="http://www.ifco.ie"/>
+			<Web URL="http://en.wikipedia.org/wiki/Irish_Film_Classification_Office"/>
+		</Certification>
+		<Certification Name="IFCO.12RA" Country="Ireland" Type="Movie" Rating="300" EndPeriod="Unknown">
+			<Label xml:lang="en">12RA</Label>
+			<Label Type="Org" xml:lang="en">12 Responsible Adult</Label>
+			<Label xml:lang="en" Source="iTunes">ie-movie|12</Label>
+			<Web URL="http://www.ifco.ie"/>
+			<Web URL="http://en.wikipedia.org/wiki/Irish_Film_Classification_Office"/>
+		</Certification>
+		<Certification Name="IFCO.12" Country="Ireland" Type="Movie" Rating="300">
+			<Label xml:lang="en">12</Label>
+			<Label xml:lang="en" Source="iTunes">ie-movie|12</Label>
+			<Web URL="http://www.ifco.ie"/>
+			<Web URL="http://en.wikipedia.org/wiki/Irish_Film_Classification_Office"/>
+		</Certification>
+		<Certification Name="IFCO.12PG" Country="Ireland" Type="Movie" Rating="325" EndPeriod="2004-12">
+			<Label xml:lang="en">12PG</Label>
+			<Label Type="Org" xml:lang="en">12 Parental Guidance</Label>
+			<Label xml:lang="en" Source="iTunes">ie-movie|12</Label>
+			<Web URL="http://www.ifco.ie"/>
+			<Web URL="http://en.wikipedia.org/wiki/Irish_Film_Classification_Office"/>
+		</Certification>
+		<Certification Name="IFCO.12A" Country="Ireland" Type="Movie" Rating="300">
+			<Label xml:lang="en">12A</Label>
+			<Label Type="Org" xml:lang="en">12 Adult</Label>
+			<Label xml:lang="en" Source="iTunes">ie-movie|12</Label>
+			<Web URL="http://www.ifco.ie"/>
+			<Web URL="http://en.wikipedia.org/wiki/Irish_Film_Classification_Office"/>
+		</Certification>
+		<Certification Name="IFCO.15" Country="Ireland" Type="Movie" Rating="350">
+			<Label xml:lang="en">15</Label>
+			<Label xml:lang="en" Source="iTunes">ie-movie|15</Label>
+			<Web URL="http://www.ifco.ie"/>
+			<Web URL="http://en.wikipedia.org/wiki/Irish_Film_Classification_Office"/>
+		</Certification>
+		<Certification Name="IFCO.15PG" Country="Ireland" Type="Movie" Rating="375" EndPeriod="2004-12">
+			<Label xml:lang="en">15PG</Label>
+			<Label Type="Org" xml:lang="en">15 Parental Guidance</Label>
+			<Label xml:lang="en" Source="iTunes">ie-movie|15</Label>
+			<Web URL="http://www.ifco.ie"/>
+			<Web URL="http://en.wikipedia.org/wiki/Irish_Film_Classification_Office"/>
+		</Certification>
+		<Certification Name="IFCO.15A" Country="Ireland" Type="Movie" Rating="350">
+			<Label xml:lang="en">15A</Label>
+			<Label Type="Org" xml:lang="en">15 Adult</Label>
+			<Label xml:lang="en" Source="iTunes">ie-movie|15</Label>
+			<Web URL="http://www.ifco.ie"/>
+			<Web URL="http://en.wikipedia.org/wiki/Irish_Film_Classification_Office"/>
+		</Certification>
+		<Certification Name="IFCO.16" Country="Ireland" Type="Movie" Rating="375">
+			<Label xml:lang="en">16</Label>
+			<Label xml:lang="en" Source="iTunes">ie-movie|16</Label>
+			<Web URL="http://www.ifco.ie"/>
+			<Web URL="http://en.wikipedia.org/wiki/Irish_Film_Classification_Office"/>
+		</Certification>
+		<Certification Name="IFCO.18" Country="Ireland" Type="Movie" Rating="400">
+			<Label xml:lang="en">18</Label>
+			<Label xml:lang="en" Source="iTunes">ie-movie|18</Label>
+			<Web URL="http://www.ifco.ie"/>
+			<Web URL="http://en.wikipedia.org/wiki/Irish_Film_Classification_Office"/>
+		</Certification>
+		<Certification Name="IFCO.Unrated" Country="Ireland" Type="Movie" Rating="900">
+			<Label xml:lang="en">Unrated</Label>
+			<Label xml:lang="en" Source="iTunes">ie-movie|UNRATED</Label>
+		</Certification>
+		<Certification Name="RTE.GA" Country="Ireland" Type="TV" Rating="100">
+			<Label xml:lang="en">GA</Label>
+			<Label Type="Org" xml:lang="en">General Audience</Label>
+			<Label xml:lang="en" Source="iTunes">ie-tv|GA</Label>
+			<Web URL="http://www.rte.ie"/>
+			<Web URL="http://en.wikipedia.org/wiki/Television_content_rating_systems"/>
+		</Certification>
+		<Certification Name="RTE.Ch" Country="Ireland" Type="TV" Rating="200">
+			<Label xml:lang="en">Ch</Label>
+			<Label Type="Org" xml:lang="en">Children</Label>
+			<Label xml:lang="en" Source="iTunes">ie-tv|Ch</Label>
+			<Web URL="http://www.rte.ie"/>
+			<Web URL="http://en.wikipedia.org/wiki/Television_content_rating_systems"/>
+		</Certification>
+		<Certification Name="RTE.YA" Country="Ireland" Type="TV" Rating="400">
+			<Label xml:lang="en">YA</Label>
+			<Label Type="Org" xml:lang="en">Young Adult</Label>
+			<Label xml:lang="en" Source="iTunes">ie-tv|YA</Label>
+			<Web URL="http://www.rte.ie"/>
+			<Web URL="http://en.wikipedia.org/wiki/Television_content_rating_systems"/>
+		</Certification>
+		<Certification Name="RTE.PS" Country="Ireland" Type="TV" Rating="500">
+			<Label xml:lang="en">PS</Label>
+			<Label Type="Org" xml:lang="en">Parental Supervision</Label>
+			<Label xml:lang="en" Source="iTunes">ie-tv|PS</Label>
+			<Web URL="http://www.rte.ie"/>
+			<Web URL="http://en.wikipedia.org/wiki/Television_content_rating_systems"/>
+		</Certification>
+		<Certification Name="RTE.MA" Country="Ireland" Type="TV" Rating="600">
+			<Label xml:lang="en">MA</Label>
+			<Label Type="Org" xml:lang="en">Mature Audience</Label>
+			<Label xml:lang="en" Source="iTunes">ie-tv|MA</Label>
+			<Web URL="http://www.rte.ie"/>
+			<Web URL="http://en.wikipedia.org/wiki/Television_content_rating_systems"/>
+		</Certification>
+		<Certification Name="RTE.Unrated" Country="Ireland" Type="TV" Rating="900">
+			<Label xml:lang="en">Unrated</Label>
+			<Label xml:lang="en" Source="iTunes">ie-tv|UNRATED</Label>
+		</Certification>
+		<Certification Name="FVPC.E" Country="NewZealand" Type="Movie" Rating="0">
+			<Label xml:lang="en">E</Label>
+			<Label Type="Org" xml:lang="en">Exempt</Label>
+			<Label xml:lang="en" Source="iTunes">nz-movie|E</Label>
+		</Certification>
+		<Certification Name="FVPC.G" Country="NewZealand" Type="Movie" Rating="100">
+			<Label xml:lang="en">G</Label>
+			<Label Type="Org" xml:lang="en">General</Label>
+			<Label xml:lang="en" Source="iTunes">nz-movie|G</Label>
+			<Web URL="http://www.censorship.govt.nz"/>
+			<Web URL="http://en.wikipedia.org/wiki/Office_of_Film_and_Literature_Classification_(New_Zealand)"/>
+		</Certification>
+		<Certification Name="FVPC.PG" Country="NewZealand" Type="Movie" Rating="200">
+			<Label xml:lang="en">PG</Label>
+			<Label Type="Org" xml:lang="en">Parental Guidance</Label>
+			<Label xml:lang="en" Source="iTunes">nz-movie|PG</Label>
+			<Web URL="http://www.censorship.govt.nz"/>
+			<Web URL="http://en.wikipedia.org/wiki/Office_of_Film_and_Literature_Classification_(New_Zealand)"/>
+		</Certification>
+		<Certification Name="FVPC.M" Country="NewZealand" Type="Movie" Rating="300">
+			<Label xml:lang="en">M</Label>
+			<Label Type="Org" xml:lang="en">Mature</Label>
+			<Label xml:lang="en" Source="iTunes">nz-movie|M</Label>
+			<Web URL="http://www.censorship.govt.nz"/>
+			<Web URL="http://en.wikipedia.org/wiki/Office_of_Film_and_Literature_Classification_(New_Zealand)"/>
+		</Certification>
+		<Certification Name="FVPC.R13" Country="NewZealand" Type="Movie" Rating="325">
+			<Label xml:lang="en">R13</Label>
+			<Label Type="Org" xml:lang="en">Restricted 13</Label>
+			<Label xml:lang="en" Source="iTunes">nz-movie|R13</Label>
+			<Web URL="http://www.censorship.govt.nz"/>
+			<Web URL="http://en.wikipedia.org/wiki/Office_of_Film_and_Literature_Classification_(New_Zealand)"/>
+		</Certification>
+		<Certification Name="FVPC.RP13" Country="NewZealand" Type="Movie" Rating="335">
+			<Label xml:lang="en">RP13</Label>
+			<Label Type="Org" xml:lang="en">Restricted by a Parent 13</Label>
+			<Label xml:lang="en" Source="iTunes">nz-movie|RP13</Label>
+			<Web URL="http://en.wikipedia.org/wiki/Motion_picture_rating_system"/>
+		</Certification>
+		<Certification Name="FVPC.R15" Country="NewZealand" Type="Movie" Rating="350">
+			<Label xml:lang="en">R15</Label>
+			<Label Type="Org" xml:lang="en">Restricted 15</Label>
+			<Label xml:lang="en" Source="iTunes">nz-movie|R15</Label>
+			<Web URL="http://www.censorship.govt.nz"/>
+			<Web URL="http://en.wikipedia.org/wiki/Office_of_Film_and_Literature_Classification_(New_Zealand)"/>
+		</Certification>
+		<Certification Name="FVPC.R16" Country="NewZealand" Type="Movie" Rating="375">
+			<Label xml:lang="en">R16</Label>
+			<Label Type="Org" xml:lang="en">Restricted 16</Label>
+			<Label xml:lang="en" Source="iTunes">nz-movie|R16</Label>
+			<Web URL="http://www.censorship.govt.nz"/>
+			<Web URL="http://en.wikipedia.org/wiki/Office_of_Film_and_Literature_Classification_(New_Zealand)"/>
+		</Certification>
+		<Certification Name="FVPC.RP16" Country="NewZealand" Type="Movie" Rating="385">
+			<Label xml:lang="en">RP16</Label>
+			<Label Type="Org" xml:lang="en">Restricted by a Parent 16</Label>
+			<Label xml:lang="en" Source="iTunes">nz-movie|RP16</Label>
+			<Web URL="http://en.wikipedia.org/wiki/Motion_picture_rating_system"/>
+		</Certification>
+		<Certification Name="FVPC.R18" Country="NewZealand" Type="Movie" Rating="400">
+			<Label xml:lang="en">R18</Label>
+			<Label Type="Org" xml:lang="en">Restricted 18</Label>
+			<Label xml:lang="en" Source="iTunes">nz-movie|R18</Label>
+			<Web URL="http://www.censorship.govt.nz"/>
+			<Web URL="http://en.wikipedia.org/wiki/Office_of_Film_and_Literature_Classification_(New_Zealand)"/>
+		</Certification>
+		<Certification Name="FVPC.R" Country="NewZealand" Type="Movie" Rating="500">
+			<Label xml:lang="en">R</Label>
+			<Label Type="Org" xml:lang="en">Restricted</Label>
+			<Label xml:lang="en" Source="iTunes">nz-movie|R</Label>
+			<Web URL="http://www.censorship.govt.nz"/>
+			<Web URL="http://en.wikipedia.org/wiki/Office_of_Film_and_Literature_Classification_(New_Zealand)"/>
+		</Certification>
+		<Certification Name="FVPC.Unrated" Country="NewZealand" Type="Movie" Rating="900">
+			<Label xml:lang="en">Unrated</Label>
+			<Label xml:lang="en" Source="iTunes">nz-movie|UNRATED</Label>
+		</Certification>
+		<Certification Name="NZ.G" Country="NewZealand" Type="TV" Rating="200">
+			<Label xml:lang="en">G</Label>
+			<Label Type="Org" xml:lang="en">General</Label>
+			<Label xml:lang="en" Source="iTunes">nz-tv|G</Label>
+			<Web URL="http://www.bsa.govt.nz"/>
+			<Web URL="http://en.wikipedia.org/wiki/New_Zealand_TV_Ratings_System"/>
+		</Certification>
+		<Certification Name="NZ.PGR" Country="NewZealand" Type="TV" Rating="400">
+			<Label xml:lang="en">PGR</Label>
+			<Label Type="Org" xml:lang="en">Parental Guidance Recommended</Label>
+			<Label xml:lang="en" Source="iTunes">nz-tv|PGR</Label>
+			<Web URL="http://www.bsa.govt.nz"/>
+			<Web URL="http://en.wikipedia.org/wiki/New_Zealand_TV_Ratings_System"/>
+		</Certification>
+		<Certification Name="NZ.AO" Country="NewZealand" Type="TV" Rating="600">
+			<Label xml:lang="en">AO</Label>
+			<Label Type="Org" xml:lang="en">Adults Only</Label>
+			<Label xml:lang="en" Source="iTunes">nz-tv|AO</Label>
+			<Web URL="http://www.bsa.govt.nz"/>
+			<Web URL="http://en.wikipedia.org/wiki/New_Zealand_TV_Ratings_System"/>
+		</Certification>
+		<Certification Name="NZ.Unrated" Country="NewZealand" Type="TV" Rating="900">
+			<Label xml:lang="en">Unrated</Label>
+			<Label xml:lang="en" Source="iTunes">nz-tv|UNRATED</Label>
+		</Certification>
+		<Certification Name="BBFC.E" Country="UK" Type="Movie" Rating="0">
+			<Label xml:lang="en">E</Label>
+			<Label Type="Org" xml:lang="en">Exempt</Label>
+			<Label xml:lang="en" Source="iTunes">uk-movie|E</Label>
+			<Web URL="http://en.wikipedia.org/wiki/British_Board_of_Film_Classification"/>
+		</Certification>
+		<Certification Name="BBFC.U" Country="UK" Type="Movie" Rating="100">
+			<Label xml:lang="en">U</Label>
+			<Label Type="Org" xml:lang="en">Universal</Label>
+			<Label xml:lang="en" Source="iTunes">uk-movie|U</Label>
+			<Web URL="http://www.bbfc.co.uk"/>
+			<Web URL="http://en.wikipedia.org/wiki/British_Board_of_Film_Classification"/>
+		</Certification>
+		<Certification Name="BBFC.Uc" Country="UK" Type="Movie" Rating="150">
+			<Label xml:lang="en">Uc</Label>
+			<Label Type="Org" xml:lang="en">Universal Children</Label>
+			<Label xml:lang="en" Source="iTunes">uk-movie|Uc</Label>
+			<Web URL="http://www.bbfc.co.uk"/>
+			<Web URL="http://en.wikipedia.org/wiki/British_Board_of_Film_Classification"/>
+		</Certification>
+		<Certification Name="BBFC.PG" Country="UK" Type="Movie" Rating="200">
+			<Label xml:lang="en">PG</Label>
+			<Label Type="Org" xml:lang="en">Parental Guidance</Label>
+			<Label xml:lang="en" Source="iTunes">uk-movie|PG</Label>
+			<Web URL="http://www.bbfc.co.uk"/>
+			<Web URL="http://en.wikipedia.org/wiki/British_Board_of_Film_Classification"/>
+		</Certification>
+		<Certification Name="BBFC.12" Country="UK" Type="Movie" Rating="300">
+			<Label xml:lang="en">12</Label>
+			<Label xml:lang="en" Source="iTunes">uk-movie|12</Label>
+			<Web URL="http://www.bbfc.co.uk"/>
+			<Web URL="http://en.wikipedia.org/wiki/British_Board_of_Film_Classification"/>
+		</Certification>
+		<Certification Name="BBFC.12a" Country="UK" Type="Movie" Rating="325">
+			<Label xml:lang="en">12a</Label>
+			<Label Type="Org" xml:lang="en">12 Accompanied/Advisory</Label>
+			<Label xml:lang="en" Source="iTunes">uk-movie|12A</Label>
+			<Web URL="http://www.bbfc.co.uk"/>
+			<Web URL="http://en.wikipedia.org/wiki/British_Board_of_Film_Classification"/>
+		</Certification>
+		<Certification Name="BBFC.15" Country="UK" Type="Movie" Rating="350">
+			<Label xml:lang="en">15</Label>
+			<Label xml:lang="en" Source="iTunes">uk-movie|15</Label>
+			<Web URL="http://www.bbfc.co.uk"/>
+			<Web URL="http://en.wikipedia.org/wiki/British_Board_of_Film_Classification"/>
+		</Certification>
+		<Certification Name="BBFC.18" Country="UK" Type="Movie" Rating="400">
+			<Label xml:lang="en">18</Label>
+			<Label xml:lang="en" Source="iTunes">uk-movie|18</Label>
+			<Web URL="http://www.bbfc.co.uk"/>
+			<Web URL="http://en.wikipedia.org/wiki/British_Board_of_Film_Classification"/>
+		</Certification>
+		<Certification Name="BBFC.R18" Country="UK" Type="Movie" Rating="500">
+			<Label xml:lang="en">R18</Label>
+			<Label Type="Org" xml:lang="en">Restricted 18</Label>
+			<Label xml:lang="en" Source="iTunes">uk-movie|R18</Label>
+			<Web URL="http://www.bbfc.co.uk"/>
+			<Web URL="http://en.wikipedia.org/wiki/British_Board_of_Film_Classification"/>
+		</Certification>
+		<Certification Name="BBFC.Unrated" Country="UK" Type="Movie" Rating="900">
+			<Label xml:lang="en">Unrated</Label>
+			<Label xml:lang="en" Source="iTunes">uk-movie|UNRATED</Label>
+		</Certification>
+		<Certification Name="MPAA.G" Country="USA" Type="Movie" Rating="100">
+			<Label xml:lang="en">G</Label>
+			<Label Type="Org" xml:lang="en">General</Label>
+			<Label xml:lang="en" Source="iTunes">mpaa|G</Label>
+			<Web URL="http://www.mpaa.org"/>
+			<Web URL="http://en.wikipedia.org/wiki/Motion_Picture_Association_of_America_film_rating_system"/>
+		</Certification>
+		<Certification Name="MPAA.PG" Country="USA" Type="Movie" Rating="200">
+			<Label xml:lang="en">PG</Label>
+			<Label Type="Org" xml:lang="en">Parental Guidance</Label>
+			<Label xml:lang="en" Source="iTunes">mpaa|PG</Label>
+			<Web URL="http://www.mpaa.org"/>
+			<Web URL="http://en.wikipedia.org/wiki/Motion_Picture_Association_of_America_film_rating_system"/>
+		</Certification>
+		<Certification Name="MPAA.PG13" Country="USA" Type="Movie" Rating="300">
+			<Label xml:lang="en">PG-13</Label>
+			<Label Type="Org" xml:lang="en">Parental Guidance 13</Label>
+			<Label xml:lang="en" Source="iTunes">mpaa|PG-13</Label>
+			<Web URL="http://www.mpaa.org"/>
+			<Web URL="http://en.wikipedia.org/wiki/Motion_Picture_Association_of_America_film_rating_system"/>
+		</Certification>
+		<Certification Name="MPAA.R" Country="USA" Type="Movie" Rating="400">
+			<Label xml:lang="en">R</Label>
+			<Label Type="Org" xml:lang="en">Restricted</Label>
+			<Label xml:lang="en" Source="iTunes">mpaa|R</Label>
+			<Web URL="http://www.mpaa.org"/>
+			<Web URL="http://en.wikipedia.org/wiki/Motion_Picture_Association_of_America_film_rating_system"/>
+		</Certification>
+		<Certification Name="MPAA.NC17" Country="USA" Type="Movie" Rating="500">
+			<Label xml:lang="en">NC-17</Label>
+			<Label Type="Org" xml:lang="en">No Children under 17 admitted</Label>
+			<Label xml:lang="en" Source="iTunes">mpaa|NC-17</Label>
+			<Web URL="http://www.mpaa.org"/>
+			<Web URL="http://en.wikipedia.org/wiki/Motion_Picture_Association_of_America_film_rating_system"/>
+		</Certification>
+		<Certification Name="MPAA.Unrated" Country="USA" Type="Movie" Rating="900">
+			<Label xml:lang="en">Unrated</Label>
+			<Label xml:lang="en" Source="iTunes">mpaa|UNRATED</Label>
+		</Certification>
+		<Certification Name="US.Y7" Country="USA" Type="TV" Rating="100">
+			<Label xml:lang="en">TV-Y7</Label>
+			<Label Type="Org" xml:lang="en">Young children 7</Label>
+			<Label xml:lang="en" Source="iTunes">us-tv|TV-Y7</Label>
+			<Web URL="http://en.wikipedia.org/wiki/TV_Parental_Guidelines"/>
+		</Certification>
+		<Certification Name="US.Y7FV" Country="USA" Type="TV" Rating="150">
+			<Label xml:lang="en">TV-Y7-FV</Label>
+			<Label Type="Org" xml:lang="en">Young children 7 Fantasy Violence</Label>
+			<Label xml:lang="en" Source="iTunes">us-tv|TV-Y7-FV</Label>
+			<Web URL="http://en.wikipedia.org/wiki/TV_Parental_Guidelines"/>
+		</Certification>
+		<Certification Name="US.Y" Country="USA" Type="TV" Rating="200">
+			<Label xml:lang="en">TV-Y</Label>
+			<Label Type="Org" xml:lang="en">Young children</Label>
+			<Label xml:lang="en" Source="iTunes">us-tv|TV-Y</Label>
+			<Web URL="http://en.wikipedia.org/wiki/TV_Parental_Guidelines"/>
+		</Certification>
+		<Certification Name="US.G" Country="USA" Type="TV" Rating="300">
+			<Label xml:lang="en">TV-G</Label>
+			<Label Type="Org" xml:lang="en">General</Label>
+			<Label xml:lang="en" Source="iTunes">us-tv|TV-G</Label>
+			<Web URL="http://en.wikipedia.org/wiki/TV_Parental_Guidelines"/>
+		</Certification>
+		<Certification Name="US.PG" Country="USA" Type="TV" Rating="400">
+			<Label xml:lang="en">TV-PG</Label>
+			<Label Type="Org" xml:lang="en">Parental Guidance</Label>
+			<Label xml:lang="en" Source="iTunes">us-tv|TV-PG</Label>
+			<Web URL="http://en.wikipedia.org/wiki/TV_Parental_Guidelines"/>
+		</Certification>
+		<Certification Name="US.14" Country="USA" Type="TV" Rating="500">
+			<Label xml:lang="en">TV-14</Label>
+			<Label xml:lang="en" Source="iTunes">us-tv|TV-14</Label>
+			<Web URL="http://en.wikipedia.org/wiki/TV_Parental_Guidelines"/>
+		</Certification>
+		<Certification Name="US.MA" Country="USA" Type="TV" Rating="600">
+			<Label xml:lang="en">TV-MA</Label>
+			<Label Type="Org" xml:lang="en">Mature Audience</Label>
+			<Label xml:lang="en" Source="iTunes">us-tv|TV-MA</Label>
+			<Web URL="http://en.wikipedia.org/wiki/TV_Parental_Guidelines"/>
+		</Certification>
+		<Certification Name="US.Unrated" Country="USA" Type="TV" Rating="900">
+			<Label xml:lang="en">Unrated</Label>
+			<Label xml:lang="en" Source="iTunes">us-tv|UNRATED</Label>
+		</Certification>
+	</CertificationList>
+	<ExportList xmlns="urn:schemas-xml-frafv:proxy">
+		<Prefix External="moviegenre"/>
+		<Export Name="Action"/>
+		<Export Name="Adventure"/>
+		<Export Name="Biography"/>
+		<Export Name="Comedy"/>
+		<Export Name="Crime"/>
+		<Export Name="Documentary"/>
+		<Export Name="Drama"/>
+		<Export Name="EccentricComedy"/>
+		<Export Name="Family"/>
+		<Export Name="Fantasy"/>
+		<Export Name="FilmNoir"/>
+		<Export Name="History"/>
+		<Export Name="Horror"/>
+		<Export Name="Musical"/>
+		<Export Name="Mystery"/>
+		<Export Name="Parody"/>
+		<Export Name="Romance"/>
+		<Export Name="SciFi"/>
+		<Export Name="Thriller"/>
+		<Export Name="War"/>
+		<Export Name="Western"/>
+	</ExportList>
+	<ExportList xmlns="urn:schemas-xml-frafv:proxy">
+		<Prefix External="moviekind"/>
+		<Export Name="Animation"/>
+		<Export Name="GameShow"/>
+		<Export Name="Movie"/>
+		<Export Name="Music"/>
+		<Export Name="News"/>
+		<Export Name="RealityTV"/>
+		<Export Name="Short"/>
+		<Export Name="Sport"/>
+		<Export Name="TalkShow"/>
+	</ExportList>
+	<ExportList xmlns="urn:schemas-xml-frafv:proxy">
+		<Prefix Local="ACMA." External="moviecertACMA"/>
+		<Prefix Local="CHV." External="moviecertCHV"/>
+		<Prefix Local="IFCO." External="moviecertIFCO"/>
+		<Prefix Local="FVPC." External="moviecertFVPC"/>
+		<Prefix Local="BBFC." External="moviecertBBFC"/>
+		<Prefix Local="MPAA." External="moviecertMPAA"/>
+		<Export Name="ACMA.E"/>
+		<Export Name="ACMA.G"/>
+		<Export Name="ACMA.PG"/>
+		<Export Name="ACMA.M"/>
+		<Export Name="ACMA.MA15"/>
+		<Export Name="ACMA.R18"/>
+		<Export Name="ACMA.X18"/>
+		<Export Name="ACMA.Unrated"/>
+		<Export Name="ACMA.RC"/>
+		<Export Name="CHV.G"/>
+		<Export Name="CHV.PG"/>
+		<Export Name="CHV.14"/>
+		<Export Name="CHV.18"/>
+		<Export Name="CHV.R"/>
+		<Export Name="CHV.E"/>
+		<Export Name="CHV.A"/>
+		<Export Name="CHV.Unrated"/>
+		<Export Name="IFCO.G"/>
+		<Export Name="IFCO.PG"/>
+		<Export Name="IFCO.12RA"/>
+		<Export Name="IFCO.12"/>
+		<Export Name="IFCO.12PG"/>
+		<Export Name="IFCO.12A"/>
+		<Export Name="IFCO.15"/>
+		<Export Name="IFCO.15PG"/>
+		<Export Name="IFCO.15A"/>
+		<Export Name="IFCO.16"/>
+		<Export Name="IFCO.18"/>
+		<Export Name="IFCO.Unrated"/>
+		<Export Name="FVPC.E"/>
+		<Export Name="FVPC.G"/>
+		<Export Name="FVPC.PG"/>
+		<Export Name="FVPC.M"/>
+		<Export Name="FVPC.R13"/>
+		<Export Name="FVPC.RP13"/>
+		<Export Name="FVPC.R15"/>
+		<Export Name="FVPC.R16"/>
+		<Export Name="FVPC.RP16"/>
+		<Export Name="FVPC.R18"/>
+		<Export Name="FVPC.R"/>
+		<Export Name="FVPC.Unrated"/>
+		<Export Name="BBFC.E"/>
+		<Export Name="BBFC.U"/>
+		<Export Name="BBFC.Uc"/>
+		<Export Name="BBFC.PG"/>
+		<Export Name="BBFC.12"/>
+		<Export Name="BBFC.12a"/>
+		<Export Name="BBFC.15"/>
+		<Export Name="BBFC.18"/>
+		<Export Name="BBFC.R18"/>
+		<Export Name="BBFC.Unrated"/>
+		<Export Name="MPAA.G"/>
+		<Export Name="MPAA.PG"/>
+		<Export Name="MPAA.PG13"/>
+		<Export Name="MPAA.R"/>
+		<Export Name="MPAA.NC17"/>
+		<Export Name="MPAA.Unrated"/>
+	</ExportList>
+	<ExportList xmlns="urn:schemas-xml-frafv:proxy">
+		<Prefix Local="AU." External="tvcertAU"/>
+		<Prefix Local="CTR." External="tvcertCTR"/>
+		<Prefix Local="RTE." External="tvcertRTE"/>
+		<Prefix Local="NZ." External="tvcertNZ"/>
+		<Prefix Local="US.Unrated" External="tvcertUSUnrated"/>
+		<Prefix Local="US." External="tvcertUSTV"/>
+		<Export Name="AU.P"/>
+		<Export Name="AU.C"/>
+		<Export Name="AU.G"/>
+		<Export Name="AU.PG"/>
+		<Export Name="AU.M"/>
+		<Export Name="AU.MA15"/>
+		<Export Name="AU.AV15"/>
+		<Export Name="AU.Unrated"/>
+		<Export Name="CTR.E"/>
+		<Export Name="CTR.C"/>
+		<Export Name="CTR.C8"/>
+		<Export Name="CTR.G"/>
+		<Export Name="CTR.PG"/>
+		<Export Name="CTR.14"/>
+		<Export Name="CTR.18"/>
+		<Export Name="CTR.Unrated"/>
+		<Export Name="RTE.GA"/>
+		<Export Name="RTE.Ch"/>
+		<Export Name="RTE.YA"/>
+		<Export Name="RTE.PS"/>
+		<Export Name="RTE.MA"/>
+		<Export Name="RTE.Unrated"/>
+		<Export Name="NZ.G"/>
+		<Export Name="NZ.PGR"/>
+		<Export Name="NZ.AO"/>
+		<Export Name="NZ.Unrated"/>
+		<Export Name="US.Y7"/>
+		<Export Name="US.Y7FV"/>
+		<Export Name="US.Y"/>
+		<Export Name="US.G"/>
+		<Export Name="US.PG"/>
+		<Export Name="US.14"/>
+		<Export Name="US.MA"/>
+		<Export Name="US.Unrated"/>
+	</ExportList>
+	<ExternalList xmlns="urn:multimedia-schemas-xml-frafv:proxy" xmlns:e="urn:schemas-xml-frafv:proxy">
+		<e:Prefix External="moviecert"/>
+		<Location Type="Country" e:Name="Australia">
+			<Label xml:lang="en">Australia</Label>
+			<Label xml:lang="ru">Австралия</Label>
+			<Label Type="Org" xml:lang="en-AU">Australia</Label>
+		</Location>
+		<Location Type="Country" e:Name="Canada">
+			<Label xml:lang="en">Canada</Label>
+			<Label xml:lang="ru">Канада</Label>
+			<Label Type="Org" xml:lang="en-CA">Canada</Label>
+			<Label Type="Org" xml:lang="fr-CA">Canada</Label>
+		</Location>
+		<Location Type="Country" e:Name="Ireland">
+			<Label xml:lang="en">Ireland</Label>
+			<Label xml:lang="ru">Ирландия</Label>
+			<Label Type="Org" xml:lang="ga-IE">Éire</Label>
+			<Label Type="Org" xml:lang="en-IE">Ireland</Label>
+		</Location>
+		<Location Type="Country" e:Name="NewZealand">
+			<Label xml:lang="en">New Zealand</Label>
+			<Label xml:lang="ru">Новая Зеландия</Label>
+			<Label Type="Org" xml:lang="en-NZ">New Zealand</Label>
+			<Label Type="Org" xml:lang="mi-NZ">Aotearoa</Label>
+		</Location>
+		<Location Type="Country" e:Name="UK">
+			<Label xml:lang="ru">Соединенное Королевство</Label>
+			<Label Type="Abbr" xml:lang="en">UK</Label>
+			<Label Type="Org" xml:lang="en-GB">United Kingdom (of Great Britain and Northern Ireland)</Label>
+		</Location>
+		<Location Type="Country" e:Name="USA">
+			<Label Type="Abbr" xml:lang="en">USA</Label>
+			<Label Type="Abbr" xml:lang="ru">США</Label>
+			<Label Type="Org" xml:lang="en-US">United States of America</Label>
+		</Location>
+	</ExternalList>
+</MovieList>

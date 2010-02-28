@@ -1,2 +1,3 @@
 Culture.xml       namespace=urn:geo-schemas-xml-frafv:culture,urn:geo-schemas-xml-frafv:proxy,urn:schemas-xml-frafv:proxy
 LocationType.xml  namespace=urn:geo-schemas-xml-frafv:location,urn:geo-schemas-xml-frafv:proxy,urn:schemas-xml-frafv:proxy
+Geo\Schemas\Dic\Movie.xml namespace=urn:multimedia-schemas-xml-frafv:movie,urn:schemas-xml-frafv:proxy,urn:multimedia-schemas-xml-frafv:proxy

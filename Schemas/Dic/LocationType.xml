@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LocationList xmlns="urn:geo-schemas-xml-frafv:location" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:geo-schemas-xml-frafv:location ..\Location.xsd urn:geo-schemas-xml-frafv:proxy ..\GeoProxy.xsd urn:schemas-xml-frafv:proxy ..\Proxy.xsd">
+<?xml-stylesheet type="text/xsl" href="../Transform/LocViewEn.xsl"?>
+<LocationList xmlns="urn:geo-schemas-xml-frafv:location" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:geo-schemas-xml-frafv:location ../Location.xsd urn:geo-schemas-xml-frafv:proxy ../GeoProxy.xsd urn:schemas-xml-frafv:proxy ../Proxy.xsd">
 <ContinentList>
 	<Continent Name="Africa">
 		<Label xml:lang="en">Africa</Label>
@@ -48,6 +49,7 @@
 	<LocationType Name="State">
 		<Label xml:lang="en">State</Label>
 		<Label xml:lang="ru">Государство или штат</Label>
+		<Label xml:lang="ru" Type="Part">штат</Label>
 		<Label xml:lang="fr">État</Label>
 		<Web URL="http://en.wikipedia.org/wiki/State_%28polity%29"/>
 	</LocationType>
@@ -60,6 +62,8 @@
 	<LocationType Name="Oblast">
 		<Label xml:lang="en">Oblast</Label>
 		<Label xml:lang="ru">Область</Label>
+		<Label Type="Part" Pos="Suffix" xml:lang="ru">область</Label>
+		<Label Type="Abbr Part" Pos="Suffix" xml:lang="ru">обл.</Label>
 		<Label xml:lang="fr">Oblast</Label>
 		<Web URL="http://en.wikipedia.org/wiki/Oblast"/>
 	</LocationType>
@@ -71,19 +75,25 @@
 	</LocationType>
 	<LocationType Name="Community">
 		<Label xml:lang="en">Community</Label>
+		<Label Type="Part" Pos="Suffix" xml:lang="en">Community</Label>
 		<Label xml:lang="ru">Сообщество</Label>
 		<Label xml:lang="fr">Communauté</Label>
+		<Label Type="Part" Pos="Prefix" xml:lang="fr">Communauté</Label>
 		<Web URL="http://en.wikipedia.org/wiki/Community_%28administrative_division%29"/>
 	</LocationType>
 	<LocationType Name="City">
 		<Label xml:lang="en">City</Label>
 		<Label xml:lang="ru">Город</Label>
+		<Label Type="Part" Pos="Prefix" xml:lang="ru">город</Label>
+		<Label Type="Abbr Part" Pos="Prefix" xml:lang="ru">г.</Label>
 		<Label xml:lang="fr">Ville</Label>
 		<Web URL="http://en.wikipedia.org/wiki/City"/>
 	</LocationType>
 	<LocationType Name="Town">
 		<Label xml:lang="en">Town</Label>
 		<Label xml:lang="ru">Небольшой город</Label>
+		<Label Type="Part" Pos="Prefix" xml:lang="ru">город</Label>
+		<Label Type="Abbr Part" Pos="Prefix" xml:lang="ru">г.</Label>
 		<Label xml:lang="fr">Commune</Label>
 		<Web URL="http://en.wikipedia.org/wiki/Town"/>
 	</LocationType>

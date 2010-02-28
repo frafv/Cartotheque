@@ -9,16 +9,13 @@
 <xsl:template match="/c:CultureList">
 	<CultureList xmlns="urn:geo-schemas-xml-frafv:culture">
 		<xsl:apply-templates select="c:LanguageList" mode="MakeExport"/>
-		<xsl:if test="//c:Code/@Source">
+		<xsl:variable name="CodeRef" select="//c:Code/@Source"/>
+		<xsl:if test="$CodeRef">
 			<ExternalList xmlns="urn:geo-schemas-xml-frafv:proxy">
 				<e:Prefix External="org"/>
-				<xsl:for-each select="//c:Code[@Source]">
-					<xsl:sort select="@Source"/>
-					<xsl:variable name="curorg" select="@Source"/>
-					<xsl:if test="not(preceding::c:Code[@Source = $curorg])">
-						<xsl:apply-templates select="." mode="MakeProxy"/>
-					</xsl:if>
-				</xsl:for-each>
+				<xsl:call-template name="MakeProxySimpleList">
+					<xsl:with-param name="List" select="$CodeRef"/>
+				</xsl:call-template>
 			</ExternalList>
 		</xsl:if>
 	</CultureList>
@@ -32,9 +29,9 @@
 <xsl:template match="c:Language" mode="MakeExport">
 	<Export Name="{@Name}" xmlns="urn:schemas-xml-frafv:proxy"/>
 </xsl:template>
-<xsl:template match="c:Code" mode="MakeProxy">
+<xsl:template match="c:Code/@Source" mode="MakeProxy">
 	<Company xmlns="urn:geo-schemas-xml-frafv:proxy">
-		<xsl:apply-templates select="@Source" mode="CopyProxyContent"/>
+		<xsl:apply-templates select="." mode="CopyProxyContent"/>
 	</Company>
 </xsl:template>
 </xsl:stylesheet>

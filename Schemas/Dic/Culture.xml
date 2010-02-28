@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<CultureList xmlns="urn:geo-schemas-xml-frafv:culture" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:geo-schemas-xml-frafv:culture urn:geo-schemas-xml-frafv:proxy ..\GeoProxy.xsd ..\Culture.xsd urn:schemas-xml-frafv:proxy ..\Proxy.xsd">
+<?xml-stylesheet type="text/xsl" href="../Transform/LangViewEn.xsl"?>
+<CultureList xmlns="urn:geo-schemas-xml-frafv:culture" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:geo-schemas-xml-frafv:culture ../Culture.xsd urn:geo-schemas-xml-frafv:proxy ../GeoProxy.xsd urn:schemas-xml-frafv:proxy ../Proxy.xsd">
 <LanguageList>
 	<Language Name="af">
 		<Label xml:lang="en">Afrikaans</Label>
@@ -2594,11 +2595,13 @@
 	<Company e:Name="IETF">
 		<Label Type="Abbr" xml:lang="en">IETF</Label>
 	</Company>
-	<Company e:Name="ISO639-1" e:External="ISO3166_alpha2">
-		<Label xml:lang="en">ISO 3166-1 alpha-2</Label>
+	<Company e:Name="ISO639-1" e:External="ISO6391">
+		<Label xml:lang="en">ISO 639-1 alpha-2</Label>
+		<Label Type="Abbr" xml:lang="en">ISO 639-1</Label>
 	</Company>
-	<Company e:Name="ISO639-2" e:External="ISO3166_alpha3">
-		<Label xml:lang="en">ISO 3166-1 alpha-2</Label>
+	<Company e:Name="ISO639-2" e:External="ISO6392">
+		<Label xml:lang="en">ISO 639-2 alpha-3</Label>
+		<Label Type="Abbr" xml:lang="en">ISO 639-2</Label>
 	</Company>
 	<Company e:Name="NLS">
 		<Label Type="Abbr" xml:lang="en">NLS</Label>
