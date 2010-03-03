@@ -1,1 +1,2 @@
-TZ.xml  namespace=urn:geo-schemas-xml-frafv:timezone,urn:geo-schemas-xml-frafv:proxy,urn:schemas-xml-frafv:proxy
+Locations.xml  namespace=urn:geo-schemas-xml-frafv:location,urn:geo-schemas-xml-frafv:proxy,urn:schemas-xml-frafv:proxy
+TZ.xml         namespace=urn:geo-schemas-xml-frafv:timezone,urn:geo-schemas-xml-frafv:proxy,urn:schemas-xml-frafv:proxy

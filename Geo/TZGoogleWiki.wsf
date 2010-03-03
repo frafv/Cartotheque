@@ -1,0 +1,19 @@
+<package>
+<job>
+<script language="JScript">
+var msxsl = WScript.Arguments.length == 0 ? "msxsl.exe" : WScript.Arguments(0);
+var lang = WScript.Arguments.length < 2 ? "En" : WScript.Arguments(1);
+var cmd = "\x22" + msxsl + "\x22 TZ.xml Transform/TZGoogleWiki" + lang + ".xsl -o TimeZoneList.wiki";
+var WshShell = WScript.CreateObject("WScript.Shell");
+var xsl = WshShell.Exec(cmd);
+//while (xsl.Status == 0)
+WScript.Sleep(100);
+for(n = -12; n <= 13; n++) {
+	cmd = "\x22" + msxsl + "\x22 TZ.xml Transform/TZGoogleWiki" + lang + ".xsl -o TimeZoneListUTC" + (n == 0 ? "" : n > 0 ? "p" + n : "m" + (-n)) + ".wiki UTC=\x22" + n + "\x22";
+	xsl = WshShell.Exec(cmd);
+	//while (xsl.Status == 0)
+	WScript.Sleep(100);
+}
+</script>
+</job>
+</package>

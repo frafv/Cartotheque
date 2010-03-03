@@ -400,7 +400,7 @@
 		<Label Type="Org" xml:lang="fr-FR">Bretagne</Label>
 		<Web URL="http://en.wikipedia.org/wiki/Brittany"/>
 	</Region>
-	<Region Name="IsleFrance">
+	<Region Name="IleFrance">
 		<Label xml:lang="ru">Иль-де-Франс</Label>
 		<Label xml:lang="fr">Île-de-France</Label>
 		<Label Type="Org" xml:lang="fr-FR">Île-de-France</Label>
@@ -409,7 +409,7 @@
 	</Region>
 </RegionList>
 <RegionList>
-	<Location Country="France" Region="IsleFrance"/>
+	<Location Country="France" Region="IleFrance"/>
 	<Region Name="SeineMarne">
 		<Label xml:lang="ru">Сена и Марна</Label>
 		<Label xml:lang="fr">Seine-et-Marne</Label>
@@ -456,7 +456,7 @@
 	</Region>
 </RegionList>
 <CityList>
-	<Location Country="France" Region="IsleFrance"/>
+	<Location Country="France" Region="IleFrance"/>
 	<City Name="Paris">
 		<Label xml:lang="en">Paris</Label>
 		<Label xml:lang="ru">Париж</Label>
@@ -652,7 +652,7 @@
 	<Export Name="USSR"/>
 	<Export Name="WGermany"/>
 	<Export Name="Brittany"/>
-	<Export Name="IsleFrance"/>
+	<Export Name="IleFrance"/>
 	<Export Name="SeineMarne"/>
 	<Export Name="RUMO"/>
 	<Export Name="ValencianCommunity"/>

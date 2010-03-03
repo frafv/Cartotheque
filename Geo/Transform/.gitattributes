@@ -1,0 +1,7 @@
+\!LocExternal.xslt   namespace=urn:geo-schemas-xml-frafv:location,urn:geo-schemas-xml-frafv:culture,urn:schemas-xml-frafv:proxy,urn:geo-schemas-xml-frafv:proxy
+\!TZExternal.xslt    namespace=urn:geo-schemas-xml-frafv:timezone,urn:geo-schemas-xml-frafv:culture,urn:schemas-xml-frafv:proxy,urn:geo-schemas-xml-frafv:proxy
+MakeTypes.xslt      namespace=urn:geo-schemas-xml-frafv:timezone,urn:schemas-xml-frafv:proxy
+TZGoogleWikiEn.xsl  namespace=urn:geo-schemas-xml-frafv:timezone,urn:geo-schemas-xml-frafv:proxy
+TZGoogleWikiRu.xsl  namespace=urn:geo-schemas-xml-frafv:timezone,urn:geo-schemas-xml-frafv:proxy
+TZViewEn.xsl        namespace=urn:geo-schemas-xml-frafv:timezone,urn:geo-schemas-xml-frafv:proxy,urn:schemas-xml-frafv:proxy
+TZViewRu.xsl        namespace=urn:geo-schemas-xml-frafv:timezone,urn:geo-schemas-xml-frafv:proxy
