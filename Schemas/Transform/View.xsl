@@ -1,176 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:e="urn:schemas-xml-frafv:proxy" exclude-result-prefixes="e">
-<xsl:output encoding="UTF-16" indent="yes" method="html"/>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:e="urn:schemas-xml-frafv:proxy">
 
 <!-- UI language code for overriding (long format always). -->
-<xsl:template match="*" priority="-9" mode="UILang">
+<xsl:template match="*" mode="UILang">
 	<xsl:text>en-US</xsl:text>
 </xsl:template>
 
 <!-- Default file title. -->
-<xsl:template match="/*" mode="Title" priority="-9">
-	<xsl:value-of select="local-name()"/>
-</xsl:template>
-
-<!-- Default element display. -->
-<xsl:template match="*" priority="-9">
-	<li type="circle">
+<xsl:template match="/*" mode="Title">
 	<xsl:choose>
 		<xsl:when test="*[local-name() = 'Label']">
-			<b><xsl:apply-templates select="." mode="Name"/>: </b>
 			<xsl:apply-templates select="." mode="Label"/>
 		</xsl:when>
 		<xsl:otherwise>
-			<b><xsl:apply-templates select="." mode="Name"/></b>
+			<xsl:value-of select="local-name()"/>
 		</xsl:otherwise>
 	</xsl:choose>
-	<ul>
-		<xsl:apply-templates select="@*"/>
-		<xsl:apply-templates select="." mode="Table">
-			<xsl:with-param name="Name">Label</xsl:with-param>
-		</xsl:apply-templates>
-		<xsl:apply-templates select="*[local-name() != 'Label']"/>
-		<xsl:if test="text()">
-			<li type="circle">
-				<xsl:apply-templates select="." mode="Format"/>
-			</li>
-		</xsl:if>
-	</ul>
-	</li>
+</xsl:template>
+
+<!-- Default element display. -->
+<xsl:template match="*">
+	<xsl:param name="Ident"/>
+
+	<xsl:apply-templates select="." mode="ViewElement">
+		<xsl:with-param name="Ident" select="$Ident"/>
+	</xsl:apply-templates>
+</xsl:template>
+
+<!-- Default file display. -->
+<xsl:template match="/*">
+	<xsl:apply-templates select="." mode="ViewContent"/>
+</xsl:template>
+<xsl:template match="/">
+	<xsl:apply-templates select="*" mode="ViewElement"/>
+</xsl:template>
+
+<!-- Default languages selector display. -->
+<xsl:template match="*" mode="Languages">
 </xsl:template>
 
 <!-- Default empty element display. -->
-<xsl:template match="*[not(*) and not(@*) and text()]" priority="-9">
-	<li type="circle"><b><xsl:apply-templates select="." mode="Name"/>: </b>
-	<xsl:apply-templates select="." mode="Format"/></li>
+<xsl:template match="*[not(*) and not(@*) and text()]">
+	<xsl:param name="Ident"/>
+
+	<xsl:apply-templates select="." mode="ViewValue">
+		<xsl:with-param name="Ident" select="$Ident"/>
+	</xsl:apply-templates>
 </xsl:template>
 
 <!-- Default attribute display. -->
-<xsl:template match="@*" priority="-9">
-	<li type="disc"><b><xsl:apply-templates select="." mode="Name"/>: </b>
-	<xsl:apply-templates select="." mode="Format"/></li>
+<xsl:template match="@*">
+	<xsl:param name="Ident"/>
+
+	<xsl:apply-templates select="." mode="ViewValue">
+		<xsl:with-param name="Ident" select="$Ident"/>
+	</xsl:apply-templates>
 </xsl:template>
 
 <!-- Default element and attribute name resolving. -->
-<xsl:template match="@*|*" mode="Name" priority="-9">
+<xsl:template match="@*|*" mode="Name">
+	<xsl:apply-templates select="." mode="ViewText">
+		<xsl:with-param name="Hint">
+			<xsl:apply-templates select="." mode="NameHint"/>
+		</xsl:with-param>
+		<xsl:with-param name="Text">
+			<xsl:apply-templates select="." mode="NameText"/>
+		</xsl:with-param>
+	</xsl:apply-templates>
+</xsl:template>
+<xsl:template match="@*|*" mode="NameText">
 	<xsl:value-of select="local-name()"/>
+</xsl:template>
+<xsl:template match="@*|*" mode="NameHint">
+</xsl:template>
+
+<!-- Default element and attribute identifier resolving. -->
+<xsl:template match="@*|*" mode="ID">
+	<xsl:variable name="label" select="*[local-name() = 'Label'][@xml:lang='en' or starts-with(@xml:lang,'en-')][1]"/>
+
+	<xsl:choose>
+		<xsl:when test="$label">
+			<xsl:apply-templates select="$label" mode="Format">
+				<xsl:with-param name="UILang" select="$label/@xml:lang"/>
+			</xsl:apply-templates>
+		</xsl:when>
+		<xsl:otherwise>
+			<xsl:value-of select="local-name()"/>
+		</xsl:otherwise>
+	</xsl:choose>
 </xsl:template>
 
 <!-- Default element and attribute content display. -->
-<xsl:template match="@*|*" priority="-9" mode="Format">
+<xsl:template match="@*|*" mode="Format">
+	<xsl:apply-templates select="." mode="ViewText"/>
+</xsl:template>
+<xsl:template match="@*|*" mode="FormatText">
 	<xsl:value-of select="."/>
+</xsl:template>
+<xsl:template match="@*|*" mode="FormatHint">
 </xsl:template>
 
 <!-- Element and attribute content display in a list. -->
-<xsl:template match="@*|*" priority="-9" mode="FormatList">
+<xsl:template match="@*|*" mode="FormatList">
 	<xsl:if test="position()!=1">
 		<xsl:text>, </xsl:text>
 	</xsl:if>
 	<xsl:apply-templates select="." mode="Format"/>
 </xsl:template>
-
-<!-- Default file display. -->
-<xsl:template match="/*" priority="-9">
-	<html>
-		<head>
-			<title><xsl:apply-templates select="." mode="Title"/></title>
-			<meta http-equiv="Expires" content="0"/>
-		</head>
-		<body>
-			<h1><xsl:apply-templates select="." mode="Title"/></h1>
-			<ul>
-				<xsl:apply-templates select="@*"/>
-				<xsl:apply-templates select="*"/>
-			</ul>
-		</body>
-	</html>
-</xsl:template>
-
-<!-- Elements list display by name (Name) as table. -->
-<xsl:template match="*" mode="Table">
-	<xsl:param name="Name"/>
-	<xsl:variable name="Rows" select="*[local-name() = $Name]"/>
-
-	<xsl:if test="$Rows">
-		<li type="circle"/>
-		<b><xsl:value-of select="$Name"/>: </b>
-		<table border="solid">
-			<tr>
-				<xsl:for-each select="$Rows/@*">
-					<xsl:sort select="local-name()"/>
-					<xsl:variable name="attr" select="name()"/>
-					<xsl:if test="generate-id(.) = generate-id($Rows/@*[name() = $attr])">
-						<th>
-							<xsl:value-of select="local-name()"/>
-						</th>
-					</xsl:if>
-				</xsl:for-each>
-				<xsl:if test="$Rows/text()">
-					<th>
-						<xsl:value-of select="$Name"/>
-					</th>
-				</xsl:if>
-			</tr>
-			<xsl:for-each select="$Rows">
-				<xsl:variable name="Row" select="."/>
-				<tr>
-					<xsl:for-each select="$Rows/@*">
-						<xsl:sort select="local-name()"/>
-						<xsl:variable name="attr" select="name()"/>
-						<xsl:if test="generate-id(.) = generate-id($Rows/@*[name() = $attr])">
-							<td>
-								<xsl:apply-templates select="$Row/@*[name() = $attr]" mode="Format"/>
-							</td>
-						</xsl:if>
-					</xsl:for-each>
-					<xsl:if test="$Rows/text()">
-						<td>
-							<xsl:apply-templates select="$Row" mode="Format"/>
-						</td>
-					</xsl:if>
-				</tr>
-			</xsl:for-each>
-		</table>
+<xsl:template match="@*|*" mode="FormatListText">
+	<xsl:if test="position()!=1">
+		<xsl:text>, </xsl:text>
 	</xsl:if>
+	<xsl:apply-templates select="." mode="FormatText"/>
 </xsl:template>
 
 <!-- Generates ID of element label by language (Lang), type (Type) and label element name (Name). -->
-<xsl:template match="*" mode="LabelID" priority="-9">
+<xsl:template match="*" mode="LabelID">
 	<xsl:param name="Lang">
 		<xsl:apply-templates select="." mode="UILang"/>
 	</xsl:param>
 	<xsl:param name="Type" select="''"/>
 	<xsl:param name="Name">Label</xsl:param>
-	<xsl:variable name="Label" select="*[local-name() = $Name]"/>
-	<xsl:variable name="LangLabel" select="$Label[@xml:lang = substring-before($Lang,'-') or @xml:lang = $Lang]"/>
+	<xsl:variable name="label" select="*[local-name() = $Name]"/>
+	<xsl:variable name="langlabel" select="$label[@xml:lang = substring-before($Lang,'-') or @xml:lang = $Lang]"/>
 
 	<xsl:choose>
-		<xsl:when test="$Type != '' and $LangLabel[contains(concat(' ',@Type,' '),concat(' ',$Type,' '))]">
-			<xsl:value-of select="generate-id($LangLabel[contains(concat(' ',@Type,' '),concat(' ',$Type,' '))])"/>
+		<xsl:when test="$Type != '' and $langlabel[contains(concat(' ',@Type,' '),concat(' ',$Type,' '))]">
+			<xsl:value-of select="generate-id($langlabel[contains(concat(' ',@Type,' '),concat(' ',$Type,' '))])"/>
 		</xsl:when>
-		<xsl:when test="$LangLabel">
-			<xsl:value-of select="generate-id($LangLabel)"/>
+		<xsl:when test="$langlabel">
+			<xsl:value-of select="generate-id($langlabel)"/>
 		</xsl:when>
-		<xsl:when test="$Label[contains(concat(' ',@Type,' '),' Org ')]">
-			<xsl:value-of select="generate-id($Label[contains(concat(' ',@Type,' '),' Org ')])"/>
+		<xsl:when test="$label[contains(concat(' ',@Type,' '),' Org ')]">
+			<xsl:value-of select="generate-id($label[contains(concat(' ',@Type,' '),' Org ')])"/>
 		</xsl:when>
-		<xsl:when test="$Type != '' and $Label[contains(concat(' ',@Type,' '),concat(' ',$Type,' '))]">
-			<xsl:value-of select="generate-id($Label[contains(concat(' ',@Type,' '),concat(' ',$Type,' '))])"/>
+		<xsl:when test="$Type != '' and $label[contains(concat(' ',@Type,' '),concat(' ',$Type,' '))]">
+			<xsl:value-of select="generate-id($label[contains(concat(' ',@Type,' '),concat(' ',$Type,' '))])"/>
 		</xsl:when>
 		<xsl:otherwise>
-			<xsl:value-of select="generate-id($Label)"/>
+			<xsl:value-of select="generate-id($label)"/>
 		</xsl:otherwise>
 	</xsl:choose>
 </xsl:template>
 
 <!-- Element label display by language (Lang), type (Type) and label element name (Name). -->
-<xsl:template match="*" mode="Label" priority="-9">
+<xsl:template match="*" mode="Label">
 	<xsl:param name="Lang">
 		<xsl:apply-templates select="." mode="UILang"/>
 	</xsl:param>
 	<xsl:param name="Type" select="''"/>
 	<xsl:param name="Name">Label</xsl:param>
-	<xsl:variable name="ID">
+
+	<xsl:apply-templates select="." mode="ViewText">
+		<xsl:with-param name="Hint">
+			<xsl:apply-templates select="." mode="LabelHint">
+				<xsl:with-param name="Lang" select="$Lang"/>
+				<xsl:with-param name="Type" select="$Type"/>
+				<xsl:with-param name="Name" select="$Name"/>
+			</xsl:apply-templates>
+		</xsl:with-param>
+		<xsl:with-param name="Text">
+			<xsl:apply-templates select="." mode="LabelText">
+				<xsl:with-param name="Lang" select="$Lang"/>
+				<xsl:with-param name="Type" select="$Type"/>
+				<xsl:with-param name="Name" select="$Name"/>
+			</xsl:apply-templates>
+		</xsl:with-param>
+	</xsl:apply-templates>
+</xsl:template>
+<xsl:template match="*" mode="LabelText">
+	<xsl:param name="Lang">
+		<xsl:apply-templates select="." mode="UILang"/>
+	</xsl:param>
+	<xsl:param name="Type" select="''"/>
+	<xsl:param name="Name">Label</xsl:param>
+	<xsl:variable name="id">
 		<xsl:apply-templates select="." mode="LabelID">
 			<xsl:with-param name="Lang" select="$Lang"/>
 			<xsl:with-param name="Type" select="$Type"/>
@@ -178,11 +182,63 @@
 		</xsl:apply-templates>
 	</xsl:variable>
 
-	<xsl:apply-templates select="*[local-name() = $Name][generate-id(.) = $ID]" mode="Format"/>
+	<xsl:apply-templates select="*[local-name() = $Name][generate-id(.) = $id]" mode="FormatText"/>
+</xsl:template>
+<xsl:template match="*" mode="LabelHint">
+	<xsl:param name="Lang">
+		<xsl:apply-templates select="." mode="UILang"/>
+	</xsl:param>
+	<xsl:param name="Type" select="''"/>
+	<xsl:param name="Name">Label</xsl:param>
+	<xsl:variable name="id">
+		<xsl:apply-templates select="." mode="LabelID">
+			<xsl:with-param name="Lang" select="$Lang"/>
+			<xsl:with-param name="Type" select="$Type"/>
+			<xsl:with-param name="Name" select="$Name"/>
+		</xsl:apply-templates>
+	</xsl:variable>
+
+	<xsl:apply-templates select="*[local-name() = $Name][generate-id(.) = $id]" mode="FormatHint"/>
 </xsl:template>
 
 <!-- Element abbreviation label (with full hint) display by language (Lang) and label element name (Name). -->
 <xsl:template match="*" mode="LabelAbbr">
+	<xsl:param name="Lang">
+		<xsl:apply-templates select="." mode="UILang"/>
+	</xsl:param>
+	<xsl:param name="Name">Label</xsl:param>
+
+	<xsl:apply-templates select="." mode="ViewText">
+		<xsl:with-param name="Hint">
+			<xsl:apply-templates select="." mode="LabelAbbrHint">
+				<xsl:with-param name="Lang" select="$Lang"/>
+				<xsl:with-param name="Name" select="$Name"/>
+			</xsl:apply-templates>
+		</xsl:with-param>
+		<xsl:with-param name="Text">
+			<xsl:apply-templates select="." mode="LabelAbbrText">
+				<xsl:with-param name="Lang" select="$Lang"/>
+				<xsl:with-param name="Name" select="$Name"/>
+			</xsl:apply-templates>
+		</xsl:with-param>
+	</xsl:apply-templates>
+</xsl:template>
+<xsl:template match="*" mode="LabelAbbrText">
+	<xsl:param name="Lang">
+		<xsl:apply-templates select="." mode="UILang"/>
+	</xsl:param>
+	<xsl:param name="Name">Label</xsl:param>
+	<xsl:variable name="aid">
+		<xsl:apply-templates select="." mode="LabelID">
+			<xsl:with-param name="Lang" select="$Lang"/>
+			<xsl:with-param name="Type">Abbr</xsl:with-param>
+			<xsl:with-param name="Name" select="$Name"/>
+		</xsl:apply-templates>
+	</xsl:variable>
+
+	<xsl:apply-templates select="*[local-name() = $Name][generate-id(.) = $aid]" mode="FormatText"/>
+</xsl:template>
+<xsl:template match="*" mode="LabelAbbrHint">
 	<xsl:param name="Lang">
 		<xsl:apply-templates select="." mode="UILang"/>
 	</xsl:param>
@@ -200,29 +256,13 @@
 			<xsl:with-param name="Name" select="$Name"/>
 		</xsl:apply-templates>
 	</xsl:variable>
+
 	<xsl:choose>
 		<xsl:when test="$aid = $lid">
-			<xsl:for-each select="*[local-name() = $Name][generate-id(.) = $lid]">
-				<xsl:apply-templates select="." mode="Format">
-					<xsl:with-param name="UILang" select="@xml:lang"/>
-				</xsl:apply-templates>
-			</xsl:for-each>
+			<xsl:apply-templates select="*[local-name() = $Name][generate-id(.) = $aid]" mode="FormatHint"/>
 		</xsl:when>
 		<xsl:otherwise>
-			<span>
-				<xsl:attribute name="title">
-					<xsl:for-each select="*[local-name() = $Name][generate-id(.) = $lid]">
-						<xsl:apply-templates select="." mode="Format">
-							<xsl:with-param name="UILang" select="@xml:lang"/>
-						</xsl:apply-templates>
-					</xsl:for-each>
-				</xsl:attribute>
-				<xsl:for-each select="*[local-name() = $Name][generate-id(.) = $aid]">
-					<xsl:apply-templates select="." mode="Format">
-						<xsl:with-param name="UILang" select="@xml:lang"/>
-					</xsl:apply-templates>
-				</xsl:for-each>
-			</span>
+			<xsl:apply-templates select="*[local-name() = $Name][generate-id(.) = $lid]" mode="FormatText"/>
 		</xsl:otherwise>
 	</xsl:choose>
 </xsl:template>
@@ -232,25 +272,27 @@
 	<xsl:param name="UILang">
 		<xsl:apply-templates select="." mode="UILang"/>
 	</xsl:param>
-	<xsl:param name="Prefix" select="''"/>
-	<xsl:param name="Suffix" select="''"/>
+
+	<xsl:apply-templates select="." mode="ViewText">
+		<xsl:with-param name="UILang" select="UILang"/>
+		<xsl:with-param name="Hint">
+			<xsl:apply-templates select="." mode="ForeignHint">
+				<xsl:with-param name="UILang" select="UILang"/>
+			</xsl:apply-templates>
+		</xsl:with-param>
+	</xsl:apply-templates>
+</xsl:template>
+<xsl:template match="*" mode="ForeignHint">
+	<xsl:param name="UILang">
+		<xsl:apply-templates select="." mode="UILang"/>
+	</xsl:param>
 
 	<xsl:choose>
 		<xsl:when test="@xml:lang = $UILang or contains($UILang, '-') and starts-with(@xml:lang,substring-before($UILang, '-'))">
-			<xsl:value-of select="$Prefix"/>
-			<xsl:value-of select="."/>
-			<xsl:value-of select="$Suffix"/>
 		</xsl:when>
 		<xsl:otherwise>
 			<xsl:variable name="foreign" select="@xml:lang"/>
-			<span>
-				<xsl:attribute name="title">
-					<xsl:apply-templates select="//*[@e:Name = $foreign]" mode="Label"/>
-				</xsl:attribute>
-				<xsl:value-of select="$Prefix"/>
-				<xsl:value-of select="."/>
-				<xsl:value-of select="$Suffix"/>
-			</span>
+			<xsl:apply-templates select="//*[e:Prefix/@External = 'lang']/*[@e:Name = $foreign]" mode="LabelText"/>
 		</xsl:otherwise>
 	</xsl:choose>
 </xsl:template>
@@ -277,13 +319,14 @@
 </xsl:template>
 
 <!-- Attribute link display. -->
-<xsl:template match="@*" mode="FormatLink" priority="-9">
+<xsl:template match="@*" mode="FormatLink">
 	<xsl:variable name="link" select="."/>
+
 	<xsl:apply-templates select="//@e:Name[contains(concat(' ',$link,' '),concat(' ',.,' '))]" mode="FormatList"/>
 </xsl:template>
 
 <!-- External object label display. -->
-<xsl:template match="@e:Name" mode="Format" priority="-9">
+<xsl:template match="@e:Name" mode="Format">
 	<xsl:apply-templates select="parent::*" mode="Label"/>
 </xsl:template>
 
@@ -314,17 +357,17 @@
 		<xsl:when test="substring(., 6, 2) = '12'">December</xsl:when>
 	</xsl:choose>
 </xsl:template>
-<xsl:template match="@*" mode="FormatDD" priority="-1">
+<xsl:template match="@*" mode="FormatDD">
 	<xsl:value-of select="substring(., 9, 2)"/>
 </xsl:template>
-<xsl:template match="@*" mode="FormatYYYY" priority="-1">
+<xsl:template match="@*" mode="FormatYYYY">
 	<xsl:value-of select="substring(., 1, 4)"/>
 </xsl:template>
-<xsl:template match="@*" mode="FormatD" priority="-1">
+<xsl:template match="@*" mode="FormatD">
 	<xsl:if test="substring(., 9, 1)!='0'"><xsl:value-of select="substring(., 9, 1)"/></xsl:if>
 	<xsl:value-of select="substring(., 10, 1)"/>
 </xsl:template>
-<xsl:template match="@*" mode="FormatRuDMMMM" priority="-1">
+<xsl:template match="@*" mode="FormatRuDMMMM">
 	<xsl:apply-templates select="." mode="FormatD"/>
 	<xsl:text> </xsl:text>
 	<xsl:choose>
@@ -342,7 +385,7 @@
 		<xsl:when test="substring(., 6, 2) = '12'">декабря</xsl:when>
 	</xsl:choose>
 </xsl:template>
-<xsl:template match="@*" mode="FormatRuMMMM" priority="-1">
+<xsl:template match="@*" mode="FormatRuMMMM">
 	<xsl:choose>
 		<xsl:when test="substring(., 6, 2) = '01'">Январь</xsl:when>
 		<xsl:when test="substring(., 6, 2) = '02'">Февраль</xsl:when>
@@ -358,11 +401,11 @@
 		<xsl:when test="substring(., 6, 2) = '12'">Декабрь</xsl:when>
 	</xsl:choose>
 </xsl:template>
-<xsl:template match="@*" mode="FormatRuYYYY" priority="-1">
+<xsl:template match="@*" mode="FormatRuYYYY">
 	<xsl:value-of select="substring(., 1, 4)"/>
 	<xsl:text> г.</xsl:text>
 </xsl:template>
-<xsl:template match="@*" mode="FormatLongDate" priority="-1">
+<xsl:template match="@*" mode="FormatLongDate">
 	<xsl:param name="UILang">
 		<xsl:apply-templates select="/*" mode="UILang"/>
 	</xsl:param>
