@@ -2,8 +2,8 @@
 \!LocExternal.xslt   namespace=urn:geo-schemas-xml-frafv:location,urn:geo-schemas-xml-frafv:culture,urn:geo-schemas-xml-frafv:proxy,urn:schemas-xml-frafv:proxy
 External.xslt       namespace=urn:geo-schemas-xml-frafv:culture,urn:geo-schemas-xml-frafv:location,urn:schemas-xml-frafv:proxy
 GeoExternal.xslt    namespace=urn:geo-schemas-xml-frafv:location,urn:geo-schemas-xml-frafv:culture,urn:schemas-xml-frafv:proxy
-LangViewEn.xsl      namespace=urn:geo-schemas-xml-frafv:culture,urn:geo-schemas-xml-frafv:proxy,urn:schemas-xml-frafv:proxy
-LangViewRu.xsl      namespace=urn:geo-schemas-xml-frafv:culture
+LangEn.xsl          namespace=urn:geo-schemas-xml-frafv:culture,urn:geo-schemas-xml-frafv:proxy,urn:schemas-xml-frafv:proxy
+LangRu.xsl          namespace=urn:geo-schemas-xml-frafv:culture
 LocEn.xsl           namespace=urn:geo-schemas-xml-frafv:location,urn:geo-schemas-xml-frafv:proxy,urn:schemas-xml-frafv:proxy
 LocRu.xsl           namespace=urn:geo-schemas-xml-frafv:location
 View.xsl            namespace=urn:schemas-xml-frafv:proxy
