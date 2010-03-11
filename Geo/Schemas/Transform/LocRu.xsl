@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:ms="urn:schemas-microsoft-com:xslt" xmlns:l="urn:geo-schemas-xml-frafv:location" exclude-result-prefixes="ms l">
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:l="urn:geo-schemas-xml-frafv:location">
 
-<xsl:output encoding="UTF-16" indent="yes" method="html"/>
-<xsl:include href="LocViewEn.xsl"/>
+<xsl:include href="LocEn.xsl"/>
 
 <!-- Russian UI strings -->
 
@@ -10,24 +9,34 @@
 	<xsl:text>ru-RU</xsl:text>
 </xsl:template>
 
-<xsl:template match="l:LocationList" mode="Title">
+<xsl:template match="/l:LocationList" mode="Title">
 	<xsl:text>Список местоположений</xsl:text>
 </xsl:template>
 <xsl:template match="l:LocationList" mode="Header">
-	<h1 id="main">Список местоположений</h1>
-	<p>Ниже представлен список местоположений.</p>
+	<xsl:apply-templates select="." mode="ViewTitle">
+		<xsl:with-param name="Title">Список местоположений</xsl:with-param>
+	</xsl:apply-templates>
+	<xsl:apply-templates select="." mode="ViewTextParagraph">
+		<xsl:with-param name="Text">Ниже представлен список местоположений.</xsl:with-param>
+	</xsl:apply-templates>
 </xsl:template>
 
 <xsl:template match="l:LocationTypeList" mode="Header">
-	<p>Ниже представлен список типов местоположения.</p>
+	<xsl:apply-templates select="." mode="ViewTextParagraph">
+		<xsl:with-param name="Text">Ниже представлен список типов местоположения.</xsl:with-param>
+	</xsl:apply-templates>
 </xsl:template>
 
-<xsl:template match="l:Continent|l:LocationType|l:Country|l:Region|l:City|l:Street" mode="Footer">
-	<p>
-		<a href="main">Вверх</a>
-		<xsl:text> </xsl:text>
-		<a href="javascript:history.back();">Назад</a>
-	</p>
+<xsl:template match="*" mode="FooterIndex">
+	<xsl:text>Указатель</xsl:text>
+</xsl:template>
+
+<xsl:template match="*" mode="FooterUp">
+	<xsl:text>Вверх</xsl:text>
+</xsl:template>
+
+<xsl:template match="*" mode="FooterBack">
+	<xsl:text>Назад</xsl:text>
 </xsl:template>
 
 <xsl:template match="l:Form" mode="Name">
@@ -55,7 +64,7 @@
 	</xsl:choose>
 </xsl:template>
 
-<xsl:template match="@EndPeriod[.='Unknown']" mode="Format" priority="-1">
+<xsl:template match="@EndPeriod[.='Unknown']" mode="Format">
 	<xsl:param name="UILang"/>
 	<xsl:text>нет данных</xsl:text>
 </xsl:template>

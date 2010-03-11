@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:l="urn:geo-schemas-xml-frafv:location" exclude-result-prefixes="l">
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:l="urn:geo-schemas-xml-frafv:location">
 
 <xsl:include href="LocEn.xsl"/>
 
@@ -14,7 +14,6 @@
 </xsl:template>
 <xsl:template match="l:LocationList" mode="Header">
 	<xsl:apply-templates select="." mode="ViewTitle">
-		<xsl:with-param name="ID">List of Locations</xsl:with-param>
 		<xsl:with-param name="Title">Список местоположений</xsl:with-param>
 	</xsl:apply-templates>
 	<xsl:apply-templates select="." mode="ViewTextParagraph">

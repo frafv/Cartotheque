@@ -5,23 +5,4 @@
 <xsl:import href="LocEn.xsl"/>
 <xsl:output encoding="UTF-16" indent="yes" method="html"/>
 
-<!-- UI strings -->
-
-<xsl:template match="*" mode="Footer">
-	<xsl:variable name="main">
-	</xsl:variable>
-	<p>
-		<xsl:apply-templates select="." mode="ViewLink">
-			<xsl:with-param name="Link">#List of Locations</xsl:with-param>
-			<xsl:with-param name="Text">
-				<xsl:apply-templates select="." mode="FooterUp"/>
-			</xsl:with-param>
-		</xsl:apply-templates>
-		<xsl:text> </xsl:text>
-		<a href="javascript:history.back();">
-			<xsl:apply-templates select="." mode="FooterBack"/>
-		</a>
-	</p>
-</xsl:template>
-
 </xsl:stylesheet>

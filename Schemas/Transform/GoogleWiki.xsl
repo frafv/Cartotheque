@@ -251,9 +251,9 @@
 		<xsl:with-param name="Title" select="$Title"/>
 	</xsl:apply-templates>
 	<xsl:if test="$Subtitle != ''">
-		<xsl:text>&#10;== </xsl:text>
+		<xsl:text>&#10;== (</xsl:text>
 		<xsl:value-of select="$Subtitle"/>
-		<xsl:text> ==</xsl:text>
+		<xsl:text>) ==</xsl:text>
 	</xsl:if>
 </xsl:template>
 
@@ -293,6 +293,21 @@
 </xsl:template>
 
 <xsl:template match="*" mode="ViewLanguages">
+</xsl:template>
+
+<!-- Default element header -->
+<xsl:template match="*" mode="ViewSingleHeader">
+</xsl:template>
+
+<!-- Default element footer -->
+<xsl:template match="*" mode="ViewSingleFooter">
+	<xsl:text>&#10;&#10;</xsl:text>
+	<xsl:apply-templates select="." mode="ViewLink">
+		<xsl:with-param name="Link">#<xsl:apply-templates select="/*" mode="ID"/></xsl:with-param>
+		<xsl:with-param name="Text">
+			<xsl:apply-templates select="." mode="FooterUp"/>
+		</xsl:with-param>
+	</xsl:apply-templates>
 </xsl:template>
 
 <!-- Elements list display by name (Name) as table. -->
