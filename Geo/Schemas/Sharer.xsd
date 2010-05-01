@@ -400,7 +400,7 @@
 						<xs:annotation>
 							<xs:documentation xml:lang="en">Pacific SA Standard Time</xs:documentation>
 							<xs:appinfo source="DST">
-								<xs:documentation xml:lang="en">Second Saturday of October at 23:59:59 – Last Saturday of March at 23:59:59</xs:documentation>
+								<xs:documentation xml:lang="en">Second Saturday of October at 23:59:59 – First Saturday of April at 23:59:59</xs:documentation>
 							</xs:appinfo>
 						</xs:annotation>
 					</xs:enumeration>
@@ -408,7 +408,7 @@
 						<xs:annotation>
 							<xs:documentation xml:lang="en">Paraguay Standard Time</xs:documentation>
 							<xs:appinfo source="DST">
-								<xs:documentation xml:lang="en">Third Saturday of October at 23:59:59 – Second Saturday of March at 23:59:59</xs:documentation>
+								<xs:documentation xml:lang="en">First Saturday of October at 23:59:59 – Second Saturday of April at 23:59:59</xs:documentation>
 							</xs:appinfo>
 						</xs:annotation>
 					</xs:enumeration>
@@ -505,7 +505,7 @@
 						<xs:annotation>
 							<xs:documentation xml:lang="en">Morocco Standard Time</xs:documentation>
 							<xs:appinfo source="DST">
-								<xs:documentation xml:lang="en">Last Sunday of May at 23:59:59 – Third Thursday of August at 23:59:59</xs:documentation>
+								<xs:documentation xml:lang="en">First Saturday of May at 23:59:59 – First Saturday of August at 23:59:59</xs:documentation>
 							</xs:appinfo>
 						</xs:annotation>
 					</xs:enumeration>
@@ -564,6 +564,14 @@
 							<xs:documentation xml:lang="en">Jordan Standard Time</xs:documentation>
 							<xs:appinfo source="DST">
 								<xs:documentation xml:lang="en">Last Thursday of March at 0:00 – Last Friday of September at 1:00</xs:documentation>
+							</xs:appinfo>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="UTC+2 Syria">
+						<xs:annotation>
+							<xs:documentation xml:lang="en">Syria Standard Time</xs:documentation>
+							<xs:appinfo source="DST">
+								<xs:documentation xml:lang="en">First Thursday of April at 23:59:59 – Last Thursday of October at 23:59:59</xs:documentation>
 							</xs:appinfo>
 						</xs:annotation>
 					</xs:enumeration>
@@ -674,9 +682,6 @@
 					<xs:enumeration value="UTC+6 BDT">
 						<xs:annotation>
 							<xs:documentation xml:lang="en">Bangladesh Standard Time</xs:documentation>
-							<xs:appinfo source="DST">
-								<xs:documentation xml:lang="en">Third Friday of June at 23:00 – First Thursday of January at 0:00</xs:documentation>
-							</xs:appinfo>
 						</xs:annotation>
 					</xs:enumeration>
 					<xs:enumeration value="UTC+6 USZ5">
@@ -805,7 +810,7 @@
 						<xs:annotation>
 							<xs:documentation xml:lang="en">Fiji Standard Time</xs:documentation>
 							<xs:appinfo source="DST">
-								<xs:documentation xml:lang="en">Last Sunday of November at 2:00 – Last Sunday of April at 3:00</xs:documentation>
+								<xs:documentation xml:lang="en">Fourth Sunday of October at 2:00 – Last Sunday of March at 3:00</xs:documentation>
 							</xs:appinfo>
 						</xs:annotation>
 					</xs:enumeration>

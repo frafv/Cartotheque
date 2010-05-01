@@ -1408,59 +1408,13 @@
 		<Label xml:lang="zh-CN" Type="Daylight">孟加拉国夏令时</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">孟加拉日光節約時間</Label>
 		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Bangladešu</Label>
-		<Info Bias="-06:00:00">
-			<Date Type="Standard" Week="First" Day="Thursday" Month="January" Time="00:00:00">First Thursday of January at 0:00</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Friday" Month="June" Time="23:00:00">Third Friday of June at 23:00</Date>
-		</Info>
+		<Info Bias="-06:00:00" />
 		<Info Year="2008" Bias="-06:00:00" />
 		<Info Year="2009" Bias="-06:00:00">
 			<Date Type="Standard" Week="Last" Day="Thursday" Month="December" Time="23:59:00">Last Thursday of December at 23:59</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Friday" Month="June" Time="23:00:00">Third Friday of June at 23:00</Date>
 		</Info>
-		<Info Year="2010" Bias="-06:00:00">
-			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="23:59:00">Last Sunday of October at 23:59</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Wednesday" Month="March" Time="22:59:00">Last Wednesday of March at 22:59</Date>
-		</Info>
-		<Info Year="2011" Bias="-06:00:00">
-			<Date Type="Standard" Week="Last" Day="Monday" Month="October" Time="23:59:00">Last Monday of October at 23:59</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Thursday" Month="March" Time="22:59:00">Last Thursday of March at 22:59</Date>
-		</Info>
-		<Info Year="2012" Bias="-06:00:00">
-			<Date Type="Standard" Week="Last" Day="Wednesday" Month="October" Time="23:59:00">Last Wednesday of October at 23:59</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Saturday" Month="March" Time="22:59:00">Last Saturday of March at 22:59</Date>
-		</Info>
-		<Info Year="2013" Bias="-06:00:00">
-			<Date Type="Standard" Week="Last" Day="Thursday" Month="October" Time="23:59:00">Last Thursday of October at 23:59</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="22:59:00">Last Sunday of March at 22:59</Date>
-		</Info>
-		<Info Year="2014" Bias="-06:00:00">
-			<Date Type="Standard" Week="Last" Day="Friday" Month="October" Time="23:59:00">Last Friday of October at 23:59</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Monday" Month="March" Time="22:59:00">Last Monday of March at 22:59</Date>
-		</Info>
-		<Info Year="2015" Bias="-06:00:00">
-			<Date Type="Standard" Week="Last" Day="Saturday" Month="October" Time="23:59:00">Last Saturday of October at 23:59</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Tuesday" Month="March" Time="22:59:00">Last Tuesday of March at 22:59</Date>
-		</Info>
-		<Info Year="2016" Bias="-06:00:00">
-			<Date Type="Standard" Week="Last" Day="Monday" Month="October" Time="23:59:00">Last Monday of October at 23:59</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Thursday" Month="March" Time="22:59:00">Last Thursday of March at 22:59</Date>
-		</Info>
-		<Info Year="2017" Bias="-06:00:00">
-			<Date Type="Standard" Week="Last" Day="Tuesday" Month="October" Time="23:59:00">Last Tuesday of October at 23:59</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Friday" Month="March" Time="22:59:00">Last Friday of March at 22:59</Date>
-		</Info>
-		<Info Year="2018" Bias="-06:00:00">
-			<Date Type="Standard" Week="Last" Day="Wednesday" Month="October" Time="23:59:00">Last Wednesday of October at 23:59</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Saturday" Month="March" Time="22:59:00">Last Saturday of March at 22:59</Date>
-		</Info>
-		<Info Year="2019" Bias="-06:00:00">
-			<Date Type="Standard" Week="Last" Day="Thursday" Month="October" Time="23:59:00">Last Thursday of October at 23:59</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="22:59:00">Last Sunday of March at 22:59</Date>
-		</Info>
-		<Info Year="2020" Bias="-06:00:00">
-			<Date Type="Standard" Week="Last" Day="Saturday" Month="October" Time="23:59:00">Last Saturday of October at 23:59</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Tuesday" Month="March" Time="22:59:00">Last Tuesday of March at 22:59</Date>
-		</Info>
+		<Info Year="2010" Bias="-06:00:00" />
 	</TimeZone>
 	<TimeZone Name="CanadaCentralStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Canada Central Standard Time">Canada Central Standard Time</Link>
@@ -4289,8 +4243,8 @@
 		<Label xml:lang="zh-TW" Type="Daylight">斐濟日光節約時間</Label>
 		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme na Fidžiju</Label>
 		<Info Bias="-12:00:00">
-			<Date Type="Standard" Week="Last" Day="Sunday" Month="April" Time="03:00:00">Last Sunday of April at 3:00</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="November" Time="02:00:00">Last Sunday of November at 2:00</Date>
+			<Date Type="Standard" Week="Last" Day="Sunday" Month="March" Time="03:00:00">Last Sunday of March at 3:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Fourth" Day="Sunday" Month="October" Time="02:00:00">Fourth Sunday of October at 2:00</Date>
 		</Info>
 		<Info Year="2008" Bias="-12:00:00" />
 		<Info Year="2009" Bias="-12:00:00">
@@ -4298,8 +4252,8 @@
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="November" Time="02:00:00">Last Sunday of November at 2:00</Date>
 		</Info>
 		<Info Year="2010" Bias="-12:00:00">
-			<Date Type="Standard" Week="Last" Day="Sunday" Month="April" Time="03:00:00">Last Sunday of April at 3:00</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="November" Time="02:00:00">Last Sunday of November at 2:00</Date>
+			<Date Type="Standard" Week="Last" Day="Sunday" Month="March" Time="03:00:00">Last Sunday of March at 3:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Fourth" Day="Sunday" Month="October" Time="02:00:00">Fourth Sunday of October at 2:00</Date>
 		</Info>
 	</TimeZone>
 	<TimeZone Name="FLEStandardTime">
@@ -5709,42 +5663,42 @@
 	</TimeZone>
 	<TimeZone Name="KamchatkaStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Kamchatka Standard Time">Kamchatka Standard Time</Link>
-		<Label xml:lang="en">(UTC+12:00) Petropavlovsk-Kamchatsky</Label>
-		<Label xml:lang="ar-SA">(UTC+12:00) بيتروبافلوفسك-كامتشاتسكي</Label>
-		<Label xml:lang="bg-BG">(UTC+12:00) Петропавловск Камчатски</Label>
-		<Label xml:lang="cs-CZ">(UTC+12:00) Petropavlovsk-Kamčatskij</Label>
-		<Label xml:lang="da-DK">(UTC+12:00) Petropavlovsk-Kamchatsky</Label>
-		<Label xml:lang="de-DE">(UTC+12:00) Petropawlowsk-Kamtschatski</Label>
-		<Label xml:lang="el-GR">(UTC+12:00) Πετροπαβλόσκ-Καμτσάτσκι</Label>
-		<Label xml:lang="en-US">(UTC+12:00) Petropavlovsk-Kamchatsky</Label>
-		<Label xml:lang="es-ES">(UTC+12:00) Petropavlovsk-Kamchatsky</Label>
-		<Label xml:lang="et-EE">(UTC+12:00) Petropavlovsk-Kamtšatski</Label>
-		<Label xml:lang="fi-FI">(UTC+12:00) Petropavlovsk-Kamtšatski</Label>
-		<Label xml:lang="fr-FR">(UTC+12:00) Petropavlovsk-Kamchatsky</Label>
-		<Label xml:lang="he-IL">(UTC+12:00) פטרופבלובסק-קמצ'טסקי</Label>
-		<Label xml:lang="hr-HR">(UTC+12:00) Petropavlovsk-Kamčatski</Label>
-		<Label xml:lang="hu-HU">(UTC+12:00) Petropavlovszk-Kamcsatszkij</Label>
-		<Label xml:lang="it-IT">(UTC+12.00) Petropavlovsk-Kamchatsky</Label>
-		<Label xml:lang="ja-JP">(UTC+12:00) ペトロパブロフスク-カムチャツキー</Label>
-		<Label xml:lang="ko-KR">(UTC+12:00) 페트로파블로프스크-캄차스키</Label>
-		<Label xml:lang="lt-LT">(UTC+12:00) Kamčiatkos Petropavlovskas</Label>
-		<Label xml:lang="lv-LV">(UTC+12:00) Petropavlovska-Kamčatka</Label>
-		<Label xml:lang="nb-NO">(UTC+12:00) Petropavlovsk-Kamtsjatskij</Label>
-		<Label xml:lang="nl-NL">(UTC+12:00) Petropavlovsk-Kamtsjatski</Label>
-		<Label xml:lang="pl-PL">(UTC+12:00) Pietropawłowsk Kamczacki</Label>
-		<Label xml:lang="pt-BR">(UTC+12:00) Petropavlovsk-Kamchatsky</Label>
-		<Label xml:lang="pt-PT">(UTC+12:00) Petropavlovsk-Kamchatsky</Label>
-		<Label xml:lang="ro-RO">(UTC+12:00) Petropavlovsk-Kamchatsky</Label>
-		<Label xml:lang="ru-RU">(UTC+12:00) Петропавловск-Камчатский</Label>
-		<Label xml:lang="sk-SK">(UTC+12:00) Petropavlovsk-Kamčatskij</Label>
-		<Label xml:lang="sl-SI">(UTC+12:00) Petropavlovsk-Kamčatski</Label>
-		<Label xml:lang="sv-SE">(UTC+12:00) Petropavlovsk-Kamtjatka</Label>
-		<Label xml:lang="th-TH">(UTC+12:00) เปโตรพาฟลอฟสก์-แคมชาตสกี</Label>
-		<Label xml:lang="tr-TR">(UTC+12:00) Petropavlovsk-Kamchatsky</Label>
-		<Label xml:lang="uk-UA">(UTC+12:00) Петропавловськ-Камчатський</Label>
-		<Label xml:lang="zh-CN">(UTC+12:00)彼得罗巴甫洛夫斯克-堪察加</Label>
-		<Label xml:lang="zh-TW">(UTC+12:00) 彼得保羅夫斯克-堪察加斯克</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+12:00) Petropavlovsk Kamčatski</Label>
+		<Label xml:lang="en">(UTC+12:00) Petropavlovsk-Kamchatsky - Old</Label>
+		<Label xml:lang="ar-SA">(UTC+12:00) بيتروبافلوفسك-كامتشاتسكي - القديم</Label>
+		<Label xml:lang="bg-BG">(UTC+12:00) Петропавловск Камчатски - старо</Label>
+		<Label xml:lang="cs-CZ">(UTC+12:00) Petropavlovsk-Kamčatskij (staré)</Label>
+		<Label xml:lang="da-DK">(UTC+12:00) Petropavlovsk-Kamchatsky - Forældet</Label>
+		<Label xml:lang="de-DE">(UTC+12:00) Petropawlowsk-Kamtschatski - veraltet</Label>
+		<Label xml:lang="el-GR">(UTC+12:00) Πετροπαβλόσκ-Καμτσάτσκι - Παλαιό</Label>
+		<Label xml:lang="en-US">(UTC+12:00) Petropavlovsk-Kamchatsky - Old</Label>
+		<Label xml:lang="es-ES">(UTC+12:00) Petropavlovsk-Kamchatsky: antiguo</Label>
+		<Label xml:lang="et-EE">(UTC+12:00) Petropavlovsk-Kamtšatski - vana</Label>
+		<Label xml:lang="fi-FI">(UTC+12:00) Petropavlovsk-Kamtšatski - vanha</Label>
+		<Label xml:lang="fr-FR">(UTC+12:00) Petropavlovsk-Kamchatsky - Ancien</Label>
+		<Label xml:lang="he-IL">(UTC+12:00) פטרופבלובסק-קמצ'טסקי - לא בשימוש</Label>
+		<Label xml:lang="hr-HR">(UTC+12:00) Petropavlovsk-Kamčatski - zastarjelo</Label>
+		<Label xml:lang="hu-HU">(UTC+12:00) Petropavlovszk-Kamcsatszkij (régi)</Label>
+		<Label xml:lang="it-IT">(UTC+12.00) Petropavlovsk-Kamchatsky - Vecchio</Label>
+		<Label xml:lang="ja-JP">(UTC+12:00) ペトロパブロフスク-カムチャツキー - 廃止</Label>
+		<Label xml:lang="ko-KR">(UTC+12:00) 페트로파블로프스크-캄차스키 - 사용하지 않음</Label>
+		<Label xml:lang="lt-LT">(UTC+12:00) Kamčiatkos Petropavlovskas – sena</Label>
+		<Label xml:lang="lv-LV">(UTC+12:00) Petropavlovska-Kamčatka — iepriekšējā</Label>
+		<Label xml:lang="nb-NO">(UTC+12:00) Petropavlovsk-Kamtsjatskij - Gammel</Label>
+		<Label xml:lang="nl-NL">(UTC+12:00) Petropavlovsk-Kamtsjatski (verouderd)</Label>
+		<Label xml:lang="pl-PL">(UTC+12:00) Pietropawłowsk Kamczacki — stare</Label>
+		<Label xml:lang="pt-BR">(UTC+12:00) Petropavlovsk-Kamchatsky - Antigo</Label>
+		<Label xml:lang="pt-PT">(UTC+12:00) Petropavlovsk-Kamchatsky - Antigo</Label>
+		<Label xml:lang="ro-RO">(UTC+12:00) Petropavlovsk-Kamchatsky - Vechi</Label>
+		<Label xml:lang="ru-RU">(UTC+12:00) Петропавловск-Камчатский — устаревшее</Label>
+		<Label xml:lang="sk-SK">(UTC+12:00) Petropavlovsk-Kamčatskij – neaktuálne</Label>
+		<Label xml:lang="sl-SI">(UTC+12:00) Petropavlovsk-Kamčatski – zastarelo</Label>
+		<Label xml:lang="sv-SE">(UTC+12:00) Petropavlovsk-Kamtjatka - gammal</Label>
+		<Label xml:lang="th-TH">(UTC+12:00) เปโตรพาฟลอฟสก์-แคมชาตสกี - เดิม</Label>
+		<Label xml:lang="tr-TR">(UTC+12:00) Petropavlovsk-Kamchatsky - Eski</Label>
+		<Label xml:lang="uk-UA">(UTC+12:00) Петропавловськ-Камчатський – старий</Label>
+		<Label xml:lang="zh-CN">(UTC+12:00)彼得罗巴甫洛夫斯克-堪察加 - 旧用</Label>
+		<Label xml:lang="zh-TW">(UTC+12:00) 彼得保羅夫斯克-堪察加斯克 - 已過時</Label>
+		<Label xml:lang="sr-Latn-CS">(UTC+12:00) Petropavlovsk-Kamčatski - zastarelo</Label>
 		<Label xml:lang="en" Type="Standard">Kamchatka Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">كامشاتكا التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Камчатско стандартно време</Label>
@@ -6335,7 +6289,7 @@
 		<Label xml:lang="es-ES" Type="Standard">Hora estándar de Montevideo</Label>
 		<Label xml:lang="et-EE" Type="Standard">Montevideo standardaeg</Label>
 		<Label xml:lang="fi-FI" Type="Standard">Montevideon normaaliaika</Label>
-		<Label xml:lang="fr-FR" Type="Standard">Montevideo (heure d’hiver)</Label>
+		<Label xml:lang="fr-FR" Type="Standard">Montevideo</Label>
 		<Label xml:lang="he-IL" Type="Standard">שעון סטנדרטי מונטווידאו</Label>
 		<Label xml:lang="hr-HR" Type="Standard">Montevideo - st. vrij.</Label>
 		<Label xml:lang="hu-HU" Type="Standard">Montevideoi téli idő</Label>
@@ -6348,7 +6302,7 @@
 		<Label xml:lang="nl-NL" Type="Standard">Montevideo (standaardtijd)</Label>
 		<Label xml:lang="pl-PL" Type="Standard">Montevideo (czas standardowy)</Label>
 		<Label xml:lang="pt-BR" Type="Standard">Hora Padrão de Montevidéu</Label>
-		<Label xml:lang="pt-PT" Type="Standard">Hora de Verão de Montevideu</Label>
+		<Label xml:lang="pt-PT" Type="Standard">Hora Padrão de Montevideu</Label>
 		<Label xml:lang="ro-RO" Type="Standard">Montevideo, oră standard</Label>
 		<Label xml:lang="ru-RU" Type="Standard">Монтевидео (зима)</Label>
 		<Label xml:lang="sk-SK" Type="Standard">Montevideo, čas (normálny)</Label>
@@ -6384,7 +6338,7 @@
 		<Label xml:lang="nl-NL" Type="Daylight">Montevideo (zomertijd)</Label>
 		<Label xml:lang="pl-PL" Type="Daylight">Montevideo (czas letni)</Label>
 		<Label xml:lang="pt-BR" Type="Daylight">Horário de Verão de Montevidéu</Label>
-		<Label xml:lang="pt-PT" Type="Daylight">Hora Padrão de Montevideu</Label>
+		<Label xml:lang="pt-PT" Type="Daylight">Hora de Verão de Montevideu</Label>
 		<Label xml:lang="ro-RO" Type="Daylight">Montevideo, oră de vară</Label>
 		<Label xml:lang="ru-RU" Type="Daylight">Монтевидео (лето)</Label>
 		<Label xml:lang="sk-SK" Type="Daylight">Montevideo, čas (letný)</Label>
@@ -6520,8 +6474,8 @@
 		<Label xml:lang="zh-TW" Type="Daylight">摩洛哥日光節約時間</Label>
 		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Maroku</Label>
 		<Info Bias="00:00:00">
-			<Date Type="Standard" Week="Third" Day="Thursday" Month="August" Time="23:59:59">Third Thursday of August at 23:59:59</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="May" Time="23:59:59">Last Sunday of May at 23:59:59</Date>
+			<Date Type="Standard" Week="First" Day="Saturday" Month="August" Time="23:59:59">First Saturday of August at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Saturday" Month="May" Time="23:59:59">First Saturday of May at 23:59:59</Date>
 		</Info>
 		<Info Year="2007" Bias="00:00:00" />
 		<Info Year="2008" Bias="00:00:00">
@@ -6532,7 +6486,11 @@
 			<Date Type="Standard" Week="Third" Day="Thursday" Month="August" Time="23:59:59">Third Thursday of August at 23:59:59</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="May" Time="23:59:59">Last Sunday of May at 23:59:59</Date>
 		</Info>
-		<Info Year="2010" Bias="00:00:00" />
+		<Info Year="2010" Bias="00:00:00">
+			<Date Type="Standard" Week="First" Day="Saturday" Month="August" Time="23:59:59">First Saturday of August at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Saturday" Month="May" Time="23:59:59">First Saturday of May at 23:59:59</Date>
+		</Info>
+		<Info Year="2011" Bias="00:00:00" />
 	</TimeZone>
 	<TimeZone Name="MountainStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Mountain Standard Time">Mountain Standard Time</Link>
@@ -7755,7 +7713,7 @@
 		<Label xml:lang="es-ES" Type="Standard">Hora est. Sudamérica Pacífico</Label>
 		<Label xml:lang="et-EE" Type="Standard">Vaikse ookeani SA standardaeg</Label>
 		<Label xml:lang="fi-FI" Type="Standard">Etelä-Am.Tyynenmeren norm.aika</Label>
-		<Label xml:lang="fr-FR" Type="Standard">Amér. du Sud Pacif(heure d’été)</Label>
+		<Label xml:lang="fr-FR" Type="Standard">Amér. du Sud Pacif</Label>
 		<Label xml:lang="he-IL" Type="Standard">שעון רגיל ד. אמריקה האוק' השקט</Label>
 		<Label xml:lang="hr-HR" Type="Standard">Pacif. Juž. Amerika - st. vrij.</Label>
 		<Label xml:lang="hu-HU" Type="Standard">Csendes-óceáni téli idő</Label>
@@ -7791,7 +7749,7 @@
 		<Label xml:lang="es-ES" Type="Daylight">Hora verano Sudamérica Pacífico</Label>
 		<Label xml:lang="et-EE" Type="Daylight">Vaikse ookeani SA suveaeg</Label>
 		<Label xml:lang="fi-FI" Type="Daylight">Etelä-Am. Tyynenmeren kesäaika</Label>
-		<Label xml:lang="fr-FR" Type="Daylight">Amér. du Sud Pacif</Label>
+		<Label xml:lang="fr-FR" Type="Daylight">Amér. du Sud Pacif(heure d’été)</Label>
 		<Label xml:lang="he-IL" Type="Daylight">שעון קיץ ד. אמריקה האוק' השקט</Label>
 		<Label xml:lang="hr-HR" Type="Daylight">Pac. Juž. Amer. -  ljet. vrij.</Label>
 		<Label xml:lang="hu-HU" Type="Daylight">Csendes-óceáni nyári idő</Label>
@@ -7817,7 +7775,7 @@
 		<Label xml:lang="zh-TW" Type="Daylight">太平洋 SA 日光節約時間</Label>
 		<Label xml:lang="sr-Latn-CS" Type="Daylight">Pac. let/zim. vr. u J. Americi </Label>
 		<Info Bias="04:00:00">
-			<Date Type="Standard" Week="Last" Day="Saturday" Month="March" Time="23:59:59">Last Saturday of March at 23:59:59</Date>
+			<Date Type="Standard" Week="First" Day="Saturday" Month="April" Time="23:59:59">First Saturday of April at 23:59:59</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Second" Day="Saturday" Month="October" Time="23:59:59">Second Saturday of October at 23:59:59</Date>
 		</Info>
 		<Info Year="2007" Bias="04:00:00">
@@ -7829,6 +7787,14 @@
 			<Date Type="Daylight" Bias="-01:00:00" Week="Second" Day="Saturday" Month="October" Time="23:59:59">Second Saturday of October at 23:59:59</Date>
 		</Info>
 		<Info Year="2009" Bias="04:00:00">
+			<Date Type="Standard" Week="Second" Day="Saturday" Month="March" Time="23:59:59">Second Saturday of March at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Second" Day="Saturday" Month="October" Time="23:59:59">Second Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2010" Bias="04:00:00">
+			<Date Type="Standard" Week="First" Day="Saturday" Month="April" Time="23:59:59">First Saturday of April at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Second" Day="Saturday" Month="October" Time="23:59:59">Second Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2011" Bias="04:00:00">
 			<Date Type="Standard" Week="Second" Day="Saturday" Month="March" Time="23:59:59">Second Saturday of March at 23:59:59</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Second" Day="Saturday" Month="October" Time="23:59:59">Second Saturday of October at 23:59:59</Date>
 		</Info>
@@ -7968,7 +7934,7 @@
 		<Label xml:lang="en-US">(UTC-08:00) Baja California</Label>
 		<Label xml:lang="es-ES">(UTC-08:00) Baja California</Label>
 		<Label xml:lang="et-EE">(UTC-08:00) Baja California</Label>
-		<Label xml:lang="fi-FI">(UTC-08:00) Baja, Kalifornia</Label>
+		<Label xml:lang="fi-FI">(UTC-08:00) Baja Kalifornia</Label>
 		<Label xml:lang="fr-FR">(UTC-08:00) Basse Californie</Label>
 		<Label xml:lang="he-IL">(UTC-08:00) באחה קליפורניה</Label>
 		<Label xml:lang="hr-HR">(UTC-08:00) Baja California</Label>
@@ -8307,8 +8273,8 @@
 		<Label xml:lang="zh-TW" Type="Daylight">巴拉圭日光節約時間</Label>
 		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Paragvaju</Label>
 		<Info Bias="04:00:00">
-			<Date Type="Standard" Week="Second" Day="Saturday" Month="March" Time="23:59:59">Second Saturday of March at 23:59:59</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+			<Date Type="Standard" Week="Second" Day="Saturday" Month="April" Time="23:59:59">Second Saturday of April at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Saturday" Month="October" Time="23:59:59">First Saturday of October at 23:59:59</Date>
 		</Info>
 		<Info Year="2008" Bias="04:00:00">
 			<Date Type="Standard" Week="Second" Day="Saturday" Month="March" Time="23:59:59">Second Saturday of March at 23:59:59</Date>
@@ -8319,52 +8285,52 @@
 			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
 		</Info>
 		<Info Year="2010" Bias="04:00:00">
-			<Date Type="Standard" Week="Second" Day="Saturday" Month="March" Time="23:59:59">Second Saturday of March at 23:59:59</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+			<Date Type="Standard" Week="Second" Day="Saturday" Month="April" Time="23:59:59">Second Saturday of April at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Saturday" Month="October" Time="23:59:59">First Saturday of October at 23:59:59</Date>
 		</Info>
 		<Info Year="2011" Bias="04:00:00">
-			<Date Type="Standard" Week="Second" Day="Saturday" Month="March" Time="23:59:59">Second Saturday of March at 23:59:59</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+			<Date Type="Standard" Week="Second" Day="Saturday" Month="April" Time="23:59:59">Second Saturday of April at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Saturday" Month="October" Time="23:59:59">First Saturday of October at 23:59:59</Date>
 		</Info>
 		<Info Year="2012" Bias="04:00:00">
-			<Date Type="Standard" Week="Second" Day="Saturday" Month="March" Time="23:59:59">Second Saturday of March at 23:59:59</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+			<Date Type="Standard" Week="First" Day="Saturday" Month="April" Time="23:59:59">First Saturday of April at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Saturday" Month="October" Time="23:59:59">First Saturday of October at 23:59:59</Date>
 		</Info>
 		<Info Year="2013" Bias="04:00:00">
-			<Date Type="Standard" Week="Second" Day="Saturday" Month="March" Time="23:59:59">Second Saturday of March at 23:59:59</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+			<Date Type="Standard" Week="Second" Day="Saturday" Month="April" Time="23:59:59">Second Saturday of April at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Saturday" Month="October" Time="23:59:59">First Saturday of October at 23:59:59</Date>
 		</Info>
 		<Info Year="2014" Bias="04:00:00">
-			<Date Type="Standard" Week="Second" Day="Saturday" Month="March" Time="23:59:59">Second Saturday of March at 23:59:59</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+			<Date Type="Standard" Week="Second" Day="Saturday" Month="April" Time="23:59:59">Second Saturday of April at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Saturday" Month="October" Time="23:59:59">First Saturday of October at 23:59:59</Date>
 		</Info>
 		<Info Year="2015" Bias="04:00:00">
-			<Date Type="Standard" Week="First" Day="Saturday" Month="March" Time="23:59:59">First Saturday of March at 23:59:59</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+			<Date Type="Standard" Week="Second" Day="Saturday" Month="April" Time="23:59:59">Second Saturday of April at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Saturday" Month="October" Time="23:59:59">First Saturday of October at 23:59:59</Date>
 		</Info>
 		<Info Year="2016" Bias="04:00:00">
-			<Date Type="Standard" Week="Second" Day="Saturday" Month="March" Time="23:59:59">Second Saturday of March at 23:59:59</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+			<Date Type="Standard" Week="Second" Day="Saturday" Month="April" Time="23:59:59">Second Saturday of April at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Saturday" Month="October" Time="23:59:59">First Saturday of October at 23:59:59</Date>
 		</Info>
 		<Info Year="2017" Bias="04:00:00">
-			<Date Type="Standard" Week="Second" Day="Saturday" Month="March" Time="23:59:59">Second Saturday of March at 23:59:59</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Second" Day="Saturday" Month="October" Time="23:59:59">Second Saturday of October at 23:59:59</Date>
+			<Date Type="Standard" Week="Second" Day="Saturday" Month="April" Time="23:59:59">Second Saturday of April at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Saturday" Month="September" Time="23:59:59">Last Saturday of September at 23:59:59</Date>
 		</Info>
 		<Info Year="2018" Bias="04:00:00">
-			<Date Type="Standard" Week="Second" Day="Saturday" Month="March" Time="23:59:59">Second Saturday of March at 23:59:59</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+			<Date Type="Standard" Week="First" Day="Saturday" Month="April" Time="23:59:59">First Saturday of April at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Saturday" Month="October" Time="23:59:59">First Saturday of October at 23:59:59</Date>
 		</Info>
 		<Info Year="2019" Bias="04:00:00">
-			<Date Type="Standard" Week="Second" Day="Saturday" Month="March" Time="23:59:59">Second Saturday of March at 23:59:59</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+			<Date Type="Standard" Week="Second" Day="Saturday" Month="April" Time="23:59:59">Second Saturday of April at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Saturday" Month="October" Time="23:59:59">First Saturday of October at 23:59:59</Date>
 		</Info>
 		<Info Year="2020" Bias="04:00:00">
-			<Date Type="Standard" Week="First" Day="Saturday" Month="March" Time="23:59:59">First Saturday of March at 23:59:59</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+			<Date Type="Standard" Week="Second" Day="Saturday" Month="April" Time="23:59:59">Second Saturday of April at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Saturday" Month="October" Time="23:59:59">First Saturday of October at 23:59:59</Date>
 		</Info>
 		<Info Year="2021" Bias="04:00:00">
-			<Date Type="Standard" Week="Second" Day="Saturday" Month="March" Time="23:59:59">Second Saturday of March at 23:59:59</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+			<Date Type="Standard" Week="Second" Day="Saturday" Month="April" Time="23:59:59">Second Saturday of April at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Saturday" Month="October" Time="23:59:59">First Saturday of October at 23:59:59</Date>
 		</Info>
 	</TimeZone>
 	<TimeZone Name="RomanceStandardTime">
@@ -9540,6 +9506,169 @@
 		<Label xml:lang="zh-TW" Type="Daylight">斯里蘭卡日光節約時間</Label>
 		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Šri Lanki</Label>
 		<Info Bias="-05:30:00" />
+	</TimeZone>
+	<TimeZone Name="SyriaStandardTime">
+		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Syria Standard Time">Syria Standard Time</Link>
+		<Label xml:lang="en">(UTC+02:00) Damascus</Label>
+		<Label xml:lang="ar-SA">(UTC+02:00) دمشق</Label>
+		<Label xml:lang="bg-BG">(UTC+02:00) Дамаск</Label>
+		<Label xml:lang="cs-CZ">(UTC+02:00) Damašek</Label>
+		<Label xml:lang="da-DK">(UTC+02:00) Damascus</Label>
+		<Label xml:lang="de-DE">(UTC+02:00) Damaskus</Label>
+		<Label xml:lang="el-GR">(UTC+02:00) Δαμασκός</Label>
+		<Label xml:lang="en-US">(UTC+02:00) Damascus</Label>
+		<Label xml:lang="es-ES">(UTC+02:00) Damasco</Label>
+		<Label xml:lang="et-EE">(UTC+02:00) Damaskus</Label>
+		<Label xml:lang="fi-FI">(UTC+02:00) Damaskos</Label>
+		<Label xml:lang="fr-FR">(UTC+02:00) Damas</Label>
+		<Label xml:lang="he-IL">(UTC+02:00) דמשק</Label>
+		<Label xml:lang="hr-HR">(UTC+02:00) Damask</Label>
+		<Label xml:lang="hu-HU">(UTC+02:00) Damaszkusz</Label>
+		<Label xml:lang="it-IT">(UTC+2.00) Damasco</Label>
+		<Label xml:lang="ja-JP">(UTC+02:00) ダマスカス</Label>
+		<Label xml:lang="ko-KR">(UTC+02:00) 다마스쿠스</Label>
+		<Label xml:lang="lt-LT">(UTC+02:00) Damaskas</Label>
+		<Label xml:lang="lv-LV">(UTC+02:00) Damaska</Label>
+		<Label xml:lang="nb-NO">(UTC+02:00) Damascus</Label>
+		<Label xml:lang="nl-NL">(UTC+02:00) Damascus</Label>
+		<Label xml:lang="pl-PL">(UTC+02:00) Damaszek</Label>
+		<Label xml:lang="pt-BR">(UTC+02:00) Damasco</Label>
+		<Label xml:lang="pt-PT">(UTC+02:00) Damasco</Label>
+		<Label xml:lang="ro-RO">(UTC+02:00) Damasc</Label>
+		<Label xml:lang="ru-RU">(UTC+02:00) Дамаск</Label>
+		<Label xml:lang="sk-SK">(UTC+02:00) Damask</Label>
+		<Label xml:lang="sl-SI">(UTC+02:00) Damask</Label>
+		<Label xml:lang="sv-SE">(UTC+02:00) Damaskus</Label>
+		<Label xml:lang="th-TH">(UTC+02:00) ดามัสกัส</Label>
+		<Label xml:lang="tr-TR">(UTC+02:00) Şam</Label>
+		<Label xml:lang="uk-UA">(UTC+02:00) Дамаск</Label>
+		<Label xml:lang="zh-CN">(UTC+02:00)大马士革</Label>
+		<Label xml:lang="zh-TW">(UTC+02:00) 大馬士革</Label>
+		<Label xml:lang="sr-Latn-CS">(UTC+02:00) Damask</Label>
+		<Label xml:lang="en" Type="Standard">Syria Standard Time</Label>
+		<Label xml:lang="ar-SA" Type="Standard">سوريا - التوقيت الرسمي</Label>
+		<Label xml:lang="bg-BG" Type="Standard">Сирия - стандартно време</Label>
+		<Label xml:lang="cs-CZ" Type="Standard">Syria (běžný čas)</Label>
+		<Label xml:lang="da-DK" Type="Standard">Syrien, normaltid</Label>
+		<Label xml:lang="de-DE" Type="Standard">Syrien Normalzeit</Label>
+		<Label xml:lang="el-GR" Type="Standard">Χειμερινή ώρα Συρίας</Label>
+		<Label xml:lang="en-US" Type="Standard">Syria Standard Time</Label>
+		<Label xml:lang="es-ES" Type="Standard">Hora estándar de Siria</Label>
+		<Label xml:lang="et-EE" Type="Standard">Süüria standardaeg</Label>
+		<Label xml:lang="fi-FI" Type="Standard">Syyrian normaaliaika</Label>
+		<Label xml:lang="fr-FR" Type="Standard">Syrie</Label>
+		<Label xml:lang="he-IL" Type="Standard">שעון רגיל סוריה</Label>
+		<Label xml:lang="hr-HR" Type="Standard">Sirija - st. vrij.</Label>
+		<Label xml:lang="hu-HU" Type="Standard">Szíriai téli idő</Label>
+		<Label xml:lang="it-IT" Type="Standard">Ora solare Siria</Label>
+		<Label xml:lang="ja-JP" Type="Standard">シリア標準時</Label>
+		<Label xml:lang="ko-KR" Type="Standard">시리아 표준시</Label>
+		<Label xml:lang="lt-LT" Type="Standard">Sirijos standartinis laikas</Label>
+		<Label xml:lang="lv-LV" Type="Standard">Sīrijas standarta laiks</Label>
+		<Label xml:lang="nb-NO" Type="Standard">Syria (normaltid)</Label>
+		<Label xml:lang="nl-NL" Type="Standard">Syrië (standaardtijd)</Label>
+		<Label xml:lang="pl-PL" Type="Standard">Syria (czas standardowy)</Label>
+		<Label xml:lang="pt-BR" Type="Standard">Horário Padrão da Síria</Label>
+		<Label xml:lang="pt-PT" Type="Standard">Hora Padrão da Síria</Label>
+		<Label xml:lang="ro-RO" Type="Standard">Siria, oră standard</Label>
+		<Label xml:lang="ru-RU" Type="Standard">Сирия (зима)</Label>
+		<Label xml:lang="sk-SK" Type="Standard">Sýrsky čas (normálny)</Label>
+		<Label xml:lang="sl-SI" Type="Standard">Sirski standardni čas</Label>
+		<Label xml:lang="sv-SE" Type="Standard">Syrien, normaltid</Label>
+		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของซีเรีย</Label>
+		<Label xml:lang="tr-TR" Type="Standard">Suriye Standart Saati</Label>
+		<Label xml:lang="uk-UA" Type="Standard">Сірія (зима)</Label>
+		<Label xml:lang="zh-CN" Type="Standard">叙利亚标准时间</Label>
+		<Label xml:lang="zh-TW" Type="Standard">敘利亞標準時間</Label>
+		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Siriji</Label>
+		<Label xml:lang="en" Type="Daylight">Syria Daylight Time</Label>
+		<Label xml:lang="ar-SA" Type="Daylight">سوريا - التوقيت الصيفي</Label>
+		<Label xml:lang="bg-BG" Type="Daylight">Сирия - лятно часово време</Label>
+		<Label xml:lang="cs-CZ" Type="Daylight">Sýrie (letní čas)</Label>
+		<Label xml:lang="da-DK" Type="Daylight">Syrien, sommertid</Label>
+		<Label xml:lang="de-DE" Type="Daylight">Syrien Sommerzeit</Label>
+		<Label xml:lang="el-GR" Type="Daylight">Θερινή ώρα Συρίας</Label>
+		<Label xml:lang="en-US" Type="Daylight">Syria Daylight Time</Label>
+		<Label xml:lang="es-ES" Type="Daylight">Hora de verano de Siria</Label>
+		<Label xml:lang="et-EE" Type="Daylight">Süüria suveaeg</Label>
+		<Label xml:lang="fi-FI" Type="Daylight">Syyrian kesäaika</Label>
+		<Label xml:lang="fr-FR" Type="Daylight">Syrie (heure d'été)</Label>
+		<Label xml:lang="he-IL" Type="Daylight">שעון קיץ סוריה</Label>
+		<Label xml:lang="hr-HR" Type="Daylight">Sirija - ljet. vrij.</Label>
+		<Label xml:lang="hu-HU" Type="Daylight">Szíriai nyári idő</Label>
+		<Label xml:lang="it-IT" Type="Daylight">Ora legale Siria</Label>
+		<Label xml:lang="ja-JP" Type="Daylight">シリア夏時間</Label>
+		<Label xml:lang="ko-KR" Type="Daylight">시리아 일광 절약 시간</Label>
+		<Label xml:lang="lt-LT" Type="Daylight">Sirijos vasaros / žiemos laikas</Label>
+		<Label xml:lang="lv-LV" Type="Daylight">Sīrijas vasaras laiks</Label>
+		<Label xml:lang="nb-NO" Type="Daylight">Syria (sommertid)</Label>
+		<Label xml:lang="nl-NL" Type="Daylight">Syrië (zomertijd)</Label>
+		<Label xml:lang="pl-PL" Type="Daylight">Syria (czas letni)</Label>
+		<Label xml:lang="pt-BR" Type="Daylight">Horário de Verão da Síria</Label>
+		<Label xml:lang="pt-PT" Type="Daylight">Hora de Verão da Síria</Label>
+		<Label xml:lang="ro-RO" Type="Daylight">Siria, oră de vară</Label>
+		<Label xml:lang="ru-RU" Type="Daylight">Сирия (лето)</Label>
+		<Label xml:lang="sk-SK" Type="Daylight">Sýrsky čas (letný)</Label>
+		<Label xml:lang="sl-SI" Type="Daylight">Sirski poletni čas</Label>
+		<Label xml:lang="sv-SE" Type="Daylight">Syrien, sommartid</Label>
+		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของซีเรีย</Label>
+		<Label xml:lang="tr-TR" Type="Daylight">Suriye Yaz Saati</Label>
+		<Label xml:lang="uk-UA" Type="Daylight">Сірія (літо)</Label>
+		<Label xml:lang="zh-CN" Type="Daylight">叙利亚夏令时</Label>
+		<Label xml:lang="zh-TW" Type="Daylight">敘利亞日光節約時間</Label>
+		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Siriji</Label>
+		<Info Bias="-02:00:00">
+			<Date Type="Standard" Week="Last" Day="Thursday" Month="October" Time="23:59:59">Last Thursday of October at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Thursday" Month="April" Time="23:59:59">First Thursday of April at 23:59:59</Date>
+		</Info>
+		<Info Year="2006" Bias="-02:00:00">
+			<Date Type="Standard" Week="Third" Day="Wednesday" Month="September" Time="23:59:59">Third Wednesday of September at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Friday" Month="March" Time="23:59:59">Last Friday of March at 23:59:59</Date>
+		</Info>
+		<Info Year="2007" Bias="-02:00:00">
+			<Date Type="Standard" Week="First" Day="Thursday" Month="November" Time="23:59:59">First Thursday of November at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Thursday" Month="March" Time="23:59:59">Last Thursday of March at 23:59:59</Date>
+		</Info>
+		<Info Year="2008" Bias="-02:00:00">
+			<Date Type="Standard" Week="Last" Day="Friday" Month="October" Time="23:59:59">Last Friday of October at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Thursday" Month="April" Time="23:59:59">First Thursday of April at 23:59:59</Date>
+		</Info>
+		<Info Year="2009" Bias="-02:00:00">
+			<Date Type="Standard" Week="Last" Day="Thursday" Month="October" Time="23:59:59">Last Thursday of October at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Thursday" Month="March" Time="23:59:59">Last Thursday of March at 23:59:59</Date>
+		</Info>
+		<Info Year="2010" Bias="-02:00:00">
+			<Date Type="Standard" Week="Last" Day="Thursday" Month="October" Time="23:59:59">Last Thursday of October at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Thursday" Month="April" Time="23:59:59">First Thursday of April at 23:59:59</Date>
+		</Info>
+		<Info Year="2011" Bias="-02:00:00">
+			<Date Type="Standard" Week="Last" Day="Thursday" Month="October" Time="23:59:59">Last Thursday of October at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Thursday" Month="March" Time="23:59:59">Last Thursday of March at 23:59:59</Date>
+		</Info>
+		<Info Year="2012" Bias="-02:00:00">
+			<Date Type="Standard" Week="Last" Day="Thursday" Month="October" Time="23:59:59">Last Thursday of October at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Thursday" Month="April" Time="23:59:59">First Thursday of April at 23:59:59</Date>
+		</Info>
+		<Info Year="2013" Bias="-02:00:00">
+			<Date Type="Standard" Week="Last" Day="Thursday" Month="October" Time="23:59:59">Last Thursday of October at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Thursday" Month="April" Time="23:59:59">First Thursday of April at 23:59:59</Date>
+		</Info>
+		<Info Year="2014" Bias="-02:00:00">
+			<Date Type="Standard" Week="Last" Day="Thursday" Month="October" Time="23:59:59">Last Thursday of October at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Thursday" Month="April" Time="23:59:59">First Thursday of April at 23:59:59</Date>
+		</Info>
+		<Info Year="2015" Bias="-02:00:00">
+			<Date Type="Standard" Week="Last" Day="Thursday" Month="October" Time="23:59:59">Last Thursday of October at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Thursday" Month="April" Time="23:59:59">First Thursday of April at 23:59:59</Date>
+		</Info>
+		<Info Year="2016" Bias="-02:00:00">
+			<Date Type="Standard" Week="Last" Day="Thursday" Month="October" Time="23:59:59">Last Thursday of October at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Thursday" Month="March" Time="23:59:59">Last Thursday of March at 23:59:59</Date>
+		</Info>
+		<Info Year="2017" Bias="-02:00:00">
+			<Date Type="Standard" Week="Last" Day="Thursday" Month="October" Time="23:59:59">Last Thursday of October at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Thursday" Month="April" Time="23:59:59">First Thursday of April at 23:59:59</Date>
+		</Info>
 	</TimeZone>
 	<TimeZone Name="TaipeiStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Taipei Standard Time">Taipei Standard Time</Link>
@@ -11803,6 +11932,7 @@
 		<Export Name="SingaporeStandardTime" />
 		<Export Name="SouthAfricaStandardTime" />
 		<Export Name="SriLankaStandardTime" />
+		<Export Name="SyriaStandardTime" />
 		<Export Name="TaipeiStandardTime" />
 		<Export Name="TasmaniaStandardTime" />
 		<Export Name="TokyoStandardTime" />
@@ -11978,6 +12108,10 @@
 		<Export Name="JordanStandardTime" External="UTC2Jordan">
 			<Label xml:lang="en">Jordan Standard Time</Label>
 			<Label Type="Abbr" xml:lang="en">Jordan</Label>
+		</Export>
+		<Export Name="SyriaStandardTime" External="UTC2Syria">
+			<Label xml:lang="en">Syria Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">Syria</Label>
 		</Export>
 		<Export Name="EEuropeStandardTime" External="UTC2USZ1">
 			<Label xml:lang="en">E. Europe Standard Time</Label>

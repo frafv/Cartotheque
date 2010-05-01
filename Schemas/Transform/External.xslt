@@ -200,7 +200,7 @@
 <xsl:template name="MakeLanguageProxy">
 	<e:Prefix xmlns="urn:schemas-xml-frafv:proxy" External="lang"/>
 	<xsl:variable name="deflang" select="document('..\Dic\Culture.xml')/c:CultureList/c:LanguageList/c:Language[1]/c:Label[not(@Type)]/@xml:lang"/>
-	<xsl:variable name="reflang" select="//@xml:lang|$deflang"/>
+	<xsl:variable name="reflang" select="/*/*[not(self::e:ExportList) and local-name()!='ExternalList']//@xml:lang|/*/@xml:lang|$deflang"/>
 	<xsl:for-each select="$reflang">
 		<xsl:sort/>
 		<xsl:variable name="curlang" select="."/>
