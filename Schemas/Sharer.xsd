@@ -359,7 +359,7 @@
 					</xs:enumeration>
 					<xs:enumeration value="UTC-5">
 						<xs:annotation>
-							<xs:documentation xml:lang="en">SA Pacific Standard Time, US Eastern Standard Time</xs:documentation>
+							<xs:documentation xml:lang="en">SA Pacific Standard Time</xs:documentation>
 						</xs:annotation>
 					</xs:enumeration>
 					<xs:enumeration value="UTC-5 EST">
@@ -367,6 +367,14 @@
 							<xs:documentation xml:lang="en">Eastern Standard Time</xs:documentation>
 							<xs:appinfo source="DST">
 								<xs:documentation xml:lang="en">First Sunday of April at 2:00 – Last Sunday of October at 2:00</xs:documentation>
+							</xs:appinfo>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="UTC-5 Indiana">
+						<xs:annotation>
+							<xs:documentation xml:lang="en">US Eastern Standard Time</xs:documentation>
+							<xs:appinfo source="DST">
+								<xs:documentation xml:lang="en">Second Sunday of March at 2:00 – First Sunday of November at 2:00</xs:documentation>
 							</xs:appinfo>
 						</xs:annotation>
 					</xs:enumeration>
@@ -509,7 +517,15 @@
 							</xs:appinfo>
 						</xs:annotation>
 					</xs:enumeration>
-					<xs:enumeration value="UTC+1">
+					<xs:enumeration value="UTC+1 Namibia">
+						<xs:annotation>
+							<xs:documentation xml:lang="en">Namibia Standard Time</xs:documentation>
+							<xs:appinfo source="DST">
+								<xs:documentation xml:lang="en">First Sunday of April at 2:00 – First Sunday of September at 2:00</xs:documentation>
+							</xs:appinfo>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="UTC+1 WAT">
 						<xs:annotation>
 							<xs:documentation xml:lang="en">W. Central Africa Standard Time</xs:documentation>
 						</xs:annotation>
@@ -539,7 +555,7 @@
 						<xs:annotation>
 							<xs:documentation xml:lang="en">Middle East Standard Time</xs:documentation>
 							<xs:appinfo source="DST">
-								<xs:documentation xml:lang="en">Last Sunday of March at 0:00 – Last Sunday of October at 0:00</xs:documentation>
+								<xs:documentation xml:lang="en">Last Saturday of March at 23:59:59 – Last Saturday of October at 23:59:59</xs:documentation>
 							</xs:appinfo>
 						</xs:annotation>
 					</xs:enumeration>
@@ -580,14 +596,6 @@
 							<xs:documentation xml:lang="en">E. Europe Standard Time</xs:documentation>
 							<xs:appinfo source="DST">
 								<xs:documentation xml:lang="en">Last Sunday of March at 2:00 – Last Sunday of October at 3:00</xs:documentation>
-							</xs:appinfo>
-						</xs:annotation>
-					</xs:enumeration>
-					<xs:enumeration value="UTC+2 WAT">
-						<xs:annotation>
-							<xs:documentation xml:lang="en">Namibia Standard Time</xs:documentation>
-							<xs:appinfo source="DST">
-								<xs:documentation xml:lang="en">First Sunday of April at 2:00 – First Sunday of September at 2:00</xs:documentation>
 							</xs:appinfo>
 						</xs:annotation>
 					</xs:enumeration>
