@@ -2376,7 +2376,7 @@
 		<Label xml:lang="hu-HU">(UTC+01:00) Budapest, Belgrád, Ljubljana, Pozsony, Prága</Label>
 		<Label xml:lang="it-IT">(UTC+1.00) Belgrado, Bratislava, Budapest, Lubiana, Praga</Label>
 		<Label xml:lang="ja-JP">(UTC+01:00) ベオグラード、ブラチスラバ、ブダペスト、リュブリャナ、プラハ</Label>
-		<Label xml:lang="ko-KR">(UTC+01:00)베오그라드,브라티슬라바,부다페스트,류블랴나,프라하</Label>
+		<Label xml:lang="ko-KR">(UTC+01:00) 베오그라드,브라티슬라바,부다페스트,류블랴나,프라하</Label>
 		<Label xml:lang="lt-LT">(UTC+01:00) Belgradas, Bratislava, Budapeštas, Liubliana, Praha</Label>
 		<Label xml:lang="lv-LV">(UTC+01:00) Belgrada, Bratislava, Budapešta, Ļubļana, Prāga</Label>
 		<Label xml:lang="nb-NO">(UTC+01:00) Beograd, Bratislava, Budapest, Ljubljana, Praha</Label>
@@ -2589,42 +2589,42 @@
 	</TimeZone>
 	<TimeZone Name="CentralPacificStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Central Pacific Standard Time">Central Pacific Standard Time</Link>
-		<Label xml:lang="en">(UTC+11:00) Magadan, Solomon Is., New Caledonia</Label>
-		<Label xml:lang="ar-SA">(UTC+11:00) ماجادان، جزيرة سولومون، كاليدونيا الجديدة</Label>
-		<Label xml:lang="bg-BG">(UTC+11:00) Магадан, Соломонови о-ви, Нова Каледония</Label>
-		<Label xml:lang="cs-CZ">(UTC+11:00) Magadan, Šalamounovy ostrovy, Nová Kaledonie</Label>
-		<Label xml:lang="da-DK">(UTC+11:00) Magadan, Salomonøerne, Ny Kaledonien</Label>
-		<Label xml:lang="de-DE">(UTC+11:00) Magadan, Salomonen, Neu-Kaledonien</Label>
-		<Label xml:lang="el-GR">(UTC+11:00) Μάγκανταν, Νησιά Σολομώντα, Νέα Καληδονία</Label>
-		<Label xml:lang="en-US">(UTC+11:00) Magadan, Solomon Is., New Caledonia</Label>
-		<Label xml:lang="es-ES">(UTC+11:00) Magadán, Islas Salomón, Nueva Caledonia</Label>
-		<Label xml:lang="et-EE">(UTC+11:00) Magadan, Saalomoni Saared, Uus-Kaledoonia</Label>
-		<Label xml:lang="fi-FI">(UTC+11:00) Magadan, Salomonsaaret, Uusi-Kaledonia</Label>
-		<Label xml:lang="fr-FR">(UTC+11:00) Magadan, Îles Salomon, Nouvelle Calédonie</Label>
-		<Label xml:lang="he-IL">(UTC+11:00) מגדאן, איי שלמה, קלדוניה החדשה</Label>
-		<Label xml:lang="hr-HR">(UTC+11:00) Magadan, Solomonsko otočje, Nova Kaledonija</Label>
-		<Label xml:lang="hu-HU">(UTC+11:00) Magadan, Salamon-szigetek, Új-Kaledónia</Label>
-		<Label xml:lang="it-IT">(UTC+11.00) Magadan, Is. Salomone, Nuova Caledonia</Label>
-		<Label xml:lang="ja-JP">(UTC+11:00) マガダン、ソロモン諸島、ニューカレドニア</Label>
-		<Label xml:lang="ko-KR">(UTC+11:00) 마가단, 솔로몬 제도, 뉴칼레도니아</Label>
-		<Label xml:lang="lt-LT">(UTC+11:00) Magadanas, Saliamono salos, Naujoji Kaledonija</Label>
-		<Label xml:lang="lv-LV">(UTC+11:00) Magadana, Zālamana salas, Jaunkaledonija</Label>
-		<Label xml:lang="nb-NO">(UTC+11:00) Magadan, Solomonøyene, Ny Caledonia</Label>
-		<Label xml:lang="nl-NL">(UTC+11:00) Magadan, Solomon Is., Nieuw-Caledonië</Label>
-		<Label xml:lang="pl-PL">(UTC+11:00) Magadan, Wyspy Salomona, Nowa Kaledonia</Label>
-		<Label xml:lang="pt-BR">(UTC+11:00) Magadã, Ihas Salomão, Nova Caledônia</Label>
-		<Label xml:lang="pt-PT">(UTC+11:00) Magadã, Ilhas de Salomão, Nova Caledónia</Label>
-		<Label xml:lang="ro-RO">(UTC+11:00) Magadan, Insulele Solomon, Noua Caledonie</Label>
-		<Label xml:lang="ru-RU">(UTC+11:00) Магадан, Нов. Каледония, Соломоновы о-ва</Label>
-		<Label xml:lang="sk-SK">(UTC+11:00) Magadan, Šalamúnove ostrovy, Nová Kaledónia</Label>
-		<Label xml:lang="sl-SI">(UTC+11:00) Magadan, Salomonovi otoki, Nova Kaledonija</Label>
-		<Label xml:lang="sv-SE">(UTC+11:00) Magadan, Salomonöarna, Nya Kaledonien</Label>
-		<Label xml:lang="th-TH">(UTC+11:00) มากาดาน หมู่เกาะโซโลมอน นิวแคลิโดเนีย</Label>
-		<Label xml:lang="tr-TR">(UTC+11:00) Magadan, Solomon Adl., Yeni Kaledonya</Label>
-		<Label xml:lang="uk-UA">(UTC+11:00) Маґадан, Соломонові о-ви, Нова Каледонія</Label>
-		<Label xml:lang="zh-CN">(UTC+11:00)马加丹，索罗门群岛，新喀里多尼亚</Label>
-		<Label xml:lang="zh-TW">(UTC+11:00) 馬加丹，所羅門群島，新喀里多尼亞群島</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+11:00) Magadan, Solomonska Ostrva, Nova Kaledonija</Label>
+		<Label xml:lang="en">(UTC+11:00) Solomon Is., New Caledonia</Label>
+		<Label xml:lang="ar-SA">(UTC+11:00) جزر سليمان، كاليدونيا الجديدة</Label>
+		<Label xml:lang="bg-BG">(UTC+11:00) Соломонови о-ви, Нова Каледония</Label>
+		<Label xml:lang="cs-CZ">(UTC+11:00) Šalamounovy ostrovy, Nová Kaledonie</Label>
+		<Label xml:lang="da-DK">(UTC+11:00) Salomonøerne, Ny Kaledonien</Label>
+		<Label xml:lang="de-DE">(UTC+11:00) Salomonen, Neu-Kaledonien</Label>
+		<Label xml:lang="el-GR">(UTC+11:00) Νησιά Σολομώντα, Νέα Καληδονία</Label>
+		<Label xml:lang="en-US">(UTC+11:00) Solomon Is., New Caledonia</Label>
+		<Label xml:lang="es-ES">(UTC+11:00) Islas Salomón, Nueva Caledonia</Label>
+		<Label xml:lang="et-EE">(UTC+11:00) Saalomoni Saared, Uus-Kaledoonia</Label>
+		<Label xml:lang="fi-FI">(UTC+11:00) Salomonsaaret, Uusi-Kaledonia</Label>
+		<Label xml:lang="fr-FR">(UTC+11:00) Îles Salomon, Nouvelle Calédonie</Label>
+		<Label xml:lang="he-IL">(UTC+11:00) איי שלמה, קלדוניה החדשה</Label>
+		<Label xml:lang="hr-HR">(UTC+11:00) Solomonsko otočje, Nova Kaledonija</Label>
+		<Label xml:lang="hu-HU">(UTC+11:00) Salamon-szigetek, Új-Kaledónia</Label>
+		<Label xml:lang="it-IT">(UTC+11.00) Is. Salomone, Nuova Caledonia</Label>
+		<Label xml:lang="ja-JP">(UTC+11:00) ソロモン諸島、ニューカレドニア</Label>
+		<Label xml:lang="ko-KR">(UTC+11:00) 솔로몬 제도, 뉴칼레도니아</Label>
+		<Label xml:lang="lt-LT">(UTC+11:00) Saliamono salos, Naujoji Kaledonija</Label>
+		<Label xml:lang="lv-LV">(UTC+11:00) Zālamana salas, Jaunkaledonija</Label>
+		<Label xml:lang="nb-NO">(UTC+11:00) Salomonøyene, Ny Caledonia</Label>
+		<Label xml:lang="nl-NL">(UTC+11:00) Solomon Is., Nieuw-Caledonië</Label>
+		<Label xml:lang="pl-PL">(UTC+11:00) Wyspy Salomona, Nowa Kaledonia</Label>
+		<Label xml:lang="pt-BR">(UTC+11:00) Ilhas Salomão, Nova Caledônia</Label>
+		<Label xml:lang="pt-PT">(UTC+11:00) Ilhas de Salomão, Nova Caledónia</Label>
+		<Label xml:lang="ro-RO">(UTC+11:00) Insulele Solomon, Noua Caledonie</Label>
+		<Label xml:lang="ru-RU">(UTC+11:00) Соломоновы о-ва, Нов. Каледония</Label>
+		<Label xml:lang="sk-SK">(UTC+11:00) Šalamúnove ostrovy, Nová Kaledónia</Label>
+		<Label xml:lang="sl-SI">(UTC+11:00) Salomonovi otoki, Nova Kaledonija</Label>
+		<Label xml:lang="sv-SE">(UTC+11:00) Solomonöarna, Nya Kaledonien</Label>
+		<Label xml:lang="th-TH">(UTC+11:00) หมู่เกาะโซโลมอน, นิวแคลิโดเนีย</Label>
+		<Label xml:lang="tr-TR">(UTC+11:00) Solomon Adl., Yeni Kaledonya</Label>
+		<Label xml:lang="uk-UA">(UTC+11:00) Соломонові о-ви, Нова Каледонія</Label>
+		<Label xml:lang="zh-CN">(UTC+11:00)所罗门群岛，新喀里多尼亚</Label>
+		<Label xml:lang="zh-TW">(UTC+11:00) 索羅門群島，新喀里多尼亞群島</Label>
+		<Label xml:lang="sr-Latn-CS">(UTC+11:00) Solomonska Ostrva, Nova Kaledonija</Label>
 		<Label xml:lang="en" Type="Standard">Central Pacific Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">وسط الباسيفيك - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Централнотихоок. станд. време</Label>
@@ -3079,7 +3079,7 @@
 		<Label xml:lang="ro-RO">(UTC-12:00) Linia de schimbare a datei, vest</Label>
 		<Label xml:lang="ru-RU">(UTC-12:00) Линия перемены дат</Label>
 		<Label xml:lang="sk-SK">(UTC-12:00) Medzinárodná dátumová hranica – západ</Label>
-		<Label xml:lang="sl-SI">(UTC-12:00) Mednarodna datumska meja – zahod</Label>
+		<Label xml:lang="sl-SI">(UTC-12:00) Mednarodna datumska meja - zahod</Label>
 		<Label xml:lang="sv-SE">(UTC-12:00) Internationella datumlinjen, väst</Label>
 		<Label xml:lang="th-TH">(UTC-12:00) เส้นแบ่งเขตวันสากลฝั่งตะวันตก</Label>
 		<Label xml:lang="tr-TR">(UTC-12:00) Uluslararası Tarih Çizgisi Batı</Label>
@@ -3989,7 +3989,7 @@
 		<Label xml:lang="zh-TW" Type="Daylight">埃及日光節約時間</Label>
 		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Egiptu</Label>
 		<Info Bias="-02:00:00">
-			<Date Type="Standard" Week="Last" Day="Thursday" Month="August" Time="23:59:59">Last Thursday of August at 23:59:59</Date>
+			<Date Type="Standard" Week="Last" Day="Thursday" Month="September" Time="23:59:59">Last Thursday of September at 23:59:59</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Thursday" Month="April" Time="23:59:59">Last Thursday of April at 23:59:59</Date>
 		</Info>
 		<Info Year="2005" Bias="-02:00:00">
@@ -4013,6 +4013,10 @@
 			<Date Type="Daylight" Bias="-01:00:00" Week="Fourth" Day="Thursday" Month="April" Time="23:59:59">Fourth Thursday of April at 23:59:59</Date>
 		</Info>
 		<Info Year="2010" Bias="-02:00:00">
+			<Date Type="Standard" Week="Last" Day="Thursday" Month="September" Time="23:59:59">Last Thursday of September at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Thursday" Month="April" Time="23:59:59">Last Thursday of April at 23:59:59</Date>
+		</Info>
+		<Info Year="2011" Bias="-02:00:00">
 			<Date Type="Standard" Week="Last" Day="Thursday" Month="September" Time="23:59:59">Last Thursday of September at 23:59:59</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Thursday" Month="April" Time="23:59:59">Last Thursday of April at 23:59:59</Date>
 		</Info>
@@ -5691,7 +5695,7 @@
 		<Label xml:lang="ro-RO">(UTC+12:00) Petropavlovsk-Kamchatsky - Vechi</Label>
 		<Label xml:lang="ru-RU">(UTC+12:00) Петропавловск-Камчатский — устаревшее</Label>
 		<Label xml:lang="sk-SK">(UTC+12:00) Petropavlovsk-Kamčatskij – neaktuálne</Label>
-		<Label xml:lang="sl-SI">(UTC+12:00) Petropavlovsk-Kamčatski – zastarelo</Label>
+		<Label xml:lang="sl-SI">(UTC+12:00) Petropavlovsk-Kamčatski - zastarelo</Label>
 		<Label xml:lang="sv-SE">(UTC+12:00) Petropavlovsk-Kamtjatka - gammal</Label>
 		<Label xml:lang="th-TH">(UTC+12:00) เปโตรพาฟลอฟสก์-แคมชาตสกี - เดิม</Label>
 		<Label xml:lang="tr-TR">(UTC+12:00) Petropavlovsk-Kamchatsky - Eski</Label>
@@ -5887,6 +5891,121 @@
 		<Label xml:lang="zh-TW" Type="Daylight">韓國日光節約時間</Label>
 		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Koreji</Label>
 		<Info Bias="-09:00:00" />
+	</TimeZone>
+	<TimeZone Name="MagadanStandardTime">
+		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Magadan Standard Time">Magadan Standard Time</Link>
+		<Label xml:lang="en">(UTC+11:00) Magadan</Label>
+		<Label xml:lang="ar-SA">(UTC+11:00) ماجادان</Label>
+		<Label xml:lang="bg-BG">(UTC+11:00) Магадан</Label>
+		<Label xml:lang="cs-CZ">(UTC+11:00) Magadan</Label>
+		<Label xml:lang="da-DK">(UTC+11:00) Magadan</Label>
+		<Label xml:lang="de-DE">(UTC+11:00) Magadan</Label>
+		<Label xml:lang="el-GR">(UTC+11:00) Μάγκανταν</Label>
+		<Label xml:lang="en-US">(UTC+11:00) Magadan</Label>
+		<Label xml:lang="es-ES">(UTC+11:00) Magadán</Label>
+		<Label xml:lang="et-EE">(UTC+11:00) Magadan</Label>
+		<Label xml:lang="fi-FI">(UTC+11:00) Magadan</Label>
+		<Label xml:lang="fr-FR">(UTC+11:00) Magadan</Label>
+		<Label xml:lang="he-IL">(UTC+11:00) מגדן</Label>
+		<Label xml:lang="hr-HR">(UTC+11:00) Magadan</Label>
+		<Label xml:lang="hu-HU">(UTC+11:00) Magadán</Label>
+		<Label xml:lang="it-IT">(UTC+11.00) Magadan</Label>
+		<Label xml:lang="ja-JP">(UTC+11:00) マガダン</Label>
+		<Label xml:lang="ko-KR">(UTC+11:00) 마가단</Label>
+		<Label xml:lang="lt-LT">(UTC+11:00) Magadanas</Label>
+		<Label xml:lang="lv-LV">(UTC+11:00) Magadana</Label>
+		<Label xml:lang="nb-NO">(UTC+11:00) Magadan</Label>
+		<Label xml:lang="nl-NL">(UTC+11:00) Magadan</Label>
+		<Label xml:lang="pl-PL">(UTC+11:00) Magadan</Label>
+		<Label xml:lang="pt-BR">(UTC+11:00) Magadã</Label>
+		<Label xml:lang="pt-PT">(UTC+11:00) Magadã</Label>
+		<Label xml:lang="ro-RO">(UTC+11:00) Magadan</Label>
+		<Label xml:lang="ru-RU">(UTC+11:00) Магадан</Label>
+		<Label xml:lang="sk-SK">(UTC+11:00) Magadan</Label>
+		<Label xml:lang="sl-SI">(UTC+11:00) Magadan</Label>
+		<Label xml:lang="sv-SE">(UTC+11:00) Magadan</Label>
+		<Label xml:lang="th-TH">(UTC+11:00) มากาดาน</Label>
+		<Label xml:lang="tr-TR">(UTC+11:00) Magadan</Label>
+		<Label xml:lang="uk-UA">(UTC+11:00) Магадан</Label>
+		<Label xml:lang="zh-CN">(UTC+11:00)马加丹</Label>
+		<Label xml:lang="zh-TW">(UTC+11:00) 馬加丹</Label>
+		<Label xml:lang="sr-Latn-CS">(UTC+11:00) Magadan</Label>
+		<Label xml:lang="en" Type="Standard">Magadan Standard Time</Label>
+		<Label xml:lang="ar-SA" Type="Standard">ماجادان - التوقيت الرسمي</Label>
+		<Label xml:lang="bg-BG" Type="Standard">Магадан - стандартно време</Label>
+		<Label xml:lang="cs-CZ" Type="Standard">Magadan (běžný čas)</Label>
+		<Label xml:lang="da-DK" Type="Standard">Magadan, normaltid</Label>
+		<Label xml:lang="de-DE" Type="Standard">Magadan Normalzeit</Label>
+		<Label xml:lang="el-GR" Type="Standard">Χειμερινή ώρα Μάγκανταν</Label>
+		<Label xml:lang="en-US" Type="Standard">Magadan Standard Time</Label>
+		<Label xml:lang="es-ES" Type="Standard">Hora estándar de Magadán </Label>
+		<Label xml:lang="et-EE" Type="Standard">Magadani standardaeg</Label>
+		<Label xml:lang="fi-FI" Type="Standard">Magadanin normaaliaika</Label>
+		<Label xml:lang="fr-FR" Type="Standard">Magadan</Label>
+		<Label xml:lang="he-IL" Type="Standard">שעון רגיל מגדן</Label>
+		<Label xml:lang="hr-HR" Type="Standard">Magadan - st. vrij.</Label>
+		<Label xml:lang="hu-HU" Type="Standard">Magadáni téli idő</Label>
+		<Label xml:lang="it-IT" Type="Standard">Ora solare Magadan</Label>
+		<Label xml:lang="ja-JP" Type="Standard">マガダン標準時</Label>
+		<Label xml:lang="ko-KR" Type="Standard">마가단 표준시</Label>
+		<Label xml:lang="lt-LT" Type="Standard">Standartinis Magadano laikas</Label>
+		<Label xml:lang="lv-LV" Type="Standard">Magadanas standarta laiks</Label>
+		<Label xml:lang="nb-NO" Type="Standard">Magadan (normaltid)</Label>
+		<Label xml:lang="nl-NL" Type="Standard">Magadan (standaardtijd)</Label>
+		<Label xml:lang="pl-PL" Type="Standard">Magadan (czas standardowy)</Label>
+		<Label xml:lang="pt-BR" Type="Standard">Hora Padrão de Magadã</Label>
+		<Label xml:lang="pt-PT" Type="Standard">Hora padrão de Magadã</Label>
+		<Label xml:lang="ro-RO" Type="Standard">Magadan, oră standard</Label>
+		<Label xml:lang="ru-RU" Type="Standard">Магадан (зима)</Label>
+		<Label xml:lang="sk-SK" Type="Standard">Magadan (normálny čas)</Label>
+		<Label xml:lang="sl-SI" Type="Standard">Magadanski standardni čas</Label>
+		<Label xml:lang="sv-SE" Type="Standard">Magadan, normaltid</Label>
+		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของมากาดาน </Label>
+		<Label xml:lang="tr-TR" Type="Standard">Magadan Standart Saati</Label>
+		<Label xml:lang="uk-UA" Type="Standard">Магаданський час (зима)</Label>
+		<Label xml:lang="zh-CN" Type="Standard">马加丹标准时间</Label>
+		<Label xml:lang="zh-TW" Type="Standard">馬加丹標準時間</Label>
+		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Magadanu</Label>
+		<Label xml:lang="en" Type="Daylight">Magadan Daylight Time</Label>
+		<Label xml:lang="ar-SA" Type="Daylight">ماجادان - التوقيت الصيفي</Label>
+		<Label xml:lang="bg-BG" Type="Daylight">Магадан - лятно време</Label>
+		<Label xml:lang="cs-CZ" Type="Daylight">Magadan (letní čas)</Label>
+		<Label xml:lang="da-DK" Type="Daylight">Magadan, sommertid</Label>
+		<Label xml:lang="de-DE" Type="Daylight">Magadan Sommerzeit</Label>
+		<Label xml:lang="el-GR" Type="Daylight">Θερινή ώρα Μάγκανταν</Label>
+		<Label xml:lang="en-US" Type="Daylight">Magadan Daylight Time</Label>
+		<Label xml:lang="es-ES" Type="Daylight">Hora de verano de Magadán</Label>
+		<Label xml:lang="et-EE" Type="Daylight">Magadani suveaeg</Label>
+		<Label xml:lang="fi-FI" Type="Daylight">Magadanin kesäaika</Label>
+		<Label xml:lang="fr-FR" Type="Daylight">Magadan (heure d'été)</Label>
+		<Label xml:lang="he-IL" Type="Daylight">שעון קיץ מגדן</Label>
+		<Label xml:lang="hr-HR" Type="Daylight">Magadan - ljet. vrij.</Label>
+		<Label xml:lang="hu-HU" Type="Daylight">Magadáni nyári idő</Label>
+		<Label xml:lang="it-IT" Type="Daylight">Ora legale Magadan</Label>
+		<Label xml:lang="ja-JP" Type="Daylight">マガダン夏時間</Label>
+		<Label xml:lang="ko-KR" Type="Daylight">마가단 일광 절약 시간</Label>
+		<Label xml:lang="lt-LT" Type="Daylight">Magadano vasaros / žiemos laik.</Label>
+		<Label xml:lang="lv-LV" Type="Daylight">Magadanas vasaras laiks</Label>
+		<Label xml:lang="nb-NO" Type="Daylight">Magadan (sommertid)</Label>
+		<Label xml:lang="nl-NL" Type="Daylight">Magadan (zomertijd)</Label>
+		<Label xml:lang="pl-PL" Type="Daylight">Magadan (czas letni)</Label>
+		<Label xml:lang="pt-BR" Type="Daylight">Horário de Verão de Magadã</Label>
+		<Label xml:lang="pt-PT" Type="Daylight">Hora de Verão de Magadã</Label>
+		<Label xml:lang="ro-RO" Type="Daylight">Magadan, oră de vară</Label>
+		<Label xml:lang="ru-RU" Type="Daylight">Магадан (лето)</Label>
+		<Label xml:lang="sk-SK" Type="Daylight">Magadan (letný čas)</Label>
+		<Label xml:lang="sl-SI" Type="Daylight">Magadanski poletni čas</Label>
+		<Label xml:lang="sv-SE" Type="Daylight">Magadan, sommartid</Label>
+		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของมากาดาน </Label>
+		<Label xml:lang="tr-TR" Type="Daylight">Magadan Yaz Saati</Label>
+		<Label xml:lang="uk-UA" Type="Daylight">Магаданський час (літо)</Label>
+		<Label xml:lang="zh-CN" Type="Daylight">马加丹夏令时</Label>
+		<Label xml:lang="zh-TW" Type="Daylight">馬加丹日光節約時間</Label>
+		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Magadanu</Label>
+		<Info Bias="-11:00:00">
+			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="03:00:00">Last Sunday of October at 3:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
+		</Info>
 	</TimeZone>
 	<TimeZone Name="MauritiusStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Mauritius Standard Time">Mauritius Standard Time</Link>
@@ -7041,7 +7160,7 @@
 		<Label xml:lang="sk-SK">(UTC+01:00) Windhoek</Label>
 		<Label xml:lang="sl-SI">(UTC+01:00) Windhoek</Label>
 		<Label xml:lang="sv-SE">(UTC+01:00) Windhoek</Label>
-		<Label xml:lang="th-TH">(UTC+01:00)) วินด์ฮุก</Label>
+		<Label xml:lang="th-TH">(UTC+01:00) วินด์ฮุก</Label>
 		<Label xml:lang="tr-TR">(UTC+01:00) Windhoek</Label>
 		<Label xml:lang="uk-UA">(UTC+01:00) Віндгук</Label>
 		<Label xml:lang="zh-CN">(UTC+01:00)温得和克</Label>
@@ -7122,6 +7241,14 @@
 		<Info Bias="-01:00:00">
 			<Date Type="Standard" Week="First" Day="Sunday" Month="September" Time="02:00:00">First Sunday of September at 2:00</Date>
 			<Date Type="Daylight" Bias="01:00:00" Week="First" Day="Sunday" Month="April" Time="02:00:00">First Sunday of April at 2:00</Date>
+		</Info>
+		<Info Year="2010" Bias="-02:00:00">
+			<Date Type="Standard" Week="First" Day="Sunday" Month="September" Time="02:00:00">First Sunday of September at 2:00</Date>
+			<Date Type="Daylight" Bias="01:00:00" Week="First" Day="Sunday" Month="April" Time="02:00:00">First Sunday of April at 2:00</Date>
+		</Info>
+		<Info Year="2011" Bias="-01:00:00">
+			<Date Type="Standard" Week="First" Day="Sunday" Month="April" Time="02:00:00">First Sunday of April at 2:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Sunday" Month="September" Time="02:00:00">First Sunday of September at 2:00</Date>
 		</Info>
 	</TimeZone>
 	<TimeZone Name="NepalStandardTime">
@@ -10359,7 +10486,7 @@
 		<Label xml:lang="ro-RO" Type="Standard">SUA, oră standard est</Label>
 		<Label xml:lang="ru-RU" Type="Standard">США - восточное время (зима)</Label>
 		<Label xml:lang="sk-SK" Type="Standard">USA – východný čas (normálny)</Label>
-		<Label xml:lang="sl-SI" Type="Standard">ZDA – vzhodni standardni čas</Label>
+		<Label xml:lang="sl-SI" Type="Standard">ZDA - vzhodni standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">US Eastern, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลาฝั่งต.อ.มาตรฐานของอเมริกา</Label>
 		<Label xml:lang="tr-TR" Type="Standard">ABD Doğu Standart Saati</Label>
@@ -10395,7 +10522,7 @@
 		<Label xml:lang="ro-RO" Type="Daylight">SUA, oră de vară est</Label>
 		<Label xml:lang="ru-RU" Type="Daylight">США - восточное время (лето)</Label>
 		<Label xml:lang="sk-SK" Type="Daylight">USA – východný čas (letný)</Label>
-		<Label xml:lang="sl-SI" Type="Daylight">ZDA – vzhodni poletni čas</Label>
+		<Label xml:lang="sl-SI" Type="Daylight">ZDA - vzhodni poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">US Eastern, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาฝั่งต.อ.ตามฤดูกาลของอเมริกา</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">ABD Doğu Yaz Saati</Label>
@@ -10483,7 +10610,7 @@
 		<Label xml:lang="ro-RO" Type="Standard">SUA, oră standard (MST)</Label>
 		<Label xml:lang="ru-RU" Type="Standard">США - горное время (зима)</Label>
 		<Label xml:lang="sk-SK" Type="Standard">USA horský čas (normálny)</Label>
-		<Label xml:lang="sl-SI" Type="Standard">ZDA – gorski standardni čas</Label>
+		<Label xml:lang="sl-SI" Type="Standard">ZDA - gorski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">US Mountain, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลาเขตภูเขามาตรฐานของอเมริกา</Label>
 		<Label xml:lang="tr-TR" Type="Standard">ABD Sıradağlar Standart Saati</Label>
@@ -10519,7 +10646,7 @@
 		<Label xml:lang="ro-RO" Type="Daylight">SUA, oră de vară (MDT)</Label>
 		<Label xml:lang="ru-RU" Type="Daylight">США - горное время (лето)</Label>
 		<Label xml:lang="sk-SK" Type="Daylight">USA horský čas (letný)</Label>
-		<Label xml:lang="sl-SI" Type="Daylight">ZDA – gorski poletni čas</Label>
+		<Label xml:lang="sl-SI" Type="Daylight">ZDA - gorski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">US Mountain, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาเขตภูเขาตามฤดูกาลของอเมริกา</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">ABD Sıradağlar Yaz Saati</Label>
@@ -10533,7 +10660,7 @@
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\UTC">UTC</Link>
 		<Label xml:lang="en">(UTC) Coordinated Universal Time</Label>
 		<Label xml:lang="ar-SA">‫(UTC) توقيت عالمي متفق عليه‬</Label>
-		<Label xml:lang="bg-BG">(UTC) Координирано универсално вр. </Label>
+		<Label xml:lang="bg-BG">(UTC) Координирано универсално време</Label>
 		<Label xml:lang="cs-CZ">(UTC) Koordinovaný světový čas</Label>
 		<Label xml:lang="da-DK">(UTC) Coordinated Universal Time</Label>
 		<Label xml:lang="de-DE">(UTC) Koordinierte Weltzeit</Label>
@@ -10653,7 +10780,7 @@
 		<Label xml:lang="en-US">(UTC+12:00) Coordinated Universal Time+12</Label>
 		<Label xml:lang="es-ES">(UTC+12:00) Hora universal coordinada+12</Label>
 		<Label xml:lang="et-EE">(UTC+12:00) Maailmaaeg + 12:00</Label>
-		<Label xml:lang="fi-FI">(UTC+12:00) Koordinoitu yleisaika +12</Label>
+		<Label xml:lang="fi-FI">(UTC+12:00) Coordinated Universal Time+12</Label>
 		<Label xml:lang="fr-FR">(UTC+12:00) Temps universel coordonné+12</Label>
 		<Label xml:lang="he-IL">(UTC+12:00) זמן אוניברסלי מתואם+12</Label>
 		<Label xml:lang="hr-HR">(UTC+12:00) Univerzalno koordinirano vrijeme+12</Label>
@@ -10661,14 +10788,14 @@
 		<Label xml:lang="it-IT">(UTC+12.00) Coordinated Universal Time+12</Label>
 		<Label xml:lang="ja-JP">(UTC+12:00) 協定世界時+12</Label>
 		<Label xml:lang="ko-KR">(UTC+12:00) 협정 세계시+12</Label>
-		<Label xml:lang="lt-LT">(UTC+12:00) Universalusis laikas+12</Label>
+		<Label xml:lang="lt-LT">(UTC+12:00) Pasaulinis koordinuotasis laikas+12</Label>
 		<Label xml:lang="lv-LV">(UTC+12:00) Universālais koordinētais laiks + 12</Label>
 		<Label xml:lang="nb-NO">(UTC+12:00) Coordinated Universal Time+12</Label>
 		<Label xml:lang="nl-NL">(UTC+12:00) Coordinated Universal Time+12</Label>
 		<Label xml:lang="pl-PL">(UTC+12:00) Uniwersalny czas koordynowany + 12</Label>
 		<Label xml:lang="pt-BR">(UTC+12:00) Tempo Universal Coordenado+12</Label>
 		<Label xml:lang="pt-PT">(UTC+12:00) Hora Universal Coordenada+12</Label>
-		<Label xml:lang="ro-RO">(UTC+12:00) Timp universal+12</Label>
+		<Label xml:lang="ro-RO">(UTC+12:00) Ora universală+12</Label>
 		<Label xml:lang="ru-RU">(UTC+12:00) Время в формате UTC +12</Label>
 		<Label xml:lang="sk-SK">(UTC+12:00) Koordinovaný svetový čas+12</Label>
 		<Label xml:lang="sl-SI">(UTC+12:00) Usklajen univerzalni čas+12</Label>
@@ -10765,7 +10892,7 @@
 		<Label xml:lang="en-US">(UTC-02:00) Coordinated Universal Time-02</Label>
 		<Label xml:lang="es-ES">(UTC-02:00) Hora universal coordinada-02</Label>
 		<Label xml:lang="et-EE">(UTC-02:00) Maailmaaeg - 02:00</Label>
-		<Label xml:lang="fi-FI">(UTC-02:00) Koordinoitu yleisaika -02</Label>
+		<Label xml:lang="fi-FI">(UTC-02:00) Coordinated Universal Time-02</Label>
 		<Label xml:lang="fr-FR">(UTC-02:00) Temps universel coordonné-02</Label>
 		<Label xml:lang="he-IL">(UTC-02:00) זמן אוניברסלי מתואם-02</Label>
 		<Label xml:lang="hr-HR">(UTC-02:00) Univerzalno koordinirano vrijeme-02</Label>
@@ -10773,14 +10900,14 @@
 		<Label xml:lang="it-IT">(UTC-2.00) Coordinated Universal Time-02</Label>
 		<Label xml:lang="ja-JP">(UTC-02:00) 協定世界時-02</Label>
 		<Label xml:lang="ko-KR">(UTC-02:00) 협정 세계시-02</Label>
-		<Label xml:lang="lt-LT">(UTC-02:00) Universalusis laikas-02</Label>
+		<Label xml:lang="lt-LT">(UTC-02:00) Pasaulinis koordinuotasis laikas-02</Label>
 		<Label xml:lang="lv-LV">(UTC-02:00) Universālais koordinētais laiks - 02</Label>
 		<Label xml:lang="nb-NO">(UTC-02:00) Coordinated Universal Time-02</Label>
 		<Label xml:lang="nl-NL">(UTC-02:00) Coordinated Universal Time-02</Label>
 		<Label xml:lang="pl-PL">(UTC-02:00) Uniwersalny czas koordynowany – 02</Label>
 		<Label xml:lang="pt-BR">(UTC-02:00) Tempo Universal Coordenado-02</Label>
 		<Label xml:lang="pt-PT">(UTC-02:00) Hora Universal Coordenada-02</Label>
-		<Label xml:lang="ro-RO">(UTC-02:00) Timp universal-02</Label>
+		<Label xml:lang="ro-RO">(UTC-02:00) Ora universală-02</Label>
 		<Label xml:lang="ru-RU">(UTC-02:00) Время в формате UTC -02</Label>
 		<Label xml:lang="sk-SK">(UTC-02:00) Koordinovaný svetový čas-02</Label>
 		<Label xml:lang="sl-SI">(UTC-02:00) Usklajen univerzalni čas-02</Label>
@@ -10877,7 +11004,7 @@
 		<Label xml:lang="en-US">(UTC-11:00) Coordinated Universal Time-11</Label>
 		<Label xml:lang="es-ES">(UTC-11:00) Hora universal coordinada-11</Label>
 		<Label xml:lang="et-EE">(UTC-11:00) Maailmaaeg - 11:00</Label>
-		<Label xml:lang="fi-FI">(UTC-11:00) Koordinoitu yleisaika -11</Label>
+		<Label xml:lang="fi-FI">(UTC-11:00) Coordinated Universal Time-11</Label>
 		<Label xml:lang="fr-FR">(UTC-11:00) Temps universel coordonné-11</Label>
 		<Label xml:lang="he-IL">(UTC-11:00) זמן אוניברסלי מתואם-11</Label>
 		<Label xml:lang="hr-HR">(UTC-11:00) Univerzalno koordinirano vrijeme-11</Label>
@@ -10885,14 +11012,14 @@
 		<Label xml:lang="it-IT">(UTC-11.00) Coordinated Universal Time-11</Label>
 		<Label xml:lang="ja-JP">(UTC-11:00) 協定世界時-11</Label>
 		<Label xml:lang="ko-KR">(UTC-11:00) 협정 세계시-11</Label>
-		<Label xml:lang="lt-LT">(UTC-11:00) Universalusis laikas-11</Label>
+		<Label xml:lang="lt-LT">(UTC-11:00) Pasaulinis koordinuotasis laikas-11</Label>
 		<Label xml:lang="lv-LV">(UTC-11:00) Universālais koordinētais laiks - 11</Label>
 		<Label xml:lang="nb-NO">(UTC-11:00) Coordinated Universal Time-11</Label>
 		<Label xml:lang="nl-NL">(UTC-11:00) Coordinated Universal Time-11</Label>
 		<Label xml:lang="pl-PL">(UTC-11:00) Uniwersalny czas koordynowany – 11</Label>
 		<Label xml:lang="pt-BR">(UTC-11:00) Tempo Universal Coordenado-11</Label>
 		<Label xml:lang="pt-PT">(UTC-11:00) Hora Universal Coordenada-11</Label>
-		<Label xml:lang="ro-RO">(UTC-11:00) Timp universal-11</Label>
+		<Label xml:lang="ro-RO">(UTC-11:00) Ora universală-11</Label>
 		<Label xml:lang="ru-RU">(UTC-11:00) Время в формате UTC -11</Label>
 		<Label xml:lang="sk-SK">(UTC-11:00) Koordinovaný svetový čas-11</Label>
 		<Label xml:lang="sl-SI">(UTC-11:00) Usklajen univerzalni čas-11</Label>
@@ -11966,6 +12093,7 @@
 		<Export Name="JordanStandardTime" />
 		<Export Name="KamchatkaStandardTime" />
 		<Export Name="KoreaStandardTime" />
+		<Export Name="MagadanStandardTime" />
 		<Export Name="MauritiusStandardTime" />
 		<Export Name="MidAtlanticStandardTime" />
 		<Export Name="MiddleEastStandardTime" />
@@ -12306,6 +12434,10 @@
 		</Export>
 		<Export Name="CentralPacificStandardTime" External="UTC11">
 			<Label xml:lang="en">Central Pacific Standard Time</Label>
+		</Export>
+		<Export Name="MagadanStandardTime" External="UTC11UZ10">
+			<Label xml:lang="en">Magadan Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">UZ10</Label>
 		</Export>
 		<Export Name="NorfolkTime" External="UTC1130NFT">
 			<Label xml:lang="en">Norfolk Time (Australia)</Label>
