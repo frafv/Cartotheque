@@ -301,7 +301,7 @@
 						<xs:annotation>
 							<xs:documentation xml:lang="en">Samoa Standard Time</xs:documentation>
 							<xs:appinfo source="DST">
-								<xs:documentation xml:lang="en">Last Saturday of September at 23:59:59 – First Friday of January at 0:00</xs:documentation>
+								<xs:documentation xml:lang="en">Last Sunday of September at 0:00 – First Sunday of April at 1:00</xs:documentation>
 							</xs:appinfo>
 						</xs:annotation>
 					</xs:enumeration>
@@ -408,7 +408,7 @@
 						<xs:annotation>
 							<xs:documentation xml:lang="en">Pacific SA Standard Time</xs:documentation>
 							<xs:appinfo source="DST">
-								<xs:documentation xml:lang="en">Second Saturday of October at 23:59:59 – First Saturday of April at 23:59:59</xs:documentation>
+								<xs:documentation xml:lang="en">Third Saturday of August at 23:59:59 – First Saturday of May at 23:59:59</xs:documentation>
 							</xs:appinfo>
 						</xs:annotation>
 					</xs:enumeration>
@@ -424,7 +424,7 @@
 						<xs:annotation>
 							<xs:documentation xml:lang="en">Newfoundland Standard Time</xs:documentation>
 							<xs:appinfo source="DST">
-								<xs:documentation xml:lang="en">Second Sunday of March at 0:01 – First Sunday of November at 0:01</xs:documentation>
+								<xs:documentation xml:lang="en">Second Sunday of March at 0:01 – First Sunday of November at 2:00</xs:documentation>
 							</xs:appinfo>
 						</xs:annotation>
 					</xs:enumeration>
@@ -513,7 +513,7 @@
 						<xs:annotation>
 							<xs:documentation xml:lang="en">Morocco Standard Time</xs:documentation>
 							<xs:appinfo source="DST">
-								<xs:documentation xml:lang="en">First Saturday of May at 23:59:59 – First Saturday of August at 23:59:59</xs:documentation>
+								<xs:documentation xml:lang="en">First Saturday of April at 23:59:59 – Last Saturday of July at 23:59:59</xs:documentation>
 							</xs:appinfo>
 						</xs:annotation>
 					</xs:enumeration>
@@ -540,7 +540,7 @@
 					</xs:enumeration>
 					<xs:enumeration value="UTC+2">
 						<xs:annotation>
-							<xs:documentation xml:lang="en">South Africa Standard Time</xs:documentation>
+							<xs:documentation xml:lang="en">Egypt Standard Time, South Africa Standard Time</xs:documentation>
 						</xs:annotation>
 					</xs:enumeration>
 					<xs:enumeration value="UTC+2 EET">
@@ -559,14 +559,6 @@
 							</xs:appinfo>
 						</xs:annotation>
 					</xs:enumeration>
-					<xs:enumeration value="UTC+2 Egypt">
-						<xs:annotation>
-							<xs:documentation xml:lang="en">Egypt Standard Time</xs:documentation>
-							<xs:appinfo source="DST">
-								<xs:documentation xml:lang="en">Last Thursday of April at 23:59:59 – Last Thursday of September at 23:59:59</xs:documentation>
-							</xs:appinfo>
-						</xs:annotation>
-					</xs:enumeration>
 					<xs:enumeration value="UTC+2 IST">
 						<xs:annotation>
 							<xs:documentation xml:lang="en">Jerusalem Standard Time</xs:documentation>
@@ -580,6 +572,14 @@
 							<xs:documentation xml:lang="en">Jordan Standard Time</xs:documentation>
 							<xs:appinfo source="DST">
 								<xs:documentation xml:lang="en">Last Thursday of March at 0:00 – Last Friday of September at 1:00</xs:documentation>
+							</xs:appinfo>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="UTC+2 Turkey">
+						<xs:annotation>
+							<xs:documentation xml:lang="en">Turkey Standard Time</xs:documentation>
+							<xs:appinfo source="DST">
+								<xs:documentation xml:lang="en">Last Monday of March at 3:00 – Last Sunday of October at 4:00</xs:documentation>
 							</xs:appinfo>
 						</xs:annotation>
 					</xs:enumeration>
@@ -604,12 +604,9 @@
 							<xs:documentation xml:lang="en">Arab Standard Time, Arabic Standard Time, E. Africa Standard Time</xs:documentation>
 						</xs:annotation>
 					</xs:enumeration>
-					<xs:enumeration value="UTC+3 MSK">
+					<xs:enumeration value="UTC+3 USZ2">
 						<xs:annotation>
-							<xs:documentation xml:lang="en">Russian Standard Time</xs:documentation>
-							<xs:appinfo source="DST">
-								<xs:documentation xml:lang="en">Last Sunday of March at 2:00 – Last Sunday of October at 3:00</xs:documentation>
-							</xs:appinfo>
+							<xs:documentation xml:lang="en">Kaliningrad Standard Time</xs:documentation>
 						</xs:annotation>
 					</xs:enumeration>
 					<xs:enumeration value="UTC+3:30">
@@ -641,6 +638,11 @@
 							</xs:appinfo>
 						</xs:annotation>
 					</xs:enumeration>
+					<xs:enumeration value="UTC+4 MSD">
+						<xs:annotation>
+							<xs:documentation xml:lang="en">Russian Standard Time</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
 					<xs:enumeration value="UTC+4 MUT">
 						<xs:annotation>
 							<xs:documentation xml:lang="en">Mauritius Standard Time</xs:documentation>
@@ -664,14 +666,6 @@
 							</xs:appinfo>
 						</xs:annotation>
 					</xs:enumeration>
-					<xs:enumeration value="UTC+5 YEKT">
-						<xs:annotation>
-							<xs:documentation xml:lang="en">Ekaterinburg Standard Time</xs:documentation>
-							<xs:appinfo source="DST">
-								<xs:documentation xml:lang="en">Last Sunday of March at 2:00 – Last Sunday of October at 3:00</xs:documentation>
-							</xs:appinfo>
-						</xs:annotation>
-					</xs:enumeration>
 					<xs:enumeration value="UTC+5:30 IST">
 						<xs:annotation>
 							<xs:documentation xml:lang="en">India Standard Time, Sri Lanka Standard Time</xs:documentation>
@@ -692,12 +686,9 @@
 							<xs:documentation xml:lang="en">Bangladesh Standard Time</xs:documentation>
 						</xs:annotation>
 					</xs:enumeration>
-					<xs:enumeration value="UTC+6 USZ5">
+					<xs:enumeration value="UTC+6 YEKST">
 						<xs:annotation>
-							<xs:documentation xml:lang="en">N. Central Asia Standard Time</xs:documentation>
-							<xs:appinfo source="DST">
-								<xs:documentation xml:lang="en">Last Sunday of March at 2:00 – Last Sunday of October at 3:00</xs:documentation>
-							</xs:appinfo>
+							<xs:documentation xml:lang="en">Ekaterinburg Standard Time</xs:documentation>
 						</xs:annotation>
 					</xs:enumeration>
 					<xs:enumeration value="UTC+6:30 MMT">
@@ -710,12 +701,9 @@
 							<xs:documentation xml:lang="en">SE Asia Standard Time</xs:documentation>
 						</xs:annotation>
 					</xs:enumeration>
-					<xs:enumeration value="UTC+7 USZ6">
+					<xs:enumeration value="UTC+7 OMSST">
 						<xs:annotation>
-							<xs:documentation xml:lang="en">North Asia Standard Time</xs:documentation>
-							<xs:appinfo source="DST">
-								<xs:documentation xml:lang="en">Last Sunday of March at 2:00 – Last Sunday of October at 3:00</xs:documentation>
-							</xs:appinfo>
+							<xs:documentation xml:lang="en">N. Central Asia Standard Time</xs:documentation>
 						</xs:annotation>
 					</xs:enumeration>
 					<xs:enumeration value="UTC+8">
@@ -731,12 +719,9 @@
 							</xs:appinfo>
 						</xs:annotation>
 					</xs:enumeration>
-					<xs:enumeration value="UTC+8 USZ7">
+					<xs:enumeration value="UTC+8 KRAST">
 						<xs:annotation>
-							<xs:documentation xml:lang="en">North Asia East Standard Time</xs:documentation>
-							<xs:appinfo source="DST">
-								<xs:documentation xml:lang="en">Last Sunday of March at 2:00 – Last Sunday of October at 3:00</xs:documentation>
-							</xs:appinfo>
+							<xs:documentation xml:lang="en">North Asia Standard Time</xs:documentation>
 						</xs:annotation>
 					</xs:enumeration>
 					<xs:enumeration value="UTC+8:45 CWT">
@@ -749,12 +734,9 @@
 							<xs:documentation xml:lang="en">Korea Standard Time, Tokyo Standard Time</xs:documentation>
 						</xs:annotation>
 					</xs:enumeration>
-					<xs:enumeration value="UTC+9 USZ8">
+					<xs:enumeration value="UTC+9 IRKST">
 						<xs:annotation>
-							<xs:documentation xml:lang="en">Yakutsk Standard Time</xs:documentation>
-							<xs:appinfo source="DST">
-								<xs:documentation xml:lang="en">Last Sunday of March at 2:00 – Last Sunday of October at 3:00</xs:documentation>
-							</xs:appinfo>
+							<xs:documentation xml:lang="en">North Asia East Standard Time</xs:documentation>
 						</xs:annotation>
 					</xs:enumeration>
 					<xs:enumeration value="UTC+9:30">
@@ -791,12 +773,9 @@
 							</xs:appinfo>
 						</xs:annotation>
 					</xs:enumeration>
-					<xs:enumeration value="UTC+10 USZ9">
+					<xs:enumeration value="UTC+10 YAKST">
 						<xs:annotation>
-							<xs:documentation xml:lang="en">Vladivostok Standard Time</xs:documentation>
-							<xs:appinfo source="DST">
-								<xs:documentation xml:lang="en">Last Sunday of March at 2:00 – Last Sunday of October at 3:00</xs:documentation>
-							</xs:appinfo>
+							<xs:documentation xml:lang="en">Yakutsk Standard Time</xs:documentation>
 						</xs:annotation>
 					</xs:enumeration>
 					<xs:enumeration value="UTC+11">
@@ -804,12 +783,9 @@
 							<xs:documentation xml:lang="en">Central Pacific Standard Time</xs:documentation>
 						</xs:annotation>
 					</xs:enumeration>
-					<xs:enumeration value="UTC+11 UZ10">
+					<xs:enumeration value="UTC+11 VLAST">
 						<xs:annotation>
-							<xs:documentation xml:lang="en">Magadan Standard Time</xs:documentation>
-							<xs:appinfo source="DST">
-								<xs:documentation xml:lang="en">Last Sunday of March at 2:00 – Last Sunday of October at 3:00</xs:documentation>
-							</xs:appinfo>
+							<xs:documentation xml:lang="en">Vladivostok Standard Time</xs:documentation>
 						</xs:annotation>
 					</xs:enumeration>
 					<xs:enumeration value="UTC+11:30 NFT">
@@ -826,8 +802,13 @@
 						<xs:annotation>
 							<xs:documentation xml:lang="en">Fiji Standard Time</xs:documentation>
 							<xs:appinfo source="DST">
-								<xs:documentation xml:lang="en">Fourth Sunday of October at 2:00 – Last Sunday of March at 3:00</xs:documentation>
+								<xs:documentation xml:lang="en">Fourth Sunday of October at 2:00 – First Sunday of March at 3:00</xs:documentation>
 							</xs:appinfo>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="UTC+12 MAGST">
+						<xs:annotation>
+							<xs:documentation xml:lang="en">Magadan Standard Time</xs:documentation>
 						</xs:annotation>
 					</xs:enumeration>
 					<xs:enumeration value="UTC+12 NZST">
