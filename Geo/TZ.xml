@@ -1298,6 +1298,242 @@
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
 		</Info>
 	</TimeZone>
+	<TimeZone Name="BahiaStandardTime">
+		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Bahia Standard Time">Bahia Standard Time</Link>
+		<Label xml:lang="en">(UTC-03:00) Salvador</Label>
+		<Label xml:lang="ar-SA">(UTC-03:00) السلفادور</Label>
+		<Label xml:lang="bg-BG">(UTC-03:00) Салвадор</Label>
+		<Label xml:lang="cs-CZ">(UTC-03:00) Salvador</Label>
+		<Label xml:lang="da-DK">(UTC-03:00) Salvador</Label>
+		<Label xml:lang="de-DE">(UTC-03:00) Salvador</Label>
+		<Label xml:lang="el-GR">(UTC-03:00) Σαλβαδόρ</Label>
+		<Label xml:lang="en-US">(UTC-03:00) Salvador</Label>
+		<Label xml:lang="es-ES">(UTC-03:00) Salvador</Label>
+		<Label xml:lang="et-EE">(UTC-03:00) Salvador</Label>
+		<Label xml:lang="fi-FI">(UTC-03:00) Salvador</Label>
+		<Label xml:lang="fr-FR">(UTC-03:00) Salvador</Label>
+		<Label xml:lang="he-IL">(UTC-03:00)  סלבדור</Label>
+		<Label xml:lang="hr-HR">(UTC-03:00) Salvador</Label>
+		<Label xml:lang="hu-HU">(UTC-03:00) Salvador</Label>
+		<Label xml:lang="it-IT">(UTC-3.00) Salvador</Label>
+		<Label xml:lang="ja-JP">(UTC-03:00) サルバドル</Label>
+		<Label xml:lang="ko-KR">(UTC-03:00) 살바도르</Label>
+		<Label xml:lang="lt-LT">(UTC-03:00) Salvadoras</Label>
+		<Label xml:lang="lv-LV">(UTC-03:00) Salvadora</Label>
+		<Label xml:lang="nb-NO">(UTC-03:00) Salvador</Label>
+		<Label xml:lang="nl-NL">(UTC-03:00) Salvador</Label>
+		<Label xml:lang="pl-PL">(UTC-03:00) Salwador</Label>
+		<Label xml:lang="pt-BR">(UTC-03:00) Salvador</Label>
+		<Label xml:lang="pt-PT">(UTC-03:00) Salvador</Label>
+		<Label xml:lang="ro-RO">(UTC-03:00) Salvador</Label>
+		<Label xml:lang="ru-RU">(UTC-03:00) Сальвадор</Label>
+		<Label xml:lang="sk-SK">(UTC-03:00) Salvádor</Label>
+		<Label xml:lang="sl-SI">(UTC-03:00) Salvador</Label>
+		<Label xml:lang="sv-SE">(UTC-03:00) Salvador</Label>
+		<Label xml:lang="th-TH">(UTC-03:00) ซัลวาดอร์</Label>
+		<Label xml:lang="tr-TR">(UTC-03:00) Salvador</Label>
+		<Label xml:lang="uk-UA">(UTC-03:00) Сальвадор</Label>
+		<Label xml:lang="zh-CN">(UTC-03:00)萨尔瓦多</Label>
+		<Label xml:lang="zh-TW">(UTC-03:00) 薩爾瓦多</Label>
+		<Label xml:lang="sr-Latn-CS">(UTC-03:00) Salvador</Label>
+		<Label xml:lang="en" Type="Standard">Bahia Standard Time</Label>
+		<Label xml:lang="ar-SA" Type="Standard">باهيا - التوقيت الرسمي</Label>
+		<Label xml:lang="bg-BG" Type="Standard">Баия – стандартно време</Label>
+		<Label xml:lang="cs-CZ" Type="Standard">Bahia (běžný čas)</Label>
+		<Label xml:lang="da-DK" Type="Standard">Bahia, normaltid</Label>
+		<Label xml:lang="de-DE" Type="Standard">Bahia Normalzeit</Label>
+		<Label xml:lang="el-GR" Type="Standard">Χειμερινή ώρα Μπάχια</Label>
+		<Label xml:lang="en-US" Type="Standard">Bahia Standard Time</Label>
+		<Label xml:lang="es-ES" Type="Standard">Hora estándar de Bahía</Label>
+		<Label xml:lang="et-EE" Type="Standard">Bahia standardaeg</Label>
+		<Label xml:lang="fi-FI" Type="Standard">Bahian normaaliaika</Label>
+		<Label xml:lang="fr-FR" Type="Standard">Bahia</Label>
+		<Label xml:lang="he-IL" Type="Standard">שעון רגיל באהיה</Label>
+		<Label xml:lang="hr-HR" Type="Standard">Bahijsko standardno vrijeme</Label>
+		<Label xml:lang="hu-HU" Type="Standard">Bahiai téli idő</Label>
+		<Label xml:lang="it-IT" Type="Standard">ora solare Bahia</Label>
+		<Label xml:lang="ja-JP" Type="Standard">バイア標準時</Label>
+		<Label xml:lang="ko-KR" Type="Standard">바이아 표준시</Label>
+		<Label xml:lang="lt-LT" Type="Standard">Bahijos standartinis laikas</Label>
+		<Label xml:lang="lv-LV" Type="Standard">Baija standarta laiks</Label>
+		<Label xml:lang="nb-NO" Type="Standard">Bahia (normaltid)</Label>
+		<Label xml:lang="nl-NL" Type="Standard">Bahia (standaardtijd)</Label>
+		<Label xml:lang="pl-PL" Type="Standard">Bahia (czas standardowy)</Label>
+		<Label xml:lang="pt-BR" Type="Standard">Hora Padrão da Bahia</Label>
+		<Label xml:lang="pt-PT" Type="Standard">Hora Padrão da Baía</Label>
+		<Label xml:lang="ro-RO" Type="Standard">Bahia, oră standard</Label>
+		<Label xml:lang="ru-RU" Type="Standard">Баия (зима)</Label>
+		<Label xml:lang="sk-SK" Type="Standard">Bahia – normálny čas</Label>
+		<Label xml:lang="sl-SI" Type="Standard">Bahijski standardni čas</Label>
+		<Label xml:lang="sv-SE" Type="Standard">Bahia, normaltid</Label>
+		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานบาเอีย</Label>
+		<Label xml:lang="tr-TR" Type="Standard">Bahia Standart Saati</Label>
+		<Label xml:lang="uk-UA" Type="Standard">Баїя (зима)</Label>
+		<Label xml:lang="zh-CN" Type="Standard">巴伊亚标准时间</Label>
+		<Label xml:lang="zh-TW" Type="Standard">巴伊亞標準時間</Label>
+		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Bahiji</Label>
+		<Label xml:lang="en" Type="Daylight">Bahia Daylight Time</Label>
+		<Label xml:lang="ar-SA" Type="Daylight">باهيا - التوقيت الصيفي</Label>
+		<Label xml:lang="bg-BG" Type="Daylight">Баия – лятно часово време</Label>
+		<Label xml:lang="cs-CZ" Type="Daylight">Bahia (letní čas)</Label>
+		<Label xml:lang="da-DK" Type="Daylight">Bahia, sommertid</Label>
+		<Label xml:lang="de-DE" Type="Daylight">Bahia Sommerzeit</Label>
+		<Label xml:lang="el-GR" Type="Daylight">Θερινή ώρα Μπάχια</Label>
+		<Label xml:lang="en-US" Type="Daylight">Bahia Daylight Time</Label>
+		<Label xml:lang="es-ES" Type="Daylight">Hora de verano de Bahía</Label>
+		<Label xml:lang="et-EE" Type="Daylight">Bahia suveaeg</Label>
+		<Label xml:lang="fi-FI" Type="Daylight">Bahian kesäaika</Label>
+		<Label xml:lang="fr-FR" Type="Daylight">Bahia (heure d'été)</Label>
+		<Label xml:lang="he-IL" Type="Daylight">שעון קיץ באהיה</Label>
+		<Label xml:lang="hr-HR" Type="Daylight">Bahijsko ljetno vrijeme</Label>
+		<Label xml:lang="hu-HU" Type="Daylight">Bahiai nyári idő</Label>
+		<Label xml:lang="it-IT" Type="Daylight">ora legale Bahia</Label>
+		<Label xml:lang="ja-JP" Type="Daylight">バイア夏時間</Label>
+		<Label xml:lang="ko-KR" Type="Daylight">바이아 일광 절약 시간</Label>
+		<Label xml:lang="lt-LT" Type="Daylight">Bahijos vasaros laikas</Label>
+		<Label xml:lang="lv-LV" Type="Daylight">Baija vasaras laiks</Label>
+		<Label xml:lang="nb-NO" Type="Daylight">Bahia (sommertid)</Label>
+		<Label xml:lang="nl-NL" Type="Daylight">Bahia (zomertijd)</Label>
+		<Label xml:lang="pl-PL" Type="Daylight">Bahia (czas letni)</Label>
+		<Label xml:lang="pt-BR" Type="Daylight">Horário de Verão da Bahia</Label>
+		<Label xml:lang="pt-PT" Type="Daylight">Hora de Verão da Baía</Label>
+		<Label xml:lang="ro-RO" Type="Daylight">Bahia, oră de vară</Label>
+		<Label xml:lang="ru-RU" Type="Daylight">Баия (лето)</Label>
+		<Label xml:lang="sk-SK" Type="Daylight">Bahia – letný čas</Label>
+		<Label xml:lang="sl-SI" Type="Daylight">Bahijski poletni čas</Label>
+		<Label xml:lang="sv-SE" Type="Daylight">Bahia, sommartid</Label>
+		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลบาเอีย</Label>
+		<Label xml:lang="tr-TR" Type="Daylight">Bahia Yaz Saati</Label>
+		<Label xml:lang="uk-UA" Type="Daylight">Баїя (літо)</Label>
+		<Label xml:lang="zh-CN" Type="Daylight">巴伊亚夏令时</Label>
+		<Label xml:lang="zh-TW" Type="Daylight">巴伊亞日光節約時間</Label>
+		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Bahiji</Label>
+		<Info Bias="03:00:00">
+			<Date Type="Standard" Week="First" Day="Saturday" Month="January" Time="00:00:00">First Saturday of January at 0:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2010" Bias="03:00:00" />
+		<Info Year="2011" Bias="03:00:00">
+			<Date Type="Standard" Week="First" Day="Saturday" Month="January" Time="00:00:00">First Saturday of January at 0:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2012" Bias="03:00:00">
+			<Date Type="Standard" Week="Fourth" Day="Saturday" Month="February" Time="23:59:59">Fourth Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2013" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2014" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2015" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2016" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2017" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Second" Day="Saturday" Month="October" Time="23:59:59">Second Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2018" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2019" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2020" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2021" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2022" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2023" Bias="03:00:00">
+			<Date Type="Standard" Week="Fourth" Day="Saturday" Month="February" Time="23:59:59">Fourth Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Second" Day="Saturday" Month="October" Time="23:59:59">Second Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2024" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2025" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2026" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2027" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2028" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Second" Day="Saturday" Month="October" Time="23:59:59">Second Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2029" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2030" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2031" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2032" Bias="03:00:00">
+			<Date Type="Standard" Week="Second" Day="Saturday" Month="February" Time="23:59:59">Second Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2033" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2034" Bias="03:00:00">
+			<Date Type="Standard" Week="Fourth" Day="Saturday" Month="February" Time="23:59:59">Fourth Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Second" Day="Saturday" Month="October" Time="23:59:59">Second Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2035" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2036" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2037" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2038" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2039" Bias="03:00:00">
+			<Date Type="Standard" Week="Fourth" Day="Saturday" Month="February" Time="23:59:59">Fourth Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+		<Info Year="2040" Bias="03:00:00">
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="February" Time="23:59:59">Third Saturday of February at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
+		</Info>
+	</TimeZone>
 	<TimeZone Name="BangladeshStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Bangladesh Standard Time">Bangladesh Standard Time</Link>
 		<Label xml:lang="en">(UTC+06:00) Dhaka</Label>
@@ -3387,42 +3623,42 @@
 	</TimeZone>
 	<TimeZone Name="EEuropeStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\E. Europe Standard Time">E. Europe Standard Time</Link>
-		<Label xml:lang="en">(UTC+02:00) Minsk</Label>
-		<Label xml:lang="ar-SA">(UTC+02:00) مينسك</Label>
-		<Label xml:lang="bg-BG">(UTC+02:00) Минск</Label>
-		<Label xml:lang="cs-CZ">(UTC+02:00) Minsk</Label>
-		<Label xml:lang="da-DK">(UTC+02:00) Minsk</Label>
-		<Label xml:lang="de-DE">(UTC+02:00) Minsk</Label>
-		<Label xml:lang="el-GR">(UTC+02:00) Μινσκ</Label>
-		<Label xml:lang="en-US">(UTC+02:00) Minsk</Label>
-		<Label xml:lang="es-ES">(UTC+02:00) Minsk</Label>
-		<Label xml:lang="et-EE">(UTC+02:00) Minsk</Label>
-		<Label xml:lang="fi-FI">(UTC+02:00) Minsk</Label>
-		<Label xml:lang="fr-FR">(UTC+02:00) Minsk</Label>
-		<Label xml:lang="he-IL">(UTC+02:00) מינסק</Label>
-		<Label xml:lang="hr-HR">(UTC+02:00) Minsk</Label>
-		<Label xml:lang="hu-HU">(UTC+02:00) Minszk</Label>
-		<Label xml:lang="it-IT">(UTC+2.00) Minsk</Label>
-		<Label xml:lang="ja-JP">(UTC+02:00) ミンスク</Label>
-		<Label xml:lang="ko-KR">(UTC+02:00) 민스크</Label>
-		<Label xml:lang="lt-LT">(UTC+02:00) Minskas</Label>
-		<Label xml:lang="lv-LV">(UTC+02:00) Minska</Label>
-		<Label xml:lang="nb-NO">(UTC+02:00) Minsk</Label>
-		<Label xml:lang="nl-NL">(UTC+02:00) Minsk</Label>
-		<Label xml:lang="pl-PL">(UTC+02:00) Mińsk</Label>
-		<Label xml:lang="pt-BR">(UTC+02:00) Minsk</Label>
-		<Label xml:lang="pt-PT">(UTC+02:00) Minsk</Label>
-		<Label xml:lang="ro-RO">(UTC+02:00) Minsk</Label>
-		<Label xml:lang="ru-RU">(UTC+02:00) Минск</Label>
-		<Label xml:lang="sk-SK">(UTC+02:00) Minsk</Label>
-		<Label xml:lang="sl-SI">(UTC+02:00) Minsk</Label>
-		<Label xml:lang="sv-SE">(UTC+02:00) Minsk</Label>
-		<Label xml:lang="th-TH">(UTC+02:00) มินสก์</Label>
-		<Label xml:lang="tr-TR">(UTC+02:00) Minsk</Label>
-		<Label xml:lang="uk-UA">(UTC+02:00) Мінськ</Label>
-		<Label xml:lang="zh-CN">(UTC+02:00)明斯克</Label>
-		<Label xml:lang="zh-TW">(UTC+02:00) 明斯克</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+02:00) Minsk</Label>
+		<Label xml:lang="en">(UTC+02:00) Nicosia</Label>
+		<Label xml:lang="ar-SA">(UTC+02:00) نيقوسيا</Label>
+		<Label xml:lang="bg-BG">(UTC+02:00) Никозия</Label>
+		<Label xml:lang="cs-CZ">(UTC+02:00) Nikósie</Label>
+		<Label xml:lang="da-DK">(UTC+02:00) Nicosia</Label>
+		<Label xml:lang="de-DE">(UTC+02:00) Nikosia</Label>
+		<Label xml:lang="el-GR">(UTC+02:00) Λευκωσία</Label>
+		<Label xml:lang="en-US">(UTC+02:00) Nicosia</Label>
+		<Label xml:lang="es-ES">(UTC+02:00) Nicosia</Label>
+		<Label xml:lang="et-EE">(UTC+02:00) Nikosia</Label>
+		<Label xml:lang="fi-FI">(UTC+02:00) Nikosia</Label>
+		<Label xml:lang="fr-FR">(UTC+02:00) Nicosie</Label>
+		<Label xml:lang="he-IL">(UTC+02:00)  ניקוסיה</Label>
+		<Label xml:lang="hr-HR">(UTC+02:00) Nikozija</Label>
+		<Label xml:lang="hu-HU">(UTC+02:00) Nicosia</Label>
+		<Label xml:lang="it-IT">(UTC+2.00) Nicosia</Label>
+		<Label xml:lang="ja-JP">(UTC+02:00) ニコシア</Label>
+		<Label xml:lang="ko-KR">(UTC+02:00) 니코시아</Label>
+		<Label xml:lang="lt-LT">(UTC+02:00) Nikosija</Label>
+		<Label xml:lang="lv-LV">(UTC+02:00) Nikosija</Label>
+		<Label xml:lang="nb-NO">(UTC+02:00) Nicosia</Label>
+		<Label xml:lang="nl-NL">(UTC+02:00) Nicosia</Label>
+		<Label xml:lang="pl-PL">(UTC+02:00) Nikozja</Label>
+		<Label xml:lang="pt-BR">(UTC+02:00) Nicósia</Label>
+		<Label xml:lang="pt-PT">(UTC+02:00) Nicósia</Label>
+		<Label xml:lang="ro-RO">(UTC+02:00) Nicosia</Label>
+		<Label xml:lang="ru-RU">(UTC+02:00) Никосия</Label>
+		<Label xml:lang="sk-SK">(UTC+02:00) Nikózia</Label>
+		<Label xml:lang="sl-SI">(UTC+02:00) Nikozija</Label>
+		<Label xml:lang="sv-SE">(UTC+02:00) Nicosia</Label>
+		<Label xml:lang="th-TH">(UTC+02:00) นิโคเซีย</Label>
+		<Label xml:lang="tr-TR">(UTC+02:00) Nicosia</Label>
+		<Label xml:lang="uk-UA">(UTC+02:00) Нікозія</Label>
+		<Label xml:lang="zh-CN">(UTC+02:00)尼科西亚</Label>
+		<Label xml:lang="zh-TW">(UTC+02:00) 尼古西亞</Label>
+		<Label xml:lang="sr-Latn-CS">(UTC+02:00) Nikozija</Label>
 		<Label xml:lang="en" Type="Standard">E. Europe Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">أوروبا الشرقية - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Източноевропейско станд. време</Label>
@@ -4256,6 +4492,14 @@
 			<Date Type="Daylight" Bias="-01:00:00" Week="Fourth" Day="Sunday" Month="October" Time="02:00:00">Fourth Sunday of October at 2:00</Date>
 		</Info>
 		<Info Year="2011" Bias="-12:00:00">
+			<Date Type="Standard" Week="First" Day="Sunday" Month="March" Time="03:00:00">First Sunday of March at 3:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Fourth" Day="Sunday" Month="October" Time="02:00:00">Fourth Sunday of October at 2:00</Date>
+		</Info>
+		<Info Year="2012" Bias="-12:00:00">
+			<Date Type="Standard" Week="Fourth" Day="Sunday" Month="January" Time="03:00:00">Fourth Sunday of January at 3:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Fourth" Day="Sunday" Month="October" Time="02:00:00">Fourth Sunday of October at 2:00</Date>
+		</Info>
+		<Info Year="2013" Bias="-12:00:00">
 			<Date Type="Standard" Week="First" Day="Sunday" Month="March" Time="03:00:00">First Sunday of March at 3:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Fourth" Day="Sunday" Month="October" Time="02:00:00">Fourth Sunday of October at 2:00</Date>
 		</Info>
@@ -5667,42 +5911,42 @@
 	</TimeZone>
 	<TimeZone Name="KaliningradStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Kaliningrad Standard Time">Kaliningrad Standard Time</Link>
-		<Label xml:lang="en">(UTC+03:00) Kaliningrad</Label>
-		<Label xml:lang="ar-SA">(UTC+03:00) كالينينجراد</Label>
-		<Label xml:lang="bg-BG">(UTC+03:00) Калининград</Label>
-		<Label xml:lang="cs-CZ">(UTC+03:00) Kaliningrad</Label>
-		<Label xml:lang="da-DK">(UTC+03:00) Kaliningrad</Label>
-		<Label xml:lang="de-DE">(UTC+03:00) Kaliningrad</Label>
-		<Label xml:lang="el-GR">(UTC+03:00) Καλίνινγκραντ</Label>
-		<Label xml:lang="en-US">(UTC+03:00) Kaliningrad</Label>
-		<Label xml:lang="es-ES">(UTC+03:00) Kaliningrado</Label>
-		<Label xml:lang="et-EE">(UTC+03:00) Kaliningrad</Label>
-		<Label xml:lang="fi-FI">(UTC+03:00) Kaliningrad</Label>
-		<Label xml:lang="fr-FR">(UTC+03:00) Kaliningrad</Label>
-		<Label xml:lang="he-IL">(UTC+03:00) קלינינגרד</Label>
-		<Label xml:lang="hr-HR">(UTC+03:00) Kalinjingrad</Label>
-		<Label xml:lang="hu-HU">(UTC+03:00) Kalinyingrád</Label>
-		<Label xml:lang="it-IT">(UTC+3.00) Kaliningrad</Label>
-		<Label xml:lang="ja-JP">(UTC+03:00) カリーニングラード</Label>
-		<Label xml:lang="ko-KR">(UTC+03:00) 칼리닌그라드</Label>
-		<Label xml:lang="lt-LT">(UTC+03:00) Kaliningradas</Label>
-		<Label xml:lang="lv-LV">(UTC+03:00) Kaļiņingrada</Label>
-		<Label xml:lang="nb-NO">(UTC+03:00) Kaliningrad</Label>
-		<Label xml:lang="nl-NL">(UTC+03:00) Kaliningrad</Label>
-		<Label xml:lang="pl-PL">(UTC+03:00) Kaliningrad</Label>
-		<Label xml:lang="pt-BR">(UTC+03:00) Caliningrado</Label>
-		<Label xml:lang="pt-PT">(UTC+03:00) Kaliningrado</Label>
-		<Label xml:lang="ro-RO">(UTC+03:00) Kaliningrad</Label>
-		<Label xml:lang="ru-RU">(UTC+03:00) Калининград</Label>
-		<Label xml:lang="sk-SK">(UTC+03:00) Kaliningrad</Label>
-		<Label xml:lang="sl-SI">(UTC+03:00) Kaliningrad</Label>
-		<Label xml:lang="sv-SE">(UTC+03:00) Kaliningrad</Label>
-		<Label xml:lang="th-TH">(UTC+03:00) กาลีนินกราด</Label>
-		<Label xml:lang="tr-TR">(UTC+03:00) Kaliningrad</Label>
-		<Label xml:lang="uk-UA">(UTC+03:00) Калінінград</Label>
-		<Label xml:lang="zh-CN">(UTC+03:00)加里宁格勒</Label>
-		<Label xml:lang="zh-TW">(UTC+03:00) 卡里寧格勒</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+03:00) Kalinjingrad</Label>
+		<Label xml:lang="en">(UTC+03:00) Kaliningrad, Minsk</Label>
+		<Label xml:lang="ar-SA">(UTC+03:00) كالينينغراد، مينسك</Label>
+		<Label xml:lang="bg-BG">(UTC+03:00) Калининград, Минск</Label>
+		<Label xml:lang="cs-CZ">(UTC+03:00) Kaliningrad, Minsk</Label>
+		<Label xml:lang="da-DK">(UTC+03:00) Kaliningrad, Minsk</Label>
+		<Label xml:lang="de-DE">(UTC+03:00) Kaliningrad, Minsk</Label>
+		<Label xml:lang="el-GR">(UTC+03:00) Καλίνινγκραντ, Μινσκ</Label>
+		<Label xml:lang="en-US">(UTC+03:00) Kaliningrad, Minsk</Label>
+		<Label xml:lang="es-ES">(UTC+03:00) Kaliningrado, Minsk</Label>
+		<Label xml:lang="et-EE">(UTC+03:00) Kaliningrad, Minsk</Label>
+		<Label xml:lang="fi-FI">(UTC+03:00) Kaliningrad, Minsk</Label>
+		<Label xml:lang="fr-FR">(UTC+03:00) Kaliningrad, Minsk</Label>
+		<Label xml:lang="he-IL">(UTC+03:00)  קלינינגרד, מינסק</Label>
+		<Label xml:lang="hr-HR">(UTC+03:00) Kalinjingrad, Minsk</Label>
+		<Label xml:lang="hu-HU">(UTC+03:00) Kalinyingrád, Minszk</Label>
+		<Label xml:lang="it-IT">(UTC+3.00) Kaliningrad, Minsk</Label>
+		<Label xml:lang="ja-JP">(UTC+03:00) カリーニングラード、ミンスク</Label>
+		<Label xml:lang="ko-KR">(UTC+03:00) 칼리닌그라드, 민스크</Label>
+		<Label xml:lang="lt-LT">(UTC+03:00) Kaliningradas, Minskas</Label>
+		<Label xml:lang="lv-LV">(UTC+03:00) Kaļiņingrada, Minska</Label>
+		<Label xml:lang="nb-NO">(UTC+03:00) Kaliningrad, Minsk</Label>
+		<Label xml:lang="nl-NL">(UTC+03:00) Kaliningrad, Minsk</Label>
+		<Label xml:lang="pl-PL">(UTC+03:00) Kaliningrad, Mińsk</Label>
+		<Label xml:lang="pt-BR">(UTC+03:00) Caliningrado, Minsk</Label>
+		<Label xml:lang="pt-PT">(UTC+03:00) Kaliningrado, Minsk</Label>
+		<Label xml:lang="ro-RO">(UTC+03:00) Kaliningrad, Minsk</Label>
+		<Label xml:lang="ru-RU">(UTC+03:00) Калининград, Минск</Label>
+		<Label xml:lang="sk-SK">(UTC+03:00) Kaliningrad, Minsk</Label>
+		<Label xml:lang="sl-SI">(UTC+03:00) Kaliningrad, Minsk</Label>
+		<Label xml:lang="sv-SE">(UTC+03:00) Kaliningrad, Minsk</Label>
+		<Label xml:lang="th-TH">(UTC+03:00) กาลีนินกราด, มินสก์</Label>
+		<Label xml:lang="tr-TR">(UTC+03:00) Kaliningrad, Minsk</Label>
+		<Label xml:lang="uk-UA">(UTC+03:00) Калінінград, Мінськ</Label>
+		<Label xml:lang="zh-CN">(UTC+03:00)加里宁格勒，明斯克</Label>
+		<Label xml:lang="zh-TW">(UTC+03:00) 卡里寧格勒，明斯克</Label>
+		<Label xml:lang="sr-Latn-CS">(UTC+03:00) Kalinjingrad, Minsk</Label>
 		<Label xml:lang="en" Type="Standard">Kaliningrad Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">التوقيت الرسمي، كالينينجراد</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Калининград - стандартно време</Label>
@@ -9235,42 +9479,42 @@
 	</TimeZone>
 	<TimeZone Name="SamoaStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Samoa Standard Time">Samoa Standard Time</Link>
-		<Label xml:lang="en">(UTC-11:00) Samoa</Label>
-		<Label xml:lang="ar-SA">(UTC-11:00) ساموا</Label>
-		<Label xml:lang="bg-BG">(UTC-11:00) Самоа</Label>
-		<Label xml:lang="cs-CZ">(UTC-11:00) Samoa</Label>
-		<Label xml:lang="da-DK">(UTC-11:00) Samoa</Label>
-		<Label xml:lang="de-DE">(UTC-11:00) Samoa</Label>
-		<Label xml:lang="el-GR">(UTC-11:00) Σαμόα</Label>
-		<Label xml:lang="en-US">(UTC-11:00) Samoa</Label>
-		<Label xml:lang="es-ES">(UTC-11:00) Samoa</Label>
-		<Label xml:lang="et-EE">(UTC-11:00) Samoa</Label>
-		<Label xml:lang="fi-FI">(UTC-11:00) Samoa</Label>
-		<Label xml:lang="fr-FR">(UTC-11:00) Samoa</Label>
-		<Label xml:lang="he-IL">(UTC-11:00) סמואה</Label>
-		<Label xml:lang="hr-HR">(UTC-11:00) Samoa</Label>
-		<Label xml:lang="hu-HU">(UTC-11:00) Szamoa</Label>
-		<Label xml:lang="it-IT">(UTC-11.00) Samoa</Label>
-		<Label xml:lang="ja-JP">(UTC-11:00) サモア</Label>
-		<Label xml:lang="ko-KR">(UTC-11:00) 사모아</Label>
-		<Label xml:lang="lt-LT">(UTC-11:00) Samoa</Label>
-		<Label xml:lang="lv-LV">(UTC-11:00) Rietumsamoa</Label>
-		<Label xml:lang="nb-NO">(UTC-11:00) Samoa</Label>
-		<Label xml:lang="nl-NL">(UTC-11:00) Samoa</Label>
-		<Label xml:lang="pl-PL">(UTC-11:00) Samoa</Label>
-		<Label xml:lang="pt-BR">(UTC-11:00) Samoa</Label>
-		<Label xml:lang="pt-PT">(UTC-11:00) Samoa</Label>
-		<Label xml:lang="ro-RO">(UTC-11:00) Samoa</Label>
-		<Label xml:lang="ru-RU">(UTC-11:00) Самоа</Label>
-		<Label xml:lang="sk-SK">(UTC-11:00) Samoa</Label>
-		<Label xml:lang="sl-SI">(UTC-11:00) Samoa</Label>
-		<Label xml:lang="sv-SE">(UTC-11:00) Samoa</Label>
-		<Label xml:lang="th-TH">(UTC-11:00) ซามัว</Label>
-		<Label xml:lang="tr-TR">(UTC-11:00) Samoa</Label>
-		<Label xml:lang="uk-UA">(UTC-11:00) Самоа</Label>
-		<Label xml:lang="zh-CN">(UTC-11:00)萨摩亚群岛</Label>
-		<Label xml:lang="zh-TW">(UTC-11:00) 薩摩亞</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-11:00) Samoa</Label>
+		<Label xml:lang="en">(UTC+13:00) Samoa</Label>
+		<Label xml:lang="ar-SA">(UTC+13:00) ساموا</Label>
+		<Label xml:lang="bg-BG">(UTC+13:00) Самоа</Label>
+		<Label xml:lang="cs-CZ">(UTC+13:00) Samoa</Label>
+		<Label xml:lang="da-DK">(UTC+13:00) Samoa</Label>
+		<Label xml:lang="de-DE">(UTC+13:00) Samoa</Label>
+		<Label xml:lang="el-GR">(UTC+13:00) Σαμόα</Label>
+		<Label xml:lang="en-US">(UTC+13:00) Samoa</Label>
+		<Label xml:lang="es-ES">(UTC+13:00) Samoa</Label>
+		<Label xml:lang="et-EE">(UTC+13:00) Samoa</Label>
+		<Label xml:lang="fi-FI">(UTC+13:00) Samoa</Label>
+		<Label xml:lang="fr-FR">(UTC+13:00) Samoa</Label>
+		<Label xml:lang="he-IL">(UTC+13:00)  סמואה</Label>
+		<Label xml:lang="hr-HR">(UTC+13:00) Samoa</Label>
+		<Label xml:lang="hu-HU">(UTC+13:00) Szamoa</Label>
+		<Label xml:lang="it-IT">(UTC+13.00) Samoa</Label>
+		<Label xml:lang="ja-JP">(UTC+13:00) サモア</Label>
+		<Label xml:lang="ko-KR">(UTC+13:00) 사모아</Label>
+		<Label xml:lang="lt-LT">(UTC+13:00) Samoa</Label>
+		<Label xml:lang="lv-LV">(UTC+13:00) Rietumsamoa</Label>
+		<Label xml:lang="nb-NO">(UTC+13:00) Samoa</Label>
+		<Label xml:lang="nl-NL">(UTC+13:00) Samoa</Label>
+		<Label xml:lang="pl-PL">(UTC+13:00) Samoa</Label>
+		<Label xml:lang="pt-BR">(UTC+13:00) Samoa</Label>
+		<Label xml:lang="pt-PT">(UTC+13:00) Samoa</Label>
+		<Label xml:lang="ro-RO">(UTC+13:00) Samoa</Label>
+		<Label xml:lang="ru-RU">(UTC+13:00) Самоа</Label>
+		<Label xml:lang="sk-SK">(UTC+13:00) Samoa</Label>
+		<Label xml:lang="sl-SI">(UTC+13:00) Samoa</Label>
+		<Label xml:lang="sv-SE">(UTC+13:00) Samoa</Label>
+		<Label xml:lang="th-TH">(UTC+13:00) ซามัว</Label>
+		<Label xml:lang="tr-TR">(UTC+13:00) Samoa</Label>
+		<Label xml:lang="uk-UA">(UTC+13:00) Самоа</Label>
+		<Label xml:lang="zh-CN">(UTC+13:00)萨摩亚群岛</Label>
+		<Label xml:lang="zh-TW">(UTC+13:00) 薩摩亞</Label>
+		<Label xml:lang="sr-Latn-CS">(UTC+13:00) Samoa</Label>
 		<Label xml:lang="en" Type="Standard">Samoa Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">ساموا - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Самоа – стандартно време</Label>
@@ -9343,7 +9587,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">萨摩亚群岛夏令时</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">薩摩亞日光節約時間</Label>
 		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme na Samoi</Label>
-		<Info Bias="11:00:00">
+		<Info Bias="-13:00:00">
 			<Date Type="Standard" Week="First" Day="Sunday" Month="April" Time="01:00:00">First Sunday of April at 1:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="September" Time="00:00:00">Last Sunday of September at 0:00</Date>
 		</Info>
@@ -9352,7 +9596,7 @@
 			<Date Type="Standard" Week="First" Day="Friday" Month="January" Time="00:00:00">First Friday of January at 0:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Saturday" Month="September" Time="23:59:59">Last Saturday of September at 23:59:59</Date>
 		</Info>
-		<Info Year="2011" Bias="11:00:00">
+		<Info Year="2011" Bias="-13:00:00">
 			<Date Type="Standard" Week="First" Day="Sunday" Month="April" Time="01:00:00">First Sunday of April at 1:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="September" Time="00:00:00">Last Sunday of September at 0:00</Date>
 		</Info>
@@ -12307,6 +12551,7 @@
 		<Export Name="AUSEasternStandardTime" />
 		<Export Name="AzerbaijanStandardTime" />
 		<Export Name="AzoresStandardTime" />
+		<Export Name="BahiaStandardTime" />
 		<Export Name="BangladeshStandardTime" />
 		<Export Name="CanadaCentralStandardTime" />
 		<Export Name="CapeVerdeStandardTime" />
@@ -12408,10 +12653,6 @@
 		<Export Name="UTC-11" External="UTC-11">
 			<Label xml:lang="en">UTC-11</Label>
 		</Export>
-		<Export Name="SamoaStandardTime" External="UTC-11Samoa">
-			<Label xml:lang="en">Samoa Standard Time</Label>
-			<Label Type="Abbr" xml:lang="en">Samoa</Label>
-		</Export>
 		<Export Name="HawaiianStandardTime" External="UTC-10">
 			<Label xml:lang="en">Hawaiian Standard Time</Label>
 		</Export>
@@ -12489,6 +12730,10 @@
 		<Export Name="ESouthAmericaStandardTime" External="UTC-3BRT">
 			<Label xml:lang="en">E. South America Standard Time</Label>
 			<Label Type="Abbr" xml:lang="en">BRT</Label>
+		</Export>
+		<Export Name="BahiaStandardTime" External="UTC-3BST">
+			<Label xml:lang="en">Bahia Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">BST</Label>
 		</Export>
 		<Export Name="GreenlandStandardTime" External="UTC-3GST">
 			<Label xml:lang="en">Greenland Standard Time</Label>
@@ -12713,6 +12958,10 @@
 		<Export Name="KamchatkaStandardTime" External="UTC12UZ11">
 			<Label xml:lang="en">Kamchatka Standard Time</Label>
 			<Label Type="Abbr" xml:lang="en">UZ11</Label>
+		</Export>
+		<Export Name="SamoaStandardTime" External="UTC13Samoa">
+			<Label xml:lang="en">Samoa Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">Samoa</Label>
 		</Export>
 		<Export Name="TongaStandardTime" External="UTC13TOT">
 			<Label xml:lang="en">Tonga Standard Time</Label>
