@@ -1,0 +1,1439 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ConstellationList xmlns="urn:denebsoft-skymap-constellation">
+	<ConstellationSegment>
+		<Star RightAscension="9.83205" Declination="30.8608" />
+		<Star RightAscension="17.432850000000002" Declination="35.6206" />
+		<Star RightAscension="30.974999999999998" Declination="42.3297" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="14.18835" Declination="38.4994" />
+		<Star RightAscension="9.22035" Declination="33.7194" />
+		<Star RightAscension="2.0971499999999996" Declination="29.0906" />
+		<Star RightAscension="9.83205" Declination="30.8608" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="345.48045" Declination="42.3261" />
+		<Star RightAscension="354.3912" Declination="46.4581" />
+		<Star RightAscension="14.18835" Declination="38.4994" />
+		<Star RightAscension="17.37585" Declination="47.2419" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="142.3113" Declination="-35.9514" />
+		<Star RightAscension="156.78795" Declination="-31.0678" />
+		<Star RightAscension="164.17964999999998" Declination="-37.1378" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="221.96505000000002" Declination="-79.0447" />
+		<Star RightAscension="245.08665000000005" Declination="-78.6958" />
+		<Star RightAscension="248.36250000000004" Declination="-78.8972" />
+		<Star RightAscension="250.76909999999998" Declination="-77.5175" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="245.08665000000005" Declination="-78.6958" />
+		<Star RightAscension="250.76909999999998" Declination="-77.5175" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="284.9058" Declination="15.0683" />
+		<Star RightAscension="286.35255" Declination="13.8633" />
+		<Star RightAscension="296.565" Declination="10.6133" />
+		<Star RightAscension="291.37454999999994" Declination="3.1147" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="285.42" Declination="-5.7389" />
+		<Star RightAscension="286.56210000000004" Declination="-4.8825" />
+		<Star RightAscension="291.37454999999994" Declination="3.1147" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="302.8263" Declination="-0.8214" />
+		<Star RightAscension="298.1184" Declination="1.0056" />
+		<Star RightAscension="294.18045" Declination="-1.2864" />
+		<Star RightAscension="286.56210000000004" Declination="-4.8825" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="296.565" Declination="10.6133" />
+		<Star RightAscension="297.69585" Declination="8.8683" />
+		<Star RightAscension="298.82835" Declination="6.4067" />
+		<Star RightAscension="302.8263" Declination="-0.8214" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="311.91915" Declination="-9.4958" />
+		<Star RightAscension="322.88955000000004" Declination="-5.5711" />
+		<Star RightAscension="330.82875" Declination="-2.1553" />
+		<Star RightAscension="335.4141" Declination="-1.3872" />
+		<Star RightAscension="337.20869999999996" Declination="-0.02" />
+		<Star RightAscension="336.31919999999997" Declination="1.3775" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="342.39795000000004" Declination="-13.5925" />
+		<Star RightAscension="343.1538" Declination="-7.5797" />
+		<Star RightAscension="337.20869999999996" Declination="-0.02" />
+		<Star RightAscension="338.83919999999995" Declination="-0.1175" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="342.39795000000004" Declination="-13.5925" />
+		<Star RightAscension="343.66245000000004" Declination="-15.8208" />
+		<Star RightAscension="347.3616" Declination="-21.1725" />
+		<Star RightAscension="351.51165" Declination="-20.6419" />
+		<Star RightAscension="356.50379999999996" Declination="-18.6781" />
+		<Star RightAscension="355.68045" Declination="-14.545" />
+		<Star RightAscension="349.74045" Declination="-9.6108" />
+		<Star RightAscension="348.5808" Declination="-6.0489" />
+		<Star RightAscension="343.1538" Declination="-7.5797" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="254.8962" Declination="-53.1606" />
+		<Star RightAscension="254.655" Declination="-55.9903" />
+		<Star RightAscension="252.44625" Declination="-59.0414" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="262.77465" Declination="-60.6839" />
+		<Star RightAscension="261.3483" Declination="-56.3775" />
+		<Star RightAscension="261.32505" Declination="-55.53" />
+		<Star RightAscension="254.655" Declination="-55.9903" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="271.65795" Declination="-50.0917" />
+		<Star RightAscension="262.96035" Declination="-49.8761" />
+		<Star RightAscension="261.32505" Declination="-55.53" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="28.38255" Declination="19.2936" />
+		<Star RightAscension="28.660050000000002" Declination="20.8081" />
+		<Star RightAscension="31.793400000000002" Declination="23.4625" />
+		<Star RightAscension="47.907450000000004" Declination="19.7267" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="89.9304" Declination="37.2125" />
+		<Star RightAscension="81.57285" Declination="28.6075" />
+		<Star RightAscension="74.24835" Declination="33.1661" />
+		<Star RightAscension="76.6287" Declination="41.2344" />
+		<Star RightAscension="79.17255" Declination="45.9981" />
+		<Star RightAscension="89.88165" Declination="54.2847" />
+		<Star RightAscension="89.983799999999988" Declination="45.9369" />
+		<Star RightAscension="89.8821" Declination="44.9475" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="89.9304" Declination="37.2125" />
+		<Star RightAscension="89.8821" Declination="44.9475" />
+		<Star RightAscension="79.17255" Declination="45.9981" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="214.0959" Declination="46.0883" />
+		<Star RightAscension="218.0196" Declination="38.3083" />
+		<Star RightAscension="217.95749999999998" Declination="30.3714" />
+		<Star RightAscension="213.91545" Declination="19.1825" />
+		<Star RightAscension="208.6713" Declination="18.3978" />
+		<Star RightAscension="207.36915" Declination="15.7978" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="228.87585" Declination="33.3147" />
+		<Star RightAscension="221.2467" Declination="27.0742" />
+		<Star RightAscension="213.91545" Declination="19.1825" />
+		<Star RightAscension="220.28715" Declination="13.7283" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="214.0959" Declination="46.0883" />
+		<Star RightAscension="216.29909999999998" Declination="51.8508" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="218.0196" Declination="38.3083" />
+		<Star RightAscension="225.48659999999998" Declination="40.3906" />
+		<Star RightAscension="228.87585" Declination="33.3147" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="67.7088" Declination="-44.9539" />
+		<Star RightAscension="70.14045" Declination="-41.8639" />
+		<Star RightAscension="70.51455" Declination="-37.1444" />
+		<Star RightAscension="76.1016" Declination="-35.4833" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="57.589650000000006" Declination="71.3322" />
+		<Star RightAscension="73.51245" Declination="66.3428" />
+		<Star RightAscension="75.85455" Declination="60.4422" />
+		<Star RightAscension="74.3217" Declination="53.7522" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="73.51245" Declination="66.3428" />
+		<Star RightAscension="93.21285" Declination="65.7183" />
+		<Star RightAscension="103.4259" Declination="68.8883" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="304.41209999999995" Declination="-12.5083" />
+		<Star RightAscension="305.25285" Declination="-14.7814" />
+		<Star RightAscension="311.52375" Declination="-25.2708" />
+		<Star RightAscension="312.95535" Declination="-26.9192" />
+		<Star RightAscension="316.78215" Declination="-25.0058" />
+		<Star RightAscension="321.6666" Declination="-22.4114" />
+		<Star RightAscension="324.27" Declination="-19.4661" />
+		<Star RightAscension="326.76" Declination="-16.1272" />
+		<Star RightAscension="325.02285" Declination="-16.6622" />
+		<Star RightAscension="320.56170000000003" Declination="-16.8344" />
+		<Star RightAscension="316.48665" Declination="-17.2328" />
+		<Star RightAscension="304.5138" Declination="-12.5447" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="160.73909999999998" Declination="-64.3944" />
+		<Star RightAscension="153.4341" Declination="-70.0381" />
+		<Star RightAscension="138.3" Declination="-69.7172" />
+		<Star RightAscension="146.77545" Declination="-65.0719" />
+		<Star RightAscension="139.27245" Declination="-59.2753" />
+		<Star RightAscension="137.74169999999998" Declination="-58.9669" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="139.27245" Declination="-59.2753" />
+		<Star RightAscension="156.8517" Declination="-57.6389" />
+		<Star RightAscension="158.0058" Declination="-61.6853" />
+		<Star RightAscension="160.73909999999998" Declination="-64.3944" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="95.98785" Declination="-52.6958" />
+		<Star RightAscension="119.19465000000001" Declination="-52.9822" />
+		<Star RightAscension="125.62830000000001" Declination="-59.5097" />
+		<Star RightAscension="137.74169999999998" Declination="-58.9669" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="125.62830000000001" Declination="-59.5097" />
+		<Star RightAscension="140.5284" Declination="-55.0108" />
+		<Star RightAscension="136.9992" Declination="-43.4325" />
+		<Star RightAscension="142.67505" Declination="-40.4667" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="14.177100000000001" Declination="60.7167" />
+		<Star RightAscension="21.4542" Declination="60.2353" />
+		<Star RightAscension="28.598699999999997" Declination="63.67" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="2.2945499999999996" Declination="59.1497" />
+		<Star RightAscension="10.1271" Declination="56.5372" />
+		<Star RightAscension="14.177100000000001" Declination="60.7167" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="173.94494999999998" Declination="-63.0197" />
+		<Star RightAscension="170.25165" Declination="-54.4911" />
+		<Star RightAscension="182.08965" Declination="-50.7225" />
+		<Star RightAscension="190.3791" Declination="-48.9597" />
+		<Star RightAscension="200.14919999999998" Declination="-36.7122" />
+		<Star RightAscension="211.67085" Declination="-36.37" />
+		<Star RightAscension="218.8767" Declination="-42.1578" />
+		<Star RightAscension="208.88505" Declination="-47.2883" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="219.89954999999998" Declination="-60.8353" />
+		<Star RightAscension="210.95579999999998" Declination="-60.3731" />
+		<Star RightAscension="204.97170000000003" Declination="-53.4664" />
+		<Star RightAscension="190.3791" Declination="-48.9597" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="208.88505" Declination="-47.2883" />
+		<Star RightAscension="204.97170000000003" Declination="-53.4664" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="218.8767" Declination="-42.1578" />
+		<Star RightAscension="224.79045" Declination="-42.1042" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="332.7138" Declination="58.2011" />
+		<Star RightAscension="342.42" Declination="66.2006" />
+		<Star RightAscension="322.16505" Declination="70.5608" />
+		<Star RightAscension="319.64505" Declination="62.5856" />
+		<Star RightAscension="332.7138" Declination="58.2011" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="342.42" Declination="66.2006" />
+		<Star RightAscension="354.8367" Declination="77.6325" />
+		<Star RightAscension="322.16505" Declination="70.5608" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="10.8975" Declination="-17.9867" />
+		<Star RightAscension="17.14755" Declination="-10.1822" />
+		<Star RightAscension="21.00585" Declination="-8.1833" />
+		<Star RightAscension="27.86505" Declination="-10.335" />
+		<Star RightAscension="26.017049999999998" Declination="-15.9375" />
+		<Star RightAscension="30.0012" Declination="-21.0778" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="76.96244999999999" Declination="-5.0864" />
+		<Star RightAscension="71.3754" Declination="-3.2547" />
+		<Star RightAscension="69.07965" Declination="-3.3525" />
+		<Star RightAscension="62.96625" Declination="-6.8375" />
+		<Star RightAscension="59.50755" Declination="-13.5086" />
+		<Star RightAscension="56.53545" Declination="-12.1017" />
+		<Star RightAscension="55.81215" Declination="-9.7633" />
+		<Star RightAscension="53.23245" Declination="-9.4583" />
+		<Star RightAscension="48.958349999999996" Declination="-8.8197" />
+		<Star RightAscension="44.107049999999994" Declination="-8.8981" />
+		<Star RightAscension="41.03085" Declination="-13.8586" />
+		<Star RightAscension="27.86505" Declination="-10.335" />
+		<Star RightAscension="34.8363" Declination="-2.9775" />
+		<Star RightAscension="39.8709" Declination="0.3286" />
+		<Star RightAscension="40.82505" Declination="3.2358" />
+		<Star RightAscension="45.569999999999993" Declination="4.0897" />
+		<Star RightAscension="44.92875" Declination="8.9075" />
+		<Star RightAscension="41.23545" Declination="10.1142" />
+		<Star RightAscension="37.03965" Declination="8.46" />
+		<Star RightAscension="40.82505" Declination="3.2358" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="4.85715" Declination="-8.8239" />
+		<Star RightAscension="10.8975" Declination="-17.9867" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="230.8446" Declination="-59.3208" />
+		<Star RightAscension="220.62659999999997" Declination="-64.9753" />
+		<Star RightAscension="229.37834999999998" Declination="-58.8011" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="105.42960000000001" Declination="-27.9347" />
+		<Star RightAscension="107.0979" Declination="-26.3933" />
+		<Star RightAscension="105.7563" Declination="-23.8333" />
+		<Star RightAscension="101.28705000000001" Declination="-16.7161" />
+		<Star RightAscension="95.67495000000001" Declination="-17.9558" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="105.42960000000001" Declination="-27.9347" />
+		<Star RightAscension="104.6562" Declination="-28.9722" />
+		<Star RightAscension="95.0784" Declination="-30.0633" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="105.9396" Declination="-15.6333" />
+		<Star RightAscension="101.28705000000001" Declination="-16.7161" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="107.0979" Declination="-26.3933" />
+		<Star RightAscension="111.0237" Declination="-29.3031" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="114.82545" Declination="5.225" />
+		<Star RightAscension="111.78750000000001" Declination="8.2894" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="134.6217" Declination="11.8578" />
+		<Star RightAscension="131.17125000000002" Declination="18.1542" />
+		<Star RightAscension="130.8213" Declination="21.4686" />
+		<Star RightAscension="131.6742" Declination="28.76" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="131.17125000000002" Declination="18.1542" />
+		<Star RightAscension="124.12875000000001" Declination="9.1856" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="82.80285" Declination="-35.4706" />
+		<Star RightAscension="84.91215" Declination="-34.0742" />
+		<Star RightAscension="87.739950000000007" Declination="-35.7683" />
+		<Star RightAscension="89.3841" Declination="-35.2833" />
+		<Star RightAscension="95.528400000000019" Declination="-33.4364" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="87.739950000000007" Declination="-35.7683" />
+		<Star RightAscension="89.7867" Declination="-42.8153" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="174.1704" Declination="-9.8022" />
+		<Star RightAscension="171.15255000000002" Declination="-10.8594" />
+		<Star RightAscension="169.8354" Declination="-14.7786" />
+		<Star RightAscension="164.94375" Declination="-18.2989" />
+		<Star RightAscension="162.4062" Declination="-16.1936" />
+		<Star RightAscension="156.52245" Declination="-16.8364" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="164.94375" Declination="-18.2989" />
+		<Star RightAscension="167.91465" Declination="-22.8258" />
+		<Star RightAscension="171.22035000000003" Declination="-17.6839" />
+		<Star RightAscension="169.8354" Declination="-14.7786" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="179.00369999999998" Declination="-17.1508" />
+		<Star RightAscension="176.19089999999997" Declination="-18.3508" />
+		<Star RightAscension="171.22035000000003" Declination="-17.6839" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="278.37584999999996" Declination="-42.3125" />
+		<Star RightAscension="282.21045" Declination="-43.68" />
+		<Star RightAscension="285.7788" Declination="-42.0953" />
+		<Star RightAscension="287.0871" Declination="-40.4967" />
+		<Star RightAscension="287.5071" Declination="-39.3408" />
+		<Star RightAscension="287.3679" Declination="-37.9044" />
+		<Star RightAscension="286.60455" Declination="-37.0633" />
+		<Star RightAscension="284.6808" Declination="-37.1075" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="187.7913" Declination="-57.1133" />
+		<Star RightAscension="186.64964999999998" Declination="-63.0992" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="191.92995" Declination="-59.6886" />
+		<Star RightAscension="183.7863" Declination="-58.7489" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="182.1033" Declination="-24.7289" />
+		<Star RightAscension="182.53125" Declination="-22.6197" />
+		<Star RightAscension="188.59664999999998" Declination="-23.3967" />
+		<Star RightAscension="187.46624999999997" Declination="-16.5156" />
+		<Star RightAscension="183.95159999999999" Declination="-17.5419" />
+		<Star RightAscension="182.53125" Declination="-22.6197" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="199.3854" Declination="40.5725" />
+		<Star RightAscension="194.00715" Declination="38.3183" />
+		<Star RightAscension="188.4354" Declination="41.3575" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="311.55285" Declination="33.9703" />
+		<Star RightAscension="305.55705" Declination="40.2567" />
+		<Star RightAscension="299.0766" Declination="35.0833" />
+		<Star RightAscension="292.68045" Declination="27.9597" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="310.35795" Declination="45.2803" />
+		<Star RightAscension="305.55705" Declination="40.2567" />
+		<Star RightAscension="296.24370000000005" Declination="45.1308" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="310.86465" Declination="15.0744" />
+		<Star RightAscension="311.6646" Declination="16.1242" />
+		<Star RightAscension="309.9096" Declination="15.9119" />
+		<Star RightAscension="309.38745" Declination="14.5953" />
+		<Star RightAscension="308.3034" Declination="11.3033" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="310.86465" Declination="15.0744" />
+		<Star RightAscension="309.38745" Declination="14.5953" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="86.193300000000008" Declination="-65.7356" />
+		<Star RightAscension="83.4063" Declination="-62.4897" />
+		<Star RightAscension="68.49915" Declination="-55.045" />
+		<Star RightAscension="64.00665" Declination="-51.4867" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="268.38210000000004" Declination="56.8728" />
+		<Star RightAscension="290.16705" Declination="65.7147" />
+		<Star RightAscension="288.13875" Declination="67.6617" />
+		<Star RightAscension="275.18955" Declination="71.3378" />
+		<Star RightAscension="257.1966" Declination="65.7147" />
+		<Star RightAscension="245.9979" Declination="61.5142" />
+		<Star RightAscension="240.47204999999997" Declination="58.5653" />
+		<Star RightAscension="231.2325" Declination="58.9661" />
+		<Star RightAscension="211.09709999999998" Declination="64.3758" />
+		<Star RightAscension="188.3709" Declination="69.7883" />
+		<Star RightAscension="172.85085" Declination="69.3311" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="269.1516" Declination="51.4889" />
+		<Star RightAscension="262.6083" Declination="52.3014" />
+		<Star RightAscension="263.0667" Declination="55.1731" />
+		<Star RightAscension="268.38210000000004" Declination="56.8728" />
+		<Star RightAscension="269.1516" Declination="51.4889" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="268.38210000000004" Declination="56.8728" />
+		<Star RightAscension="282.80039999999997" Declination="59.3883" />
+		<Star RightAscension="300.70455000000004" Declination="67.8736" />
+		<Star RightAscension="297.04335000000003" Declination="70.2678" />
+		<Star RightAscension="288.88755000000003" Declination="73.3556" />
+		<Star RightAscension="275.26410000000004" Declination="72.7328" />
+		<Star RightAscension="257.1966" Declination="65.7147" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="318.9558" Declination="5.2478" />
+		<Star RightAscension="318.6204" Declination="10.0069" />
+		<Star RightAscension="317.5854" Declination="10.1317" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="24.428699999999996" Declination="-57.2367" />
+		<Star RightAscension="28.9896" Declination="-51.6089" />
+		<Star RightAscension="34.127550000000006" Declination="-51.5122" />
+		<Star RightAscension="36.746249999999996" Declination="-47.7039" />
+		<Star RightAscension="39.94995" Declination="-42.8917" />
+		<Star RightAscension="40.1667" Declination="-39.8556" />
+		<Star RightAscension="44.56545" Declination="-40.3047" />
+		<Star RightAscension="55.7088" Declination="-37.3136" />
+		<Star RightAscension="57.14955" Declination="-37.6206" />
+		<Star RightAscension="64.47375000000001" Declination="-33.7983" />
+		<Star RightAscension="66.00915" Declination="-34.0169" />
+		<Star RightAscension="68.8875" Declination="-30.5622" />
+		<Star RightAscension="68.377500000000012" Declination="-29.7667" />
+		<Star RightAscension="59.981249999999996" Declination="-24.0164" />
+		<Star RightAscension="58.42755" Declination="-24.6125" />
+		<Star RightAscension="56.71215" Declination="-23.2497" />
+		<Star RightAscension="53.447100000000006" Declination="-21.6328" />
+		<Star RightAscension="49.8792" Declination="-21.7578" />
+		<Star RightAscension="45.5979" Declination="-23.6244" />
+		<Star RightAscension="41.275800000000004" Declination="-18.5725" />
+		<Star RightAscension="41.03085" Declination="-13.8586" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="116.32875" Declination="28.0261" />
+		<Star RightAscension="113.65005000000001" Declination="31.8883" />
+		<Star RightAscension="100.98285" Declination="25.1311" />
+		<Star RightAscension="95.74005" Declination="22.5136" />
+		<Star RightAscension="93.719099999999983" Declination="22.5067" />
+		<Star RightAscension="91.03005" Declination="23.2633" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="101.32245" Declination="12.8956" />
+		<Star RightAscension="99.42795" Declination="16.3992" />
+		<Star RightAscension="106.02704999999999" Declination="20.5703" />
+		<Star RightAscension="110.03085" Declination="21.9822" />
+		<Star RightAscension="116.32875" Declination="28.0261" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="328.48215" Declination="-37.365" />
+		<Star RightAscension="331.5288" Declination="-39.5433" />
+		<Star RightAscension="333.90375" Declination="-41.3467" />
+		<Star RightAscension="337.31744999999995" Declination="-43.4956" />
+		<Star RightAscension="332.0583" Declination="-46.9611" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="337.31744999999995" Declination="-43.4956" />
+		<Star RightAscension="340.6671" Declination="-46.8847" />
+		<Star RightAscension="342.13875" Declination="-51.3169" />
+		<Star RightAscension="345.22004999999996" Declination="-52.7542" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="340.6671" Declination="-46.8847" />
+		<Star RightAscension="347.59005" Declination="-45.2467" />
+		<Star RightAscension="346.72004999999996" Declination="-43.5206" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="255.07244999999998" Declination="30.9264" />
+		<Star RightAscension="258.76169999999996" Declination="36.8092" />
+		<Star RightAscension="250.7241" Declination="38.9222" />
+		<Star RightAscension="248.52585000000002" Declination="42.4369" />
+		<Star RightAscension="244.93500000000003" Declination="46.3133" />
+		<Star RightAscension="242.19255" Declination="44.935" />
+		<Star RightAscension="238.1688" Declination="42.4517" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="250.7241" Declination="38.9222" />
+		<Star RightAscension="250.32165" Declination="31.6031" />
+		<Star RightAscension="247.55505000000002" Declination="21.4897" />
+		<Star RightAscension="245.47995" Declination="19.1531" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="271.8858" Declination="28.7625" />
+		<Star RightAscension="269.44125" Declination="29.2478" />
+		<Star RightAscension="266.61465" Declination="27.7206" />
+		<Star RightAscension="262.68465" Declination="26.1106" />
+		<Star RightAscension="258.75795" Declination="24.8392" />
+		<Star RightAscension="255.07244999999998" Declination="30.9264" />
+		<Star RightAscension="250.32165" Declination="31.6031" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="258.6621" Declination="14.3903" />
+		<Star RightAscension="258.75795" Declination="24.8392" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="264.86625" Declination="46.0064" />
+		<Star RightAscension="258.76169999999996" Declination="36.8092" />
+		<Star RightAscension="260.9208" Declination="37.1458" />
+		<Star RightAscension="269.0634" Declination="37.2506" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="63.500400000000006" Declination="-42.2944" />
+		<Star RightAscension="40.639649999999996" Declination="-50.8003" />
+		<Star RightAscension="39.3516" Declination="-52.5431" />
+		<Star RightAscension="40.16505" Declination="-54.55" />
+		<Star RightAscension="45.9033" Declination="-59.7378" />
+		<Star RightAscension="44.699099999999994" Declination="-64.0714" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="156.52245" Declination="-16.8364" />
+		<Star RightAscension="152.64705" Declination="-12.3542" />
+		<Star RightAscension="151.2813" Declination="-13.0647" />
+		<Star RightAscension="147.86955" Declination="-14.8467" />
+		<Star RightAscension="141.8967" Declination="-8.6586" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="211.59285" Declination="-26.6825" />
+		<Star RightAscension="199.7304" Declination="-23.1717" />
+		<Star RightAscension="178.22745" Declination="-33.9081" />
+		<Star RightAscension="173.25045" Declination="-31.8578" />
+		<Star RightAscension="162.4062" Declination="-16.1936" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="144.9642" Declination="-1.1428" />
+		<Star RightAscension="138.59130000000002" Declination="2.3142" />
+		<Star RightAscension="133.84830000000002" Declination="5.9456" />
+		<Star RightAscension="131.69415" Declination="6.4189" />
+		<Star RightAscension="129.41415" Declination="5.7036" />
+		<Star RightAscension="129.6891" Declination="3.3414" />
+		<Star RightAscension="130.8063" Declination="3.3986" />
+		<Star RightAscension="133.84830000000002" Declination="5.9456" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="141.8967" Declination="-8.6586" />
+		<Star RightAscension="144.9642" Declination="-1.1428" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="6.43785" Declination="-77.2542" />
+		<Star RightAscension="56.809650000000005" Declination="-74.2389" />
+		<Star RightAscension="39.89745" Declination="-68.2669" />
+		<Star RightAscension="29.6925" Declination="-61.5697" />
+		<Star RightAscension="6.43785" Declination="-77.2542" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="309.39165" Declination="-47.2914" />
+		<Star RightAscension="319.96665" Declination="-53.4497" />
+		<Star RightAscension="313.7025" Declination="-58.4542" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="319.96665" Declination="-53.4497" />
+		<Star RightAscension="329.47965" Declination="-54.9925" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="337.38255000000004" Declination="47.7069" />
+		<Star RightAscension="335.2566" Declination="46.5367" />
+		<Star RightAscension="340.12874999999997" Declination="44.2764" />
+		<Star RightAscension="333.99255" Declination="37.7489" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="335.89005" Declination="52.2292" />
+		<Star RightAscension="337.82295" Declination="50.2825" />
+		<Star RightAscension="336.12915" Declination="49.4764" />
+		<Star RightAscension="337.38255000000004" Declination="47.7069" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="168.5271" Declination="20.5236" />
+		<Star RightAscension="177.26505" Declination="14.5719" />
+		<Star RightAscension="168.55995" Declination="15.4294" />
+		<Star RightAscension="152.09295" Declination="11.9672" />
+		<Star RightAscension="151.8333" Declination="16.7628" />
+		<Star RightAscension="154.9929" Declination="19.8417" />
+		<Star RightAscension="154.17254999999997" Declination="23.4172" />
+		<Star RightAscension="148.19085" Declination="26.0069" />
+		<Star RightAscension="146.46284999999998" Declination="23.7742" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="168.5271" Declination="20.5236" />
+		<Star RightAscension="168.55995" Declination="15.4294" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="83.18249999999999" Declination="-17.8222" />
+		<Star RightAscension="87.8304" Declination="-20.8792" />
+		<Star RightAscension="86.1159" Declination="-22.4483" />
+		<Star RightAscension="82.06125" Declination="-20.7594" />
+		<Star RightAscension="76.36545" Declination="-22.3711" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="82.06125" Declination="-20.7594" />
+		<Star RightAscension="83.18249999999999" Declination="-17.8222" />
+		<Star RightAscension="78.23295" Declination="-16.2056" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="89.1012" Declination="-14.1678" />
+		<Star RightAscension="86.738700000000009" Declination="-14.8219" />
+		<Star RightAscension="83.18249999999999" Declination="-17.8222" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="234.66420000000002" Declination="-29.7778" />
+		<Star RightAscension="234.2562" Declination="-28.135" />
+		<Star RightAscension="226.01745000000003" Declination="-25.2819" />
+		<Star RightAscension="222.71955" Declination="-16.0417" />
+		<Star RightAscension="229.25160000000003" Declination="-9.3831" />
+		<Star RightAscension="233.88165" Declination="-14.7894" />
+		<Star RightAscension="226.01745000000003" Declination="-25.2819" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="163.32795" Declination="34.215" />
+		<Star RightAscension="156.9708" Declination="36.7072" />
+		<Star RightAscension="151.85745" Declination="35.2447" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="241.64790000000002" Declination="-36.8022" />
+		<Star RightAscension="237.73964999999998" Declination="-33.6272" />
+		<Star RightAscension="230.4516" Declination="-36.2614" />
+		<Star RightAscension="230.34285" Declination="-40.6475" />
+		<Star RightAscension="224.63294999999997" Declination="-43.1339" />
+		<Star RightAscension="220.48244999999997" Declination="-47.3883" />
+		<Star RightAscension="228.07125" Declination="-52.0992" />
+		<Star RightAscension="230.67045" Declination="-44.6894" />
+		<Star RightAscension="233.78535" Declination="-41.1669" />
+		<Star RightAscension="235.29705" Declination="-44.6611" />
+		<Star RightAscension="241.64790000000002" Declination="-36.8022" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="94.905900000000017" Declination="59.0108" />
+		<Star RightAscension="104.31869999999999" Declination="58.4225" />
+		<Star RightAscension="111.6783" Declination="49.2114" />
+		<Star RightAscension="122.11410000000001" Declination="51.5067" />
+		<Star RightAscension="125.70870000000001" Declination="43.1881" />
+		<Star RightAscension="139.7112" Declination="36.8025" />
+		<Star RightAscension="140.2638" Declination="34.3925" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="283.62585" Declination="36.8989" />
+		<Star RightAscension="284.73584999999997" Declination="32.6894" />
+		<Star RightAscension="282.52004999999997" Declination="33.3628" />
+		<Star RightAscension="281.1933" Declination="37.605" />
+		<Star RightAscension="279.2346" Declination="38.7836" />
+		<Star RightAscension="281.085" Declination="39.67" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="283.62585" Declination="36.8989" />
+		<Star RightAscension="281.1933" Declination="37.605" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="92.56005" Declination="-74.7531" />
+		<Star RightAscension="82.9704" Declination="-76.3411" />
+		<Star RightAscension="73.7967" Declination="-74.9369" />
+		<Star RightAscension="75.6792" Declination="-71.3144" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="312.49215" Declination="-33.7797" />
+		<Star RightAscension="315.32295" Declination="-32.2578" />
+		<Star RightAscension="319.48455" Declination="-32.1725" />
+		<Star RightAscension="320.19" Declination="-40.8097" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="122.14829999999999" Declination="-2.9839" />
+		<Star RightAscension="115.3116" Declination="-9.5511" />
+		<Star RightAscension="107.96625" Declination="-0.4928" />
+		<Star RightAscension="97.2042" Declination="-7.0328" />
+		<Star RightAscension="93.7137" Declination="-6.2747" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="176.40165" Declination="-66.7286" />
+		<Star RightAscension="184.39215" Declination="-67.9608" />
+		<Star RightAscension="189.29579999999999" Declination="-69.1356" />
+		<Star RightAscension="188.11665000000002" Declination="-72.1331" />
+		<Star RightAscension="195.56745" Declination="-71.5489" />
+		<Star RightAscension="191.57039999999998" Declination="-68.1081" />
+		<Star RightAscension="189.29579999999999" Declination="-69.1356" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="246.7962" Declination="-47.555" />
+		<Star RightAscension="241.62255000000002" Declination="-45.1733" />
+		<Star RightAscension="240.80370000000002" Declination="-49.2297" />
+		<Star RightAscension="244.96005000000002" Declination="-50.1556" />
+		<Star RightAscension="246.7962" Declination="-47.555" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="341.5137" Declination="-81.3817" />
+		<Star RightAscension="216.7287" Declination="-83.6678" />
+		<Star RightAscension="325.36875000000003" Declination="-77.39" />
+		<Star RightAscension="341.5137" Declination="-81.3817" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="271.3638" Declination="2.4994" />
+		<Star RightAscension="270.16125000000005" Declination="2.9317" />
+		<Star RightAscension="266.9733" Declination="2.7072" />
+		<Star RightAscension="265.8684" Declination="4.5672" />
+		<Star RightAscension="263.73375" Declination="12.56" />
+		<Star RightAscension="254.4171" Declination="9.375" />
+		<Star RightAscension="247.7283" Declination="1.9839" />
+		<Star RightAscension="243.58620000000005" Declination="-3.6944" />
+		<Star RightAscension="244.58040000000003" Declination="-4.6925" />
+		<Star RightAscension="249.28964999999997" Declination="-10.5672" />
+		<Star RightAscension="257.59454999999997" Declination="-15.7247" />
+		<Star RightAscension="266.9733" Declination="2.7072" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="79.4016" Declination="-6.8444" />
+		<Star RightAscension="83.0016" Declination="-0.2992" />
+		<Star RightAscension="81.2829" Declination="6.3497" />
+		<Star RightAscension="74.63715" Declination="1.7142" />
+		<Star RightAscension="73.56285" Declination="2.4406" />
+		<Star RightAscension="72.8016" Declination="5.605" />
+		<Star RightAscension="72.46005" Declination="6.9614" />
+		<Star RightAscension="72.65295" Declination="8.9003" />
+		<Star RightAscension="73.133400000000009" Declination="14.2506" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="79.4016" Declination="-6.8444" />
+		<Star RightAscension="78.63465" Declination="-8.2017" />
+		<Star RightAscension="86.9391" Declination="-9.6697" />
+		<Star RightAscension="85.18965" Declination="-1.9428" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="88.5954" Declination="20.2761" />
+		<Star RightAscension="91.89285000000001" Declination="14.7683" />
+		<Star RightAscension="90.5958" Declination="9.6475" />
+		<Star RightAscension="88.79295" Declination="7.4069" />
+		<Star RightAscension="83.70495" Declination="9.4894" />
+		<Star RightAscension="81.2829" Declination="6.3497" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="85.18965" Declination="-1.9428" />
+		<Star RightAscension="88.79295" Declination="7.4069" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="90.5958" Declination="9.6475" />
+		<Star RightAscension="92.985" Declination="14.2089" />
+		<Star RightAscension="90.979950000000017" Declination="20.1383" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="321.6108" Declination="-65.3661" />
+		<Star RightAscension="311.23965000000004" Declination="-66.2031" />
+		<Star RightAscension="302.1816" Declination="-66.1819" />
+		<Star RightAscension="266.4333" Declination="-64.7239" />
+		<Star RightAscension="280.75875" Declination="-71.4281" />
+		<Star RightAscension="300.1479" Declination="-72.9106" />
+		<Star RightAscension="311.23965000000004" Declination="-66.2031" />
+		<Star RightAscension="306.41204999999997" Declination="-56.735" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="340.75034999999997" Declination="30.2214" />
+		<Star RightAscension="345.9438" Declination="28.0828" />
+		<Star RightAscension="2.0971499999999996" Declination="29.0906" />
+		<Star RightAscension="3.3091500000000003" Declination="15.1836" />
+		<Star RightAscension="346.1904" Declination="15.2053" />
+		<Star RightAscension="341.6733" Declination="12.1728" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="346.1904" Declination="15.2053" />
+		<Star RightAscension="345.9438" Declination="28.0828" />
+		<Star RightAscension="342.50085000000007" Declination="24.6017" />
+		<Star RightAscension="341.63295" Declination="23.5656" />
+		<Star RightAscension="331.7529" Declination="25.345" />
+		<Star RightAscension="326.1612" Declination="25.645" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="341.6733" Declination="12.1728" />
+		<Star RightAscension="340.36545" Declination="10.8314" />
+		<Star RightAscension="332.55" Declination="6.1978" />
+		<Star RightAscension="326.0466" Declination="9.875" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="340.75034999999997" Declination="30.2214" />
+		<Star RightAscension="332.4966" Declination="33.1783" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="58.532849999999996" Declination="31.8836" />
+		<Star RightAscension="59.74125" Declination="35.7911" />
+		<Star RightAscension="59.463300000000004" Declination="40.0103" />
+		<Star RightAscension="56.29829999999999" Declination="42.5786" />
+		<Star RightAscension="55.7313" Declination="47.7875" />
+		<Star RightAscension="51.08085" Declination="49.8611" />
+		<Star RightAscension="46.199100000000008" Declination="53.5064" />
+		<Star RightAscension="42.6741" Declination="55.8956" />
+		<Star RightAscension="43.56465" Declination="52.7625" />
+		<Star RightAscension="47.26665" Declination="49.6133" />
+		<Star RightAscension="47.3742" Declination="44.8572" />
+		<Star RightAscension="47.042100000000005" Declination="40.9556" />
+		<Star RightAscension="46.2942" Declination="38.8403" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="55.7313" Declination="47.7875" />
+		<Star RightAscension="62.1654" Declination="47.7125" />
+		<Star RightAscension="63.72465" Declination="48.4094" />
+		<Star RightAscension="61.645800000000008" Declination="50.3514" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="58.532849999999996" Declination="31.8836" />
+		<Star RightAscension="56.0796" Declination="32.2883" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="2.3529" Declination="-45.7475" />
+		<Star RightAscension="6.5709000000000009" Declination="-42.3061" />
+		<Star RightAscension="16.52085" Declination="-46.7186" />
+		<Star RightAscension="22.812900000000003" Declination="-49.0728" />
+		<Star RightAscension="22.091250000000002" Declination="-43.3183" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="17.09625" Declination="-55.2458" />
+		<Star RightAscension="16.52085" Declination="-46.7186" />
+		<Star RightAscension="22.091250000000002" Declination="-43.3183" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="102.04755" Declination="-61.9414" />
+		<Star RightAscension="87.45705" Declination="-56.1667" />
+		<Star RightAscension="86.82119999999999" Declination="-51.0664" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="326.23665" Declination="-33.0258" />
+		<Star RightAscension="332.0958" Declination="-32.9886" />
+		<Star RightAscension="337.8762" Declination="-32.3461" />
+		<Star RightAscension="343.1316" Declination="-32.8756" />
+		<Star RightAscension="343.98704999999995" Declination="-32.5397" />
+		<Star RightAscension="344.41290000000004" Declination="-29.6222" />
+		<Star RightAscension="340.16415" Declination="-27.0436" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="344.41290000000004" Declination="-29.6222" />
+		<Star RightAscension="347.3616" Declination="-21.1725" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="26.348399999999998" Declination="9.1578" />
+		<Star RightAscension="30.511650000000003" Declination="2.7636" />
+		<Star RightAscension="25.357950000000002" Declination="5.4875" />
+		<Star RightAscension="15.7359" Declination="7.89" />
+		<Star RightAscension="12.170850000000002" Declination="7.585" />
+		<Star RightAscension="359.82795000000004" Declination="6.8633" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="26.348399999999998" Declination="9.1578" />
+		<Star RightAscension="22.870800000000003" Declination="15.3458" />
+		<Star RightAscension="18.437099999999997" Declination="24.5836" />
+		<Star RightAscension="19.866600000000002" Declination="27.2642" />
+		<Star RightAscension="17.914949999999997" Declination="30.0897" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="351.73335" Declination="1.2556" />
+		<Star RightAscension="355.5117" Declination="1.78" />
+		<Star RightAscension="354.98745" Declination="5.6264" />
+		<Star RightAscension="351.9921" Declination="6.3789" />
+		<Star RightAscension="349.29119999999995" Declination="3.2822" />
+		<Star RightAscension="345.96914999999996" Declination="3.82" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="351.73335" Declination="1.2556" />
+		<Star RightAscension="349.29119999999995" Declination="3.2822" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="359.82795000000004" Declination="6.8633" />
+		<Star RightAscension="354.98745" Declination="5.6264" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="109.28580000000001" Declination="-37.0975" />
+		<Star RightAscension="112.30754999999999" Declination="-43.3014" />
+		<Star RightAscension="108.30585" Declination="-45.1831" />
+		<Star RightAscension="99.440400000000011" Declination="-43.1961" />
+		<Star RightAscension="102.4842" Declination="-50.6147" />
+		<Star RightAscension="108.30585" Declination="-45.1831" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="109.28580000000001" Declination="-37.0975" />
+		<Star RightAscension="120.89625" Declination="-40.0033" />
+		<Star RightAscension="115.95209999999999" Declination="-28.9547" />
+		<Star RightAscension="117.32369999999999" Declination="-24.8597" />
+		<Star RightAscension="121.8858" Declination="-24.3042" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="120.89625" Declination="-40.0033" />
+		<Star RightAscension="112.30754999999999" Declination="-43.3014" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="130.02585000000002" Declination="-35.3083" />
+		<Star RightAscension="130.89795" Declination="-33.1864" />
+		<Star RightAscension="132.63285" Declination="-27.71" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="60.2241" Declination="-62.1594" />
+		<Star RightAscension="56.05005" Declination="-64.8069" />
+		<Star RightAscension="63.606300000000005" Declination="-62.4739" />
+		<Star RightAscension="64.120349999999988" Declination="-59.3019" />
+		<Star RightAscension="59.686200000000007" Declination="-61.4003" />
+		<Star RightAscension="60.2241" Declination="-62.1594" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="353.24295" Declination="-37.8183" />
+		<Star RightAscension="349.7058" Declination="-32.5319" />
+		<Star RightAscension="357.2316" Declination="-28.1303" />
+		<Star RightAscension="14.6517" Declination="-29.3575" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="241.35915000000003" Declination="-19.8056" />
+		<Star RightAscension="240.08339999999998" Declination="-22.6217" />
+		<Star RightAscension="239.7129" Declination="-26.1142" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="240.08339999999998" Declination="-22.6217" />
+		<Star RightAscension="245.2971" Declination="-25.5928" />
+		<Star RightAscension="247.35165000000004" Declination="-26.4319" />
+		<Star RightAscension="248.9709" Declination="-28.2161" />
+		<Star RightAscension="252.5409" Declination="-34.2933" />
+		<Star RightAscension="252.9675" Declination="-38.0475" />
+		<Star RightAscension="253.6458" Declination="-42.3614" />
+		<Star RightAscension="258.03839999999997" Declination="-43.2392" />
+		<Star RightAscension="264.33" Declination="-42.9978" />
+		<Star RightAscension="266.89619999999996" Declination="-40.1269" />
+		<Star RightAscension="265.6221" Declination="-39.03" />
+		<Star RightAscension="263.4021" Declination="-37.1039" />
+		<Star RightAscension="262.6908" Declination="-37.2958" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="277.2996" Declination="-14.5658" />
+		<Star RightAscension="278.80170000000004" Declination="-8.2442" />
+		<Star RightAscension="281.79375" Declination="-4.7478" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="237.81629999999998" Declination="20.9778" />
+		<Star RightAscension="237.18495" Declination="18.1417" />
+		<Star RightAscension="236.54715" Declination="15.4219" />
+		<Star RightAscension="233.70045000000002" Declination="10.5392" />
+		<Star RightAscension="236.06715" Declination="6.4256" />
+		<Star RightAscension="237.7041" Declination="4.4778" />
+		<Star RightAscension="237.405" Declination="-3.4303" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="239.11335" Declination="15.6617" />
+		<Star RightAscension="237.18495" Declination="18.1417" />
+		<Star RightAscension="235.38795000000002" Declination="19.6703" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="237.405" Declination="-3.4303" />
+		<Star RightAscension="243.58620000000005" Declination="-3.6944" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="284.055" Declination="4.2036" />
+		<Star RightAscension="275.32755000000003" Declination="-2.8989" />
+		<Star RightAscension="269.75669999999997" Declination="-9.7736" />
+		<Star RightAscension="265.35375" Declination="-12.8753" />
+		<Star RightAscension="264.3966" Declination="-15.3986" />
+		<Star RightAscension="260.2071" Declination="-12.8469" />
+		<Star RightAscension="257.59454999999997" Declination="-15.7247" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="148.12664999999998" Declination="-8.105" />
+		<Star RightAscension="151.98465000000002" Declination="-0.3717" />
+		<Star RightAscension="157.5729" Declination="-0.6369" />
+		<Star RightAscension="157.36965" Declination="-2.7392" />
+		<Star RightAscension="148.12664999999998" Declination="-8.105" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="295.2621" Declination="17.4761" />
+		<Star RightAscension="296.84715" Declination="18.5342" />
+		<Star RightAscension="295.0242" Declination="18.0139" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="299.68919999999997" Declination="19.4922" />
+		<Star RightAscension="296.84715" Declination="18.5342" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="281.4141" Declination="-26.9908" />
+		<Star RightAscension="285.65295" Declination="-29.8803" />
+		<Star RightAscension="276.0429" Declination="-34.3847" />
+		<Star RightAscension="275.2488" Declination="-29.8281" />
+		<Star RightAscension="271.45215" Declination="-30.4242" />
+		<Star RightAscension="276.0429" Declination="-34.3847" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="284.43255" Declination="-21.1067" />
+		<Star RightAscension="286.1709" Declination="-21.7417" />
+		<Star RightAscension="283.8162" Declination="-26.2967" />
+		<Star RightAscension="281.4141" Declination="-26.9908" />
+		<Star RightAscension="276.99255" Declination="-25.4217" />
+		<Star RightAscension="275.2488" Declination="-29.8281" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="290.97165" Declination="-40.6161" />
+		<Star RightAscension="285.65295" Declination="-29.8803" />
+		<Star RightAscension="286.73505000000006" Declination="-27.6706" />
+		<Star RightAscension="283.8162" Declination="-26.2967" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="286.1709" Declination="-21.7417" />
+		<Star RightAscension="287.4408" Declination="-21.0236" />
+		<Star RightAscension="290.4183" Declination="-17.8472" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="290.65965" Declination="-44.4589" />
+		<Star RightAscension="290.97165" Declination="-40.6161" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="81.57285" Declination="28.6075" />
+		<Star RightAscension="70.5612" Declination="22.9569" />
+		<Star RightAscension="67.1541" Declination="19.1803" />
+		<Star RightAscension="66.37245" Declination="17.9281" />
+		<Star RightAscension="65.73375" Declination="17.5425" />
+		<Star RightAscension="64.948349999999991" Declination="15.6275" />
+		<Star RightAscension="60.16995" Declination="12.4903" />
+		<Star RightAscension="51.79245" Declination="9.7328" />
+		<Star RightAscension="51.203399999999995" Declination="9.0289" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="84.4113" Declination="21.1425" />
+		<Star RightAscension="68.98005" Declination="16.5092" />
+		<Star RightAscension="67.14375" Declination="15.9622" />
+		<Star RightAscension="64.948349999999991" Declination="15.6275" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="277.20795000000004" Declination="-49.0708" />
+		<Star RightAscension="276.7434" Declination="-45.9683" />
+		<Star RightAscension="272.80755" Declination="-45.9544" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="252.1662" Declination="-69.0278" />
+		<Star RightAscension="238.78545" Declination="-63.4306" />
+		<Star RightAscension="234.17999999999998" Declination="-66.3169" />
+		<Star RightAscension="229.72754999999998" Declination="-68.6794" />
+		<Star RightAscension="252.1662" Declination="-69.0278" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="32.3859" Declination="34.9872" />
+		<Star RightAscension="34.328700000000005" Declination="33.8472" />
+		<Star RightAscension="28.270349999999997" Declination="29.5789" />
+		<Star RightAscension="32.3859" Declination="34.9872" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="5.01795" Declination="-64.8747" />
+		<Star RightAscension="7.88625" Declination="-62.9581" />
+		<Star RightAscension="349.3575" Declination="-58.2358" />
+		<Star RightAscension="334.6254" Declination="-60.2597" />
+		<Star RightAscension="336.8334" Declination="-64.9664" />
+		<Star RightAscension="359.97914999999995" Declination="-65.5772" />
+		<Star RightAscension="5.01795" Declination="-64.8747" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="176.51250000000002" Declination="47.7794" />
+		<Star RightAscension="178.45754999999997" Declination="53.6947" />
+		<Star RightAscension="165.46035" Declination="56.3825" />
+		<Star RightAscension="165.9321" Declination="61.7508" />
+		<Star RightAscension="183.85665000000003" Declination="57.0325" />
+		<Star RightAscension="178.45754999999997" Declination="53.6947" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="165.9321" Declination="61.7508" />
+		<Star RightAscension="142.88205000000002" Declination="63.0619" />
+		<Star RightAscension="127.5663" Declination="60.7181" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="169.61954999999998" Declination="33.0942" />
+		<Star RightAscension="176.51250000000002" Declination="47.7794" />
+		<Star RightAscension="167.41590000000002" Declination="44.4986" />
+		<Star RightAscension="155.5821" Declination="41.4994" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="169.61954999999998" Declination="33.0942" />
+		<Star RightAscension="169.5459" Declination="31.5292" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="206.88495" Declination="49.3133" />
+		<Star RightAscension="200.98125000000002" Declination="54.9253" />
+		<Star RightAscension="193.50705000000002" Declination="55.9597" />
+		<Star RightAscension="183.85665000000003" Declination="57.0325" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="134.8017" Declination="48.0417" />
+		<Star RightAscension="143.21415000000002" Declination="51.6772" />
+		<Star RightAscension="148.0266" Declination="54.0644" />
+		<Star RightAscension="147.74745000000002" Declination="59.0386" />
+		<Star RightAscension="142.88205000000002" Declination="63.0619" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="244.37625" Declination="75.7553" />
+		<Star RightAscension="236.01465" Declination="77.7944" />
+		<Star RightAscension="222.6762" Declination="74.1556" />
+		<Star RightAscension="230.18205" Declination="71.8339" />
+		<Star RightAscension="244.37625" Declination="75.7553" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="37.952850000000005" Declination="89.2642" />
+		<Star RightAscension="263.05379999999997" Declination="86.5864" />
+		<Star RightAscension="251.49210000000002" Declination="82.0372" />
+		<Star RightAscension="236.01465" Declination="77.7944" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="161.69250000000002" Declination="-49.42" />
+		<Star RightAscension="149.2158" Declination="-54.5678" />
+		<Star RightAscension="140.5284" Declination="-55.0108" />
+		<Star RightAscension="131.1759" Declination="-54.7083" />
+		<Star RightAscension="122.38335" Declination="-47.3367" />
+		<Star RightAscension="136.9992" Declination="-43.4325" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="210.41160000000002" Declination="1.5444" />
+		<Star RightAscension="221.56215" Declination="1.8928" />
+		<Star RightAscension="220.76505" Declination="-5.6583" />
+		<Star RightAscension="214.00379999999998" Declination="-6.0006" />
+		<Star RightAscension="201.29835" Declination="-11.1614" />
+		<Star RightAscension="190.41495" Declination="-1.4494" />
+		<Star RightAscension="184.97670000000002" Declination="-0.6669" />
+		<Star RightAscension="177.6738" Declination="1.7647" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="195.54420000000002" Declination="10.9592" />
+		<Star RightAscension="193.9008" Declination="3.3975" />
+		<Star RightAscension="190.41495" Declination="-1.4494" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="197.49705000000003" Declination="17.5294" />
+		<Star RightAscension="197.96835" Declination="27.8781" />
+		<Star RightAscension="186.73454999999998" Declination="28.2683" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="210.41160000000002" Declination="1.5444" />
+		<Star RightAscension="203.6733" Declination="-0.5958" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="233.23245" Declination="31.3592" />
+		<Star RightAscension="231.95714999999998" Declination="29.1058" />
+		<Star RightAscension="233.6721" Declination="26.7147" />
+		<Star RightAscension="235.68585" Declination="26.2956" />
+		<Star RightAscension="237.3987" Declination="26.0683" />
+		<Star RightAscension="239.39714999999998" Declination="26.8778" />
+		<Star RightAscension="240.3609" Declination="29.8511" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="135.6117" Declination="-66.3961" />
+		<Star RightAscension="126.43410000000002" Declination="-66.1369" />
+		<Star RightAscension="121.98255" Declination="-68.6172" />
+		<Star RightAscension="115.455" Declination="-72.6061" />
+		<Star RightAscension="107.18714999999999" Declination="-70.4989" />
+		<Star RightAscension="109.2075" Declination="-67.9572" />
+		<Star RightAscension="126.43410000000002" Declination="-66.1369" />
+	</ConstellationSegment>
+	<ConstellationSegment>
+		<Star RightAscension="298.36545" Declination="24.0797" />
+		<Star RightAscension="292.1763" Declination="24.665" />
+		<Star RightAscension="289.0542" Declination="21.3903" />
+	</ConstellationSegment>
+	<Constellation Abbreviation="And" RightAscension="8.504999999999999" Declination="39.25">
+		<Name xml:lang="la">Andromeda</Name>
+	</Constellation>
+	<Constellation Abbreviation="Ant" RightAscension="151.75500000000002" Declination="-33.35">
+		<Name xml:lang="la">Antlia</Name>
+	</Constellation>
+	<Constellation Abbreviation="Aps" RightAscension="241.995" Declination="-76.583">
+		<Name xml:lang="la">Apus</Name>
+	</Constellation>
+	<Constellation Abbreviation="Aqr" RightAscension="340.5" Declination="-10.467">
+		<Name xml:lang="la">Aquarius</Name>
+	</Constellation>
+	<Constellation Abbreviation="Aql" RightAscension="295.245" Declination="3.367">
+		<Name xml:lang="la">Aquila</Name>
+	</Constellation>
+	<Constellation Abbreviation="Ara" RightAscension="258.495" Declination="-51.117">
+		<Name xml:lang="la">Ara</Name>
+	</Constellation>
+	<Constellation Abbreviation="Ari" RightAscension="40.245" Declination="22.567">
+		<Name xml:lang="la">Aries</Name>
+	</Constellation>
+	<Constellation Abbreviation="Aur" RightAscension="89.25" Declination="42.817">
+		<Name xml:lang="la">Auriga</Name>
+	</Constellation>
+	<Constellation Abbreviation="Boo" RightAscension="220.245" Declination="32.333">
+		<Name xml:lang="la">Bootes</Name>
+	</Constellation>
+	<Constellation Abbreviation="Cae" RightAscension="70.755" Declination="-38.167">
+		<Name xml:lang="la">Caelum</Name>
+	</Constellation>
+	<Constellation Abbreviation="Cam" RightAscension="92.25" Declination="71.967">
+		<Name xml:lang="la">Camelopardalis</Name>
+	</Constellation>
+	<Constellation Abbreviation="Cnc" RightAscension="130.005" Declination="22">
+		<Name xml:lang="la">Cancer</Name>
+	</Constellation>
+	<Constellation Abbreviation="CVn" RightAscension="195.255" Declination="42.35">
+		<Name xml:lang="la">Canes Venatici</Name>
+	</Constellation>
+	<Constellation Abbreviation="CMa" RightAscension="102.495" Declination="-22.317">
+		<Name xml:lang="la">Canis Major</Name>
+	</Constellation>
+	<Constellation Abbreviation="CMi" RightAscension="114.255" Declination="6.767">
+		<Name xml:lang="la">Canis Minor</Name>
+	</Constellation>
+	<Constellation Abbreviation="Cap" RightAscension="315.75" Declination="-19.35">
+		<Name xml:lang="la">Capricornus</Name>
+	</Constellation>
+	<Constellation Abbreviation="Car" RightAscension="132.495" Declination="-60.5">
+		<Name xml:lang="la">Carina</Name>
+	</Constellation>
+	<Constellation Abbreviation="Cas" RightAscension="13.005" Declination="60.3">
+		<Name xml:lang="la">Cassiopeia</Name>
+	</Constellation>
+	<Constellation Abbreviation="Cen" RightAscension="194.25" Declination="-44">
+		<Name xml:lang="la">Centaurus</Name>
+	</Constellation>
+	<Constellation Abbreviation="Cep" RightAscension="336.25500000000005" Declination="72.567">
+		<Name xml:lang="la">Cepheus</Name>
+	</Constellation>
+	<Constellation Abbreviation="Cet" RightAscension="25.755" Declination="-6.367">
+		<Name xml:lang="la">Cetus</Name>
+	</Constellation>
+	<Constellation Abbreviation="Cha" RightAscension="180" Declination="-81.017">
+		<Name xml:lang="la">Chamaeleon</Name>
+	</Constellation>
+	<Constellation Abbreviation="Cir" RightAscension="217.995" Declination="-67.3">
+		<Name xml:lang="la">Circinus</Name>
+	</Constellation>
+	<Constellation Abbreviation="Col" RightAscension="85.5" Declination="-37.917">
+		<Name xml:lang="la">Columba</Name>
+	</Constellation>
+	<Constellation Abbreviation="Com" RightAscension="191.25" Declination="22.65">
+		<Name xml:lang="la">Coma Berenices</Name>
+	</Constellation>
+	<Constellation Abbreviation="CrA" RightAscension="279.74999999999994" Declination="-41.75">
+		<Name xml:lang="la">Corona Australis</Name>
+	</Constellation>
+	<Constellation Abbreviation="CrB" RightAscension="238.245" Declination="32.633">
+		<Name xml:lang="la">Corona Borealis</Name>
+	</Constellation>
+	<Constellation Abbreviation="Crv" RightAscension="185.745" Declination="-18.633">
+		<Name xml:lang="la">Corvus</Name>
+	</Constellation>
+	<Constellation Abbreviation="Crt" RightAscension="170.25" Declination="-13.75">
+		<Name xml:lang="la">Crater</Name>
+	</Constellation>
+	<Constellation Abbreviation="Cru" RightAscension="187.245" Declination="-60.3">
+		<Name xml:lang="la">Crux</Name>
+	</Constellation>
+	<Constellation Abbreviation="Cyg" RightAscension="308.74499999999995" Declination="44">
+		<Name xml:lang="la">Cygnus</Name>
+	</Constellation>
+	<Constellation Abbreviation="Del" RightAscension="310.00500000000005" Declination="12.1">
+		<Name xml:lang="la">Delphinus</Name>
+	</Constellation>
+	<Constellation Abbreviation="Dor" RightAscension="79.995" Declination="-63.017">
+		<Name xml:lang="la">Dorado</Name>
+	</Constellation>
+	<Constellation Abbreviation="Dra" RightAscension="269.25" Declination="66.067">
+		<Name xml:lang="la">Draco</Name>
+	</Constellation>
+	<Constellation Abbreviation="Equ" RightAscension="318.75" Declination="7.933">
+		<Name xml:lang="la">Equuleus</Name>
+	</Constellation>
+	<Constellation Abbreviation="Eri" RightAscension="58.245000000000005" Declination="-17.983">
+		<Name xml:lang="la">Eridanus</Name>
+	</Constellation>
+	<Constellation Abbreviation="For" RightAscension="41.505" Declination="-31">
+		<Name xml:lang="la">Fornax</Name>
+	</Constellation>
+	<Constellation Abbreviation="Gem" RightAscension="102.75" Declination="24.817">
+		<Name xml:lang="la">Gemini</Name>
+	</Constellation>
+	<Constellation Abbreviation="Gru" RightAscension="336.75" Declination="-45.133">
+		<Name xml:lang="la">Grus</Name>
+	</Constellation>
+	<Constellation Abbreviation="Her" RightAscension="261.495" Declination="31.233">
+		<Name xml:lang="la">Hercules</Name>
+	</Constellation>
+	<Constellation Abbreviation="Hor" RightAscension="48.255" Declination="-52">
+		<Name xml:lang="la">Horologium</Name>
+	</Constellation>
+	<Constellation Abbreviation="Hya" RightAscension="136.99499999999998" Declination="-11.683">
+		<Name xml:lang="la">Hydra</Name>
+	</Constellation>
+	<Constellation Abbreviation="Hyi" RightAscension="38.745000000000005" Declination="-72.917">
+		<Name xml:lang="la">Hydrus</Name>
+	</Constellation>
+	<Constellation Abbreviation="Ind" RightAscension="316.995" Declination="-52.317">
+		<Name xml:lang="la">Indus</Name>
+	</Constellation>
+	<Constellation Abbreviation="Lac" RightAscension="337.755" Declination="46.667">
+		<Name xml:lang="la">Lacerta</Name>
+	</Constellation>
+	<Constellation Abbreviation="Leo" RightAscension="160.005" Declination="17">
+		<Name xml:lang="la">Leo</Name>
+	</Constellation>
+	<Constellation Abbreviation="LMi" RightAscension="154.755" Declination="33.233">
+		<Name xml:lang="la">Leo Minor</Name>
+	</Constellation>
+	<Constellation Abbreviation="Lep" RightAscension="81.49499999999999" Declination="-19.65">
+		<Name xml:lang="la">Lepus</Name>
+	</Constellation>
+	<Constellation Abbreviation="Lib" RightAscension="227.745" Declination="-15.55">
+		<Name xml:lang="la">Libra</Name>
+	</Constellation>
+	<Constellation Abbreviation="Lup" RightAscension="230.745" Declination="-42.717">
+		<Name xml:lang="la">Lupus</Name>
+	</Constellation>
+	<Constellation Abbreviation="Lyn" RightAscension="115.99499999999999" Declination="47.833">
+		<Name xml:lang="la">Lynx</Name>
+	</Constellation>
+	<Constellation Abbreviation="Lyr" RightAscension="283.49999999999994" Declination="40.65">
+		<Name xml:lang="la">Lyra</Name>
+	</Constellation>
+	<Constellation Abbreviation="Men" RightAscension="82.5" Declination="-79.017">
+		<Name xml:lang="la">Mensa</Name>
+	</Constellation>
+	<Constellation Abbreviation="Mic" RightAscension="314.25" Declination="-36.8">
+		<Name xml:lang="la">Microscopium</Name>
+	</Constellation>
+	<Constellation Abbreviation="Mon" RightAscension="104.505" Declination="-3.267">
+		<Name xml:lang="la">Monoceros</Name>
+	</Constellation>
+	<Constellation Abbreviation="Mus" RightAscension="187.005" Declination="-69.133">
+		<Name xml:lang="la">Musca</Name>
+	</Constellation>
+	<Constellation Abbreviation="Nor" RightAscension="240.75" Declination="-52.717">
+		<Name xml:lang="la">Norma</Name>
+	</Constellation>
+	<Constellation Abbreviation="Oct" RightAscension="332.50500000000005" Declination="-84.267">
+		<Name xml:lang="la">Octans</Name>
+	</Constellation>
+	<Constellation Abbreviation="Oph" RightAscension="255.495" Declination="-2.35">
+		<Name xml:lang="la">Ophiuchus</Name>
+	</Constellation>
+	<Constellation Abbreviation="Ori" RightAscension="83.50500000000001" Declination="3.583">
+		<Name xml:lang="la">Orion</Name>
+	</Constellation>
+	<Constellation Abbreviation="Pav" RightAscension="287.50500000000005" Declination="-65.867">
+		<Name xml:lang="la">Pavo</Name>
+	</Constellation>
+	<Constellation Abbreviation="Peg" RightAscension="339.255" Declination="19.65">
+		<Name xml:lang="la">Pegasus</Name>
+	</Constellation>
+	<Constellation Abbreviation="Per" RightAscension="52.754999999999995" Declination="44.883">
+		<Name xml:lang="la">Perseus</Name>
+	</Constellation>
+	<Constellation Abbreviation="Phe" RightAscension="10.995" Declination="-48.767">
+		<Name xml:lang="la">Phoenix</Name>
+	</Constellation>
+	<Constellation Abbreviation="Pic" RightAscension="80.745" Declination="-51.367">
+		<Name xml:lang="la">Pictor</Name>
+	</Constellation>
+	<Constellation Abbreviation="Psc" RightAscension="13.245" Declination="15.483">
+		<Name xml:lang="la">Pisces</Name>
+	</Constellation>
+	<Constellation Abbreviation="PsA" RightAscension="336.25500000000005" Declination="-31.567">
+		<Name xml:lang="la">Piscis Australis</Name>
+	</Constellation>
+	<Constellation Abbreviation="Pup" RightAscension="118.005" Declination="-32.617">
+		<Name xml:lang="la">Puppis</Name>
+	</Constellation>
+	<Constellation Abbreviation="Pyx" RightAscension="133.24499999999998" Declination="-29.783">
+		<Name xml:lang="la">Pyxis</Name>
+	</Constellation>
+	<Constellation Abbreviation="Ret" RightAscension="58.5" Declination="-60.517">
+		<Name xml:lang="la">Reticulum</Name>
+	</Constellation>
+	<Constellation Abbreviation="Sge" RightAscension="295.00500000000005" Declination="17">
+		<Name xml:lang="la">Sagitta</Name>
+	</Constellation>
+	<Constellation Abbreviation="Sgr" RightAscension="290.745" Declination="-29.883">
+		<Name xml:lang="la">Sagittarius</Name>
+	</Constellation>
+	<Constellation Abbreviation="Sco" RightAscension="253.005" Declination="-35.333">
+		<Name xml:lang="la">Scorpius</Name>
+	</Constellation>
+	<Constellation Abbreviation="Scl" RightAscension="7.5" Declination="-31">
+		<Name xml:lang="la">Sculptor</Name>
+	</Constellation>
+	<Constellation Abbreviation="Sct" RightAscension="279.74999999999994" Declination="-10.883">
+		<Name xml:lang="la">Scutum</Name>
+	</Constellation>
+	<Constellation Abbreviation="Ser" RightAscension="235.995" Declination="10.85">
+		<Name xml:lang="la">Serpens Caput</Name>
+	</Constellation>
+	<Constellation Abbreviation="Ser" RightAscension="267" Declination="-13.483">
+		<Name xml:lang="la">Serpens Cauda</Name>
+	</Constellation>
+	<Constellation Abbreviation="Sex" RightAscension="151.5" Declination="-1.133">
+		<Name xml:lang="la">Sextans</Name>
+	</Constellation>
+	<Constellation Abbreviation="Tau" RightAscension="61.499999999999993" Declination="17.333">
+		<Name xml:lang="la">Taurus</Name>
+	</Constellation>
+	<Constellation Abbreviation="Tel" RightAscension="288.75" Declination="-51.467">
+		<Name xml:lang="la">Telescopium</Name>
+	</Constellation>
+	<Constellation Abbreviation="Tri" RightAscension="30.749999999999996" Declination="32.333">
+		<Name xml:lang="la">Triangulum</Name>
+	</Constellation>
+	<Constellation Abbreviation="TrA" RightAscension="241.755" Declination="-65.1">
+		<Name xml:lang="la">Triangulum Australe</Name>
+	</Constellation>
+	<Constellation Abbreviation="Tuc" RightAscension="357.49499999999995" Declination="-64.933">
+		<Name xml:lang="la">Tucana</Name>
+	</Constellation>
+	<Constellation Abbreviation="UMa" RightAscension="169.995" Declination="57.5">
+		<Name xml:lang="la">Ursa Major</Name>
+	</Constellation>
+	<Constellation Abbreviation="UMi" RightAscension="224.505" Declination="75.033">
+		<Name xml:lang="la">Ursa Minor</Name>
+	</Constellation>
+	<Constellation Abbreviation="Vel" RightAscension="139.995" Declination="-48.483">
+		<Name xml:lang="la">Vela</Name>
+	</Constellation>
+	<Constellation Abbreviation="Vir" RightAscension="200.25" Declination="-3.517">
+		<Name xml:lang="la">Virgo</Name>
+	</Constellation>
+	<Constellation Abbreviation="Vol" RightAscension="115.005" Declination="-69.617">
+		<Name xml:lang="la">Volans</Name>
+	</Constellation>
+	<Constellation Abbreviation="Vul" RightAscension="305.505" Declination="25.033">
+		<Name xml:lang="la">Vulpecula</Name>
+	</Constellation>
+</ConstellationList>

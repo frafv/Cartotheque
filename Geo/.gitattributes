@@ -1,2 +1,5 @@
+constellation.xml namespace=urn:denebsoft-skymap-constellation
+nebula.xml     namespace=urn:denebsoft-skymap-nebula
+stars.xml      namespace=urn:denebsoft-skymap-star
 Locations.xml  namespace=urn:geo-schemas-xml-frafv:location,urn:geo-schemas-xml-frafv:proxy,urn:schemas-xml-frafv:proxy
 TZ.xml         namespace=urn:geo-schemas-xml-frafv:timezone,urn:geo-schemas-xml-frafv:proxy,urn:schemas-xml-frafv:proxy

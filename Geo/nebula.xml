@@ -1,0 +1,671 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NebulaList xmlns="urn:denebsoft-skymap-nebula">
+	<Nebula RightAscension="10.1" Declination="41.68333333333333" Magnitude="8.1000003814697266" SurfaceBrightness="14" Type="Galaxy" Catalog="Herschel400 Messier">
+		<Number Type="NGC">205</Number>
+		<Number Type="Messier">110</Number>
+		<Description xml:lang="en" Type="NGC">vB;vL;mE 165 degrees;vgvmbM</Description>
+		<Description xml:lang="en">M31 Companion;UGC 426;H V 18; Member Local Group</Description>
+	</Nebula>
+	<Nebula RightAscension="10.675" Declination="40.866666666666667" Magnitude="8.1000003814697266" SurfaceBrightness="12.399999618530273" Type="Galaxy" Catalog="Messier">
+		<Number Type="NGC">221</Number>
+		<Number Type="Messier">32</Number>
+		<Description xml:lang="en" Type="NGC">vvB;L;R;psmbMN</Description>
+		<Description xml:lang="en">Companion to M31; Member of Local Group</Description>
+	</Nebula>
+	<Nebula RightAscension="10.675" Declination="41.266666666666666" Magnitude="3.4000000953674316" SurfaceBrightness="13.5" Type="Galaxy" Catalog="Messier">
+		<Number Type="NGC">224</Number>
+		<Number Type="Messier">31</Number>
+		<Description xml:lang="en" Type="NGC">!!!eeB;eL;vmE</Description>
+		<Description xml:lang="en">Local Group;Andromeda Galaxy;nearest spiral</Description>
+	</Nebula>
+	<Nebula RightAscension="313.375" Declination="-12.533333333333333" Magnitude="9.1999998092651367" SurfaceBrightness="12" Type="GlobularCluster" Catalog="Messier">
+		<Number Type="NGC">6981</Number>
+		<Number Type="Messier">72</Number>
+		<Description xml:lang="en" Type="NGC">pB;pL;R;gmCM;rrr</Description>
+		<Description xml:lang="en">3 deg WSW of NGC 7009</Description>
+	</Nebula>
+	<Nebula RightAscension="314.75" Declination="-12.633333333333333" Magnitude="9.6999998092651367" SurfaceBrightness="99.9000015258789" Type="OpenCluster" Catalog="Messier">
+		<Number Type="NGC">6994</Number>
+		<Number Type="Messier">73</Number>
+		<Description xml:lang="en" Type="NGC">Cl;eP;vlC;No neb</Description>
+		<Description xml:lang="en">4 or 5 10th mag stars; Messier saw neby but there is none; not a cluster</Description>
+	</Nebula>
+	<Nebula RightAscension="323.375" Declination="-0.81666666666666665" Magnitude="6.5" SurfaceBrightness="11" Type="GlobularCluster" Catalog="Messier">
+		<Number Type="NGC">7089</Number>
+		<Number Type="Messier">2</Number>
+		<Description xml:lang="en" Type="NGC">!!B;vL;gpmbM;rrr;st eS</Description>
+		<Description xml:lang="en">Lord Rosse-Dark area near core;* mags 13...</Description>
+	</Nebula>
+	<Nebula RightAscension="82.175" Declination="35.85" Magnitude="6.4000000953674316" SurfaceBrightness="12" Type="OpenCluster" Catalog="Messier">
+		<Number Type="NGC">1912</Number>
+		<Number Type="Messier">38</Number>
+		<Description xml:lang="en" Type="NGC">Cl;B;vL;vRi;iF;st L &amp; S</Description>
+		<Description xml:lang="en">in Aur OB1;Burnham-shaped like Greek letter Pi</Description>
+	</Nebula>
+	<Nebula RightAscension="84.075" Declination="34.133333333333333" Magnitude="6" SurfaceBrightness="12" Type="OpenCluster" Catalog="Messier">
+		<Number Type="NGC">1960</Number>
+		<Number Type="Messier">36</Number>
+		<Description xml:lang="en" Type="NGC">Cl;B;vL;vRi;lC;*9..11</Description>
+		<Description xml:lang="en">in Aur OB1;incl Struve 737 10.7''sep</Description>
+	</Nebula>
+	<Nebula RightAscension="88.075" Declination="32.55" Magnitude="5.5999999046325684" SurfaceBrightness="11" Type="OpenCluster" Catalog="Messier">
+		<Number Type="NGC">2099</Number>
+		<Number Type="Messier">37</Number>
+		<Description xml:lang="en" Type="NGC">!!Cl;Ri;pCM;st L &amp; S</Description>
+		<Description xml:lang="en">Total population 500*;dark area near center</Description>
+	</Nebula>
+	<Nebula RightAscension="325.1" Declination="-23.183333333333334" Magnitude="6.9000000953674316" SurfaceBrightness="11" Type="GlobularCluster" Catalog="Messier">
+		<Number Type="NGC">7099</Number>
+		<Number Type="Messier">30</Number>
+		<Description xml:lang="en" Type="NGC">!;B;L;lE;gpmbM;st 12...16</Description>
+		<Description xml:lang="en">Wm. Herschel saw very elliptical shape</Description>
+	</Nebula>
+	<Nebula RightAscension="23.35" Declination="60.65" Magnitude="7.4000000953674316" SurfaceBrightness="11" Type="OpenCluster" Catalog="Messier">
+		<Number Type="NGC">581</Number>
+		<Number Type="Messier">103</Number>
+		<Description xml:lang="en" Type="NGC">Cl;pL;B;R;Ri;*10..11</Description>
+		<Description xml:lang="en">in Cas OB8;incl Struve 131 6-9m 14''</Description>
+	</Nebula>
+	<Nebula RightAscension="351.05" Declination="61.583333333333336" Magnitude="6.9000000953674316" SurfaceBrightness="12" Type="OpenCluster" Catalog="Messier">
+		<Number Type="NGC">7654</Number>
+		<Number Type="Messier">52</Number>
+		<Description xml:lang="en" Type="NGC">L;Ri;mCM;*9..13</Description>
+		<Description xml:lang="en">Messier saw neby there is none</Description>
+	</Nebula>
+	<Nebula RightAscension="40.675" Declination="-0.016666666666666666" Magnitude="8.8999996185302734" SurfaceBrightness="12.800000190734863" Type="Galaxy" Catalog="Messier">
+		<Number Type="NGC">1068</Number>
+		<Number Type="Messier">77</Number>
+		<Description xml:lang="en" Type="NGC">vB;pL;iR;sbMrrN</Description>
+		<Description xml:lang="en">Seyfert;brtst in NGC 1068 grp</Description>
+	</Nebula>
+	<Nebula RightAscension="101.5" Declination="-20.75" Magnitude="4.5" SurfaceBrightness="12" Type="OpenCluster" Catalog="Messier">
+		<Number Type="NGC">2287</Number>
+		<Number Type="Messier">41</Number>
+		<Description xml:lang="en" Type="NGC">Cl;vL;B;lC;st 8...</Description>
+		<Description xml:lang="en">150 members to 13 mag;orange * near center</Description>
+	</Nebula>
+	<Nebula RightAscension="130" Declination="19.666666666666668" Magnitude="3.0999999046325684" SurfaceBrightness="13" Type="OpenCluster" Catalog="Messier">
+		<Number Type="NGC">2632</Number>
+		<Number Type="Messier">44</Number>
+		<Description xml:lang="en" Type="NGC">!!Praesepe</Description>
+		<Description xml:lang="en">Beehive Cluster;200 memb to 14 mag</Description>
+	</Nebula>
+	<Nebula RightAscension="132.85" Declination="11.816666666666666" Magnitude="6.9000000953674316" SurfaceBrightness="13" Type="OpenCluster" Catalog="Messier">
+		<Number Type="NGC">2682</Number>
+		<Number Type="Messier">67</Number>
+		<Description xml:lang="en" Type="NGC">! Cl;vB;vL;eRi;lC;*10...15</Description>
+		<Description xml:lang="en">500 memb to 16 mag;Mallas-dark spot near center</Description>
+	</Nebula>
+	<Nebula RightAscension="183.45" Declination="14.9" Magnitude="10.100000381469727" SurfaceBrightness="13.600000381469727" Type="Galaxy" Catalog="Messier">
+		<Number Type="NGC">4192</Number>
+		<Number Type="Messier">98</Number>
+		<Description xml:lang="en" Type="NGC">B;vL;vmE152;vsvmbM</Description>
+		<Description xml:lang="en">6 Comae Berenices is 30' east</Description>
+	</Nebula>
+	<Nebula RightAscension="184.7" Declination="14.416666666666666" Magnitude="9.8999996185302734" SurfaceBrightness="13.199999809265137" Type="Galaxy" Catalog="Messier">
+		<Number Type="NGC">4254</Number>
+		<Number Type="Messier">99</Number>
+		<Description xml:lang="en" Type="NGC">!;B;L;R;gbM;r;3 branch spiral</Description>
+		<Description xml:lang="en">SN 1967h;Norton-diff for small scope</Description>
+	</Nebula>
+	<Nebula RightAscension="185.725" Declination="15.816666666666666" Magnitude="9.3999996185302734" SurfaceBrightness="13.399999618530273" Type="Galaxy" Catalog="Messier">
+		<Number Type="NGC">4321</Number>
+		<Number Type="Messier">100</Number>
+		<Description xml:lang="en" Type="NGC">pF;vL;R;vg;psbMrN;spiral-Rosse</Description>
+		<Description xml:lang="en">SN 1901-14-59;NGC 4322 @ 5.2';NGC 4328 @ 6.1'</Description>
+	</Nebula>
+	<Nebula RightAscension="186.35" Declination="18.183333333333334" Magnitude="9.1000003814697266" SurfaceBrightness="12.899999618530273" Type="Galaxy" Catalog="Messier">
+		<Number Type="NGC">4382</Number>
+		<Number Type="Messier">85</Number>
+		<Description xml:lang="en" Type="NGC">vB;pL;R;bM;* np</Description>
+		<Description xml:lang="en">SN 1960r;P w NGC 4394 @ 7.8' foll</Description>
+	</Nebula>
+	<Nebula RightAscension="188" Declination="14.416666666666666" Magnitude="9.6000003814697266" SurfaceBrightness="13" Type="Galaxy" Catalog="Messier">
+		<Number Type="NGC">4501</Number>
+		<Number Type="Messier">88</Number>
+		<Description xml:lang="en" Type="NGC">B;vL;vmE</Description>
+		<Description xml:lang="en">comp @ 6.9';mult arm spiral</Description>
+	</Nebula>
+	<Nebula RightAscension="188.85" Declination="14.5" Magnitude="10.100000381469727" SurfaceBrightness="13.399999618530273" Type="Galaxy" Catalog="Herschel400 Messier">
+		<Number Type="NGC">4548</Number>
+		<Number Type="Messier">91</Number>
+		<Description xml:lang="en" Type="NGC">B;L;lE;lbM</Description>
+		<Description xml:lang="en">NGC 4571 @ 27 ';H II 120;F outer arms in S pattrn</Description>
+	</Nebula>
+	<Nebula RightAscension="194.175" Declination="21.683333333333334" Magnitude="8.5" SurfaceBrightness="12.699999809265137" Type="Galaxy" Catalog="Messier">
+		<Number Type="NGC">4826</Number>
+		<Number Type="Messier">64</Number>
+		<Description xml:lang="en" Type="NGC">!vB;vL;vmE120;bM;SBN</Description>
+		<Description xml:lang="en">Blackeye Galaxy;dark marking near center</Description>
+	</Nebula>
+	<Nebula RightAscension="198.225" Declination="18.166666666666668" Magnitude="7.6999998092651367" SurfaceBrightness="12" Type="GlobularCluster" Catalog="Messier">
+		<Number Type="NGC">5024</Number>
+		<Number Type="Messier">53</Number>
+		<Description xml:lang="en" Type="NGC">!B;vC;iR;vvmbM;st 12...</Description>
+		<Description xml:lang="en">1 deg NE of Alpha Comae Berenices</Description>
+	</Nebula>
+	<Nebula RightAscension="184.75" Declination="47.3" Magnitude="8.3999996185302734" SurfaceBrightness="13.600000381469727" Type="Galaxy" Catalog="Herschel400 Messier">
+		<Number Type="NGC">4258</Number>
+		<Number Type="Messier">106</Number>
+		<Description xml:lang="en" Type="NGC">!;vB;vL;vmE0;sbMBN</Description>
+		<Description xml:lang="en">H V 43</Description>
+	</Nebula>
+	<Nebula RightAscension="192.725" Declination="41.116666666666667" Magnitude="8.1999998092651367" SurfaceBrightness="13.100000381469727" Type="Galaxy" Catalog="Messier">
+		<Number Type="NGC">4736</Number>
+		<Number Type="Messier">94</Number>
+		<Description xml:lang="en" Type="NGC">vB;L;iR;vsvmbM;BN;r</Description>
+	</Nebula>
+	<Nebula RightAscension="198.95" Declination="42.033333333333331" Magnitude="8.6000003814697266" SurfaceBrightness="13.300000190734863" Type="Galaxy" Catalog="Messier">
+		<Number Type="NGC">5055</Number>
+		<Number Type="Messier">63</Number>
+		<Description xml:lang="en" Type="NGC">vB;L;pME120;vsmbM;BN</Description>
+		<Description xml:lang="en">vsvB stell. N in B inner lens;many filam</Description>
+	</Nebula>
+	<Nebula RightAscension="202.475" Declination="47.2" Magnitude="8.3999996185302734" SurfaceBrightness="12.899999618530273" Type="Galaxy" Catalog="Messier">
+		<Number Type="NGC">5194</Number>
+		<Number Type="Messier">51</Number>
+		<Description xml:lang="en" Type="NGC">!!!;Great spiral nebula</Description>
+		<Description xml:lang="en">Whirlpool Gal;interacting pair;classic spiral</Description>
+	</Nebula>
+	<Nebula RightAscension="202.5" Declination="47.266666666666666" Magnitude="9.6000003814697266" SurfaceBrightness="12.899999618530273" Type="Galaxy" Catalog="Herschel400 Messier">
+		<Number Type="NGC">5195</Number>
+		<Number Type="UGC">8494</Number>
+		<Description xml:lang="en" Type="NGC">B;pS;lE;vgbM;inv M51</Description>
+		<Description xml:lang="en">H I 186;Interacting P w M 51;peculiar</Description>
+	</Nebula>
+	<Nebula RightAscension="205.55" Declination="28.383333333333333" Magnitude="6.3000001907348633" SurfaceBrightness="11" Type="GlobularCluster" Catalog="Messier">
+		<Number Type="NGC">5272</Number>
+		<Number Type="Messier">3</Number>
+		<Description xml:lang="en" Type="NGC">!!;eB;vL;vsmbM;st 11..</Description>
+		<Description xml:lang="en">Lord Rosse-sev dark marks within 5' of center</Description>
+	</Nebula>
+	<Nebula RightAscension="305.975" Declination="38.533333333333331" Magnitude="6.5999999046325684" SurfaceBrightness="11" Type="OpenCluster" Catalog="Messier">
+		<Number Type="NGC">6913</Number>
+		<Number Type="Messier">29</Number>
+		<Description xml:lang="en" Type="NGC">Cl;P;lC;st L&amp;S</Description>
+		<Description xml:lang="en">About 20 stars mags 8...</Description>
+	</Nebula>
+	<Nebula RightAscension="323.05" Declination="48.43333333333333" Magnitude="4.5999999046325684" SurfaceBrightness="11" Type="OpenCluster" Catalog="Messier">
+		<Number Type="NGC">7092</Number>
+		<Number Type="Messier">39</Number>
+		<Description xml:lang="en" Type="NGC">Cl;vL;P;vlC;*7...10</Description>
+		<Description xml:lang="en">Large but loose cluster</Description>
+	</Nebula>
+	<Nebula RightAscension="226.625" Declination="55.766666666666666" Magnitude="9.8999996185302734" SurfaceBrightness="12.199999809265137" Type="Galaxy" Catalog="Herschel400 Messier">
+		<Number Type="NGC">5866</Number>
+		<Number Type="Messier">102</Number>
+		<Description xml:lang="en" Type="NGC">vB;cL;pME146;gbM</Description>
+		<Description xml:lang="en">vBN w dk lane and ansae;NGC 5867 small E neb;H I 215</Description>
+	</Nebula>
+	<Nebula RightAscension="92.225" Declination="24.35" Magnitude="5.0999999046325684" SurfaceBrightness="12" Type="OpenCluster" Catalog="Messier">
+		<Number Type="NGC">2168</Number>
+		<Number Type="Messier">35</Number>
+		<Description xml:lang="en" Type="NGC">Cl;vL;eRi;pC;st9...16</Description>
+		<Description xml:lang="en">Lord Rosse counted 300*;Orange * invl;NGC 2158 30' SW</Description>
+	</Nebula>
+	<Nebula RightAscension="250.425" Declination="36.466666666666669" Magnitude="5.8000001907348633" SurfaceBrightness="12" Type="GlobularCluster" Catalog="Messier">
+		<Number Type="NGC">6205</Number>
+		<Number Type="Messier">13</Number>
+		<Description xml:lang="en" Type="NGC">!!eB;vRi;vgeCM;*11...</Description>
+		<Description xml:lang="en">Hercules cluster;Messier said round nebula contains no star</Description>
+	</Nebula>
+	<Nebula RightAscension="259.275" Declination="43.133333333333333" Magnitude="6.5" SurfaceBrightness="11" Type="GlobularCluster" Catalog="Messier">
+		<Number Type="NGC">6341</Number>
+		<Number Type="Messier">92</Number>
+		<Description xml:lang="en" Type="NGC">vB;vL;eCM;st 12...</Description>
+		<Description xml:lang="en">Lord Rosse saw spiral structure</Description>
+	</Nebula>
+	<Nebula RightAscension="123.425" Declination="-5.75" Magnitude="5.8000001907348633" SurfaceBrightness="13" Type="OpenCluster" Catalog="Herschel400 Messier">
+		<Number Type="NGC">2548</Number>
+		<Number Type="Messier">48</Number>
+		<Description xml:lang="en" Type="NGC">Cl;vL;pRi;pmC;* 9..13</Description>
+		<Description xml:lang="en">Messier wrong position by 4 deg in dec;50* 9-13mag;H VI 22</Description>
+	</Nebula>
+	<Nebula RightAscension="189.875" Declination="-26.75" Magnitude="7.3000001907348633" SurfaceBrightness="13" Type="GlobularCluster" Catalog="Messier">
+		<Number Type="NGC">4590</Number>
+		<Number Type="Messier">68</Number>
+		<Description xml:lang="en" Type="NGC">L;eRi;vC;iR;rrr;st 13...</Description>
+	</Nebula>
+	<Nebula RightAscension="204.25" Declination="-29.866666666666667" Magnitude="7.5" SurfaceBrightness="12.800000190734863" Type="Galaxy" Catalog="Messier">
+		<Number Type="NGC">5236</Number>
+		<Number Type="Messier">83</Number>
+		<Description xml:lang="en" Type="NGC">vB;vL;E55;esBMN;spir</Description>
+		<Description xml:lang="en">Fast SupNova producer-4 in 50 yrs</Description>
+	</Nebula>
+	<Nebula RightAscension="161" Declination="11.7" Magnitude="9.6999998092651367" SurfaceBrightness="13.5" Type="Galaxy" Catalog="Messier">
+		<Number Type="NGC">3351</Number>
+		<Number Type="Messier">95</Number>
+		<Description xml:lang="en" Type="NGC">B;L;R;pgmbMN</Description>
+		<Description xml:lang="en">Leo group</Description>
+	</Nebula>
+	<Nebula RightAscension="161.7" Declination="11.816666666666666" Magnitude="9.3000001907348633" SurfaceBrightness="13.100000381469727" Type="Galaxy" Catalog="Messier">
+		<Number Type="NGC">3368</Number>
+		<Number Type="Messier">96</Number>
+		<Description xml:lang="en" Type="NGC">vB;vL;lE;vsvmbM;r</Description>
+		<Description xml:lang="en">comp @ 3.8';PA 205</Description>
+	</Nebula>
+	<Nebula RightAscension="161.95" Declination="12.583333333333334" Magnitude="9.3000001907348633" SurfaceBrightness="12.800000190734863" Type="Galaxy" Catalog="Herschel400 Messier">
+		<Number Type="NGC">3379</Number>
+		<Number Type="Messier">105</Number>
+		<Description xml:lang="en" Type="NGC">vB;cL;R;psbM;r</Description>
+		<Description xml:lang="en">H I 17;P w NGC 3384 @ 7.2';NGC 3389 @ 10 ';PA108;Leo Group</Description>
+	</Nebula>
+	<Nebula RightAscension="169.725" Declination="13.083333333333334" Magnitude="9.3000001907348633" SurfaceBrightness="12.800000190734863" Type="Galaxy" Catalog="Messier">
+		<Number Type="NGC">3623</Number>
+		<Number Type="Messier">65</Number>
+		<Description xml:lang="en" Type="NGC">B;vL;mE 165;gbMBN</Description>
+		<Description xml:lang="en">M66 subgroup</Description>
+	</Nebula>
+	<Nebula RightAscension="170.05" Declination="13" Magnitude="8.8999996185302734" SurfaceBrightness="12.699999809265137" Type="Galaxy" Catalog="Messier">
+		<Number Type="NGC">3627</Number>
+		<Number Type="Messier">66</Number>
+		<Description xml:lang="en" Type="NGC">B;vL;mE 150;mbM;2 st np</Description>
+		<Description xml:lang="en">brightest in group;M 65 &amp; NGC 3628 in field</Description>
+	</Nebula>
+	<Nebula RightAscension="81.05" Declination="-24.516666666666666" Magnitude="7.6999998092651367" SurfaceBrightness="12" Type="GlobularCluster" Catalog="Messier">
+		<Number Type="NGC">1904</Number>
+		<Number Type="Messier">79</Number>
+		<Description xml:lang="en" Type="NGC">pL;eRi;eC;rrr</Description>
+		<Description xml:lang="en">Stars vF</Description>
+	</Nebula>
+	<Nebula RightAscension="283.4" Declination="33.033333333333331" Magnitude="9.3999996185302734" SurfaceBrightness="9.3000001907348633" Type="PlanetaryNebula" Catalog="Messier">
+		<Number Type="NGC">6720</Number>
+		<Number Type="Messier">57</Number>
+		<Description xml:lang="en" Type="NGC">Ring neb;B;pL;cE</Description>
+		<Description xml:lang="en">Ring Nebula;central* var 14 to 16 mag;PK63+13.1</Description>
+	</Nebula>
+	<Nebula RightAscension="289.15" Declination="30.183333333333334" Magnitude="8.3000001907348633" SurfaceBrightness="12" Type="GlobularCluster" Catalog="Messier">
+		<Number Type="NGC">6779</Number>
+		<Number Type="Messier">56</Number>
+		<Description xml:lang="en" Type="NGC">B;L;iR;gvmCM;rrr</Description>
+		<Description xml:lang="en">Stars 11...</Description>
+	</Nebula>
+	<Nebula RightAscension="105.625" Declination="-8.3833333333333329" Magnitude="5.9000000953674316" SurfaceBrightness="12" Type="OpenCluster" Catalog="Messier">
+		<Number Type="NGC">2323</Number>
+		<Number Type="Messier">50</Number>
+		<Description xml:lang="en" Type="NGC">Cl;vL;Ri;pC</Description>
+		<Description xml:lang="en">About 100 stars mags 9...14</Description>
+	</Nebula>
+	<Nebula RightAscension="248.125" Declination="-13.05" Magnitude="7.8000001907348633" SurfaceBrightness="12" Type="GlobularCluster" Catalog="Herschel400 Messier">
+		<Number Type="NGC">6171</Number>
+		<Number Type="Messier">107</Number>
+		<Description xml:lang="en" Type="NGC">L;vRi;vmC;R;rrr</Description>
+		<Description xml:lang="en">H VI 40</Description>
+	</Nebula>
+	<Nebula RightAscension="251.8" Declination="-1.95" Magnitude="6.0999999046325684" SurfaceBrightness="12" Type="GlobularCluster" Catalog="Messier">
+		<Number Type="NGC">6218</Number>
+		<Number Type="Messier">12</Number>
+		<Description xml:lang="en" Type="NGC">vB;vL;iR;gmbM</Description>
+		<Description xml:lang="en">Somewhat loose structure</Description>
+	</Nebula>
+	<Nebula RightAscension="254.275" Declination="-4.1" Magnitude="6.5999999046325684" SurfaceBrightness="12" Type="GlobularCluster" Catalog="Messier">
+		<Number Type="NGC">6254</Number>
+		<Number Type="Messier">10</Number>
+		<Description xml:lang="en" Type="NGC">B;vL;R;gvmBM;rrr</Description>
+		<Description xml:lang="en">Lord Rosse reported dark lane in cluster</Description>
+	</Nebula>
+	<Nebula RightAscension="255.3" Declination="-30.116666666666667" Magnitude="6.4000000953674316" SurfaceBrightness="11" Type="GlobularCluster" Catalog="Messier">
+		<Number Type="NGC">6266</Number>
+		<Number Type="Messier">62</Number>
+		<Description xml:lang="en" Type="NGC">vB;L;gmbM;rrr</Description>
+		<Description xml:lang="en">Asymmetrical</Description>
+	</Nebula>
+	<Nebula RightAscension="255.65" Declination="-26.266666666666666" Magnitude="6.8000001907348633" SurfaceBrightness="11" Type="GlobularCluster" Catalog="Messier">
+		<Number Type="NGC">6273</Number>
+		<Number Type="Messier">19</Number>
+		<Description xml:lang="en" Type="NGC">vB;L;R;vCM;rrr</Description>
+		<Description xml:lang="en">One of the most oblate globulars</Description>
+	</Nebula>
+	<Nebula RightAscension="259.8" Declination="-18.516666666666666" Magnitude="7.9000000953674316" SurfaceBrightness="11" Type="GlobularCluster" Catalog="Messier">
+		<Number Type="NGC">6333</Number>
+		<Number Type="Messier">9</Number>
+		<Description xml:lang="en" Type="NGC">B;L;R;eCM;rrr</Description>
+		<Description xml:lang="en">Dark neb B64 prominent to west</Description>
+	</Nebula>
+	<Nebula RightAscension="264.4" Declination="-3.25" Magnitude="7.5999999046325684" SurfaceBrightness="12" Type="GlobularCluster" Catalog="Messier">
+		<Number Type="NGC">6402</Number>
+		<Number Type="Messier">14</Number>
+		<Description xml:lang="en" Type="NGC">B;vL;R;eRi;vgmbM</Description>
+		<Description xml:lang="en">Many vF stars 14...</Description>
+	</Nebula>
+	<Nebula RightAscension="83.825" Declination="-5.3833333333333337" Magnitude="4" SurfaceBrightness="11" Type="ClusterNebulosity" Catalog="Messier">
+		<Number Type="NGC">1976</Number>
+		<Number Type="Messier">42</Number>
+		<Description xml:lang="en" Type="NGC">!!!;Theta Orionis and the great nebula M42</Description>
+		<Description xml:lang="en">Trapezium* 6.7-7.7m;&gt;50 var* invl;M 43 to NE</Description>
+	</Nebula>
+	<Nebula RightAscension="83.875" Declination="-5.2666666666666666" Magnitude="7" SurfaceBrightness="13" Type="BrightNebula" Catalog="Messier">
+		<Number Type="NGC">1982</Number>
+		<Number Type="Messier">43</Number>
+		<Description xml:lang="en" Type="NGC">!;vB;vL;R w tail;mbM*8</Description>
+		<Description xml:lang="en">H III 1 ?;detached part of Orion Nebula</Description>
+	</Nebula>
+	<Nebula RightAscension="86.7" Declination="0.083333333333333329" Magnitude="8" SurfaceBrightness="12" Type="BrightNebula" Catalog="Messier">
+		<Number Type="NGC">2068</Number>
+		<Number Type="Messier">78</Number>
+		<Description xml:lang="en" Type="NGC">B;L;wisp;gmbN;3* inv;r</Description>
+		<Description xml:lang="en">Comet shaped;2 10mag * invl; 53'' sep</Description>
+	</Nebula>
+	<Nebula RightAscension="322.5" Declination="12.166666666666666" Magnitude="6.4000000953674316" SurfaceBrightness="11" Type="GlobularCluster" Catalog="Messier">
+		<Number Type="NGC">7078</Number>
+		<Number Type="Messier">15</Number>
+		<Description xml:lang="en" Type="NGC">!;vB;vL;iR;vsmbM;rrr;st vS</Description>
+		<Description xml:lang="en">Stars mags 13...</Description>
+	</Nebula>
+	<Nebula RightAscension="25.575" Declination="51.583333333333336" Magnitude="10.100000381469727" SurfaceBrightness="10.399999618530273" Type="PlanetaryNebula" Catalog="Messier">
+		<Number Type="NGC">650</Number>
+		<Number Type="Messier">76</Number>
+		<Description xml:lang="en" Type="NGC">vB;p of Dneb</Description>
+		<Description xml:lang="en">Little Dumbbell or Cork Nebula;PK130-10.1</Description>
+	</Nebula>
+	<Nebula RightAscension="40.525" Declination="42.783333333333331" Magnitude="5.1999998092651367" SurfaceBrightness="99.9000015258789" Type="OpenCluster" Catalog="Messier">
+		<Number Type="NGC">1039</Number>
+		<Number Type="Messier">34</Number>
+		<Description xml:lang="en" Type="NGC">Cl;B;vL;lC;sC st9...</Description>
+		<Description xml:lang="en">At least 80 true members;sev D* incl h1123 &amp; O Struve 44</Description>
+	</Nebula>
+	<Nebula RightAscension="24.175" Declination="15.783333333333333" Magnitude="9.3999996185302734" SurfaceBrightness="14.199999809265137" Type="Galaxy" Catalog="Messier">
+		<Number Type="NGC">628</Number>
+		<Number Type="Messier">74</Number>
+		<Description xml:lang="en" Type="NGC">F;vL;R;vg;psmbM;rr</Description>
+		<Description xml:lang="en">Fine face on spiral</Description>
+	</Nebula>
+	<Nebula RightAscension="114.15" Declination="-14.483333333333333" Magnitude="4.4000000953674316" SurfaceBrightness="11" Type="OpenCluster" Catalog="Herschel400 Messier">
+		<Number Type="NGC">2422</Number>
+		<Number Type="Messier">47</Number>
+		<Description xml:lang="en" Type="NGC">Cl;B;vL;pRi;st L &amp; S</Description>
+		<Description xml:lang="en">H VIII 38;Messier gave poor position;Struve 1121 &amp; 1120 invl</Description>
+	</Nebula>
+	<Nebula RightAscension="115.45" Declination="-14.816666666666666" Magnitude="6.0999999046325684" SurfaceBrightness="13" Type="OpenCluster" Catalog="Messier">
+		<Number Type="NGC">2437</Number>
+		<Number Type="Messier">46</Number>
+		<Description xml:lang="en" Type="NGC">!;Cl;vB;vRi;vL</Description>
+		<Description xml:lang="en">PLNNB NGC 2438 on N edge;150 * 10-13 mag</Description>
+	</Nebula>
+	<Nebula RightAscension="116.125" Declination="-23.85" Magnitude="6.1999998092651367" SurfaceBrightness="12" Type="OpenCluster" Catalog="Messier">
+		<Number Type="NGC">2447</Number>
+		<Number Type="Messier">93</Number>
+		<Description xml:lang="en" Type="NGC">Cl;L;pRi;lC;st8...13</Description>
+		<Description xml:lang="en">63 members to 13 mag;wedge shaped center</Description>
+	</Nebula>
+	<Nebula RightAscension="244.25" Declination="-22.983333333333334" Magnitude="7.3000001907348633" SurfaceBrightness="11" Type="GlobularCluster" Catalog="Messier">
+		<Number Type="NGC">6093</Number>
+		<Number Type="Messier">80</Number>
+		<Description xml:lang="en" Type="NGC">vB;L;vmbM;rrr;st 14...</Description>
+		<Description xml:lang="en">Extremely rich and compressed</Description>
+	</Nebula>
+	<Nebula RightAscension="245.9" Declination="-26.533333333333335" Magnitude="5.4000000953674316" SurfaceBrightness="12" Type="GlobularCluster" Catalog="Messier">
+		<Number Type="NGC">6121</Number>
+		<Number Type="Messier">4</Number>
+		<Description xml:lang="en" Type="NGC">Cl;8 or 10 B* in line;rrr</Description>
+		<Description xml:lang="en">Look for central bar structure</Description>
+	</Nebula>
+	<Nebula RightAscension="265.075" Declination="-32.25" Magnitude="4.1999998092651367" SurfaceBrightness="10" Type="OpenCluster" Catalog="Messier">
+		<Number Type="NGC">6405</Number>
+		<Number Type="Messier">6</Number>
+		<Description xml:lang="en" Type="NGC">Cl;L;iR;lC;st7;10...</Description>
+		<Description xml:lang="en">Butterfly cluster;51 members to 10.5 mag incl var* BM Sco</Description>
+	</Nebula>
+	<Nebula RightAscension="268.475" Declination="-34.8" Magnitude="3.2999999523162842" SurfaceBrightness="12" Type="OpenCluster" Catalog="Messier">
+		<Number Type="NGC">6475</Number>
+		<Number Type="Messier">7</Number>
+		<Description xml:lang="en" Type="NGC">Cl;vB;pRi;lC;*7...12</Description>
+		<Description xml:lang="en">80 members to 10th mag;Fine naked eye cluster</Description>
+	</Nebula>
+	<Nebula RightAscension="281.3" Declination="-9.4" Magnitude="8" SurfaceBrightness="12" Type="OpenCluster" Catalog="Messier">
+		<Number Type="NGC">6694</Number>
+		<Number Type="Messier">26</Number>
+		<Description xml:lang="en" Type="NGC">Cl;cL;pRi;pC;st12..15</Description>
+		<Description xml:lang="en">Finderscope will show why Messier included it;70 * to 14 m</Description>
+	</Nebula>
+	<Nebula RightAscension="282.775" Declination="-6.2666666666666666" Magnitude="5.8000001907348633" SurfaceBrightness="9" Type="OpenCluster" Catalog="Messier">
+		<Number Type="NGC">6705</Number>
+		<Number Type="Messier">11</Number>
+		<Description xml:lang="en" Type="NGC">!!Cl;vB;L;iR;Ri;*9..</Description>
+		<Description xml:lang="en">500 stars to 14th mag;Wild duck cluster</Description>
+	</Nebula>
+	<Nebula RightAscension="229.65" Declination="2.0833333333333335" Magnitude="5.6999998092651367" SurfaceBrightness="11" Type="GlobularCluster" Catalog="Messier">
+		<Number Type="NGC">5904</Number>
+		<Number Type="Messier">5</Number>
+		<Description xml:lang="en" Type="NGC">!!;vB;L;eCM;eRi</Description>
+		<Description xml:lang="en">st mags 11...;superb cluster</Description>
+	</Nebula>
+	<Nebula RightAscension="274.7" Declination="-13.783333333333333" Magnitude="6" SurfaceBrightness="12" Type="ClusterNebulosity" Catalog="Messier">
+		<Number Type="NGC">6611</Number>
+		<Number Type="Messier">16</Number>
+		<Description xml:lang="en" Type="NGC">L;B;scattered Cl;neb invl</Description>
+		<Description xml:lang="en">In Ser OB1;Star Queen or Eagle Nebula;stars mags 8...</Description>
+	</Nebula>
+	<Nebula RightAscension="298.45" Declination="18.783333333333335" Magnitude="8.3000001907348633" SurfaceBrightness="12" Type="GlobularCluster" Catalog="Messier">
+		<Number Type="NGC">6838</Number>
+		<Number Type="Messier">71</Number>
+		<Description xml:lang="en" Type="NGC">Cl;vL;vRi;pmC;*11...16</Description>
+		<Description xml:lang="en">Arrowhead shape; stars have few metals</Description>
+	</Nebula>
+	<Nebula RightAscension="269.275" Declination="-18.983333333333334" Magnitude="5.5" SurfaceBrightness="13" Type="OpenCluster" Catalog="Messier">
+		<Number Type="NGC">6494</Number>
+		<Number Type="Messier">23</Number>
+		<Description xml:lang="en" Type="NGC">Cl;B;vL;pRi;lC;*10..</Description>
+		<Description xml:lang="en">100 members to 13th mag</Description>
+	</Nebula>
+	<Nebula RightAscension="270.675" Declination="-22.966666666666665" Magnitude="6.3000001907348633" SurfaceBrightness="13" Type="ClusterNebulosity" Catalog="Herschel400 Messier">
+		<Number Type="NGC">6514</Number>
+		<Number Type="Messier">20</Number>
+		<Description xml:lang="en" Type="NGC">vB;vL;Trifid;D* inv</Description>
+		<Description xml:lang="en">Trifid nebula;sev dark lanes;H IV 41 &amp; V 10;D* HN 40 invl</Description>
+	</Nebula>
+	<Nebula RightAscension="270.925" Declination="-24.383333333333333" Magnitude="5" SurfaceBrightness="13" Type="ClusterNebulosity" Catalog="Messier">
+		<Number Type="NGC">6523</Number>
+		<Number Type="Messier">8</Number>
+		<Description xml:lang="en" Type="NGC">!!!;vB;eL;eiF;w L Cl</Description>
+		<Description xml:lang="en">Lagoon Nebula;Cl NGC 6530 invl;dark lane crosses neb</Description>
+	</Nebula>
+	<Nebula RightAscension="271.05" Declination="-22.483333333333334" Magnitude="5.9000000953674316" SurfaceBrightness="11" Type="OpenCluster" Catalog="Messier">
+		<Number Type="NGC">6531</Number>
+		<Number Type="Messier">21</Number>
+		<Description xml:lang="en" Type="NGC">Cl;pRi;lC;st9...12</Description>
+		<Description xml:lang="en">In Sgr OB1;36 members to 12th mag</Description>
+	</Nebula>
+	<Nebula RightAscension="271.125" Declination="-24.35" Magnitude="4.5999999046325684" SurfaceBrightness="99.9000015258789" Type="OpenCluster" Catalog="Messier">
+		<Number Type="NGC">6530</Number>
+		<Number Type="OCL">19</Number>
+		<Description xml:lang="en" Type="NGC">Cl;B;L;pRi;f M8</Description>
+		<Description xml:lang="en">In Lagoon nebula M8;25* mags 7...</Description>
+	</Nebula>
+	<Nebula RightAscension="274.975" Declination="-17.133333333333333" Magnitude="6.9000000953674316" SurfaceBrightness="12" Type="OpenCluster" Catalog="Messier">
+		<Number Type="NGC">6613</Number>
+		<Number Type="Messier">18</Number>
+		<Description xml:lang="en" Type="NGC">Cl;P;vlC</Description>
+		<Description xml:lang="en">12 * mag 9-10; 1 deg S of M17</Description>
+	</Nebula>
+	<Nebula RightAscension="275.2" Declination="-16.183333333333334" Magnitude="6" SurfaceBrightness="13" Type="ClusterNebulosity" Catalog="Messier">
+		<Number Type="NGC">6618</Number>
+		<Number Type="Messier">17</Number>
+		<Description xml:lang="en" Type="NGC">!!!;B;eL;eiF;2 hooked</Description>
+		<Description xml:lang="en">Omega nebula;Swan Nebula;many F outer loops;use filter</Description>
+	</Nebula>
+	<Nebula RightAscension="276.125" Declination="-24.866666666666667" Magnitude="6.9000000953674316" SurfaceBrightness="11" Type="GlobularCluster" Catalog="Messier">
+		<Number Type="NGC">6626</Number>
+		<Number Type="Messier">28</Number>
+		<Description xml:lang="en" Type="NGC">vB;L;R;geCM;rrr</Description>
+		<Description xml:lang="en">45' NW from Lambda Sgr;* mags 14...</Description>
+	</Nebula>
+	<Nebula RightAscension="274.325" Declination="-18.666666666666668" Magnitude="3.0999999046325684" SurfaceBrightness="4.3000001907348633" Type="OpenCluster" Catalog="Messier">
+		<Number Type="IC">4715</Number>
+		<Number Type="Messier">24</Number>
+		<Description xml:lang="en" Type="NGC">eeL cloud of st and neb</Description>
+		<Description xml:lang="en">Small Sagittarius Star Cloud; sev dark neb and NGC 6603 invl</Description>
+	</Nebula>
+	<Nebula RightAscension="277.85" Declination="-32.35" Magnitude="7.6999998092651367" SurfaceBrightness="11" Type="GlobularCluster" Catalog="Messier">
+		<Number Type="NGC">6637</Number>
+		<Number Type="Messier">69</Number>
+		<Description xml:lang="en" Type="NGC">B;L;R;rrr;*14..16</Description>
+	</Nebula>
+	<Nebula RightAscension="277.95" Declination="-19.116666666666667" Magnitude="4.5999999046325684" SurfaceBrightness="12" Type="OpenCluster" Catalog="Messier">
+		<Number Type="IC">4725</Number>
+		<Number Type="Messier">25</Number>
+		<Description xml:lang="en" Type="NGC">Cl;pC</Description>
+		<Description xml:lang="en">Contains U Sgr;Stars mags 6...10</Description>
+	</Nebula>
+	<Nebula RightAscension="279.1" Declination="-23.9" Magnitude="5.1999998092651367" SurfaceBrightness="11" Type="GlobularCluster" Catalog="Messier">
+		<Number Type="NGC">6656</Number>
+		<Number Type="Messier">22</Number>
+		<Description xml:lang="en" Type="NGC">vB;vL;R;vRi;vmC</Description>
+		<Description xml:lang="en">Stars mags 11...;one of finest globs</Description>
+	</Nebula>
+	<Nebula RightAscension="280.8" Declination="-32.3" Magnitude="7.8000001907348633" SurfaceBrightness="11" Type="GlobularCluster" Catalog="Messier">
+		<Number Type="NGC">6681</Number>
+		<Number Type="Messier">70</Number>
+		<Description xml:lang="en" Type="NGC">B;pL;R;gbM</Description>
+		<Description xml:lang="en">Curved arc of stars to NE;* mags 14...</Description>
+	</Nebula>
+	<Nebula RightAscension="283.775" Declination="-30.483333333333334" Magnitude="7.6999998092651367" SurfaceBrightness="11" Type="GlobularCluster" Catalog="Messier">
+		<Number Type="NGC">6715</Number>
+		<Number Type="Messier">54</Number>
+		<Description xml:lang="en" Type="NGC">vB;L;R;g;smbM</Description>
+		<Description xml:lang="en">* mags 15...</Description>
+	</Nebula>
+	<Nebula RightAscension="295" Declination="-30.966666666666665" Magnitude="6.3000001907348633" SurfaceBrightness="13" Type="GlobularCluster" Catalog="Messier">
+		<Number Type="NGC">6809</Number>
+		<Number Type="Messier">55</Number>
+		<Description xml:lang="en" Type="NGC">pB;L;R;vRi;vgbM</Description>
+		<Description xml:lang="en">* mags 15...</Description>
+	</Nebula>
+	<Nebula RightAscension="301.525" Declination="-21.916666666666668" Magnitude="8.6000003814697266" SurfaceBrightness="11" Type="GlobularCluster" Catalog="Messier">
+		<Number Type="NGC">6864</Number>
+		<Number Type="Messier">75</Number>
+		<Description xml:lang="en" Type="NGC">B;pL;R;vmbMBN;rr</Description>
+		<Description xml:lang="en">* mags 17...</Description>
+	</Nebula>
+	<Nebula RightAscension="56.75" Declination="24.116666666666667" Magnitude="1.2000000476837158" SurfaceBrightness="11" Type="ClusterNebulosity" Catalog="Messier">
+		<Number Type="Melotte">22</Number>
+		<Number Type="Messier">45</Number>
+		<Description xml:lang="en" Type="NGC">vvB;vL;brilliant naked eye cluster;neb inv</Description>
+		<Description xml:lang="en">Pleiades;nebys NGC 1432 and 1435 involved</Description>
+	</Nebula>
+	<Nebula RightAscension="83.625" Declination="22.016666666666666" Magnitude="8.3999996185302734" SurfaceBrightness="11" Type="SupernovaRemnant" Catalog="Messier">
+		<Number Type="NGC">1952</Number>
+		<Number Type="Messier">1</Number>
+		<Description xml:lang="en" Type="NGC">vB;vL;E135;vglbM;r</Description>
+		<Description xml:lang="en">Crab Nebula;Rosse saw filaments;cent pulsar 16 mag;3C144</Description>
+	</Nebula>
+	<Nebula RightAscension="23.475" Declination="30.65" Magnitude="5.6999998092651367" SurfaceBrightness="14.199999809265137" Type="Galaxy" Catalog="Herschel400 Messier">
+		<Number Type="NGC">598</Number>
+		<Number Type="Messier">33</Number>
+		<Description xml:lang="en" Type="NGC">eB;eL;R;vgbMN</Description>
+		<Description xml:lang="en">Local Group;Pinwheel Galaxy;H V 17</Description>
+	</Nebula>
+	<Nebula RightAscension="148.9" Declination="69.066666666666663" Magnitude="6.9000000953674316" SurfaceBrightness="13.199999809265137" Type="Galaxy" Catalog="Messier">
+		<Number Type="NGC">3031</Number>
+		<Number Type="Messier">81</Number>
+		<Description xml:lang="en" Type="NGC">! eB;eL;E 156;gsvmbM;BN</Description>
+		<Description xml:lang="en">brightest in group;fine spiral</Description>
+	</Nebula>
+	<Nebula RightAscension="148.975" Declination="69.683333333333337" Magnitude="8.3999996185302734" SurfaceBrightness="12.5" Type="Galaxy" Catalog="Herschel400 Messier">
+		<Number Type="NGC">3034</Number>
+		<Number Type="Messier">82</Number>
+		<Description xml:lang="en" Type="NGC">vB;vL;vmE(ray)</Description>
+		<Description xml:lang="en">M81 group;eruptive;H IV 79</Description>
+	</Nebula>
+	<Nebula RightAscension="167.875" Declination="55.666666666666664" Magnitude="10" SurfaceBrightness="13.100000381469727" Type="Galaxy" Catalog="Herschel400 Messier">
+		<Number Type="NGC">3556</Number>
+		<Number Type="Messier">108</Number>
+		<Description xml:lang="en" Type="NGC">cB;vL;vmE 79;pBM</Description>
+		<Description xml:lang="en">H V 46;M 97 is 48' SE;nearly edge-on</Description>
+	</Nebula>
+	<Nebula RightAscension="168.7" Declination="55.016666666666666" Magnitude="11" SurfaceBrightness="12.100000381469727" Type="PlanetaryNebula" Catalog="Messier">
+		<Number Type="NGC">3587</Number>
+		<Number Type="Messier">97</Number>
+		<Description xml:lang="en" Type="NGC">!! vB;vL;R;vvg;vsbM</Description>
+		<Description xml:lang="en">Owl Nebula;PK148+57.1</Description>
+	</Nebula>
+	<Nebula RightAscension="179.4" Declination="53.366666666666667" Magnitude="9.8000001907348633" SurfaceBrightness="13.600000381469727" Type="Galaxy" Catalog="Herschel400 Messier">
+		<Number Type="NGC">3992</Number>
+		<Number Type="Messier">109</Number>
+		<Description xml:lang="en" Type="NGC">cB;vL;pmE;sbM;BN</Description>
+		<Description xml:lang="en">H IV 61;theta struc barred sp;Gamma UMa 40' NW</Description>
+	</Nebula>
+	<Nebula RightAscension="185.475" Declination="58.1" Magnitude="9" SurfaceBrightness="99.9000015258789" Type="2Stars" Catalog="Messier">
+		<Number>Winnecke 4</Number>
+		<Number Type="Messier">40</Number>
+		<Description xml:lang="en" Type="NGC">Neb D*</Description>
+		<Description xml:lang="en">D* 9   &amp; 9.3 mag 50'' sep; No nebulae</Description>
+	</Nebula>
+	<Nebula RightAscension="210.8" Declination="54.35" Magnitude="7.9000000953674316" SurfaceBrightness="14.899999618530273" Type="Galaxy" Catalog="Messier">
+		<Number Type="NGC">5457</Number>
+		<Number Type="Messier">101</Number>
+		<Description xml:lang="en" Type="NGC">pB;vL;iR;g;vsmbM;BSN</Description>
+		<Description xml:lang="en">P w NGC 5474;SN 1909;spir galax w one heavy arm;B knot E</Description>
+	</Nebula>
+	<Nebula RightAscension="185.475" Declination="4.4666666666666668" Magnitude="9.6000003814697266" SurfaceBrightness="13.399999618530273" Type="Galaxy" Catalog="Herschel400 Messier">
+		<Number Type="NGC">4303</Number>
+		<Number Type="Messier">61</Number>
+		<Description xml:lang="en" Type="NGC">vB;vL;vsbM*;biN</Description>
+		<Description xml:lang="en">SN 1926;1961;1964;NGC 4301 @ 10 ';H I 139;L face-on spiral</Description>
+	</Nebula>
+	<Nebula RightAscension="186.275" Declination="12.883333333333333" Magnitude="9.1000003814697266" SurfaceBrightness="13" Type="Galaxy" Catalog="Messier">
+		<Number Type="NGC">4374</Number>
+		<Number Type="Messier">84</Number>
+		<Description xml:lang="en" Type="NGC">vB;pL;R;psbM</Description>
+		<Description xml:lang="en">Markarian's chain;NGC 4387 @ 10.5';center of Virgo cluster</Description>
+	</Nebula>
+	<Nebula RightAscension="186.55" Declination="12.95" Magnitude="8.8999996185302734" SurfaceBrightness="13.199999809265137" Type="Galaxy" Catalog="Messier">
+		<Number Type="NGC">4406</Number>
+		<Number Type="Messier">86</Number>
+		<Description xml:lang="en" Type="NGC">vB;L;R;gbMN</Description>
+		<Description xml:lang="en">Markarian's chain;comp superimposed @ 1.4';NGC 4402 @ 10'</Description>
+	</Nebula>
+	<Nebula RightAscension="187.45" Declination="8" Magnitude="8.3999996185302734" SurfaceBrightness="13.199999809265137" Type="Galaxy" Catalog="Messier">
+		<Number Type="NGC">4472</Number>
+		<Number Type="Messier">49</Number>
+		<Description xml:lang="en" Type="NGC">vB;L;R;mbM;r</Description>
+		<Description xml:lang="en">NGC 4467 @ 4.2';NGC 4470 @ 10.5';NGC 4465 @ 5.8'</Description>
+	</Nebula>
+	<Nebula RightAscension="187.7" Declination="12.383333333333333" Magnitude="8.6000003814697266" SurfaceBrightness="13" Type="Galaxy" Catalog="Messier">
+		<Number Type="NGC">4486</Number>
+		<Number Type="Messier">87</Number>
+		<Description xml:lang="en" Type="NGC">vB;vL;R;mbM;3 of 3</Description>
+		<Description xml:lang="en">B in Virgo cluster;NGC 4486A @ 7.5' ssf;NGC 4486B @ 7.3'</Description>
+	</Nebula>
+	<Nebula RightAscension="188.925" Declination="12.55" Magnitude="9.8000001907348633" SurfaceBrightness="13.199999809265137" Type="Galaxy" Catalog="Messier">
+		<Number Type="NGC">4552</Number>
+		<Number Type="Messier">89</Number>
+		<Description xml:lang="en" Type="NGC">pB;pS;R;gmbM</Description>
+	</Nebula>
+	<Nebula RightAscension="189.2" Declination="13.166666666666666" Magnitude="9.5" SurfaceBrightness="13.399999618530273" Type="Galaxy" Catalog="Messier">
+		<Number Type="NGC">4569</Number>
+		<Number Type="Messier">90</Number>
+		<Description xml:lang="en" Type="NGC">pL;bMN</Description>
+		<Description xml:lang="en">IC 3583 @ 6 ';vseBN in B diff bar w much dark matter</Description>
+	</Nebula>
+	<Nebula RightAscension="189.425" Declination="11.816666666666666" Magnitude="9.6999998092651367" SurfaceBrightness="13.100000381469727" Type="Galaxy" Catalog="Messier">
+		<Number Type="NGC">4579</Number>
+		<Number Type="Messier">58</Number>
+		<Description xml:lang="en" Type="NGC">B;L;iR;vmbM</Description>
+		<Description xml:lang="en">fine compact spiral</Description>
+	</Nebula>
+	<Nebula RightAscension="190" Declination="-11.616666666666667" Magnitude="8" SurfaceBrightness="11.600000381469727" Type="Galaxy" Catalog="Herschel400 Messier">
+		<Number Type="NGC">4594</Number>
+		<Number Type="Messier">104</Number>
+		<Description xml:lang="en" Type="NGC">!vB;vL;eE92;vsmbMN</Description>
+		<Description xml:lang="en">H I 43;dark equatorial lane;Sombrero Galaxy</Description>
+	</Nebula>
+	<Nebula RightAscension="190.5" Declination="11.65" Magnitude="9.6000003814697266" SurfaceBrightness="12.899999618530273" Type="Galaxy" Catalog="Messier">
+		<Number Type="NGC">4621</Number>
+		<Number Type="Messier">59</Number>
+		<Description xml:lang="en" Type="NGC">B;pL;lE;vsvmbM;2 * p</Description>
+		<Description xml:lang="en">B diff N;smooth arms</Description>
+	</Nebula>
+	<Nebula RightAscension="190.925" Declination="11.55" Magnitude="8.8000001907348633" SurfaceBrightness="12.899999618530273" Type="Galaxy" Catalog="Messier">
+		<Number Type="NGC">4649</Number>
+		<Number Type="Messier">60</Number>
+		<Description xml:lang="en" Type="NGC">vB;pL;R;f of Dneb</Description>
+		<Description xml:lang="en">NGC 4647 @ 2.5'</Description>
+	</Nebula>
+	<Nebula RightAscension="299.9" Declination="22.716666666666665" Magnitude="7.3000001907348633" SurfaceBrightness="11.199999809265137" Type="PlanetaryNebula" Catalog="Messier">
+		<Number Type="NGC">6853</Number>
+		<Number Type="Messier">27</Number>
+		<Description xml:lang="en" Type="NGC">!!vB;vL;bi-N;iE;Dumbbell Neb</Description>
+		<Description xml:lang="en">PK60-3.1;Lord Rosse drew 18* invl</Description>
+	</Nebula>
+</NebulaList>
