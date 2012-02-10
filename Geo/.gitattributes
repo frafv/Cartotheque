@@ -1,1 +1,4 @@
+constellation.xml namespace=urn:denebsoft-skymap-constellation
+nebula.xml     namespace=urn:denebsoft-skymap-nebula
+stars.xml      namespace=urn:denebsoft-skymap-star
 TZVista.xml    namespace=urn:geo-schemas-xml-frafv:timezone
