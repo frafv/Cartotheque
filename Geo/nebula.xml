@@ -17,6 +17,7 @@
 		<Number Type="Messier">31</Number>
 		<Description xml:lang="en" Type="NGC">!!!eeB;eL;vmE</Description>
 		<Description xml:lang="en">Local Group;Andromeda Galaxy;nearest spiral</Description>
+		<Description xml:lang="ru">Туманность Андромеды</Description>
 	</Nebula>
 	<Nebula RightAscension="313.375" Declination="-12.533333333333333" Magnitude="9.1999998092651367" SurfaceBrightness="12" Type="GlobularCluster" Catalog="Messier">
 		<Number Type="NGC">6981</Number>
@@ -89,6 +90,7 @@
 		<Number Type="Messier">44</Number>
 		<Description xml:lang="en" Type="NGC">!!Praesepe</Description>
 		<Description xml:lang="en">Beehive Cluster;200 memb to 14 mag</Description>
+		<Description xml:lang="ru">Презепа</Description>
 	</Nebula>
 	<Nebula RightAscension="132.85" Declination="11.816666666666666" Magnitude="6.9000000953674316" SurfaceBrightness="13" Type="OpenCluster" Catalog="Messier">
 		<Number Type="NGC">2682</Number>
@@ -166,6 +168,7 @@
 		<Number Type="Messier">51</Number>
 		<Description xml:lang="en" Type="NGC">!!!;Great spiral nebula</Description>
 		<Description xml:lang="en">Whirlpool Gal;interacting pair;classic spiral</Description>
+		<Description xml:lang="ru">Копула</Description>
 	</Nebula>
 	<Nebula RightAscension="202.5" Declination="47.266666666666666" Magnitude="9.6000003814697266" SurfaceBrightness="12.899999618530273" Type="Galaxy" Catalog="Herschel400 Messier">
 		<Number Type="NGC">5195</Number>
@@ -333,6 +336,7 @@
 		<Number Type="Messier">42</Number>
 		<Description xml:lang="en" Type="NGC">!!!;Theta Orionis and the great nebula M42</Description>
 		<Description xml:lang="en">Trapezium* 6.7-7.7m;&gt;50 var* invl;M 43 to NE</Description>
+		<Description xml:lang="ru">Туманность Ориона</Description>
 	</Nebula>
 	<Nebula RightAscension="83.875" Declination="-5.2666666666666666" Magnitude="7" SurfaceBrightness="13" Type="BrightNebula" Catalog="Messier">
 		<Number Type="NGC">1982</Number>
@@ -363,6 +367,7 @@
 		<Number Type="Messier">34</Number>
 		<Description xml:lang="en" Type="NGC">Cl;B;vL;lC;sC st9...</Description>
 		<Description xml:lang="en">At least 80 true members;sev D* incl h1123 &amp; O Struve 44</Description>
+		<Description xml:lang="ru">Капулус</Description>
 	</Nebula>
 	<Nebula RightAscension="24.175" Declination="15.783333333333333" Magnitude="9.3999996185302734" SurfaceBrightness="14.199999809265137" Type="Galaxy" Catalog="Messier">
 		<Number Type="NGC">628</Number>
@@ -405,12 +410,14 @@
 		<Number Type="Messier">6</Number>
 		<Description xml:lang="en" Type="NGC">Cl;L;iR;lC;st7;10...</Description>
 		<Description xml:lang="en">Butterfly cluster;51 members to 10.5 mag incl var* BM Sco</Description>
+		<Description xml:lang="ru">Акулекс</Description>
 	</Nebula>
 	<Nebula RightAscension="268.475" Declination="-34.8" Magnitude="3.2999999523162842" SurfaceBrightness="12" Type="OpenCluster" Catalog="Messier">
 		<Number Type="NGC">6475</Number>
 		<Number Type="Messier">7</Number>
 		<Description xml:lang="en" Type="NGC">Cl;vB;pRi;lC;*7...12</Description>
 		<Description xml:lang="en">80 members to 10th mag;Fine naked eye cluster</Description>
+		<Description xml:lang="ru">Акумен</Description>
 	</Nebula>
 	<Nebula RightAscension="281.3" Declination="-9.4" Magnitude="8" SurfaceBrightness="12" Type="OpenCluster" Catalog="Messier">
 		<Number Type="NGC">6694</Number>
@@ -459,6 +466,7 @@
 		<Number Type="Messier">8</Number>
 		<Description xml:lang="en" Type="NGC">!!!;vB;eL;eiF;w L Cl</Description>
 		<Description xml:lang="en">Lagoon Nebula;Cl NGC 6530 invl;dark lane crosses neb</Description>
+		<Description xml:lang="ru">Спикулум</Description>
 	</Nebula>
 	<Nebula RightAscension="271.05" Declination="-22.483333333333334" Magnitude="5.9000000953674316" SurfaceBrightness="11" Type="OpenCluster" Catalog="Messier">
 		<Number Type="NGC">6531</Number>
@@ -512,6 +520,7 @@
 		<Number Type="Messier">22</Number>
 		<Description xml:lang="en" Type="NGC">vB;vL;R;vRi;vmC</Description>
 		<Description xml:lang="en">Stars mags 11...;one of finest globs</Description>
+		<Description xml:lang="ru">Фациес</Description>
 	</Nebula>
 	<Nebula RightAscension="280.8" Declination="-32.3" Magnitude="7.8000001907348633" SurfaceBrightness="11" Type="GlobularCluster" Catalog="Messier">
 		<Number Type="NGC">6681</Number>
@@ -542,6 +551,7 @@
 		<Number Type="Messier">45</Number>
 		<Description xml:lang="en" Type="NGC">vvB;vL;brilliant naked eye cluster;neb inv</Description>
 		<Description xml:lang="en">Pleiades;nebys NGC 1432 and 1435 involved</Description>
+		<Description xml:lang="ru">Плеяды</Description>
 	</Nebula>
 	<Nebula RightAscension="83.625" Declination="22.016666666666666" Magnitude="8.3999996185302734" SurfaceBrightness="11" Type="SupernovaRemnant" Catalog="Messier">
 		<Number Type="NGC">1952</Number>
