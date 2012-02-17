@@ -1171,269 +1171,541 @@
 	</ConstellationSegment>
 	<Constellation Abbreviation="And" RightAscension="8.504999999999999" Declination="39.25">
 		<Name xml:lang="la">Andromeda</Name>
+		<Name Case="Genitive" xml:lang="la">Andromedae</Name>
+		<Name xml:lang="ru">Андромеда</Name>
+		<Name Case="Genitive" xml:lang="ru">Андромеды</Name>
 	</Constellation>
 	<Constellation Abbreviation="Ant" RightAscension="151.75500000000002" Declination="-33.35">
 		<Name xml:lang="la">Antlia</Name>
+		<Name Case="Genitive" xml:lang="la">Antliae</Name>
+		<Name xml:lang="ru">Насос</Name>
+		<Name Case="Genitive" xml:lang="ru">Насоса</Name>
 	</Constellation>
 	<Constellation Abbreviation="Aps" RightAscension="241.995" Declination="-76.583">
 		<Name xml:lang="la">Apus</Name>
+		<Name Case="Genitive" xml:lang="la">Apodis</Name>
+		<Name xml:lang="ru">Райская Птица</Name>
+		<Name Case="Genitive" xml:lang="ru">Райской Птицы</Name>
 	</Constellation>
 	<Constellation Abbreviation="Aqr" RightAscension="340.5" Declination="-10.467">
 		<Name xml:lang="la">Aquarius</Name>
+		<Name Case="Genitive" xml:lang="la">Aquarii</Name>
+		<Name xml:lang="ru">Водолей</Name>
+		<Name Case="Genitive" xml:lang="ru">Водолея</Name>
 	</Constellation>
 	<Constellation Abbreviation="Aql" RightAscension="295.245" Declination="3.367">
 		<Name xml:lang="la">Aquila</Name>
+		<Name Case="Genitive" xml:lang="la">Aquilae</Name>
+		<Name xml:lang="ru">Орёл</Name>
+		<Name Case="Genitive" xml:lang="ru">Орла</Name>
 	</Constellation>
 	<Constellation Abbreviation="Ara" RightAscension="258.495" Declination="-51.117">
 		<Name xml:lang="la">Ara</Name>
+		<Name Case="Genitive" xml:lang="la">Arae</Name>
+		<Name xml:lang="ru">Жертвенник</Name>
+		<Name Case="Genitive" xml:lang="ru">Жертвенника</Name>
 	</Constellation>
 	<Constellation Abbreviation="Ari" RightAscension="40.245" Declination="22.567">
 		<Name xml:lang="la">Aries</Name>
+		<Name Case="Genitive" xml:lang="la">Arietis</Name>
+		<Name xml:lang="ru">Овен</Name>
+		<Name Case="Genitive" xml:lang="ru">Овна</Name>
 	</Constellation>
 	<Constellation Abbreviation="Aur" RightAscension="89.25" Declination="42.817">
 		<Name xml:lang="la">Auriga</Name>
+		<Name Case="Genitive" xml:lang="la">Aurigae</Name>
+		<Name xml:lang="ru">Возничий</Name>
+		<Name Case="Genitive" xml:lang="ru">Возничего</Name>
 	</Constellation>
 	<Constellation Abbreviation="Boo" RightAscension="220.245" Declination="32.333">
+		<Name xml:lang="el">Βοώτης</Name>
 		<Name xml:lang="la">Bootes</Name>
+		<Name Case="Genitive" xml:lang="la">Bootis</Name>
+		<Name xml:lang="ru">Волопас</Name>
+		<Name Case="Genitive" xml:lang="ru">Волопаса</Name>
 	</Constellation>
 	<Constellation Abbreviation="Cae" RightAscension="70.755" Declination="-38.167">
 		<Name xml:lang="la">Caelum</Name>
+		<Name Case="Genitive" xml:lang="la">Caeli</Name>
+		<Name xml:lang="ru">Резец</Name>
+		<Name Case="Genitive" xml:lang="ru">Резца</Name>
 	</Constellation>
 	<Constellation Abbreviation="Cam" RightAscension="92.25" Declination="71.967">
 		<Name xml:lang="la">Camelopardalis</Name>
+		<Name Case="Genitive" xml:lang="la">Camelopardalis</Name>
+		<Name xml:lang="ru">Жираф</Name>
+		<Name Case="Genitive" xml:lang="ru">Жирафа</Name>
 	</Constellation>
 	<Constellation Abbreviation="Cnc" RightAscension="130.005" Declination="22">
 		<Name xml:lang="la">Cancer</Name>
+		<Name Case="Genitive" xml:lang="la">Cancri</Name>
+		<Name xml:lang="ru">Рак</Name>
+		<Name Case="Genitive" xml:lang="ru">Рака</Name>
 	</Constellation>
 	<Constellation Abbreviation="CVn" RightAscension="195.255" Declination="42.35">
 		<Name xml:lang="la">Canes Venatici</Name>
+		<Name Case="Genitive" xml:lang="la">Canum Venaticorum</Name>
+		<Name xml:lang="ru">Гончие Псы</Name>
+		<Name Case="Genitive" xml:lang="ru">Гончих Псов</Name>
 	</Constellation>
 	<Constellation Abbreviation="CMa" RightAscension="102.495" Declination="-22.317">
 		<Name xml:lang="la">Canis Major</Name>
+		<Name Case="Genitive" xml:lang="la">Canis Majoris</Name>
+		<Name xml:lang="ru">Большой Пёс</Name>
+		<Name Case="Genitive" xml:lang="ru">Большого Пса</Name>
 	</Constellation>
 	<Constellation Abbreviation="CMi" RightAscension="114.255" Declination="6.767">
 		<Name xml:lang="la">Canis Minor</Name>
+		<Name Case="Genitive" xml:lang="la">Canis Minoris</Name>
+		<Name xml:lang="ru">Малый Пёс</Name>
+		<Name Case="Genitive" xml:lang="ru">Малого Пса</Name>
 	</Constellation>
 	<Constellation Abbreviation="Cap" RightAscension="315.75" Declination="-19.35">
 		<Name xml:lang="la">Capricornus</Name>
+		<Name Case="Genitive" xml:lang="la">Capricorni</Name>
+		<Name xml:lang="ru">Козерог</Name>
+		<Name Case="Genitive" xml:lang="ru">Козерога</Name>
 	</Constellation>
 	<Constellation Abbreviation="Car" RightAscension="132.495" Declination="-60.5">
 		<Name xml:lang="la">Carina</Name>
+		<Name Case="Genitive" xml:lang="la">Carinae</Name>
+		<Name xml:lang="ru">Киль</Name>
+		<Name Case="Genitive" xml:lang="ru">Киля</Name>
 	</Constellation>
 	<Constellation Abbreviation="Cas" RightAscension="13.005" Declination="60.3">
 		<Name xml:lang="la">Cassiopeia</Name>
+		<Name Case="Genitive" xml:lang="la">Cassiopeiae</Name>
+		<Name xml:lang="ru">Кассиопея</Name>
+		<Name Case="Genitive" xml:lang="ru">Кассиопеи</Name>
 	</Constellation>
 	<Constellation Abbreviation="Cen" RightAscension="194.25" Declination="-44">
 		<Name xml:lang="la">Centaurus</Name>
+		<Name Case="Genitive" xml:lang="la">Centauri</Name>
+		<Name xml:lang="ru">Центавр</Name>
+		<Name xml:lang="ru">Кентавр</Name>
+		<Name Case="Genitive" xml:lang="ru">Центавра</Name>
 	</Constellation>
 	<Constellation Abbreviation="Cep" RightAscension="336.25500000000005" Declination="72.567">
 		<Name xml:lang="la">Cepheus</Name>
+		<Name Case="Genitive" xml:lang="la">Cephei</Name>
+		<Name xml:lang="ru">Цефей</Name>
+		<Name Case="Genitive" xml:lang="ru">Цефея</Name>
 	</Constellation>
 	<Constellation Abbreviation="Cet" RightAscension="25.755" Declination="-6.367">
 		<Name xml:lang="la">Cetus</Name>
+		<Name Case="Genitive" xml:lang="la">Ceti</Name>
+		<Name xml:lang="ru">Кит</Name>
+		<Name Case="Genitive" xml:lang="ru">Кита</Name>
 	</Constellation>
 	<Constellation Abbreviation="Cha" RightAscension="180" Declination="-81.017">
 		<Name xml:lang="la">Chamaeleon</Name>
+		<Name Case="Genitive" xml:lang="la">Chamaeleontis</Name>
+		<Name xml:lang="ru">Хамелеон</Name>
+		<Name Case="Genitive" xml:lang="ru">Хамелеона</Name>
 	</Constellation>
 	<Constellation Abbreviation="Cir" RightAscension="217.995" Declination="-67.3">
 		<Name xml:lang="la">Circinus</Name>
+		<Name Case="Genitive" xml:lang="la">Circini</Name>
+		<Name xml:lang="ru">Циркуль</Name>
+		<Name Case="Genitive" xml:lang="ru">Циркуля</Name>
 	</Constellation>
 	<Constellation Abbreviation="Col" RightAscension="85.5" Declination="-37.917">
 		<Name xml:lang="la">Columba</Name>
+		<Name Case="Genitive" xml:lang="la">Columbae</Name>
+		<Name xml:lang="ru">Голубь</Name>
+		<Name Case="Genitive" xml:lang="ru">Голубя</Name>
 	</Constellation>
 	<Constellation Abbreviation="Com" RightAscension="191.25" Declination="22.65">
 		<Name xml:lang="la">Coma Berenices</Name>
+		<Name Case="Genitive" xml:lang="la">Comae Berenices</Name>
+		<Name xml:lang="ru">Волосы Вероники</Name>
+		<Name Case="Genitive" xml:lang="ru">Волос Вероники</Name>
 	</Constellation>
 	<Constellation Abbreviation="CrA" RightAscension="279.74999999999994" Declination="-41.75">
 		<Name xml:lang="la">Corona Australis</Name>
+		<Name Case="Genitive" xml:lang="la">Coronae Austrini</Name>
+		<Name xml:lang="ru">Южная Корона</Name>
+		<Name Case="Genitive" xml:lang="ru">Южной Короны</Name>
 	</Constellation>
 	<Constellation Abbreviation="CrB" RightAscension="238.245" Declination="32.633">
 		<Name xml:lang="la">Corona Borealis</Name>
+		<Name Case="Genitive" xml:lang="la">Coronae Borealis</Name>
+		<Name xml:lang="ru">Северная Корона</Name>
+		<Name Case="Genitive" xml:lang="ru">Северной Короны</Name>
 	</Constellation>
 	<Constellation Abbreviation="Crv" RightAscension="185.745" Declination="-18.633">
 		<Name xml:lang="la">Corvus</Name>
+		<Name Case="Genitive" xml:lang="la">Corvi</Name>
+		<Name xml:lang="ru">Ворон</Name>
+		<Name Case="Genitive" xml:lang="ru">Ворона</Name>
 	</Constellation>
 	<Constellation Abbreviation="Crt" RightAscension="170.25" Declination="-13.75">
 		<Name xml:lang="la">Crater</Name>
+		<Name Case="Genitive" xml:lang="la">Crateris</Name>
+		<Name xml:lang="ru">Чаша</Name>
+		<Name Case="Genitive" xml:lang="ru">Чаши</Name>
 	</Constellation>
 	<Constellation Abbreviation="Cru" RightAscension="187.245" Declination="-60.3">
 		<Name xml:lang="la">Crux</Name>
+		<Name Case="Genitive" xml:lang="la">Crucis</Name>
+		<Name xml:lang="ru">Южный Крест</Name>
+		<Name Case="Genitive" xml:lang="ru">Южного Креста</Name>
 	</Constellation>
 	<Constellation Abbreviation="Cyg" RightAscension="308.74499999999995" Declination="44">
 		<Name xml:lang="la">Cygnus</Name>
+		<Name Case="Genitive" xml:lang="la">Cygni</Name>
+		<Name xml:lang="ru">Лебедь</Name>
+		<Name Case="Genitive" xml:lang="ru">Лебедя</Name>
 	</Constellation>
 	<Constellation Abbreviation="Del" RightAscension="310.00500000000005" Declination="12.1">
 		<Name xml:lang="la">Delphinus</Name>
+		<Name Case="Genitive" xml:lang="la">Delphini</Name>
+		<Name xml:lang="ru">Дельфин</Name>
+		<Name Case="Genitive" xml:lang="ru">Дельфина</Name>
 	</Constellation>
 	<Constellation Abbreviation="Dor" RightAscension="79.995" Declination="-63.017">
 		<Name xml:lang="la">Dorado</Name>
+		<Name Case="Genitive" xml:lang="la">Doradus</Name>
+		<Name xml:lang="ru">Золотая Рыба</Name>
+		<Name Case="Genitive" xml:lang="ru">Золотой Рыбы</Name>
 	</Constellation>
 	<Constellation Abbreviation="Dra" RightAscension="269.25" Declination="66.067">
 		<Name xml:lang="la">Draco</Name>
+		<Name Case="Genitive" xml:lang="la">Draconis</Name>
+		<Name xml:lang="ru">Дракон</Name>
+		<Name Case="Genitive" xml:lang="ru">Дракона</Name>
 	</Constellation>
 	<Constellation Abbreviation="Equ" RightAscension="318.75" Declination="7.933">
 		<Name xml:lang="la">Equuleus</Name>
+		<Name Case="Genitive" xml:lang="la">Equulei</Name>
+		<Name xml:lang="ru">Малый Конь</Name>
+		<Name Case="Genitive" xml:lang="ru">Малого Коня</Name>
 	</Constellation>
 	<Constellation Abbreviation="Eri" RightAscension="58.245000000000005" Declination="-17.983">
 		<Name xml:lang="la">Eridanus</Name>
+		<Name Case="Genitive" xml:lang="la">Eridani</Name>
+		<Name xml:lang="ru">Эридан</Name>
+		<Name Case="Genitive" xml:lang="ru">Эридана</Name>
 	</Constellation>
 	<Constellation Abbreviation="For" RightAscension="41.505" Declination="-31">
 		<Name xml:lang="la">Fornax</Name>
+		<Name Case="Genitive" xml:lang="la">Fornacis</Name>
+		<Name xml:lang="ru">Печь</Name>
+		<Name Case="Genitive" xml:lang="ru">Печи</Name>
 	</Constellation>
 	<Constellation Abbreviation="Gem" RightAscension="102.75" Declination="24.817">
 		<Name xml:lang="la">Gemini</Name>
+		<Name Case="Genitive" xml:lang="la">Geminorum</Name>
+		<Name xml:lang="ru">Близнецы</Name>
+		<Name Case="Genitive" xml:lang="ru">Близнецов</Name>
 	</Constellation>
 	<Constellation Abbreviation="Gru" RightAscension="336.75" Declination="-45.133">
 		<Name xml:lang="la">Grus</Name>
+		<Name Case="Genitive" xml:lang="la">Gruis</Name>
+		<Name xml:lang="ru">Журавль</Name>
+		<Name Case="Genitive" xml:lang="ru">Журавля</Name>
 	</Constellation>
 	<Constellation Abbreviation="Her" RightAscension="261.495" Declination="31.233">
 		<Name xml:lang="la">Hercules</Name>
+		<Name Case="Genitive" xml:lang="la">Herculis</Name>
+		<Name xml:lang="ru">Геркулес</Name>
+		<Name Case="Genitive" xml:lang="ru">Геркулеса</Name>
 	</Constellation>
 	<Constellation Abbreviation="Hor" RightAscension="48.255" Declination="-52">
 		<Name xml:lang="la">Horologium</Name>
+		<Name Case="Genitive" xml:lang="la">Horologii</Name>
+		<Name xml:lang="ru">Часы</Name>
+		<Name Case="Genitive" xml:lang="ru">Часов</Name>
 	</Constellation>
 	<Constellation Abbreviation="Hya" RightAscension="136.99499999999998" Declination="-11.683">
+		<Name xml:lang="el">Υδρα</Name>
 		<Name xml:lang="la">Hydra</Name>
+		<Name Case="Genitive" xml:lang="la">Hydri</Name>
+		<Name xml:lang="ru">Гидра</Name>
+		<Name Case="Genitive" xml:lang="ru">Гидры</Name>
 	</Constellation>
 	<Constellation Abbreviation="Hyi" RightAscension="38.745000000000005" Declination="-72.917">
 		<Name xml:lang="la">Hydrus</Name>
+		<Name Case="Genitive" xml:lang="la">Hydrae</Name>
+		<Name xml:lang="ru">Южная Гидра</Name>
+		<Name Case="Genitive" xml:lang="ru">Южной Гидры</Name>
 	</Constellation>
 	<Constellation Abbreviation="Ind" RightAscension="316.995" Declination="-52.317">
 		<Name xml:lang="la">Indus</Name>
+		<Name Case="Genitive" xml:lang="la">Indi</Name>
+		<Name xml:lang="ru">Индеец</Name>
+		<Name Case="Genitive" xml:lang="ru">Индейца</Name>
 	</Constellation>
 	<Constellation Abbreviation="Lac" RightAscension="337.755" Declination="46.667">
 		<Name xml:lang="la">Lacerta</Name>
+		<Name Case="Genitive" xml:lang="la">Lacertae</Name>
+		<Name xml:lang="ru">Ящерица</Name>
+		<Name Case="Genitive" xml:lang="ru">Ящерицы</Name>
 	</Constellation>
 	<Constellation Abbreviation="Leo" RightAscension="160.005" Declination="17">
 		<Name xml:lang="la">Leo</Name>
+		<Name Case="Genitive" xml:lang="la">Leonis</Name>
+		<Name xml:lang="ru">Лев</Name>
+		<Name Case="Genitive" xml:lang="ru">Льва</Name>
 	</Constellation>
 	<Constellation Abbreviation="LMi" RightAscension="154.755" Declination="33.233">
 		<Name xml:lang="la">Leo Minor</Name>
+		<Name Case="Genitive" xml:lang="la">Leonis Minoris</Name>
+		<Name xml:lang="ru">Малый Лев</Name>
+		<Name Case="Genitive" xml:lang="ru">Малого Льва</Name>
 	</Constellation>
 	<Constellation Abbreviation="Lep" RightAscension="81.49499999999999" Declination="-19.65">
 		<Name xml:lang="la">Lepus</Name>
+		<Name Case="Genitive" xml:lang="la">Leporis</Name>
+		<Name xml:lang="ru">Заяц</Name>
+		<Name Case="Genitive" xml:lang="ru">Зайца</Name>
 	</Constellation>
 	<Constellation Abbreviation="Lib" RightAscension="227.745" Declination="-15.55">
 		<Name xml:lang="la">Libra</Name>
+		<Name Case="Genitive" xml:lang="la">Librae</Name>
+		<Name xml:lang="ru">Весы</Name>
+		<Name Case="Genitive" xml:lang="ru">Весов</Name>
 	</Constellation>
 	<Constellation Abbreviation="Lup" RightAscension="230.745" Declination="-42.717">
 		<Name xml:lang="la">Lupus</Name>
+		<Name Case="Genitive" xml:lang="la">Lupi</Name>
+		<Name xml:lang="ru">Волк</Name>
+		<Name Case="Genitive" xml:lang="ru">Волка</Name>
 	</Constellation>
 	<Constellation Abbreviation="Lyn" RightAscension="115.99499999999999" Declination="47.833">
 		<Name xml:lang="la">Lynx</Name>
+		<Name Case="Genitive" xml:lang="la">Lyncis</Name>
+		<Name xml:lang="ru">Рысь</Name>
+		<Name Case="Genitive" xml:lang="ru">Рыси</Name>
 	</Constellation>
 	<Constellation Abbreviation="Lyr" RightAscension="283.49999999999994" Declination="40.65">
 		<Name xml:lang="la">Lyra</Name>
+		<Name Case="Genitive" xml:lang="la">Lyrae</Name>
+		<Name xml:lang="ru">Лира</Name>
+		<Name Case="Genitive" xml:lang="ru">Лиры</Name>
 	</Constellation>
 	<Constellation Abbreviation="Men" RightAscension="82.5" Declination="-79.017">
 		<Name xml:lang="la">Mensa</Name>
+		<Name Case="Genitive" xml:lang="la">Mensae</Name>
+		<Name xml:lang="ru">Столовая Гора</Name>
+		<Name Case="Genitive" xml:lang="ru">Столовой Горы</Name>
 	</Constellation>
 	<Constellation Abbreviation="Mic" RightAscension="314.25" Declination="-36.8">
 		<Name xml:lang="la">Microscopium</Name>
+		<Name Case="Genitive" xml:lang="la">Microscopii</Name>
+		<Name xml:lang="ru">Микроскоп</Name>
+		<Name Case="Genitive" xml:lang="ru">Микроскопа</Name>
 	</Constellation>
 	<Constellation Abbreviation="Mon" RightAscension="104.505" Declination="-3.267">
+		<Name xml:lang="el">Μονόκερως</Name>
 		<Name xml:lang="la">Monoceros</Name>
+		<Name Case="Genitive" xml:lang="la">Monocerotis</Name>
+		<Name xml:lang="ru">Единорог</Name>
+		<Name Case="Genitive" xml:lang="ru">Единорога</Name>
 	</Constellation>
 	<Constellation Abbreviation="Mus" RightAscension="187.005" Declination="-69.133">
 		<Name xml:lang="la">Musca</Name>
+		<Name Case="Genitive" xml:lang="la">Muscae</Name>
+		<Name xml:lang="ru">Муха</Name>
+		<Name Case="Genitive" xml:lang="ru">Мухи</Name>
 	</Constellation>
 	<Constellation Abbreviation="Nor" RightAscension="240.75" Declination="-52.717">
 		<Name xml:lang="la">Norma</Name>
+		<Name Case="Genitive" xml:lang="la">Normae</Name>
+		<Name xml:lang="ru">Наугольник</Name>
+		<Name Case="Genitive" xml:lang="ru">Наугольника</Name>
 	</Constellation>
 	<Constellation Abbreviation="Oct" RightAscension="332.50500000000005" Declination="-84.267">
 		<Name xml:lang="la">Octans</Name>
+		<Name Case="Genitive" xml:lang="la">Octantis</Name>
+		<Name xml:lang="ru">Октант</Name>
+		<Name Case="Genitive" xml:lang="ru">Октанта</Name>
 	</Constellation>
 	<Constellation Abbreviation="Oph" RightAscension="255.495" Declination="-2.35">
 		<Name xml:lang="la">Ophiuchus</Name>
+		<Name Case="Genitive" xml:lang="la">Ophiuchii</Name>
+		<Name xml:lang="ru">Змееносец</Name>
+		<Name Case="Genitive" xml:lang="ru">Змееносца</Name>
 	</Constellation>
 	<Constellation Abbreviation="Ori" RightAscension="83.50500000000001" Declination="3.583">
+		<Name xml:lang="el">Ωρίων</Name>
 		<Name xml:lang="la">Orion</Name>
+		<Name Case="Genitive" xml:lang="la">Orionis</Name>
+		<Name xml:lang="ru">Орион</Name>
+		<Name Case="Genitive" xml:lang="ru">Ориона</Name>
 	</Constellation>
 	<Constellation Abbreviation="Pav" RightAscension="287.50500000000005" Declination="-65.867">
 		<Name xml:lang="la">Pavo</Name>
+		<Name Case="Genitive" xml:lang="la">Pavonis</Name>
+		<Name xml:lang="ru">Павлин</Name>
+		<Name Case="Genitive" xml:lang="ru">Павлина</Name>
 	</Constellation>
 	<Constellation Abbreviation="Peg" RightAscension="339.255" Declination="19.65">
 		<Name xml:lang="la">Pegasus</Name>
+		<Name Case="Genitive" xml:lang="la">Pegasi</Name>
+		<Name xml:lang="ru">Пегас</Name>
+		<Name Case="Genitive" xml:lang="ru">Пегаса</Name>
 	</Constellation>
 	<Constellation Abbreviation="Per" RightAscension="52.754999999999995" Declination="44.883">
 		<Name xml:lang="la">Perseus</Name>
+		<Name Case="Genitive" xml:lang="la">Persei</Name>
+		<Name xml:lang="ru">Персей</Name>
+		<Name Case="Genitive" xml:lang="ru">Персея</Name>
 	</Constellation>
 	<Constellation Abbreviation="Phe" RightAscension="10.995" Declination="-48.767">
 		<Name xml:lang="la">Phoenix</Name>
+		<Name Case="Genitive" xml:lang="la">Phoenicis</Name>
+		<Name xml:lang="ru">Феникс</Name>
+		<Name Case="Genitive" xml:lang="ru">Феникса</Name>
 	</Constellation>
 	<Constellation Abbreviation="Pic" RightAscension="80.745" Declination="-51.367">
 		<Name xml:lang="la">Pictor</Name>
+		<Name Case="Genitive" xml:lang="la">Pictoris</Name>
+		<Name xml:lang="ru">Живописец</Name>
+		<Name Case="Genitive" xml:lang="ru">Живописца</Name>
 	</Constellation>
 	<Constellation Abbreviation="Psc" RightAscension="13.245" Declination="15.483">
 		<Name xml:lang="la">Pisces</Name>
+		<Name Case="Genitive" xml:lang="la">Piscium</Name>
+		<Name xml:lang="ru">Рыбы</Name>
+		<Name Case="Genitive" xml:lang="ru">Рыб</Name>
 	</Constellation>
 	<Constellation Abbreviation="PsA" RightAscension="336.25500000000005" Declination="-31.567">
 		<Name xml:lang="la">Piscis Australis</Name>
+		<Name Case="Genitive" xml:lang="la">Piscis Austrini</Name>
+		<Name xml:lang="ru">Южная Рыба</Name>
+		<Name Case="Genitive" xml:lang="ru">Южной Рыбы</Name>
 	</Constellation>
 	<Constellation Abbreviation="Pup" RightAscension="118.005" Declination="-32.617">
 		<Name xml:lang="la">Puppis</Name>
+		<Name Case="Genitive" xml:lang="la">Puppis</Name>
+		<Name xml:lang="ru">Корма</Name>
+		<Name Case="Genitive" xml:lang="ru">Кормы</Name>
 	</Constellation>
 	<Constellation Abbreviation="Pyx" RightAscension="133.24499999999998" Declination="-29.783">
 		<Name xml:lang="la">Pyxis</Name>
+		<Name Case="Genitive" xml:lang="la">Pyxidis</Name>
+		<Name xml:lang="ru">Компас</Name>
+		<Name Case="Genitive" xml:lang="ru">Компаса</Name>
 	</Constellation>
 	<Constellation Abbreviation="Ret" RightAscension="58.5" Declination="-60.517">
 		<Name xml:lang="la">Reticulum</Name>
+		<Name Case="Genitive" xml:lang="la">Reticuli</Name>
+		<Name xml:lang="ru">Сеть</Name>
+		<Name Case="Genitive" xml:lang="ru">Сетки</Name>
 	</Constellation>
 	<Constellation Abbreviation="Sge" RightAscension="295.00500000000005" Declination="17">
 		<Name xml:lang="la">Sagitta</Name>
+		<Name Case="Genitive" xml:lang="la">Sagittae</Name>
+		<Name xml:lang="ru">Стрела</Name>
+		<Name Case="Genitive" xml:lang="ru">Стрелы</Name>
 	</Constellation>
 	<Constellation Abbreviation="Sgr" RightAscension="290.745" Declination="-29.883">
 		<Name xml:lang="la">Sagittarius</Name>
+		<Name Case="Genitive" xml:lang="la">Sagittarii</Name>
+		<Name xml:lang="ru">Стрелец</Name>
+		<Name Case="Genitive" xml:lang="ru">Стрельца</Name>
 	</Constellation>
 	<Constellation Abbreviation="Sco" RightAscension="253.005" Declination="-35.333">
 		<Name xml:lang="la">Scorpius</Name>
+		<Name Case="Genitive" xml:lang="la">Scorpii</Name>
+		<Name xml:lang="ru">Скорпион</Name>
+		<Name Case="Genitive" xml:lang="ru">Скорпиона</Name>
 	</Constellation>
 	<Constellation Abbreviation="Scl" RightAscension="7.5" Declination="-31">
 		<Name xml:lang="la">Sculptor</Name>
+		<Name Case="Genitive" xml:lang="la">Sculptoris</Name>
+		<Name xml:lang="ru">Скульптор</Name>
+		<Name Case="Genitive" xml:lang="ru">Скульптора</Name>
 	</Constellation>
 	<Constellation Abbreviation="Sct" RightAscension="279.74999999999994" Declination="-10.883">
 		<Name xml:lang="la">Scutum</Name>
+		<Name Case="Genitive" xml:lang="la">Scuti</Name>
+		<Name xml:lang="ru">Щит</Name>
+		<Name Case="Genitive" xml:lang="ru">Щита</Name>
 	</Constellation>
 	<Constellation Abbreviation="Ser" RightAscension="235.995" Declination="10.85">
 		<Name xml:lang="la">Serpens Caput</Name>
+		<Name Case="Genitive" xml:lang="la">Serpentis</Name>
+		<Name xml:lang="ru">Голова Змеи</Name>
+		<Name Case="Genitive" xml:lang="ru">Змеи</Name>
 	</Constellation>
 	<Constellation Abbreviation="Ser" RightAscension="267" Declination="-13.483">
 		<Name xml:lang="la">Serpens Cauda</Name>
+		<Name Case="Genitive" xml:lang="la">Serpentis</Name>
+		<Name xml:lang="ru">Хвост Змеи</Name>
+		<Name Case="Genitive" xml:lang="ru">Змеи</Name>
 	</Constellation>
 	<Constellation Abbreviation="Sex" RightAscension="151.5" Declination="-1.133">
 		<Name xml:lang="la">Sextans</Name>
+		<Name Case="Genitive" xml:lang="la">Sextantis</Name>
+		<Name xml:lang="ru">Секстан</Name>
+		<Name Case="Genitive" xml:lang="ru">Секстана</Name>
 	</Constellation>
 	<Constellation Abbreviation="Tau" RightAscension="61.499999999999993" Declination="17.333">
 		<Name xml:lang="la">Taurus</Name>
+		<Name Case="Genitive" xml:lang="la">Tauri</Name>
+		<Name xml:lang="ru">Телец</Name>
+		<Name Case="Genitive" xml:lang="ru">Тельца</Name>
 	</Constellation>
 	<Constellation Abbreviation="Tel" RightAscension="288.75" Declination="-51.467">
 		<Name xml:lang="la">Telescopium</Name>
+		<Name Case="Genitive" xml:lang="la">Telescopii</Name>
+		<Name xml:lang="ru">Телескоп</Name>
+		<Name Case="Genitive" xml:lang="ru">Телескопа</Name>
 	</Constellation>
 	<Constellation Abbreviation="Tri" RightAscension="30.749999999999996" Declination="32.333">
 		<Name xml:lang="la">Triangulum</Name>
+		<Name Case="Genitive" xml:lang="la">Trianguli</Name>
+		<Name xml:lang="ru">Треугольник</Name>
+		<Name Case="Genitive" xml:lang="ru">Треугольника</Name>
 	</Constellation>
 	<Constellation Abbreviation="TrA" RightAscension="241.755" Declination="-65.1">
 		<Name xml:lang="la">Triangulum Australe</Name>
+		<Name Case="Genitive" xml:lang="la">Trianguli Australe</Name>
+		<Name xml:lang="ru">Южн.Треугольник</Name>
+		<Name Case="Genitive" xml:lang="ru">Южн.Треугольника</Name>
 	</Constellation>
 	<Constellation Abbreviation="Tuc" RightAscension="357.49499999999995" Declination="-64.933">
 		<Name xml:lang="la">Tucana</Name>
+		<Name Case="Genitive" xml:lang="la">Tucanae</Name>
+		<Name xml:lang="ru">Тукан</Name>
+		<Name Case="Genitive" xml:lang="ru">Тукана</Name>
 	</Constellation>
 	<Constellation Abbreviation="UMa" RightAscension="169.995" Declination="57.5">
 		<Name xml:lang="la">Ursa Major</Name>
+		<Name Case="Genitive" xml:lang="la">Ursae Majoris</Name>
+		<Name xml:lang="ru">Большая Медведица</Name>
+		<Name Case="Genitive" xml:lang="ru">Б.Медведицы</Name>
 	</Constellation>
 	<Constellation Abbreviation="UMi" RightAscension="224.505" Declination="75.033">
 		<Name xml:lang="la">Ursa Minor</Name>
+		<Name Case="Genitive" xml:lang="la">Ursae Minoris</Name>
+		<Name xml:lang="ru">Малая Медведица</Name>
+		<Name Case="Genitive" xml:lang="ru">М.Медведицы</Name>
 	</Constellation>
 	<Constellation Abbreviation="Vel" RightAscension="139.995" Declination="-48.483">
 		<Name xml:lang="la">Vela</Name>
+		<Name Case="Genitive" xml:lang="la">Velorum</Name>
+		<Name xml:lang="ru">Паруса</Name>
+		<Name Case="Genitive" xml:lang="ru">Парусов</Name>
 	</Constellation>
 	<Constellation Abbreviation="Vir" RightAscension="200.25" Declination="-3.517">
 		<Name xml:lang="la">Virgo</Name>
+		<Name Case="Genitive" xml:lang="la">Virginis</Name>
+		<Name xml:lang="ru">Дева</Name>
+		<Name Case="Genitive" xml:lang="ru">Девы</Name>
 	</Constellation>
 	<Constellation Abbreviation="Vol" RightAscension="115.005" Declination="-69.617">
 		<Name xml:lang="la">Volans</Name>
+		<Name Case="Genitive" xml:lang="la">Volantis</Name>
+		<Name xml:lang="ru">Летучая Рыба</Name>
+		<Name Case="Genitive" xml:lang="ru">Летучей Рыбы</Name>
 	</Constellation>
 	<Constellation Abbreviation="Vul" RightAscension="305.505" Declination="25.033">
 		<Name xml:lang="la">Vulpecula</Name>
+		<Name Case="Genitive" xml:lang="la">Vulpeculae</Name>
+		<Name xml:lang="ru">Лисичка</Name>
+		<Name Case="Genitive" xml:lang="ru">Лисички</Name>
 	</Constellation>
 </ConstellationList>
