@@ -1,0 +1,1137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocationList xmlns="urn:denebsoft-skymap-location">
+	<Location Latitude="57.15" Longitude="-2.15" Country="UnitedKingdom">
+		<Name xml:lang="en">Aberdeen</Name>
+	</Location>
+	<Location Latitude="-34.92" Longitude="138.6" Country="Australia">
+		<Name xml:lang="en">Adelaide</Name>
+	</Location>
+	<Location Latitude="42.67" Longitude="-73.75" Country="US" State="NewYork">
+		<Name xml:lang="en">Albany</Name>
+	</Location>
+	<Location Latitude="35.08" Longitude="-106.65" Country="US" State="NewMexico">
+		<Name xml:lang="en">Albuquerque</Name>
+	</Location>
+	<Location Latitude="36.83" Longitude="3" Country="Algeria">
+		<Name xml:lang="en">Algiers</Name>
+	</Location>
+	<Location Latitude="35.18" Longitude="-101.83" Country="US" State="Texas">
+		<Name xml:lang="en">Amarillo</Name>
+	</Location>
+	<Location Latitude="52.37" Longitude="4.88" Country="Netherlands">
+		<Name xml:lang="en">Amsterdam</Name>
+	</Location>
+	<Location Latitude="61.22" Longitude="-149.9" Country="US" State="Alaska">
+		<Name xml:lang="en">Anchorage</Name>
+	</Location>
+	<Location Latitude="39.92" Longitude="32.92" Country="Turkey">
+		<Name xml:lang="en">Ankara</Name>
+	</Location>
+	<Location Latitude="-25.25" Longitude="-57.67" Country="Paraguay">
+		<Name xml:lang="en">Asunción</Name>
+	</Location>
+	<Location Latitude="37.97" Longitude="23.72" Country="Greece">
+		<Name xml:lang="en">Athens</Name>
+	</Location>
+	<Location Latitude="33.75" Longitude="-84.38" Country="US" State="Georgia">
+		<Name xml:lang="en">Atlanta</Name>
+	</Location>
+	<Location Latitude="-36.87" Longitude="174.75" Country="NewZealand">
+		<Name xml:lang="en">Auckland</Name>
+	</Location>
+	<Location Latitude="30.27" Longitude="-97.73" Country="US" State="Texas">
+		<Name xml:lang="en">Austin</Name>
+	</Location>
+	<Location Latitude="44.78" Longitude="-117.83" Country="US" State="Oregon">
+		<Name xml:lang="en">Baker</Name>
+	</Location>
+	<Location Latitude="39.3" Longitude="-76.63" Country="US" State="Maryland">
+		<Name xml:lang="en">Baltimore</Name>
+	</Location>
+	<Location Latitude="13.75" Longitude="100.5" Country="Thailand">
+		<Name xml:lang="en">Bangkok</Name>
+	</Location>
+	<Location Latitude="44.8" Longitude="-68.78" Country="US" State="Maine">
+		<Name xml:lang="en">Bangor</Name>
+	</Location>
+	<Location Latitude="41.38" Longitude="2.15" Country="Spain">
+		<Name xml:lang="en">Barcelona</Name>
+	</Location>
+	<Location Latitude="39.92" Longitude="116.42" Country="China">
+		<Name xml:lang="en">Beijing</Name>
+	</Location>
+	<Location Latitude="-1.47" Longitude="-48.48" Country="Brazil">
+		<Name xml:lang="en">Belém</Name>
+	</Location>
+	<Location Latitude="54.62" Longitude="-5.93" Country="UnitedKingdom">
+		<Name xml:lang="en">Belfast</Name>
+	</Location>
+	<Location Latitude="44.87" Longitude="20.53" Country="Serbia">
+		<Name xml:lang="en">Belgrade</Name>
+	</Location>
+	<Location Latitude="52.5" Longitude="13.42" Country="Germany">
+		<Name xml:lang="en">Berlin</Name>
+	</Location>
+	<Location Latitude="52.42" Longitude="-1.92" Country="UnitedKingdom">
+		<Name xml:lang="en">Birmingham</Name>
+	</Location>
+	<Location Latitude="33.5" Longitude="-86.83" Country="US" State="Alabama">
+		<Name xml:lang="en">Birmingham</Name>
+	</Location>
+	<Location Latitude="46.8" Longitude="-100.78" Country="US" State="NorthDakota">
+		<Name xml:lang="en">Bismarck</Name>
+	</Location>
+	<Location Latitude="4.53" Longitude="-74.25" Country="Colombia">
+		<Name xml:lang="en">Bogotá</Name>
+	</Location>
+	<Location Latitude="43.6" Longitude="-116.22" Country="US" State="Idaho">
+		<Name xml:lang="en">Boise</Name>
+	</Location>
+	<Location Latitude="19" Longitude="72.8" Country="India">
+		<Name xml:lang="en">Bombay</Name>
+	</Location>
+	<Location Latitude="44.83" Longitude="-0.52" Country="France">
+		<Name xml:lang="en">Bordeaux</Name>
+	</Location>
+	<Location Latitude="42.35" Longitude="-71.08" Country="US" State="Massachusetts">
+		<Name xml:lang="en">Boston</Name>
+	</Location>
+	<Location Latitude="53.08" Longitude="8.82" Country="Germany">
+		<Name xml:lang="en">Bremen</Name>
+	</Location>
+	<Location Latitude="-27.48" Longitude="153.13" Country="Australia">
+		<Name xml:lang="en">Brisbane</Name>
+	</Location>
+	<Location Latitude="51.47" Longitude="-2.58" Country="UnitedKingdom">
+		<Name xml:lang="en">Bristol</Name>
+	</Location>
+	<Location Latitude="50.87" Longitude="4.37" Country="Belgium">
+		<Name xml:lang="en">Brussels</Name>
+	</Location>
+	<Location Latitude="44.42" Longitude="26.12" Country="Romania">
+		<Name xml:lang="en">Bucharest</Name>
+	</Location>
+	<Location Latitude="47.5" Longitude="19.08" Country="Hungary">
+		<Name xml:lang="en">Budapest</Name>
+	</Location>
+	<Location Latitude="-34.58" Longitude="-58.37" Country="Argentina">
+		<Name xml:lang="en">Buenos Aires</Name>
+	</Location>
+	<Location Latitude="42.92" Longitude="-78.83" Country="US" State="NewYork">
+		<Name xml:lang="en">Buffalo</Name>
+	</Location>
+	<Location Latitude="30.03" Longitude="31.35" Country="Egypt">
+		<Name xml:lang="en">Cairo</Name>
+	</Location>
+	<Location Latitude="22.57" Longitude="88.4" Country="India">
+		<Name xml:lang="en">Calcutta</Name>
+	</Location>
+	<Location Latitude="51.02" Longitude="-114.02" Country="Canada" State="Alberta">
+		<Name xml:lang="en">Calgary</Name>
+	</Location>
+	<Location Latitude="23.12" Longitude="113.25" Country="China">
+		<Name xml:lang="en">Canton</Name>
+	</Location>
+	<Location Latitude="-33.92" Longitude="18.37" Country="SouthAfrica">
+		<Name xml:lang="en">Cape Town</Name>
+	</Location>
+	<Location Latitude="10.47" Longitude="-67.03" Country="Venezuela">
+		<Name xml:lang="en">Caracas</Name>
+	</Location>
+	<Location Latitude="32.43" Longitude="-104.25" Country="US" State="NewMexico">
+		<Name xml:lang="en">Carlsbad</Name>
+	</Location>
+	<Location Latitude="4.82" Longitude="-52.3" Country="FrenchGuiana">
+		<Name xml:lang="en">Cayenne</Name>
+	</Location>
+	<Location Latitude="32.78" Longitude="-79.93" Country="US" State="SouthCarolina">
+		<Name xml:lang="en">Charleston</Name>
+	</Location>
+	<Location Latitude="38.35" Longitude="-81.63" Country="US" State="WestVirginia">
+		<Name xml:lang="en">Charleston</Name>
+	</Location>
+	<Location Latitude="35.23" Longitude="-80.83" Country="US" State="NorthCarolina">
+		<Name xml:lang="en">Charlotte</Name>
+	</Location>
+	<Location Latitude="41.15" Longitude="-104.87" Country="US" State="Wyoming">
+		<Name xml:lang="en">Cheyenne</Name>
+	</Location>
+	<Location Latitude="41.83" Longitude="-87.62" Country="US" State="Illinois">
+		<Name xml:lang="en">Chicago</Name>
+	</Location>
+	<Location Latitude="28.62" Longitude="-106.08" Country="Mexico">
+		<Name xml:lang="en">Chihuahua</Name>
+	</Location>
+	<Location Latitude="29.77" Longitude="106.57" Country="China">
+		<Name xml:lang="en">Chongqing</Name>
+	</Location>
+	<Location Latitude="39.13" Longitude="-84.5" Country="US" State="Ohio">
+		<Name xml:lang="en">Cincinnati</Name>
+	</Location>
+	<Location Latitude="41.47" Longitude="-81.62" Country="US" State="Ohio">
+		<Name xml:lang="en">Cleveland</Name>
+	</Location>
+	<Location Latitude="34" Longitude="-81.03" Country="US" State="SouthCarolina">
+		<Name xml:lang="en">Columbia</Name>
+	</Location>
+	<Location Latitude="40" Longitude="-83.02" Country="US" State="Ohio">
+		<Name xml:lang="en">Columbus</Name>
+	</Location>
+	<Location Latitude="55.67" Longitude="12.57" Country="Denmark">
+		<Name xml:lang="en">Copenhagen</Name>
+	</Location>
+	<Location Latitude="-31.47" Longitude="-64.17" Country="Argentina">
+		<Name xml:lang="en">Córdoba</Name>
+	</Location>
+	<Location Latitude="14.67" Longitude="-17.47" Country="Senegal">
+		<Name xml:lang="en">Dakar</Name>
+	</Location>
+	<Location Latitude="32.77" Longitude="-96.77" Country="US" State="Texas">
+		<Name xml:lang="en">Dallas</Name>
+	</Location>
+	<Location Latitude="-12.47" Longitude="130.85" Country="Australia">
+		<Name xml:lang="en">Darwin</Name>
+	</Location>
+	<Location Latitude="39.75" Longitude="-105" Country="US" State="Colorado">
+		<Name xml:lang="en">Denver</Name>
+	</Location>
+	<Location Latitude="41.58" Longitude="-93.62" Country="US" State="Iowa">
+		<Name xml:lang="en">Des Moines</Name>
+	</Location>
+	<Location Latitude="42.33" Longitude="-83.05" Country="US" State="Michigan">
+		<Name xml:lang="en">Detroit</Name>
+	</Location>
+	<Location Latitude="11.5" Longitude="43.05" Country="Djibouti">
+		<Name xml:lang="en">Djibouti</Name>
+	</Location>
+	<Location Latitude="53.33" Longitude="-6.25" Country="Ireland">
+		<Name xml:lang="en">Dublin</Name>
+	</Location>
+	<Location Latitude="42.52" Longitude="-90.67" Country="US" State="Iowa">
+		<Name xml:lang="en">Dubuque</Name>
+	</Location>
+	<Location Latitude="46.82" Longitude="-92.08" Country="US" State="Minnesota">
+		<Name xml:lang="en">Duluth</Name>
+	</Location>
+	<Location Latitude="-29.88" Longitude="30.88" Country="SouthAfrica">
+		<Name xml:lang="en">Durban</Name>
+	</Location>
+	<Location Latitude="44.9" Longitude="-67" Country="US" State="Maine">
+		<Name xml:lang="en">Eastport</Name>
+	</Location>
+	<Location Latitude="55.92" Longitude="-3.17" Country="UnitedKingdom">
+		<Name xml:lang="en">Edinburgh</Name>
+	</Location>
+	<Location Latitude="53.57" Longitude="-113.47" Country="Canada" State="Alberta">
+		<Name xml:lang="en">Edmonton</Name>
+	</Location>
+	<Location Latitude="32.63" Longitude="-115.55" Country="US" State="California">
+		<Name xml:lang="en">El Centro</Name>
+	</Location>
+	<Location Latitude="31.77" Longitude="-106.48" Country="US" State="Texas">
+		<Name xml:lang="en">El Paso</Name>
+	</Location>
+	<Location Latitude="44.05" Longitude="-123.08" Country="US" State="Oregon">
+		<Name xml:lang="en">Eugene</Name>
+	</Location>
+	<Location Latitude="46.87" Longitude="-96.8" Country="US" State="NorthDakota">
+		<Name xml:lang="en">Fargo</Name>
+	</Location>
+	<Location Latitude="35.22" Longitude="-111.68" Country="US" State="Arizona">
+		<Name xml:lang="en">Flagstaff</Name>
+	</Location>
+	<Location Latitude="32.72" Longitude="-97.32" Country="US" State="Texas">
+		<Name xml:lang="en">Fort Worth</Name>
+	</Location>
+	<Location Latitude="50.12" Longitude="8.68" Country="Germany">
+		<Name xml:lang="en">Frankfurt</Name>
+	</Location>
+	<Location Latitude="36.73" Longitude="-119.8" Country="US" State="California">
+		<Name xml:lang="en">Fresno</Name>
+	</Location>
+	<Location Latitude="6.75" Longitude="-58.25" Country="Guyana">
+		<Name xml:lang="en">Georgetown</Name>
+	</Location>
+	<Location Latitude="55.83" Longitude="-4.25" Country="UnitedKingdom">
+		<Name xml:lang="en">Glasgow</Name>
+	</Location>
+	<Location Latitude="39.08" Longitude="-108.55" Country="US" State="Colorado">
+		<Name xml:lang="en">Grand Junction</Name>
+	</Location>
+	<Location Latitude="42.97" Longitude="-85.67" Country="US" State="Michigan">
+		<Name xml:lang="en">Grand Rapids</Name>
+	</Location>
+	<Location Latitude="14.62" Longitude="-90.52" Country="Guatemala">
+		<Name xml:lang="en">Guatemala City</Name>
+	</Location>
+	<Location Latitude="-2.17" Longitude="-79.93" Country="Ecuador">
+		<Name xml:lang="en">Guayaquil</Name>
+	</Location>
+	<Location Latitude="53.55" Longitude="10.03" Country="Germany">
+		<Name xml:lang="en">Hamburg</Name>
+	</Location>
+	<Location Latitude="70.63" Longitude="23.63" Country="Norway">
+		<Name xml:lang="en">Hammerfest</Name>
+	</Location>
+	<Location Latitude="23.13" Longitude="-82.38" Country="Cuba">
+		<Name xml:lang="en">Havana</Name>
+	</Location>
+	<Location Latitude="48.55" Longitude="-109.72" Country="US" State="Montana">
+		<Name xml:lang="en">Havre</Name>
+	</Location>
+	<Location Latitude="46.58" Longitude="-112.03" Country="US" State="Montana">
+		<Name xml:lang="en">Helena</Name>
+	</Location>
+	<Location Latitude="60.17" Longitude="25" Country="Finland">
+		<Name xml:lang="en">Helsinki</Name>
+	</Location>
+	<Location Latitude="-42.87" Longitude="147.32" Country="Tasmania">
+		<Name xml:lang="en">Hobart</Name>
+	</Location>
+	<Location Latitude="22.33" Longitude="114.18" Country="China">
+		<Name xml:lang="en">Hong Kong</Name>
+	</Location>
+	<Location Latitude="21.3" Longitude="-157.83" Country="US" State="Hawaii">
+		<Name xml:lang="en">Honolulu</Name>
+	</Location>
+	<Location Latitude="34.52" Longitude="-93.05" Country="US" State="Arkansas">
+		<Name xml:lang="en">Hot Springs</Name>
+	</Location>
+	<Location Latitude="29.75" Longitude="-95.35" Country="US" State="Texas">
+		<Name xml:lang="en">Houston</Name>
+	</Location>
+	<Location Latitude="47.157" Longitude="27.59" Country="Romania">
+		<Name xml:lang="en">Iasi</Name>
+	</Location>
+	<Location Latitude="43.5" Longitude="-112.02" Country="US" State="Idaho">
+		<Name xml:lang="en">Idaho Falls</Name>
+	</Location>
+	<Location Latitude="39.77" Longitude="-86.17" Country="US" State="Indiana">
+		<Name xml:lang="en">Indianapolis</Name>
+	</Location>
+	<Location Latitude="-20.17" Longitude="-70.12" Country="Chile">
+		<Name xml:lang="en">Iquique</Name>
+	</Location>
+	<Location Latitude="52.5" Longitude="104.33" Country="Russia">
+		<Name xml:lang="en">Irkutsk</Name>
+	</Location>
+	<Location Latitude="32.33" Longitude="-90.2" Country="US" State="Mississippi">
+		<Name xml:lang="en">Jackson</Name>
+	</Location>
+	<Location Latitude="30.37" Longitude="-81.67" Country="US" State="Florida">
+		<Name xml:lang="en">Jacksonville</Name>
+	</Location>
+	<Location Latitude="-6.27" Longitude="106.8" Country="Indonesia">
+		<Name xml:lang="en">Jakarta</Name>
+	</Location>
+	<Location Latitude="-26.2" Longitude="28.07" Country="SouthAfrica">
+		<Name xml:lang="en">Johannesburg</Name>
+	</Location>
+	<Location Latitude="58.3" Longitude="-134.4" Country="US" State="Alaska">
+		<Name xml:lang="en">Juneau</Name>
+	</Location>
+	<Location Latitude="39.1" Longitude="-94.58" Country="US" State="Missouri">
+		<Name xml:lang="en">Kansas City</Name>
+	</Location>
+	<Location Latitude="24.55" Longitude="-81.8" Country="US" State="Florida">
+		<Name xml:lang="en">Key West</Name>
+	</Location>
+	<Location Latitude="44.25" Longitude="-76.5" Country="Canada" State="Ontario">
+		<Name xml:lang="en">Kingston</Name>
+	</Location>
+	<Location Latitude="17.98" Longitude="-76.82" Country="Jamaica">
+		<Name xml:lang="en">Kingston</Name>
+	</Location>
+	<Location Latitude="-4.3" Longitude="15.28" Country="Congo">
+		<Name xml:lang="en">Kinshasa</Name>
+	</Location>
+	<Location Latitude="42.17" Longitude="-121.73" Country="US" State="Oregon">
+		<Name xml:lang="en">Klamath Falls</Name>
+	</Location>
+	<Location Latitude="35.95" Longitude="-83.93" Country="US" State="Tennessee">
+		<Name xml:lang="en">Knoxville</Name>
+	</Location>
+	<Location Latitude="3.13" Longitude="101.7" Country="Malaysia">
+		<Name xml:lang="en">Kuala Lumpur</Name>
+	</Location>
+	<Location Latitude="-16.45" Longitude="-68.37" Country="Bolivia">
+		<Name xml:lang="en">La Paz</Name>
+	</Location>
+	<Location Latitude="36.17" Longitude="-115.2" Country="US" State="Nevada">
+		<Name xml:lang="en">Las Vegas</Name>
+	</Location>
+	<Location Latitude="53.75" Longitude="-1.5" Country="UnitedKingdom">
+		<Name xml:lang="en">Leeds</Name>
+	</Location>
+	<Location Latitude="46.4" Longitude="-117.03" Country="US" State="Idaho">
+		<Name xml:lang="en">Lewiston</Name>
+	</Location>
+	<Location Latitude="-12" Longitude="-77.03" Country="Peru">
+		<Name xml:lang="en">Lima</Name>
+	</Location>
+	<Location Latitude="40.83" Longitude="-96.67" Country="US" State="Nebraska">
+		<Name xml:lang="en">Lincoln</Name>
+	</Location>
+	<Location Latitude="38.73" Longitude="-9.15" Country="Portugal">
+		<Name xml:lang="en">Lisbon</Name>
+	</Location>
+	<Location Latitude="53.42" Longitude="-3" Country="UnitedKingdom">
+		<Name xml:lang="en">Liverpool</Name>
+	</Location>
+	<Location Latitude="43.03" Longitude="-81.57" Country="Canada" State="Ontario">
+		<Name xml:lang="en">London</Name>
+	</Location>
+	<Location Latitude="51.53" Longitude="-0.08" Country="UnitedKingdom">
+		<Name xml:lang="en">London</Name>
+	</Location>
+	<Location Latitude="33.77" Longitude="-118.18" Country="US" State="California">
+		<Name xml:lang="en">Long Beach</Name>
+	</Location>
+	<Location Latitude="34.05" Longitude="-118.25" Country="US" State="California">
+		<Name xml:lang="en">Los Angeles</Name>
+	</Location>
+	<Location Latitude="38.25" Longitude="-85.77" Country="US" State="Kentucky">
+		<Name xml:lang="en">Louisville</Name>
+	</Location>
+	<Location Latitude="45.75" Longitude="4.83" Country="France">
+		<Name xml:lang="en">Lyons</Name>
+	</Location>
+	<Location Latitude="40.43" Longitude="-3.7" Country="Spain">
+		<Name xml:lang="en">Madrid</Name>
+	</Location>
+	<Location Latitude="53.5" Longitude="-2.25" Country="UnitedKingdom">
+		<Name xml:lang="en">Manchester</Name>
+	</Location>
+	<Location Latitude="43" Longitude="-71.5" Country="US" State="NewHampshire">
+		<Name xml:lang="en">Manchester</Name>
+	</Location>
+	<Location Latitude="14.58" Longitude="120.95" Country="Philippines">
+		<Name xml:lang="en">Manila</Name>
+	</Location>
+	<Location Latitude="43.33" Longitude="5.33" Country="France">
+		<Name xml:lang="en">Marseilles</Name>
+	</Location>
+	<Location Latitude="23.2" Longitude="-106.42" Country="Mexico">
+		<Name xml:lang="en">Mazatlán</Name>
+	</Location>
+	<Location Latitude="21.48" Longitude="39.75" Country="SaudiArabia">
+		<Name xml:lang="en">Mecca</Name>
+	</Location>
+	<Location Latitude="-37.78" Longitude="144.97" Country="Australia">
+		<Name xml:lang="en">Melbourne</Name>
+	</Location>
+	<Location Latitude="35.15" Longitude="-90.05" Country="US" State="Tennessee">
+		<Name xml:lang="en">Memphis</Name>
+	</Location>
+	<Location Latitude="19.43" Longitude="-99.12" Country="Mexico">
+		<Name xml:lang="en">Mexico City</Name>
+	</Location>
+	<Location Latitude="25.77" Longitude="-80.2" Country="US" State="Florida">
+		<Name xml:lang="en">Miami</Name>
+	</Location>
+	<Location Latitude="45.45" Longitude="9.17" Country="Italy">
+		<Name xml:lang="en">Milan</Name>
+	</Location>
+	<Location Latitude="43.03" Longitude="-87.92" Country="US" State="Wisconsin">
+		<Name xml:lang="en">Milwaukee</Name>
+	</Location>
+	<Location Latitude="44.98" Longitude="-93.23" Country="US" State="Minnesota">
+		<Name xml:lang="en">Minneapolis</Name>
+	</Location>
+	<Location Latitude="30.7" Longitude="-88.05" Country="US" State="Alabama">
+		<Name xml:lang="en">Mobile</Name>
+	</Location>
+	<Location Latitude="-34.88" Longitude="-56.17" Country="Uruguay">
+		<Name xml:lang="en">Montevideo</Name>
+	</Location>
+	<Location Latitude="32.35" Longitude="-86.3" Country="US" State="Alabama">
+		<Name xml:lang="en">Montgomery</Name>
+	</Location>
+	<Location Latitude="44.25" Longitude="-72.53" Country="US" State="Vermont">
+		<Name xml:lang="en">Montpelier</Name>
+	</Location>
+	<Location Latitude="45.5" Longitude="-73.58" Country="Canada" State="Quebec">
+		<Name xml:lang="en">Montreal</Name>
+	</Location>
+	<Location Latitude="50.62" Longitude="-105.52" Country="Canada" State="Saskatchewan">
+		<Name xml:lang="en">Moose Jaw</Name>
+	</Location>
+	<Location Latitude="55.75" Longitude="37.6" Country="Russia">
+		<Name xml:lang="en">Moscow</Name>
+	</Location>
+	<Location Latitude="48.13" Longitude="11.58" Country="Germany">
+		<Name xml:lang="en">Munich</Name>
+	</Location>
+	<Location Latitude="32.8" Longitude="129.95" Country="Japan">
+		<Name xml:lang="en">Nagasaki</Name>
+	</Location>
+	<Location Latitude="35.12" Longitude="136.93" Country="Japan">
+		<Name xml:lang="en">Nagoya</Name>
+	</Location>
+	<Location Latitude="-1.42" Longitude="36.92" Country="Kenya">
+		<Name xml:lang="en">Nairobi</Name>
+	</Location>
+	<Location Latitude="32.05" Longitude="118.88" Country="China">
+		<Name xml:lang="en">Nanjing (Nanking)</Name>
+	</Location>
+	<Location Latitude="40.83" Longitude="14.25" Country="Italy">
+		<Name xml:lang="en">Naples</Name>
+	</Location>
+	<Location Latitude="36.17" Longitude="-86.78" Country="US" State="Tennessee">
+		<Name xml:lang="en">Nashville</Name>
+	</Location>
+	<Location Latitude="49.5" Longitude="-117.28" Country="Canada" State="BritishColumbia">
+		<Name xml:lang="en">Nelson</Name>
+	</Location>
+	<Location Latitude="28.58" Longitude="77.2" Country="India">
+		<Name xml:lang="en">New Delhi</Name>
+	</Location>
+	<Location Latitude="41.32" Longitude="-72.92" Country="US" State="Conneticut">
+		<Name xml:lang="en">New Haven</Name>
+	</Location>
+	<Location Latitude="29.95" Longitude="-90.07" Country="US" State="Louisiana">
+		<Name xml:lang="en">New Orleans</Name>
+	</Location>
+	<Location Latitude="40.78" Longitude="-73.97" Country="US" State="NewYork">
+		<Name xml:lang="en">New York</Name>
+	</Location>
+	<Location Latitude="40.73" Longitude="-74.17" Country="US" State="NewJersey">
+		<Name xml:lang="en">Newark</Name>
+	</Location>
+	<Location Latitude="54.97" Longitude="-1.62" Country="UnitedKingdom">
+		<Name xml:lang="en">Newcastle-on-Tyne</Name>
+	</Location>
+	<Location Latitude="64.42" Longitude="-165.5" Country="US" State="Alaska">
+		<Name xml:lang="en">Nome</Name>
+	</Location>
+	<Location Latitude="37.8" Longitude="-122.27" Country="US" State="California">
+		<Name xml:lang="en">Oakland</Name>
+	</Location>
+	<Location Latitude="46.45" Longitude="30.8" Country="Ukraine">
+		<Name xml:lang="en">Odessa</Name>
+	</Location>
+	<Location Latitude="35.43" Longitude="-97.47" Country="US" State="Oklahoma">
+		<Name xml:lang="en">Oklahoma City</Name>
+	</Location>
+	<Location Latitude="41.25" Longitude="-95.93" Country="US" State="Nebraska">
+		<Name xml:lang="en">Omaha</Name>
+	</Location>
+	<Location Latitude="34.53" Longitude="135.5" Country="Japan">
+		<Name xml:lang="en">Osaka</Name>
+	</Location>
+	<Location Latitude="59.95" Longitude="10.7" Country="Norway">
+		<Name xml:lang="en">Oslo</Name>
+	</Location>
+	<Location Latitude="45.4" Longitude="-75.72" Country="Canada" State="Ontario">
+		<Name xml:lang="en">Ottawa</Name>
+	</Location>
+	<Location Latitude="8.97" Longitude="-79.53" Country="Panama">
+		<Name xml:lang="en">Panama City</Name>
+	</Location>
+	<Location Latitude="5.75" Longitude="-55.25" Country="Suriname">
+		<Name xml:lang="en">Paramaribo</Name>
+	</Location>
+	<Location Latitude="48.8" Longitude="2.33" Country="France">
+		<Name xml:lang="en">Paris</Name>
+	</Location>
+	<Location Latitude="-31.95" Longitude="115.87" Country="Australia">
+		<Name xml:lang="en">Perth</Name>
+	</Location>
+	<Location Latitude="39.95" Longitude="-75.17" Country="US" State="Pennsylvania">
+		<Name xml:lang="en">Philadelphia</Name>
+	</Location>
+	<Location Latitude="33.48" Longitude="-112.07" Country="US" State="Arizona">
+		<Name xml:lang="en">Phoenix</Name>
+	</Location>
+	<Location Latitude="44.37" Longitude="-100.35" Country="US" State="SouthDakota">
+		<Name xml:lang="en">Pierre</Name>
+	</Location>
+	<Location Latitude="40.45" Longitude="-79.95" Country="US" State="Pennsylvania">
+		<Name xml:lang="en">Pittsburgh</Name>
+	</Location>
+	<Location Latitude="50.42" Longitude="-4.08" Country="UnitedKingdom">
+		<Name xml:lang="en">Plymouth</Name>
+	</Location>
+	<Location Latitude="-9.42" Longitude="147.13" Country="PapuaNewGuinea">
+		<Name xml:lang="en">Port Moresby</Name>
+	</Location>
+	<Location Latitude="43.67" Longitude="-70.25" Country="US" State="Maine">
+		<Name xml:lang="en">Portland</Name>
+	</Location>
+	<Location Latitude="45.52" Longitude="-122.68" Country="US" State="Oregon">
+		<Name xml:lang="en">Portland</Name>
+	</Location>
+	<Location Latitude="50.08" Longitude="14.43" Country="CzechRepublic">
+		<Name xml:lang="en">Prague</Name>
+	</Location>
+	<Location Latitude="41.83" Longitude="-71.4" Country="US" State="RhodeIsland">
+		<Name xml:lang="en">Providence</Name>
+	</Location>
+	<Location Latitude="46.82" Longitude="-71.18" Country="Canada" State="Quebec">
+		<Name xml:lang="en">Quebec</Name>
+	</Location>
+	<Location Latitude="35.77" Longitude="-78.65" Country="US" State="NorthCarolina">
+		<Name xml:lang="en">Raleigh</Name>
+	</Location>
+	<Location Latitude="16.83" Longitude="96" Country="Myanmar">
+		<Name xml:lang="en">Rangoon</Name>
+	</Location>
+	<Location Latitude="39.5" Longitude="-119.82" Country="US" State="Nevada">
+		<Name xml:lang="en">Reno</Name>
+	</Location>
+	<Location Latitude="64.07" Longitude="-21.97" Country="Iceland">
+		<Name xml:lang="en">Reykjavík</Name>
+	</Location>
+	<Location Latitude="38.77" Longitude="-112.08" Country="US" State="Utah">
+		<Name xml:lang="en">Richfield</Name>
+	</Location>
+	<Location Latitude="37.55" Longitude="-77.48" Country="US" State="Virginia">
+		<Name xml:lang="en">Richmond</Name>
+	</Location>
+	<Location Latitude="-22.95" Longitude="-43.2" Country="Brazil">
+		<Name xml:lang="en">Rio de Janeiro</Name>
+	</Location>
+	<Location Latitude="37.28" Longitude="-79.95" Country="US" State="Virginia">
+		<Name xml:lang="en">Roanoke</Name>
+	</Location>
+	<Location Latitude="41.9" Longitude="12.45" Country="Italy">
+		<Name xml:lang="en">Rome</Name>
+	</Location>
+	<Location Latitude="38.58" Longitude="-121.5" Country="US" State="California">
+		<Name xml:lang="en">Sacramento</Name>
+	</Location>
+	<Location Latitude="40.77" Longitude="-111.9" Country="US" State="Utah">
+		<Name xml:lang="en">Salt Lake City</Name>
+	</Location>
+	<Location Latitude="-12.93" Longitude="-38.45" Country="Brazil">
+		<Name xml:lang="en">Salvador</Name>
+	</Location>
+	<Location Latitude="29.38" Longitude="-98.55" Country="US" State="Texas">
+		<Name xml:lang="en">San Antonio</Name>
+	</Location>
+	<Location Latitude="32.7" Longitude="-117.17" Country="US" State="California">
+		<Name xml:lang="en">San Diego</Name>
+	</Location>
+	<Location Latitude="37.78" Longitude="-122.43" Country="US" State="California">
+		<Name xml:lang="en">San Francisco</Name>
+	</Location>
+	<Location Latitude="37.33" Longitude="-121.88" Country="US" State="California">
+		<Name xml:lang="en">San Jose</Name>
+	</Location>
+	<Location Latitude="18.5" Longitude="-66.17" Country="US" State="PuertoRico">
+		<Name xml:lang="en">San Juan</Name>
+	</Location>
+	<Location Latitude="35.68" Longitude="-105.95" Country="US" State="NewMexico">
+		<Name xml:lang="en">Santa Fe</Name>
+	</Location>
+	<Location Latitude="-33.47" Longitude="-70.75" Country="Chile">
+		<Name xml:lang="en">Santiago</Name>
+	</Location>
+	<Location Latitude="-23.52" Longitude="-46.52" Country="Brazil">
+		<Name xml:lang="en">São Paulo</Name>
+	</Location>
+	<Location Latitude="32.08" Longitude="-81.08" Country="US" State="Georgia">
+		<Name xml:lang="en">Savannah</Name>
+	</Location>
+	<Location Latitude="47.62" Longitude="-122.33" Country="US" State="Washington">
+		<Name xml:lang="en">Seattle</Name>
+	</Location>
+	<Location Latitude="31.17" Longitude="121.47" Country="China">
+		<Name xml:lang="en">Shanghai</Name>
+	</Location>
+	<Location Latitude="32.47" Longitude="-93.7" Country="US" State="Louisiana">
+		<Name xml:lang="en">Shreveport</Name>
+	</Location>
+	<Location Latitude="1.23" Longitude="103.92" Country="Singapore">
+		<Name xml:lang="en">Singapore</Name>
+	</Location>
+	<Location Latitude="43.55" Longitude="-96.73" Country="US" State="SouthDakota">
+		<Name xml:lang="en">Sioux Falls</Name>
+	</Location>
+	<Location Latitude="57.17" Longitude="-135.25" Country="US" State="Alaska">
+		<Name xml:lang="en">Sitka</Name>
+	</Location>
+	<Location Latitude="42.67" Longitude="23.33" Country="Bulgaria">
+		<Name xml:lang="en">Sofia</Name>
+	</Location>
+	<Location Latitude="47.67" Longitude="-117.43" Country="US" State="Washington">
+		<Name xml:lang="en">Spokane</Name>
+	</Location>
+	<Location Latitude="39.8" Longitude="-89.63" Country="US" State="Illinois">
+		<Name xml:lang="en">Springfield IL</Name>
+	</Location>
+	<Location Latitude="42.1" Longitude="-72.57" Country="US" State="Massachusetts">
+		<Name xml:lang="en">Springfield MA</Name>
+	</Location>
+	<Location Latitude="37.22" Longitude="-93.28" Country="US" State="Missouri">
+		<Name xml:lang="en">Springfield MO</Name>
+	</Location>
+	<Location Latitude="45.3" Longitude="-66.17" Country="Canada" State="NewBrunswick">
+		<Name xml:lang="en">St. John</Name>
+	</Location>
+	<Location Latitude="38.58" Longitude="-90.2" Country="US" State="Missouri">
+		<Name xml:lang="en">St. Louis</Name>
+	</Location>
+	<Location Latitude="59.93" Longitude="30.3" Country="Russia">
+		<Name xml:lang="en">St. Petersburg</Name>
+	</Location>
+	<Location Latitude="59.28" Longitude="18.05" Country="Sweden">
+		<Name xml:lang="en">Stockholm</Name>
+	</Location>
+	<Location Latitude="-34" Longitude="151" Country="Australia">
+		<Name xml:lang="en">Sydney</Name>
+	</Location>
+	<Location Latitude="43.03" Longitude="-76.13" Country="US" State="NewYork">
+		<Name xml:lang="en">Syracuse</Name>
+	</Location>
+	<Location Latitude="27.95" Longitude="-82.45" Country="US" State="Florida">
+		<Name xml:lang="en">Tampa</Name>
+	</Location>
+	<Location Latitude="-18.83" Longitude="47.55" Country="Madagascar">
+		<Name xml:lang="en">Tananarive</Name>
+	</Location>
+	<Location Latitude="35.75" Longitude="51.75" Country="Iran">
+		<Name xml:lang="en">Teheran</Name>
+	</Location>
+	<Location Latitude="35.67" Longitude="139.75" Country="Japan">
+		<Name xml:lang="en">Tokyo</Name>
+	</Location>
+	<Location Latitude="41.65" Longitude="-83.55" Country="US" State="Ohio">
+		<Name xml:lang="en">Toledo</Name>
+	</Location>
+	<Location Latitude="43.67" Longitude="-79.4" Country="Canada" State="Ontario">
+		<Name xml:lang="en">Toronto</Name>
+	</Location>
+	<Location Latitude="32.95" Longitude="13.2" Country="Libya">
+		<Name xml:lang="en">Tripoli</Name>
+	</Location>
+	<Location Latitude="36.15" Longitude="-95.98" Country="US" State="Oklahoma">
+		<Name xml:lang="en">Tulsa</Name>
+	</Location>
+	<Location Latitude="49.22" Longitude="-123.1" Country="Canada" State="BritishColumbia">
+		<Name xml:lang="en">Vancouver</Name>
+	</Location>
+	<Location Latitude="45.43" Longitude="12.33" Country="Italy">
+		<Name xml:lang="en">Venice</Name>
+	</Location>
+	<Location Latitude="19.17" Longitude="-96.17" Country="Mexico">
+		<Name xml:lang="en">Veracruz</Name>
+	</Location>
+	<Location Latitude="48.42" Longitude="-123.35" Country="Canada" State="BritishColumbia">
+		<Name xml:lang="en">Victoria</Name>
+	</Location>
+	<Location Latitude="48.23" Longitude="16.33" Country="Austria">
+		<Name xml:lang="en">Vienna</Name>
+	</Location>
+	<Location Latitude="36.85" Longitude="-75.97" Country="US" State="Virginia">
+		<Name xml:lang="en">Virginia Beach</Name>
+	</Location>
+	<Location Latitude="43.17" Longitude="132" Country="Russia">
+		<Name xml:lang="en">Vladivostok</Name>
+	</Location>
+	<Location Latitude="52.23" Longitude="21" Country="Poland">
+		<Name xml:lang="en">Warsaw</Name>
+	</Location>
+	<Location Latitude="38.88" Longitude="-77.03" Country="US" State="D.C.">
+		<Name xml:lang="en">Washington</Name>
+	</Location>
+	<Location Latitude="-41.28" Longitude="174.78" Country="NewZealand">
+		<Name xml:lang="en">Wellington</Name>
+	</Location>
+	<Location Latitude="37.72" Longitude="-97.28" Country="US" State="Kansas">
+		<Name xml:lang="en">Wichita</Name>
+	</Location>
+	<Location Latitude="34.23" Longitude="-77.95" Country="US" State="NorthCarolina">
+		<Name xml:lang="en">Wilmington</Name>
+	</Location>
+	<Location Latitude="49.9" Longitude="-97.12" Country="Canada" State="Manitoba">
+		<Name xml:lang="en">Winnipeg</Name>
+	</Location>
+	<Location Latitude="47.35" Longitude="8.52" Country="Switzerland">
+		<Name xml:lang="en">Zürich</Name>
+	</Location>
+	<Country ID="UnitedKingdom">
+		<Name xml:lang="en">United Kingdom</Name>
+	</Country>
+	<Country ID="Australia">
+		<Name xml:lang="en">Australia</Name>
+	</Country>
+	<Country ID="US">
+		<Name xml:lang="en">US</Name>
+		<State ID="NewYork">
+			<Name xml:lang="en">New York</Name>
+		</State>
+		<State ID="NewMexico">
+			<Name xml:lang="en">New Mexico</Name>
+		</State>
+		<State ID="Texas">
+			<Name xml:lang="en">Texas</Name>
+		</State>
+		<State ID="Alaska">
+			<Name xml:lang="en">Alaska</Name>
+		</State>
+		<State ID="Georgia">
+			<Name xml:lang="en">Georgia</Name>
+		</State>
+		<State ID="Oregon">
+			<Name xml:lang="en">Oregon</Name>
+		</State>
+		<State ID="Maryland">
+			<Name xml:lang="en">Maryland</Name>
+		</State>
+		<State ID="Maine">
+			<Name xml:lang="en">Maine</Name>
+		</State>
+		<State ID="Alabama">
+			<Name xml:lang="en">Alabama</Name>
+		</State>
+		<State ID="NorthDakota">
+			<Name xml:lang="en">North Dakota</Name>
+		</State>
+		<State ID="Idaho">
+			<Name xml:lang="en">Idaho</Name>
+		</State>
+		<State ID="Massachusetts">
+			<Name xml:lang="en">Massachusetts</Name>
+		</State>
+		<State ID="SouthCarolina">
+			<Name xml:lang="en">South Carolina</Name>
+		</State>
+		<State ID="WestVirginia">
+			<Name xml:lang="en">West Virginia</Name>
+		</State>
+		<State ID="NorthCarolina">
+			<Name xml:lang="en">North Carolina</Name>
+		</State>
+		<State ID="Wyoming">
+			<Name xml:lang="en">Wyoming</Name>
+		</State>
+		<State ID="Illinois">
+			<Name xml:lang="en">Illinois</Name>
+		</State>
+		<State ID="Ohio">
+			<Name xml:lang="en">Ohio</Name>
+		</State>
+		<State ID="Colorado">
+			<Name xml:lang="en">Colorado</Name>
+		</State>
+		<State ID="Iowa">
+			<Name xml:lang="en">Iowa</Name>
+		</State>
+		<State ID="Michigan">
+			<Name xml:lang="en">Michigan</Name>
+		</State>
+		<State ID="Minnesota">
+			<Name xml:lang="en">Minnesota</Name>
+		</State>
+		<State ID="California">
+			<Name xml:lang="en">California</Name>
+		</State>
+		<State ID="Arizona">
+			<Name xml:lang="en">Arizona</Name>
+		</State>
+		<State ID="Montana">
+			<Name xml:lang="en">Montana</Name>
+		</State>
+		<State ID="Hawaii">
+			<Name xml:lang="en">Hawaii</Name>
+		</State>
+		<State ID="Arkansas">
+			<Name xml:lang="en">Arkansas</Name>
+		</State>
+		<State ID="Indiana">
+			<Name xml:lang="en">Indiana</Name>
+		</State>
+		<State ID="Mississippi">
+			<Name xml:lang="en">Mississippi</Name>
+		</State>
+		<State ID="Florida">
+			<Name xml:lang="en">Florida</Name>
+		</State>
+		<State ID="Missouri">
+			<Name xml:lang="en">Missouri</Name>
+		</State>
+		<State ID="Tennessee">
+			<Name xml:lang="en">Tennessee</Name>
+		</State>
+		<State ID="Nevada">
+			<Name xml:lang="en">Nevada</Name>
+		</State>
+		<State ID="Nebraska">
+			<Name xml:lang="en">Nebraska</Name>
+		</State>
+		<State ID="Kentucky">
+			<Name xml:lang="en">Kentucky</Name>
+		</State>
+		<State ID="NewHampshire">
+			<Name xml:lang="en">New Hampshire</Name>
+		</State>
+		<State ID="Wisconsin">
+			<Name xml:lang="en">Wisconsin</Name>
+		</State>
+		<State ID="Vermont">
+			<Name xml:lang="en">Vermont</Name>
+		</State>
+		<State ID="Conneticut">
+			<Name xml:lang="en">Conneticut</Name>
+		</State>
+		<State ID="Louisiana">
+			<Name xml:lang="en">Louisiana</Name>
+		</State>
+		<State ID="NewJersey">
+			<Name xml:lang="en">New Jersey</Name>
+		</State>
+		<State ID="Oklahoma">
+			<Name xml:lang="en">Oklahoma</Name>
+		</State>
+		<State ID="Pennsylvania">
+			<Name xml:lang="en">Pennsylvania</Name>
+		</State>
+		<State ID="SouthDakota">
+			<Name xml:lang="en">South Dakota</Name>
+		</State>
+		<State ID="RhodeIsland">
+			<Name xml:lang="en">Rhode Island</Name>
+		</State>
+		<State ID="Utah">
+			<Name xml:lang="en">Utah</Name>
+		</State>
+		<State ID="Virginia">
+			<Name xml:lang="en">Virginia</Name>
+		</State>
+		<State ID="PuertoRico">
+			<Name xml:lang="en">Puerto Rico</Name>
+		</State>
+		<State ID="Washington">
+			<Name xml:lang="en">Washington</Name>
+		</State>
+		<State ID="D.C.">
+			<Name xml:lang="en">D. C.</Name>
+		</State>
+		<State ID="Kansas">
+			<Name xml:lang="en">Kansas</Name>
+		</State>
+	</Country>
+	<Country ID="Algeria">
+		<Name xml:lang="en">Algeria</Name>
+	</Country>
+	<Country ID="Netherlands">
+		<Name xml:lang="en">Netherlands</Name>
+	</Country>
+	<Country ID="Turkey">
+		<Name xml:lang="en">Turkey</Name>
+	</Country>
+	<Country ID="Paraguay">
+		<Name xml:lang="en">Paraguay</Name>
+	</Country>
+	<Country ID="Greece">
+		<Name xml:lang="en">Greece</Name>
+	</Country>
+	<Country ID="NewZealand">
+		<Name xml:lang="en">New Zealand</Name>
+	</Country>
+	<Country ID="Thailand">
+		<Name xml:lang="en">Thailand</Name>
+	</Country>
+	<Country ID="Spain">
+		<Name xml:lang="en">Spain</Name>
+	</Country>
+	<Country ID="China">
+		<Name xml:lang="en">China</Name>
+	</Country>
+	<Country ID="Brazil">
+		<Name xml:lang="en">Brazil</Name>
+	</Country>
+	<Country ID="Serbia">
+		<Name xml:lang="en">Serbia</Name>
+	</Country>
+	<Country ID="Germany">
+		<Name xml:lang="en">Germany</Name>
+	</Country>
+	<Country ID="Colombia">
+		<Name xml:lang="en">Colombia</Name>
+	</Country>
+	<Country ID="India">
+		<Name xml:lang="en">India</Name>
+	</Country>
+	<Country ID="France">
+		<Name xml:lang="en">France</Name>
+	</Country>
+	<Country ID="Belgium">
+		<Name xml:lang="en">Belgium</Name>
+	</Country>
+	<Country ID="Romania">
+		<Name xml:lang="en">Romania</Name>
+	</Country>
+	<Country ID="Hungary">
+		<Name xml:lang="en">Hungary</Name>
+	</Country>
+	<Country ID="Argentina">
+		<Name xml:lang="en">Argentina</Name>
+	</Country>
+	<Country ID="Egypt">
+		<Name xml:lang="en">Egypt</Name>
+	</Country>
+	<Country ID="Canada">
+		<Name xml:lang="en">Canada</Name>
+		<State ID="Alberta">
+			<Name xml:lang="en">Alberta</Name>
+		</State>
+		<State ID="Ontario">
+			<Name xml:lang="en">Ontario</Name>
+		</State>
+		<State ID="Quebec">
+			<Name xml:lang="en">Quebec</Name>
+		</State>
+		<State ID="Saskatchewan">
+			<Name xml:lang="en">Saskatchewan</Name>
+		</State>
+		<State ID="BritishColumbia">
+			<Name xml:lang="en">British Columbia</Name>
+		</State>
+		<State ID="NewBrunswick">
+			<Name xml:lang="en">New Brunswick</Name>
+		</State>
+		<State ID="Manitoba">
+			<Name xml:lang="en">Manitoba</Name>
+		</State>
+	</Country>
+	<Country ID="SouthAfrica">
+		<Name xml:lang="en">South Africa</Name>
+	</Country>
+	<Country ID="Venezuela">
+		<Name xml:lang="en">Venezuela</Name>
+	</Country>
+	<Country ID="FrenchGuiana">
+		<Name xml:lang="en">French Guiana</Name>
+	</Country>
+	<Country ID="Mexico">
+		<Name xml:lang="en">Mexico</Name>
+	</Country>
+	<Country ID="Denmark">
+		<Name xml:lang="en">Denmark</Name>
+	</Country>
+	<Country ID="Senegal">
+		<Name xml:lang="en">Senegal</Name>
+	</Country>
+	<Country ID="Djibouti">
+		<Name xml:lang="en">Djibouti</Name>
+	</Country>
+	<Country ID="Ireland">
+		<Name xml:lang="en">Ireland</Name>
+	</Country>
+	<Country ID="Guyana">
+		<Name xml:lang="en">Guyana</Name>
+	</Country>
+	<Country ID="Guatemala">
+		<Name xml:lang="en">Guatemala</Name>
+	</Country>
+	<Country ID="Ecuador">
+		<Name xml:lang="en">Ecuador</Name>
+	</Country>
+	<Country ID="Norway">
+		<Name xml:lang="en">Norway</Name>
+	</Country>
+	<Country ID="Cuba">
+		<Name xml:lang="en">Cuba</Name>
+	</Country>
+	<Country ID="Finland">
+		<Name xml:lang="en">Finland</Name>
+	</Country>
+	<Country ID="Tasmania">
+		<Name xml:lang="en">Tasmania</Name>
+	</Country>
+	<Country ID="Chile">
+		<Name xml:lang="en">Chile</Name>
+	</Country>
+	<Country ID="Russia">
+		<Name xml:lang="en">Russia</Name>
+	</Country>
+	<Country ID="Indonesia">
+		<Name xml:lang="en">Indonesia</Name>
+	</Country>
+	<Country ID="Jamaica">
+		<Name xml:lang="en">Jamaica</Name>
+	</Country>
+	<Country ID="Congo">
+		<Name xml:lang="en">Congo</Name>
+	</Country>
+	<Country ID="Malaysia">
+		<Name xml:lang="en">Malaysia</Name>
+	</Country>
+	<Country ID="Bolivia">
+		<Name xml:lang="en">Bolivia</Name>
+	</Country>
+	<Country ID="Peru">
+		<Name xml:lang="en">Peru</Name>
+	</Country>
+	<Country ID="Portugal">
+		<Name xml:lang="en">Portugal</Name>
+	</Country>
+	<Country ID="Philippines">
+		<Name xml:lang="en">Philippines</Name>
+	</Country>
+	<Country ID="SaudiArabia">
+		<Name xml:lang="en">Saudi Arabia</Name>
+	</Country>
+	<Country ID="Italy">
+		<Name xml:lang="en">Italy</Name>
+	</Country>
+	<Country ID="Uruguay">
+		<Name xml:lang="en">Uruguay</Name>
+	</Country>
+	<Country ID="Japan">
+		<Name xml:lang="en">Japan</Name>
+	</Country>
+	<Country ID="Kenya">
+		<Name xml:lang="en">Kenya</Name>
+	</Country>
+	<Country ID="Ukraine">
+		<Name xml:lang="en">Ukraine</Name>
+	</Country>
+	<Country ID="Panama">
+		<Name xml:lang="en">Panama</Name>
+	</Country>
+	<Country ID="Suriname">
+		<Name xml:lang="en">Suriname</Name>
+	</Country>
+	<Country ID="PapuaNewGuinea">
+		<Name xml:lang="en">Papua New Guinea</Name>
+	</Country>
+	<Country ID="CzechRepublic">
+		<Name xml:lang="en">Czech Republic</Name>
+	</Country>
+	<Country ID="Myanmar">
+		<Name xml:lang="en">Myanmar</Name>
+	</Country>
+	<Country ID="Iceland">
+		<Name xml:lang="en">Iceland</Name>
+	</Country>
+	<Country ID="Singapore">
+		<Name xml:lang="en">Singapore</Name>
+	</Country>
+	<Country ID="Bulgaria">
+		<Name xml:lang="en">Bulgaria</Name>
+	</Country>
+	<Country ID="Sweden">
+		<Name xml:lang="en">Sweden</Name>
+	</Country>
+	<Country ID="Madagascar">
+		<Name xml:lang="en">Madagascar</Name>
+	</Country>
+	<Country ID="Iran">
+		<Name xml:lang="en">Iran</Name>
+	</Country>
+	<Country ID="Libya">
+		<Name xml:lang="en">Libya</Name>
+	</Country>
+	<Country ID="Austria">
+		<Name xml:lang="en">Austria</Name>
+	</Country>
+	<Country ID="Poland">
+		<Name xml:lang="en">Poland</Name>
+	</Country>
+	<Country ID="Switzerland">
+		<Name xml:lang="en">Switzerland</Name>
+	</Country>
+</LocationList>
