@@ -1,24 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LocationList xmlns="urn:denebsoft-skymap-location">
-	<Location Latitude="57.15" Longitude="-2.15" Country="UnitedKingdom">
-		<Name xml:lang="en">Aberdeen</Name>
-		<Name xml:lang="ru">Эбердин</Name>
+	<Location Latitude="53.71556" Longitude="91.42917" Country="Russia">
+		<Name xml:lang="en">Abakan</Name>
+		<Name xml:lang="ru">Абакан</Name>
 	</Location>
 	<Location Latitude="-34.92" Longitude="138.6" Country="Australia">
 		<Name xml:lang="en">Adelaide</Name>
 		<Name xml:lang="ru">Аделаида</Name>
 	</Location>
-	<Location Latitude="42.67" Longitude="-73.75" Country="US" State="NewYork">
-		<Name xml:lang="en">Albany</Name>
-		<Name xml:lang="ru">Олбани</Name>
+	<Location Latitude="43.5" Longitude="-112.02" Country="US" State="Idaho">
+		<Name xml:lang="en">Idaho Falls</Name>
+		<Name xml:lang="ru">Айдахо-Фолс</Name>
 	</Location>
-	<Location Latitude="35.08" Longitude="-106.65" Country="US" State="NewMexico">
-		<Name xml:lang="en">Albuquerque</Name>
-		<Name xml:lang="ru">Альбукерке</Name>
+	<Location Latitude="43.04222" Longitude="44.22222" Country="Russia">
+		<Name xml:lang="en">Alagir</Name>
+		<Name xml:lang="ru">Алагир</Name>
 	</Location>
 	<Location Latitude="36.83" Longitude="3" Country="Algeria">
 		<Name xml:lang="en">Algiers</Name>
 		<Name xml:lang="ru">Алжир</Name>
+	</Location>
+	<Location Latitude="35.08" Longitude="-106.65" Country="US" State="NewMexico">
+		<Name xml:lang="en">Albuquerque</Name>
+		<Name xml:lang="ru">Альбукерке</Name>
 	</Location>
 	<Location Latitude="35.18" Longitude="-101.83" Country="US" State="Texas">
 		<Name xml:lang="en">Amarillo</Name>
@@ -28,37 +32,37 @@
 		<Name xml:lang="en">Amsterdam</Name>
 		<Name xml:lang="ru">Амстердам</Name>
 	</Location>
+	<Location Latitude="39.92" Longitude="32.92" Country="Turkey">
+		<Name xml:lang="en">Ankara</Name>
+		<Name xml:lang="ru">Анкара</Name>
+	</Location>
 	<Location Latitude="61.22" Longitude="-149.9" Country="US" State="Alaska">
 		<Name xml:lang="en">Anchorage</Name>
 		<Name xml:lang="ru">Анкоридж</Name>
 	</Location>
-	<Location Latitude="39.92" Longitude="32.92" Country="Turkey">
-		<Name xml:lang="en">Ankara</Name>
-		<Name xml:lang="ru">Анкара</Name>
+	<Location Latitude="-18.83" Longitude="47.55" Country="Madagascar">
+		<Name xml:lang="en">Tananarive</Name>
+		<Name xml:lang="ru">Антананариву (Тананариве)</Name>
+	</Location>
+	<Location Latitude="64.5401" Longitude="40.5433" Country="Russia">
+		<Name xml:lang="en">Arkhangel’sk</Name>
+		<Name xml:lang="ru">Архангельск</Name>
+	</Location>
+	<Location Latitude="46.34968" Longitude="48.04076" Country="Russia">
+		<Name xml:lang="en">Astrakhan’</Name>
+		<Name xml:lang="ru">Астрахань</Name>
 	</Location>
 	<Location Latitude="-25.25" Longitude="-57.67" Country="Paraguay">
 		<Name xml:lang="en">Asunción</Name>
 		<Name xml:lang="ru">Асунсьон</Name>
 	</Location>
-	<Location Latitude="37.97" Longitude="23.72" Country="Greece">
-		<Name xml:lang="en">Athens</Name>
-		<Name xml:lang="ru">Афины</Name>
-	</Location>
 	<Location Latitude="33.75" Longitude="-84.38" Country="US" State="Georgia">
 		<Name xml:lang="en">Atlanta</Name>
 		<Name xml:lang="ru">Атланта</Name>
 	</Location>
-	<Location Latitude="-36.87" Longitude="174.75" Country="NewZealand">
-		<Name xml:lang="en">Auckland</Name>
-		<Name xml:lang="ru">Окленд</Name>
-	</Location>
-	<Location Latitude="30.27" Longitude="-97.73" Country="US" State="Texas">
-		<Name xml:lang="en">Austin</Name>
-		<Name xml:lang="ru">Остин</Name>
-	</Location>
-	<Location Latitude="44.78" Longitude="-117.83" Country="US" State="Oregon">
-		<Name xml:lang="en">Baker</Name>
-		<Name xml:lang="ru">Бейкер</Name>
+	<Location Latitude="37.97" Longitude="23.72" Country="Greece">
+		<Name xml:lang="en">Athens</Name>
+		<Name xml:lang="ru">Афины</Name>
 	</Location>
 	<Location Latitude="39.3" Longitude="-76.63" Country="US" State="Maryland">
 		<Name xml:lang="en">Baltimore</Name>
@@ -72,13 +76,25 @@
 		<Name xml:lang="en">Bangor</Name>
 		<Name xml:lang="ru">Бангор</Name>
 	</Location>
+	<Location Latitude="53.36056" Longitude="83.76361" Country="Russia">
+		<Name xml:lang="en">Barnaul</Name>
+		<Name xml:lang="ru">Барнаул</Name>
+	</Location>
 	<Location Latitude="41.38" Longitude="2.15" Country="Spain">
 		<Name xml:lang="en">Barcelona</Name>
 		<Name xml:lang="ru">Барселона</Name>
 	</Location>
-	<Location Latitude="39.92" Longitude="116.42" Country="China">
-		<Name xml:lang="en">Beijing</Name>
-		<Name xml:lang="ru">Пекин</Name>
+	<Location Latitude="44.78" Longitude="-117.83" Country="US" State="Oregon">
+		<Name xml:lang="en">Baker</Name>
+		<Name xml:lang="ru">Бейкер</Name>
+	</Location>
+	<Location Latitude="50.61074" Longitude="36.58015" Country="Russia">
+		<Name xml:lang="en">Belgorod</Name>
+		<Name xml:lang="ru">Белгород</Name>
+	</Location>
+	<Location Latitude="44.87" Longitude="20.53" Country="Serbia">
+		<Name xml:lang="en">Belgrade</Name>
+		<Name xml:lang="ru">Белград</Name>
 	</Location>
 	<Location Latitude="-1.47" Longitude="-48.48" Country="Brazil">
 		<Name xml:lang="en">Belém</Name>
@@ -87,10 +103,6 @@
 	<Location Latitude="54.62" Longitude="-5.93" Country="UnitedKingdom">
 		<Name xml:lang="en">Belfast</Name>
 		<Name xml:lang="ru">Белфаст</Name>
-	</Location>
-	<Location Latitude="44.87" Longitude="20.53" Country="Serbia">
-		<Name xml:lang="en">Belgrade</Name>
-		<Name xml:lang="ru">Белград</Name>
 	</Location>
 	<Location Latitude="52.5" Longitude="13.42" Country="Germany">
 		<Name xml:lang="en">Berlin</Name>
@@ -104,9 +116,17 @@
 		<Name xml:lang="en">Birmingham</Name>
 		<Name xml:lang="ru">Бирмингем</Name>
 	</Location>
+	<Location Latitude="48.8" Longitude="132.95" Country="Russia">
+		<Name xml:lang="en">Birobidzhan</Name>
+		<Name xml:lang="ru">Биробиджан</Name>
+	</Location>
 	<Location Latitude="46.8" Longitude="-100.78" Country="US" State="NorthDakota">
 		<Name xml:lang="en">Bismarck</Name>
 		<Name xml:lang="ru">Бисмарк</Name>
+	</Location>
+	<Location Latitude="50.26667" Longitude="127.53333" Country="Russia">
+		<Name xml:lang="en">Blagoveshchensk</Name>
+		<Name xml:lang="ru">Благовещенск</Name>
 	</Location>
 	<Location Latitude="4.53" Longitude="-74.25" Country="Colombia">
 		<Name xml:lang="en">Bogotá</Name>
@@ -115,10 +135,6 @@
 	<Location Latitude="43.6" Longitude="-116.22" Country="US" State="Idaho">
 		<Name xml:lang="en">Boise</Name>
 		<Name xml:lang="ru">Бойсе</Name>
-	</Location>
-	<Location Latitude="19" Longitude="72.8" Country="India">
-		<Name xml:lang="en">Bombay</Name>
-		<Name xml:lang="ru">Мумбаи</Name>
 	</Location>
 	<Location Latitude="44.83" Longitude="-0.52" Country="France">
 		<Name xml:lang="en">Bordeaux</Name>
@@ -144,105 +160,141 @@
 		<Name xml:lang="en">Brussels</Name>
 		<Name xml:lang="ru">Брюссель</Name>
 	</Location>
-	<Location Latitude="44.42" Longitude="26.12" Country="Romania">
-		<Name xml:lang="en">Bucharest</Name>
-		<Name xml:lang="ru">Бухарест</Name>
+	<Location Latitude="53.25209" Longitude="34.37167" Country="Russia">
+		<Name xml:lang="en">Bryansk</Name>
+		<Name xml:lang="ru">Брянск</Name>
 	</Location>
 	<Location Latitude="47.5" Longitude="19.08" Country="Hungary">
 		<Name xml:lang="en">Budapest</Name>
 		<Name xml:lang="ru">Будапешт</Name>
 	</Location>
-	<Location Latitude="-34.58" Longitude="-58.37" Country="Argentina">
-		<Name xml:lang="en">Buenos Aires</Name>
-		<Name xml:lang="ru">Буэнос-Айрес</Name>
-	</Location>
 	<Location Latitude="42.92" Longitude="-78.83" Country="US" State="NewYork">
 		<Name xml:lang="en">Buffalo</Name>
 		<Name xml:lang="ru">Буффало</Name>
 	</Location>
-	<Location Latitude="30.03" Longitude="31.35" Country="Egypt">
-		<Name xml:lang="en">Cairo</Name>
-		<Name xml:lang="ru">Каир</Name>
+	<Location Latitude="44.42" Longitude="26.12" Country="Romania">
+		<Name xml:lang="en">Bucharest</Name>
+		<Name xml:lang="ru">Бухарест</Name>
 	</Location>
-	<Location Latitude="22.57" Longitude="88.4" Country="India">
-		<Name xml:lang="en">Calcutta</Name>
-		<Name xml:lang="ru">Калькутта</Name>
+	<Location Latitude="-34.58" Longitude="-58.37" Country="Argentina">
+		<Name xml:lang="en">Buenos Aires</Name>
+		<Name xml:lang="ru">Буэнос-Айрес</Name>
 	</Location>
-	<Location Latitude="51.02" Longitude="-114.02" Country="Canada" State="Alberta">
-		<Name xml:lang="en">Calgary</Name>
-		<Name xml:lang="ru">Калгари</Name>
+	<Location Latitude="49.22" Longitude="-123.1" Country="Canada" State="BritishColumbia">
+		<Name xml:lang="en">Vancouver</Name>
+		<Name xml:lang="ru">Ванкувер</Name>
+	</Location>
+	<Location Latitude="52.23" Longitude="21" Country="Poland">
+		<Name xml:lang="en">Warsaw</Name>
+		<Name xml:lang="ru">Варшава</Name>
+	</Location>
+	<Location Latitude="38.88" Longitude="-77.03" Country="US" State="DC">
+		<Name xml:lang="en">Washington</Name>
+		<Name xml:lang="ru">Вашингтон</Name>
+	</Location>
+	<Location Latitude="58.51667" Longitude="31.28333" Country="Russia">
+		<Name xml:lang="en">Velikiy Novgorod</Name>
+		<Name xml:lang="ru">Великий Новгород</Name>
+	</Location>
+	<Location Latitude="-41.28" Longitude="174.78" Country="NewZealand">
+		<Name xml:lang="en">Wellington</Name>
+		<Name xml:lang="ru">Веллингтон</Name>
+	</Location>
+	<Location Latitude="48.23" Longitude="16.33" Country="Austria">
+		<Name xml:lang="en">Vienna</Name>
+		<Name xml:lang="ru">Вена</Name>
+	</Location>
+	<Location Latitude="45.43" Longitude="12.33" Country="Italy">
+		<Name xml:lang="en">Venice</Name>
+		<Name xml:lang="ru">Венеция</Name>
+	</Location>
+	<Location Latitude="19.17" Longitude="-96.17" Country="Mexico">
+		<Name xml:lang="en">Veracruz</Name>
+		<Name xml:lang="ru">Веракрус</Name>
+	</Location>
+	<Location Latitude="48.42" Longitude="-123.35" Country="Canada" State="BritishColumbia">
+		<Name xml:lang="en">Victoria</Name>
+		<Name xml:lang="ru">Виктория</Name>
+	</Location>
+	<Location Latitude="49.9" Longitude="-97.12" Country="Canada" State="Manitoba">
+		<Name xml:lang="en">Winnipeg</Name>
+		<Name xml:lang="ru">Виннипег</Name>
+	</Location>
+	<Location Latitude="36.85" Longitude="-75.97" Country="US" State="Virginia">
+		<Name xml:lang="en">Virginia Beach</Name>
+		<Name xml:lang="ru">Вирджиния-Бич</Name>
+	</Location>
+	<Location Latitude="43.10562" Longitude="131.87353" Country="Russia">
+		<Name xml:lang="en">Vladivostok</Name>
+		<Name xml:lang="ru">Владивосток</Name>
+	</Location>
+	<Location Latitude="43.03667" Longitude="44.66778" Country="Russia">
+		<Name xml:lang="en">Vladikavkaz</Name>
+		<Name xml:lang="ru">Владикавказ</Name>
+	</Location>
+	<Location Latitude="56.13655" Longitude="40.39658" Country="Russia">
+		<Name xml:lang="en">Vladimir</Name>
+		<Name xml:lang="ru">Владимир</Name>
+	</Location>
+	<Location Latitude="48.71939" Longitude="44.50184" Country="Russia">
+		<Name xml:lang="en">Volgograd</Name>
+		<Name xml:lang="ru">Волгоград</Name>
+	</Location>
+	<Location Latitude="59.2187" Longitude="39.8886" Country="Russia">
+		<Name xml:lang="en">Vologda</Name>
+		<Name xml:lang="ru">Вологда</Name>
+	</Location>
+	<Location Latitude="51.67204" Longitude="39.1843" Country="Russia">
+		<Name xml:lang="en">Voronezh</Name>
+		<Name xml:lang="ru">Воронеж</Name>
+	</Location>
+	<Location Latitude="23.13" Longitude="-82.38" Country="Cuba">
+		<Name xml:lang="en">Havana</Name>
+		<Name xml:lang="ru">Гавана</Name>
+	</Location>
+	<Location Latitude="53.55" Longitude="10.03" Country="Germany">
+		<Name xml:lang="en">Hamburg</Name>
+		<Name xml:lang="ru">Гамбург</Name>
+	</Location>
+	<Location Latitude="14.62" Longitude="-90.52" Country="Guatemala">
+		<Name xml:lang="en">Guatemala City</Name>
+		<Name xml:lang="ru">Гватемала</Name>
+	</Location>
+	<Location Latitude="55.83" Longitude="-4.25" Country="UnitedKingdom">
+		<Name xml:lang="en">Glasgow</Name>
+		<Name xml:lang="ru">Глазго</Name>
+	</Location>
+	<Location Latitude="22.33" Longitude="114.18" Country="China">
+		<Name xml:lang="en">Hong Kong</Name>
+		<Name xml:lang="ru">Гонконг</Name>
+	</Location>
+	<Location Latitude="21.3" Longitude="-157.83" Country="US" State="Hawaii">
+		<Name xml:lang="en">Honolulu</Name>
+		<Name xml:lang="ru">Гонолулу</Name>
+	</Location>
+	<Location Latitude="51.95611" Longitude="85.955" Country="Russia">
+		<Name xml:lang="en">Gorno-Altaysk</Name>
+		<Name xml:lang="ru">Горно-Алтайск</Name>
+	</Location>
+	<Location Latitude="39.08" Longitude="-108.55" Country="US" State="Colorado">
+		<Name xml:lang="en">Grand Junction</Name>
+		<Name xml:lang="ru">Гранд Джанкшен</Name>
+	</Location>
+	<Location Latitude="42.97" Longitude="-85.67" Country="US" State="Michigan">
+		<Name xml:lang="en">Grand Rapids</Name>
+		<Name xml:lang="ru">Гранд-Рапидс</Name>
+	</Location>
+	<Location Latitude="43.30833" Longitude="45.70028" Country="Russia">
+		<Name xml:lang="en">Groznyy</Name>
+		<Name xml:lang="ru">Грозный</Name>
 	</Location>
 	<Location Latitude="23.12" Longitude="113.25" Country="China">
 		<Name xml:lang="en">Canton</Name>
 		<Name xml:lang="ru">Гуанчжоу (Кантон)</Name>
 	</Location>
-	<Location Latitude="-33.92" Longitude="18.37" Country="SouthAfrica">
-		<Name xml:lang="en">Cape Town</Name>
-		<Name xml:lang="ru">Кейптаун</Name>
-	</Location>
-	<Location Latitude="10.47" Longitude="-67.03" Country="Venezuela">
-		<Name xml:lang="en">Caracas</Name>
-		<Name xml:lang="ru">Каракас</Name>
-	</Location>
-	<Location Latitude="32.43" Longitude="-104.25" Country="US" State="NewMexico">
-		<Name xml:lang="en">Carlsbad</Name>
-		<Name xml:lang="ru">Карлсбад</Name>
-	</Location>
-	<Location Latitude="4.82" Longitude="-52.3" Country="FrenchGuiana">
-		<Name xml:lang="en">Cayenne</Name>
-		<Name xml:lang="ru">Кайенна</Name>
-	</Location>
-	<Location Latitude="32.78" Longitude="-79.93" Country="US" State="SouthCarolina">
-		<Name xml:lang="en">Charleston</Name>
-		<Name xml:lang="ru">Чарлстон</Name>
-	</Location>
-	<Location Latitude="38.35" Longitude="-81.63" Country="US" State="WestVirginia">
-		<Name xml:lang="en">Charleston</Name>
-		<Name xml:lang="ru">Чарлстон</Name>
-	</Location>
-	<Location Latitude="35.23" Longitude="-80.83" Country="US" State="NorthCarolina">
-		<Name xml:lang="en">Charlotte</Name>
-		<Name xml:lang="ru">Шарлотт</Name>
-	</Location>
-	<Location Latitude="41.15" Longitude="-104.87" Country="US" State="Wyoming">
-		<Name xml:lang="en">Cheyenne</Name>
-		<Name xml:lang="ru">Шайенн</Name>
-	</Location>
-	<Location Latitude="41.83" Longitude="-87.62" Country="US" State="Illinois">
-		<Name xml:lang="en">Chicago</Name>
-		<Name xml:lang="ru">Чикаго</Name>
-	</Location>
-	<Location Latitude="28.62" Longitude="-106.08" Country="Mexico">
-		<Name xml:lang="en">Chihuahua</Name>
-		<Name xml:lang="ru">Чиуауа</Name>
-	</Location>
-	<Location Latitude="29.77" Longitude="106.57" Country="China">
-		<Name xml:lang="en">Chongqing</Name>
-		<Name xml:lang="ru">Чунцин</Name>
-	</Location>
-	<Location Latitude="39.13" Longitude="-84.5" Country="US" State="Ohio">
-		<Name xml:lang="en">Cincinnati</Name>
-		<Name xml:lang="ru">Цинциннати</Name>
-	</Location>
-	<Location Latitude="41.47" Longitude="-81.62" Country="US" State="Ohio">
-		<Name xml:lang="en">Cleveland</Name>
-		<Name xml:lang="ru">Кливленд</Name>
-	</Location>
-	<Location Latitude="34" Longitude="-81.03" Country="US" State="SouthCarolina">
-		<Name xml:lang="en">Columbia</Name>
-		<Name xml:lang="ru">Колумбия</Name>
-	</Location>
-	<Location Latitude="40" Longitude="-83.02" Country="US" State="Ohio">
-		<Name xml:lang="en">Columbus</Name>
-		<Name xml:lang="ru">Колумбус</Name>
-	</Location>
-	<Location Latitude="55.67" Longitude="12.57" Country="Denmark">
-		<Name xml:lang="en">Copenhagen</Name>
-		<Name xml:lang="ru">Копенгаген</Name>
-	</Location>
-	<Location Latitude="-31.47" Longitude="-64.17" Country="Argentina">
-		<Name xml:lang="en">Córdoba</Name>
-		<Name xml:lang="ru">Кордова</Name>
+	<Location Latitude="-2.17" Longitude="-79.93" Country="Ecuador">
+		<Name xml:lang="en">Guayaquil</Name>
+		<Name xml:lang="ru">Гуаякиль</Name>
 	</Location>
 	<Location Latitude="14.67" Longitude="-17.47" Country="Senegal">
 		<Name xml:lang="en">Dakar</Name>
@@ -256,21 +308,41 @@
 		<Name xml:lang="en">Darwin</Name>
 		<Name xml:lang="ru">Дарвин</Name>
 	</Location>
-	<Location Latitude="39.75" Longitude="-105" Country="US" State="Colorado">
-		<Name xml:lang="en">Denver</Name>
-		<Name xml:lang="ru">Денвер</Name>
-	</Location>
 	<Location Latitude="41.58" Longitude="-93.62" Country="US" State="Iowa">
 		<Name xml:lang="en">Des Moines</Name>
 		<Name xml:lang="ru">Де-Мойн</Name>
+	</Location>
+	<Location Latitude="39.75" Longitude="-105" Country="US" State="Colorado">
+		<Name xml:lang="en">Denver</Name>
+		<Name xml:lang="ru">Денвер</Name>
 	</Location>
 	<Location Latitude="42.33" Longitude="-83.05" Country="US" State="Michigan">
 		<Name xml:lang="en">Detroit</Name>
 		<Name xml:lang="ru">Детройт</Name>
 	</Location>
+	<Location Latitude="-6.27" Longitude="106.8" Country="Indonesia">
+		<Name xml:lang="en">Jakarta</Name>
+		<Name xml:lang="ru">Джакарта</Name>
+	</Location>
+	<Location Latitude="32.33" Longitude="-90.2" Country="US" State="Mississippi">
+		<Name xml:lang="en">Jackson</Name>
+		<Name xml:lang="ru">Джексон</Name>
+	</Location>
+	<Location Latitude="30.37" Longitude="-81.67" Country="US" State="Florida">
+		<Name xml:lang="en">Jacksonville</Name>
+		<Name xml:lang="ru">Джексонвиль</Name>
+	</Location>
 	<Location Latitude="11.5" Longitude="43.05" Country="Djibouti">
 		<Name xml:lang="en">Djibouti</Name>
 		<Name xml:lang="ru">Джибути</Name>
+	</Location>
+	<Location Latitude="6.75" Longitude="-58.25" Country="Guyana">
+		<Name xml:lang="en">Georgetown</Name>
+		<Name xml:lang="ru">Джорджтаун</Name>
+	</Location>
+	<Location Latitude="58.3" Longitude="-134.4" Country="US" State="Alaska">
+		<Name xml:lang="en">Juneau</Name>
+		<Name xml:lang="ru">Джуно</Name>
 	</Location>
 	<Location Latitude="53.33" Longitude="-6.25" Country="Ireland">
 		<Name xml:lang="en">Dublin</Name>
@@ -288,165 +360,101 @@
 		<Name xml:lang="en">Durban</Name>
 		<Name xml:lang="ru">Дурбан</Name>
 	</Location>
-	<Location Latitude="44.9" Longitude="-67" Country="US" State="Maine">
-		<Name xml:lang="en">Eastport</Name>
-		<Name xml:lang="ru">Истпорт</Name>
+	<Location Latitude="56.8575" Longitude="60.6125" Country="Russia">
+		<Name xml:lang="en">Yekaterinburg</Name>
+		<Name xml:lang="ru">Екатеринбург</Name>
 	</Location>
-	<Location Latitude="55.92" Longitude="-3.17" Country="UnitedKingdom">
-		<Name xml:lang="en">Edinburgh</Name>
-		<Name xml:lang="ru">Эдинбург</Name>
+	<Location Latitude="56.99719" Longitude="40.97139" Country="Russia">
+		<Name xml:lang="en">Ivanovo</Name>
+		<Name xml:lang="ru">Иваново</Name>
 	</Location>
-	<Location Latitude="53.57" Longitude="-113.47" Country="Canada" State="Alberta">
-		<Name xml:lang="en">Edmonton</Name>
-		<Name xml:lang="ru">Эдмонтон</Name>
-	</Location>
-	<Location Latitude="32.63" Longitude="-115.55" Country="US" State="California">
-		<Name xml:lang="en">El Centro</Name>
-		<Name xml:lang="ru">Эль-Сентро</Name>
-	</Location>
-	<Location Latitude="31.77" Longitude="-106.48" Country="US" State="Texas">
-		<Name xml:lang="en">El Paso</Name>
-		<Name xml:lang="ru">Эль-Пасо</Name>
-	</Location>
-	<Location Latitude="44.05" Longitude="-123.08" Country="US" State="Oregon">
-		<Name xml:lang="en">Eugene</Name>
-		<Name xml:lang="ru">Юджин</Name>
-	</Location>
-	<Location Latitude="46.87" Longitude="-96.8" Country="US" State="NorthDakota">
-		<Name xml:lang="en">Fargo</Name>
-		<Name xml:lang="ru">Фарго</Name>
-	</Location>
-	<Location Latitude="35.22" Longitude="-111.68" Country="US" State="Arizona">
-		<Name xml:lang="en">Flagstaff</Name>
-		<Name xml:lang="ru">Флагшток</Name>
-	</Location>
-	<Location Latitude="32.72" Longitude="-97.32" Country="US" State="Texas">
-		<Name xml:lang="en">Fort Worth</Name>
-		<Name xml:lang="ru">Форт-Уэрт</Name>
-	</Location>
-	<Location Latitude="50.12" Longitude="8.68" Country="Germany">
-		<Name xml:lang="en">Frankfurt</Name>
-		<Name xml:lang="ru">Франкфурт</Name>
-	</Location>
-	<Location Latitude="36.73" Longitude="-119.8" Country="US" State="California">
-		<Name xml:lang="en">Fresno</Name>
-		<Name xml:lang="ru">Фресно</Name>
-	</Location>
-	<Location Latitude="6.75" Longitude="-58.25" Country="Guyana">
-		<Name xml:lang="en">Georgetown</Name>
-		<Name xml:lang="ru">Джорджтаун</Name>
-	</Location>
-	<Location Latitude="55.83" Longitude="-4.25" Country="UnitedKingdom">
-		<Name xml:lang="en">Glasgow</Name>
-		<Name xml:lang="ru">Глазго</Name>
-	</Location>
-	<Location Latitude="39.08" Longitude="-108.55" Country="US" State="Colorado">
-		<Name xml:lang="en">Grand Junction</Name>
-		<Name xml:lang="ru">Гранд Джанкшен</Name>
-	</Location>
-	<Location Latitude="42.97" Longitude="-85.67" Country="US" State="Michigan">
-		<Name xml:lang="en">Grand Rapids</Name>
-		<Name xml:lang="ru">Гранд-Рапидс</Name>
-	</Location>
-	<Location Latitude="14.62" Longitude="-90.52" Country="Guatemala">
-		<Name xml:lang="en">Guatemala City</Name>
-		<Name xml:lang="ru">Гватемала</Name>
-	</Location>
-	<Location Latitude="-2.17" Longitude="-79.93" Country="Ecuador">
-		<Name xml:lang="en">Guayaquil</Name>
-		<Name xml:lang="ru">Гуаякиль</Name>
-	</Location>
-	<Location Latitude="53.55" Longitude="10.03" Country="Germany">
-		<Name xml:lang="en">Hamburg</Name>
-		<Name xml:lang="ru">Гамбург</Name>
-	</Location>
-	<Location Latitude="70.63" Longitude="23.63" Country="Norway">
-		<Name xml:lang="en">Hammerfest</Name>
-		<Name xml:lang="ru">Хаммерфест</Name>
-	</Location>
-	<Location Latitude="23.13" Longitude="-82.38" Country="Cuba">
-		<Name xml:lang="en">Havana</Name>
-		<Name xml:lang="ru">Гавана</Name>
-	</Location>
-	<Location Latitude="48.55" Longitude="-109.72" Country="US" State="Montana">
-		<Name xml:lang="en">Havre</Name>
-		<Name xml:lang="ru">Хавр</Name>
-	</Location>
-	<Location Latitude="46.58" Longitude="-112.03" Country="US" State="Montana">
-		<Name xml:lang="en">Helena</Name>
-		<Name xml:lang="ru">Хелена</Name>
-	</Location>
-	<Location Latitude="60.17" Longitude="25" Country="Finland">
-		<Name xml:lang="en">Helsinki</Name>
-		<Name xml:lang="ru">Хельсинки</Name>
-	</Location>
-	<Location Latitude="-42.87" Longitude="147.32" Country="Tasmania">
-		<Name xml:lang="en">Hobart</Name>
-		<Name xml:lang="ru">Хобарт</Name>
-	</Location>
-	<Location Latitude="22.33" Longitude="114.18" Country="China">
-		<Name xml:lang="en">Hong Kong</Name>
-		<Name xml:lang="ru">Гонконг</Name>
-	</Location>
-	<Location Latitude="21.3" Longitude="-157.83" Country="US" State="Hawaii">
-		<Name xml:lang="en">Honolulu</Name>
-		<Name xml:lang="ru">Гонолулу</Name>
-	</Location>
-	<Location Latitude="34.52" Longitude="-93.05" Country="US" State="Arkansas">
-		<Name xml:lang="en">Hot Springs</Name>
-		<Name xml:lang="ru">Хот-Спрингс</Name>
-	</Location>
-	<Location Latitude="29.75" Longitude="-95.35" Country="US" State="Texas">
-		<Name xml:lang="en">Houston</Name>
-		<Name xml:lang="ru">Хьюстон</Name>
-	</Location>
-	<Location Latitude="47.157" Longitude="27.59" Country="Romania">
-		<Name xml:lang="en">Iasi</Name>
-		<Name xml:lang="ru">Яссы</Name>
-	</Location>
-	<Location Latitude="43.5" Longitude="-112.02" Country="US" State="Idaho">
-		<Name xml:lang="en">Idaho Falls</Name>
-		<Name xml:lang="ru">Айдахо-Фолс</Name>
-	</Location>
-	<Location Latitude="39.77" Longitude="-86.17" Country="US" State="Indiana">
-		<Name xml:lang="en">Indianapolis</Name>
-		<Name xml:lang="ru">Индианаполис</Name>
+	<Location Latitude="56.85" Longitude="53.23333" Country="Russia">
+		<Name xml:lang="en">Izhevsk</Name>
+		<Name xml:lang="ru">Ижевск</Name>
 	</Location>
 	<Location Latitude="-20.17" Longitude="-70.12" Country="Chile">
 		<Name xml:lang="en">Iquique</Name>
 		<Name xml:lang="ru">Икике</Name>
 	</Location>
+	<Location Latitude="39.77" Longitude="-86.17" Country="US" State="Indiana">
+		<Name xml:lang="en">Indianapolis</Name>
+		<Name xml:lang="ru">Индианаполис</Name>
+	</Location>
 	<Location Latitude="52.29778" Longitude="104.29639" Country="Russia">
 		<Name xml:lang="en">Irkutsk</Name>
 		<Name xml:lang="ru">Иркутск</Name>
 	</Location>
-	<Location Latitude="32.33" Longitude="-90.2" Country="US" State="Mississippi">
-		<Name xml:lang="en">Jackson</Name>
-		<Name xml:lang="ru">Джексон</Name>
-	</Location>
-	<Location Latitude="30.37" Longitude="-81.67" Country="US" State="Florida">
-		<Name xml:lang="en">Jacksonville</Name>
-		<Name xml:lang="ru">Джексонвиль</Name>
-	</Location>
-	<Location Latitude="-6.27" Longitude="106.8" Country="Indonesia">
-		<Name xml:lang="en">Jakarta</Name>
-		<Name xml:lang="ru">Джакарта</Name>
+	<Location Latitude="44.9" Longitude="-67" Country="US" State="Maine">
+		<Name xml:lang="en">Eastport</Name>
+		<Name xml:lang="ru">Истпорт</Name>
 	</Location>
 	<Location Latitude="-26.2" Longitude="28.07" Country="SouthAfrica">
 		<Name xml:lang="en">Johannesburg</Name>
 		<Name xml:lang="ru">Йоханнесбург</Name>
 	</Location>
-	<Location Latitude="58.3" Longitude="-134.4" Country="US" State="Alaska">
-		<Name xml:lang="en">Juneau</Name>
-		<Name xml:lang="ru">Джуно</Name>
+	<Location Latitude="56.63877" Longitude="47.89078" Country="Russia">
+		<Name xml:lang="en">Yoshkar-Ola</Name>
+		<Name xml:lang="ru">Йошкар-Ола</Name>
+	</Location>
+	<Location Latitude="55.78874" Longitude="49.12214" Country="Russia">
+		<Name xml:lang="en">Kazan</Name>
+		<Name xml:lang="ru">Казань</Name>
+	</Location>
+	<Location Latitude="30.03" Longitude="31.35" Country="Egypt">
+		<Name xml:lang="en">Cairo</Name>
+		<Name xml:lang="ru">Каир</Name>
+	</Location>
+	<Location Latitude="4.82" Longitude="-52.3" Country="FrenchGuiana">
+		<Name xml:lang="en">Cayenne</Name>
+		<Name xml:lang="ru">Кайенна</Name>
+	</Location>
+	<Location Latitude="51.02" Longitude="-114.02" Country="Canada" State="Alberta">
+		<Name xml:lang="en">Calgary</Name>
+		<Name xml:lang="ru">Калгари</Name>
+	</Location>
+	<Location Latitude="54.70649" Longitude="20.51095" Country="Russia">
+		<Name xml:lang="en">Kaliningrad</Name>
+		<Name xml:lang="ru">Калининград</Name>
+	</Location>
+	<Location Latitude="54.5293" Longitude="36.27542" Country="Russia">
+		<Name xml:lang="en">Kaluga</Name>
+		<Name xml:lang="ru">Калуга</Name>
+	</Location>
+	<Location Latitude="22.57" Longitude="88.4" Country="India">
+		<Name xml:lang="en">Calcutta</Name>
+		<Name xml:lang="ru">Калькутта</Name>
 	</Location>
 	<Location Latitude="39.1" Longitude="-94.58" Country="US" State="Missouri">
 		<Name xml:lang="en">Kansas City</Name>
 		<Name xml:lang="ru">Канзас-Сити</Name>
 	</Location>
+	<Location Latitude="10.47" Longitude="-67.03" Country="Venezuela">
+		<Name xml:lang="en">Caracas</Name>
+		<Name xml:lang="ru">Каракас</Name>
+	</Location>
+	<Location Latitude="32.43" Longitude="-104.25" Country="US" State="NewMexico">
+		<Name xml:lang="en">Carlsbad</Name>
+		<Name xml:lang="ru">Карлсбад</Name>
+	</Location>
+	<Location Latitude="46.82" Longitude="-71.18" Country="Canada" State="Quebec">
+		<Name xml:lang="en">Quebec</Name>
+		<Name xml:lang="ru">Квебек</Name>
+	</Location>
+	<Location Latitude="-33.92" Longitude="18.37" Country="SouthAfrica">
+		<Name xml:lang="en">Cape Town</Name>
+		<Name xml:lang="ru">Кейптаун</Name>
+	</Location>
+	<Location Latitude="55.33333" Longitude="86.08333" Country="Russia">
+		<Name xml:lang="en">Kemerovo</Name>
+		<Name xml:lang="ru">Кемерово</Name>
+	</Location>
 	<Location Latitude="24.55" Longitude="-81.8" Country="US" State="Florida">
 		<Name xml:lang="en">Key West</Name>
 		<Name xml:lang="ru">Ки-Уэст</Name>
+	</Location>
+	<Location Latitude="43.20697" Longitude="46.8679" Country="Russia">
+		<Name xml:lang="en">Kizilyurt</Name>
+		<Name xml:lang="ru">Кизилюрт</Name>
 	</Location>
 	<Location Latitude="44.25" Longitude="-76.5" Country="Canada" State="Ontario">
 		<Name xml:lang="en">Kingston</Name>
@@ -460,17 +468,69 @@
 		<Name xml:lang="en">Kinshasa</Name>
 		<Name xml:lang="ru">Киншаса</Name>
 	</Location>
+	<Location Latitude="58.59665" Longitude="49.66007" Country="Russia">
+		<Name xml:lang="en">Kirov</Name>
+		<Name xml:lang="ru">Киров</Name>
+	</Location>
 	<Location Latitude="42.17" Longitude="-121.73" Country="US" State="Oregon">
 		<Name xml:lang="en">Klamath Falls</Name>
 		<Name xml:lang="ru">Кламат Фолс</Name>
 	</Location>
-	<Location Latitude="35.95" Longitude="-83.93" Country="US" State="Tennessee">
-		<Name xml:lang="en">Knoxville</Name>
-		<Name xml:lang="ru">Ноксвилл</Name>
+	<Location Latitude="41.47" Longitude="-81.62" Country="US" State="Ohio">
+		<Name xml:lang="en">Cleveland</Name>
+		<Name xml:lang="ru">Кливленд</Name>
+	</Location>
+	<Location Latitude="34" Longitude="-81.03" Country="US" State="SouthCarolina">
+		<Name xml:lang="en">Columbia</Name>
+		<Name xml:lang="ru">Колумбия</Name>
+	</Location>
+	<Location Latitude="40" Longitude="-83.02" Country="US" State="Ohio">
+		<Name xml:lang="en">Columbus</Name>
+		<Name xml:lang="ru">Колумбус</Name>
+	</Location>
+	<Location Latitude="50.55199" Longitude="137.01524" Country="Russia">
+		<Name xml:lang="en">Komsomol’sk-na-Amure</Name>
+		<Name xml:lang="ru">Комсомольск-на-Амуре</Name>
+	</Location>
+	<Location Latitude="55.67" Longitude="12.57" Country="Denmark">
+		<Name xml:lang="en">Copenhagen</Name>
+		<Name xml:lang="ru">Копенгаген</Name>
+	</Location>
+	<Location Latitude="-31.47" Longitude="-64.17" Country="Argentina">
+		<Name xml:lang="en">Córdoba</Name>
+		<Name xml:lang="ru">Кордова</Name>
+	</Location>
+	<Location Latitude="57.76647" Longitude="40.92686" Country="Russia">
+		<Name xml:lang="en">Kostroma</Name>
+		<Name xml:lang="ru">Кострома</Name>
+	</Location>
+	<Location Latitude="45.0488" Longitude="38.9725" Country="Russia">
+		<Name xml:lang="en">Krasnodar</Name>
+		<Name xml:lang="ru">Краснодар</Name>
+	</Location>
+	<Location Latitude="56.00972" Longitude="92.79167" Country="Russia">
+		<Name xml:lang="en">Krasnoyarsk</Name>
+		<Name xml:lang="ru">Красноярск</Name>
 	</Location>
 	<Location Latitude="3.13" Longitude="101.7" Country="Malaysia">
 		<Name xml:lang="en">Kuala Lumpur</Name>
 		<Name xml:lang="ru">Куала-Лумпур</Name>
+	</Location>
+	<Location Latitude="59.01729" Longitude="54.656" Country="Russia">
+		<Name xml:lang="en">Kudymkar</Name>
+		<Name xml:lang="ru">Кудымкар</Name>
+	</Location>
+	<Location Latitude="55.45" Longitude="65.33333" Country="Russia">
+		<Name xml:lang="en">Kurgan</Name>
+		<Name xml:lang="ru">Курган</Name>
+	</Location>
+	<Location Latitude="51.73733" Longitude="36.18735" Country="Russia">
+		<Name xml:lang="en">Kursk</Name>
+		<Name xml:lang="ru">Курск</Name>
+	</Location>
+	<Location Latitude="51.7" Longitude="94.45" Country="Russia">
+		<Name xml:lang="en">Kyzyl</Name>
+		<Name xml:lang="ru">Кызыл</Name>
 	</Location>
 	<Location Latitude="-16.45" Longitude="-68.37" Country="Bolivia">
 		<Name xml:lang="en">La Paz</Name>
@@ -480,13 +540,13 @@
 		<Name xml:lang="en">Las Vegas</Name>
 		<Name xml:lang="ru">Лас-Вегас</Name>
 	</Location>
+	<Location Latitude="53.42" Longitude="-3" Country="UnitedKingdom">
+		<Name xml:lang="en">Liverpool</Name>
+		<Name xml:lang="ru">Ливерпуль</Name>
+	</Location>
 	<Location Latitude="53.75" Longitude="-1.5" Country="UnitedKingdom">
 		<Name xml:lang="en">Leeds</Name>
 		<Name xml:lang="ru">Лидс</Name>
-	</Location>
-	<Location Latitude="46.4" Longitude="-117.03" Country="US" State="Idaho">
-		<Name xml:lang="en">Lewiston</Name>
-		<Name xml:lang="ru">Льюистон</Name>
 	</Location>
 	<Location Latitude="-12" Longitude="-77.03" Country="Peru">
 		<Name xml:lang="en">Lima</Name>
@@ -496,25 +556,29 @@
 		<Name xml:lang="en">Lincoln</Name>
 		<Name xml:lang="ru">Линкольн</Name>
 	</Location>
+	<Location Latitude="45.75" Longitude="4.83" Country="France">
+		<Name xml:lang="en">Lyons</Name>
+		<Name xml:lang="ru">Лион</Name>
+	</Location>
+	<Location Latitude="52.60311" Longitude="39.57076" Country="Russia">
+		<Name xml:lang="en">Lipetsk</Name>
+		<Name xml:lang="ru">Липецк</Name>
+	</Location>
 	<Location Latitude="38.73" Longitude="-9.15" Country="Portugal">
 		<Name xml:lang="en">Lisbon</Name>
 		<Name xml:lang="ru">Лиссабон</Name>
 	</Location>
-	<Location Latitude="53.42" Longitude="-3" Country="UnitedKingdom">
-		<Name xml:lang="en">Liverpool</Name>
-		<Name xml:lang="ru">Ливерпуль</Name>
-	</Location>
-	<Location Latitude="43.03" Longitude="-81.57" Country="Canada" State="Ontario">
-		<Name xml:lang="en">London</Name>
-		<Name xml:lang="ru">Лондон</Name>
+	<Location Latitude="33.77" Longitude="-118.18" Country="US" State="California">
+		<Name xml:lang="en">Long Beach</Name>
+		<Name xml:lang="ru">Лонг-Бич</Name>
 	</Location>
 	<Location Latitude="51.53" Longitude="-0.08" Country="UnitedKingdom">
 		<Name xml:lang="en">London</Name>
 		<Name xml:lang="ru">Лондон</Name>
 	</Location>
-	<Location Latitude="33.77" Longitude="-118.18" Country="US" State="California">
-		<Name xml:lang="en">Long Beach</Name>
-		<Name xml:lang="ru">Лонг-Бич</Name>
+	<Location Latitude="43.03" Longitude="-81.57" Country="Canada" State="Ontario">
+		<Name xml:lang="en">London</Name>
+		<Name xml:lang="ru">Лондон</Name>
 	</Location>
 	<Location Latitude="34.05" Longitude="-118.25" Country="US" State="California">
 		<Name xml:lang="en">Los Angeles</Name>
@@ -524,25 +588,37 @@
 		<Name xml:lang="en">Louisville</Name>
 		<Name xml:lang="ru">Луисвилл</Name>
 	</Location>
-	<Location Latitude="45.75" Longitude="4.83" Country="France">
-		<Name xml:lang="en">Lyons</Name>
-		<Name xml:lang="ru">Лион</Name>
+	<Location Latitude="46.4" Longitude="-117.03" Country="US" State="Idaho">
+		<Name xml:lang="en">Lewiston</Name>
+		<Name xml:lang="ru">Льюистон</Name>
+	</Location>
+	<Location Latitude="59.56667" Longitude="150.8" Country="Russia">
+		<Name xml:lang="en">Magadan</Name>
+		<Name xml:lang="ru">Магадан</Name>
 	</Location>
 	<Location Latitude="40.43" Longitude="-3.7" Country="Spain">
 		<Name xml:lang="en">Madrid</Name>
 		<Name xml:lang="ru">Мадрид</Name>
 	</Location>
-	<Location Latitude="53.5" Longitude="-2.25" Country="UnitedKingdom">
-		<Name xml:lang="en">Manchester</Name>
-		<Name xml:lang="ru">Манчестер</Name>
+	<Location Latitude="25.77" Longitude="-80.2" Country="US" State="Florida">
+		<Name xml:lang="en">Miami</Name>
+		<Name xml:lang="ru">Майами</Name>
+	</Location>
+	<Location Latitude="44.60778" Longitude="40.10583" Country="Russia">
+		<Name xml:lang="en">Maykop</Name>
+		<Name xml:lang="ru">Майкоп</Name>
+	</Location>
+	<Location Latitude="14.58" Longitude="120.95" Country="Philippines">
+		<Name xml:lang="en">Manila</Name>
+		<Name xml:lang="ru">Манила</Name>
 	</Location>
 	<Location Latitude="43" Longitude="-71.5" Country="US" State="NewHampshire">
 		<Name xml:lang="en">Manchester</Name>
 		<Name xml:lang="ru">Манчестер</Name>
 	</Location>
-	<Location Latitude="14.58" Longitude="120.95" Country="Philippines">
-		<Name xml:lang="en">Manila</Name>
-		<Name xml:lang="ru">Манила</Name>
+	<Location Latitude="53.5" Longitude="-2.25" Country="UnitedKingdom">
+		<Name xml:lang="en">Manchester</Name>
+		<Name xml:lang="ru">Манчестер</Name>
 	</Location>
 	<Location Latitude="43.33" Longitude="5.33" Country="France">
 		<Name xml:lang="en">Marseilles</Name>
@@ -551,6 +627,10 @@
 	<Location Latitude="23.2" Longitude="-106.42" Country="Mexico">
 		<Name xml:lang="en">Mazatlán</Name>
 		<Name xml:lang="ru">Масатлан</Name>
+	</Location>
+	<Location Latitude="42.97638" Longitude="47.50236" Country="Russia">
+		<Name xml:lang="en">Makhachkala</Name>
+		<Name xml:lang="ru">Махачкала</Name>
 	</Location>
 	<Location Latitude="21.48" Longitude="39.75" Country="SaudiArabia">
 		<Name xml:lang="en">Mecca</Name>
@@ -568,10 +648,6 @@
 		<Name xml:lang="en">Mexico City</Name>
 		<Name xml:lang="ru">Мехико</Name>
 	</Location>
-	<Location Latitude="25.77" Longitude="-80.2" Country="US" State="Florida">
-		<Name xml:lang="en">Miami</Name>
-		<Name xml:lang="ru">Майами</Name>
-	</Location>
 	<Location Latitude="45.45" Longitude="9.17" Country="Italy">
 		<Name xml:lang="en">Milan</Name>
 		<Name xml:lang="ru">Милан</Name>
@@ -588,29 +664,37 @@
 		<Name xml:lang="en">Mobile</Name>
 		<Name xml:lang="ru">Мобил</Name>
 	</Location>
-	<Location Latitude="-34.88" Longitude="-56.17" Country="Uruguay">
-		<Name xml:lang="en">Montevideo</Name>
-		<Name xml:lang="ru">Монтевидео</Name>
+	<Location Latitude="45.5" Longitude="-73.58" Country="Canada" State="Quebec">
+		<Name xml:lang="en">Montreal</Name>
+		<Name xml:lang="ru">Монреаль</Name>
 	</Location>
 	<Location Latitude="32.35" Longitude="-86.3" Country="US" State="Alabama">
 		<Name xml:lang="en">Montgomery</Name>
 		<Name xml:lang="ru">Монтгомери</Name>
 	</Location>
+	<Location Latitude="-34.88" Longitude="-56.17" Country="Uruguay">
+		<Name xml:lang="en">Montevideo</Name>
+		<Name xml:lang="ru">Монтевидео</Name>
+	</Location>
 	<Location Latitude="44.25" Longitude="-72.53" Country="US" State="Vermont">
 		<Name xml:lang="en">Montpelier</Name>
 		<Name xml:lang="ru">Монтпилиер</Name>
 	</Location>
-	<Location Latitude="45.5" Longitude="-73.58" Country="Canada" State="Quebec">
-		<Name xml:lang="en">Montreal</Name>
-		<Name xml:lang="ru">Монреаль</Name>
+	<Location Latitude="55.75222" Longitude="37.61556" Country="Russia">
+		<Name xml:lang="en">Moscow</Name>
+		<Name xml:lang="ru">Москва</Name>
+	</Location>
+	<Location Latitude="19" Longitude="72.8" Country="India">
+		<Name xml:lang="en">Bombay</Name>
+		<Name xml:lang="ru">Мумбаи</Name>
+	</Location>
+	<Location Latitude="68.97917" Longitude="33.09251" Country="Russia">
+		<Name xml:lang="en">Murmansk</Name>
+		<Name xml:lang="ru">Мурманск</Name>
 	</Location>
 	<Location Latitude="50.62" Longitude="-105.52" Country="Canada" State="Saskatchewan">
 		<Name xml:lang="en">Moose Jaw</Name>
 		<Name xml:lang="ru">Мус-Джо</Name>
-	</Location>
-	<Location Latitude="55.75222" Longitude="37.61556" Country="Russia">
-		<Name xml:lang="en">Moscow</Name>
-		<Name xml:lang="ru">Москва</Name>
 	</Location>
 	<Location Latitude="48.13" Longitude="11.58" Country="Germany">
 		<Name xml:lang="en">Munich</Name>
@@ -628,37 +712,57 @@
 		<Name xml:lang="en">Nairobi</Name>
 		<Name xml:lang="ru">Найроби</Name>
 	</Location>
+	<Location Latitude="43.49806" Longitude="43.61889" Country="Russia">
+		<Name xml:lang="en">Nal’chik</Name>
+		<Name xml:lang="ru">Нальчик</Name>
+	</Location>
 	<Location Latitude="32.05" Longitude="118.88" Country="China">
 		<Name xml:lang="en">Nanjing (Nanking)</Name>
 		<Name xml:lang="ru">Нанкин (Наньцзин)</Name>
+	</Location>
+	<Location Latitude="67.67126" Longitude="53.08697" Country="Russia">
+		<Name xml:lang="en">Nar'yan-Mar</Name>
+		<Name xml:lang="ru">Нарьян-Мар</Name>
 	</Location>
 	<Location Latitude="40.83" Longitude="14.25" Country="Italy">
 		<Name xml:lang="en">Naples</Name>
 		<Name xml:lang="ru">Неаполь</Name>
 	</Location>
-	<Location Latitude="36.17" Longitude="-86.78" Country="US" State="Tennessee">
-		<Name xml:lang="en">Nashville</Name>
-		<Name xml:lang="ru">Нэшвилл</Name>
-	</Location>
 	<Location Latitude="49.5" Longitude="-117.28" Country="Canada" State="BritishColumbia">
 		<Name xml:lang="en">Nelson</Name>
 		<Name xml:lang="ru">Нельсон</Name>
 	</Location>
-	<Location Latitude="28.58" Longitude="77.2" Country="India">
-		<Name xml:lang="en">New Delhi</Name>
-		<Name xml:lang="ru">Нью-Дели</Name>
+	<Location Latitude="56.32867" Longitude="44.00205" Country="Russia">
+		<Name xml:lang="en">Nizhniy Novgorod</Name>
+		<Name xml:lang="ru">Нижний Новгород</Name>
 	</Location>
-	<Location Latitude="41.32" Longitude="-72.92" Country="US" State="Conneticut">
-		<Name xml:lang="en">New Haven</Name>
-		<Name xml:lang="ru">Нью-Хейвен</Name>
+	<Location Latitude="55.0415" Longitude="82.9346" Country="Russia">
+		<Name xml:lang="en">Novosibirsk</Name>
+		<Name xml:lang="ru">Новосибирск</Name>
 	</Location>
 	<Location Latitude="29.95" Longitude="-90.07" Country="US" State="Louisiana">
 		<Name xml:lang="en">New Orleans</Name>
 		<Name xml:lang="ru">Новый Орлеан</Name>
 	</Location>
+	<Location Latitude="35.95" Longitude="-83.93" Country="US" State="Tennessee">
+		<Name xml:lang="en">Knoxville</Name>
+		<Name xml:lang="ru">Ноксвилл</Name>
+	</Location>
+	<Location Latitude="64.42" Longitude="-165.5" Country="US" State="Alaska">
+		<Name xml:lang="en">Nome</Name>
+		<Name xml:lang="ru">Ном</Name>
+	</Location>
+	<Location Latitude="28.58" Longitude="77.2" Country="India">
+		<Name xml:lang="en">New Delhi</Name>
+		<Name xml:lang="ru">Нью-Дели</Name>
+	</Location>
 	<Location Latitude="40.78" Longitude="-73.97" Country="US" State="NewYork">
 		<Name xml:lang="en">New York</Name>
 		<Name xml:lang="ru">Нью-Йорк</Name>
+	</Location>
+	<Location Latitude="41.32" Longitude="-72.92" Country="US" State="Conneticut">
+		<Name xml:lang="en">New Haven</Name>
+		<Name xml:lang="ru">Нью-Хейвен</Name>
 	</Location>
 	<Location Latitude="40.73" Longitude="-74.17" Country="US" State="NewJersey">
 		<Name xml:lang="en">Newark</Name>
@@ -668,25 +772,45 @@
 		<Name xml:lang="en">Newcastle-on-Tyne</Name>
 		<Name xml:lang="ru">Ньюкасл-апон-Тайн</Name>
 	</Location>
-	<Location Latitude="64.42" Longitude="-165.5" Country="US" State="Alaska">
-		<Name xml:lang="en">Nome</Name>
-		<Name xml:lang="ru">Ном</Name>
-	</Location>
-	<Location Latitude="37.8" Longitude="-122.27" Country="US" State="California">
-		<Name xml:lang="en">Oakland</Name>
-		<Name xml:lang="ru">Окленд</Name>
+	<Location Latitude="36.17" Longitude="-86.78" Country="US" State="Tennessee">
+		<Name xml:lang="en">Nashville</Name>
+		<Name xml:lang="ru">Нэшвилл</Name>
 	</Location>
 	<Location Latitude="46.45" Longitude="30.8" Country="Ukraine">
 		<Name xml:lang="en">Odessa</Name>
-		<Name xml:lang="ru">Одесская область</Name>
+		<Name xml:lang="ru">Одесса</Name>
 	</Location>
 	<Location Latitude="35.43" Longitude="-97.47" Country="US" State="Oklahoma">
 		<Name xml:lang="en">Oklahoma City</Name>
 		<Name xml:lang="ru">Оклахома Сити</Name>
 	</Location>
+	<Location Latitude="-36.87" Longitude="174.75" Country="NewZealand">
+		<Name xml:lang="en">Auckland</Name>
+		<Name xml:lang="ru">Окленд</Name>
+	</Location>
+	<Location Latitude="37.8" Longitude="-122.27" Country="US" State="California">
+		<Name xml:lang="en">Oakland</Name>
+		<Name xml:lang="ru">Окленд</Name>
+	</Location>
+	<Location Latitude="42.67" Longitude="-73.75" Country="US" State="NewYork">
+		<Name xml:lang="en">Albany</Name>
+		<Name xml:lang="ru">Олбани</Name>
+	</Location>
 	<Location Latitude="41.25" Longitude="-95.93" Country="US" State="Nebraska">
 		<Name xml:lang="en">Omaha</Name>
 		<Name xml:lang="ru">Омаха</Name>
+	</Location>
+	<Location Latitude="55" Longitude="73.4" Country="Russia">
+		<Name xml:lang="en">Omsk</Name>
+		<Name xml:lang="ru">Омск</Name>
+	</Location>
+	<Location Latitude="51.7727" Longitude="55.0988" Country="Russia">
+		<Name xml:lang="en">Orenburg</Name>
+		<Name xml:lang="ru">Оренбург</Name>
+	</Location>
+	<Location Latitude="52.96508" Longitude="36.0785" Country="Russia">
+		<Name xml:lang="en">Orël</Name>
+		<Name xml:lang="ru">Орёл</Name>
 	</Location>
 	<Location Latitude="34.53" Longitude="135.5" Country="Japan">
 		<Name xml:lang="en">Osaka</Name>
@@ -695,6 +819,10 @@
 	<Location Latitude="59.95" Longitude="10.7" Country="Norway">
 		<Name xml:lang="en">Oslo</Name>
 		<Name xml:lang="ru">Осло</Name>
+	</Location>
+	<Location Latitude="30.27" Longitude="-97.73" Country="US" State="Texas">
+		<Name xml:lang="en">Austin</Name>
+		<Name xml:lang="ru">Остин</Name>
 	</Location>
 	<Location Latitude="45.4" Longitude="-75.72" Country="Canada" State="Ontario">
 		<Name xml:lang="en">Ottawa</Name>
@@ -712,17 +840,29 @@
 		<Name xml:lang="en">Paris</Name>
 		<Name xml:lang="ru">Париж</Name>
 	</Location>
+	<Location Latitude="39.92" Longitude="116.42" Country="China">
+		<Name xml:lang="en">Beijing</Name>
+		<Name xml:lang="ru">Пекин</Name>
+	</Location>
+	<Location Latitude="53.20066" Longitude="45.00464" Country="Russia">
+		<Name xml:lang="en">Penza</Name>
+		<Name xml:lang="ru">Пенза</Name>
+	</Location>
+	<Location Latitude="58.01741" Longitude="56.28552" Country="Russia">
+		<Name xml:lang="en">Perm’</Name>
+		<Name xml:lang="ru">Пермь</Name>
+	</Location>
 	<Location Latitude="-31.95" Longitude="115.87" Country="Australia">
 		<Name xml:lang="en">Perth</Name>
 		<Name xml:lang="ru">Перт</Name>
 	</Location>
-	<Location Latitude="39.95" Longitude="-75.17" Country="US" State="Pennsylvania">
-		<Name xml:lang="en">Philadelphia</Name>
-		<Name xml:lang="ru">Филадельфия</Name>
+	<Location Latitude="61.78491" Longitude="34.34691" Country="Russia">
+		<Name xml:lang="en">Petrozavodsk</Name>
+		<Name xml:lang="ru">Петрозаводск</Name>
 	</Location>
-	<Location Latitude="33.48" Longitude="-112.07" Country="US" State="Arizona">
-		<Name xml:lang="en">Phoenix</Name>
-		<Name xml:lang="ru">Финикс</Name>
+	<Location Latitude="53.0452" Longitude="158.6483" Country="Russia">
+		<Name xml:lang="en">Petropavlovsk-Kamchatskiy</Name>
+		<Name xml:lang="ru">Петропавловск-Камчатский</Name>
 	</Location>
 	<Location Latitude="44.37" Longitude="-100.35" Country="US" State="SouthDakota">
 		<Name xml:lang="en">Pierre</Name>
@@ -740,11 +880,11 @@
 		<Name xml:lang="en">Port Moresby</Name>
 		<Name xml:lang="ru">Порт-Морсби</Name>
 	</Location>
-	<Location Latitude="43.67" Longitude="-70.25" Country="US" State="Maine">
+	<Location Latitude="45.52" Longitude="-122.68" Country="US" State="Oregon">
 		<Name xml:lang="en">Portland</Name>
 		<Name xml:lang="ru">Портленд</Name>
 	</Location>
-	<Location Latitude="45.52" Longitude="-122.68" Country="US" State="Oregon">
+	<Location Latitude="43.67" Longitude="-70.25" Country="US" State="Maine">
 		<Name xml:lang="en">Portland</Name>
 		<Name xml:lang="ru">Портленд</Name>
 	</Location>
@@ -756,57 +896,73 @@
 		<Name xml:lang="en">Providence</Name>
 		<Name xml:lang="ru">Провиденс</Name>
 	</Location>
-	<Location Latitude="46.82" Longitude="-71.18" Country="Canada" State="Quebec">
-		<Name xml:lang="en">Quebec</Name>
-		<Name xml:lang="ru">Квебек</Name>
+	<Location Latitude="54.86639" Longitude="37.21778" Country="Russia" State="MO">
+		<Name xml:lang="en">Protvino</Name>
+		<Name xml:lang="ru">Протвино</Name>
 	</Location>
-	<Location Latitude="35.77" Longitude="-78.65" Country="US" State="NorthCarolina">
-		<Name xml:lang="en">Raleigh</Name>
-		<Name xml:lang="ru">Роли</Name>
-	</Location>
-	<Location Latitude="16.83" Longitude="96" Country="Myanmar">
-		<Name xml:lang="en">Rangoon</Name>
-		<Name xml:lang="ru">Янгон (Рангун)</Name>
-	</Location>
-	<Location Latitude="39.5" Longitude="-119.82" Country="US" State="Nevada">
-		<Name xml:lang="en">Reno</Name>
-		<Name xml:lang="ru">Рино</Name>
+	<Location Latitude="57.8136" Longitude="28.3496" Country="Russia">
+		<Name xml:lang="en">Pskov</Name>
+		<Name xml:lang="ru">Псков</Name>
 	</Location>
 	<Location Latitude="64.07" Longitude="-21.97" Country="Iceland">
 		<Name xml:lang="en">Reykjavík</Name>
 		<Name xml:lang="ru">Рейкьявик</Name>
 	</Location>
-	<Location Latitude="38.77" Longitude="-112.08" Country="US" State="Utah">
-		<Name xml:lang="en">Richfield</Name>
-		<Name xml:lang="ru">Ричфилд</Name>
+	<Location Latitude="41.9" Longitude="12.45" Country="Italy">
+		<Name xml:lang="en">Rome</Name>
+		<Name xml:lang="ru">Рим</Name>
 	</Location>
-	<Location Latitude="37.55" Longitude="-77.48" Country="US" State="Virginia">
-		<Name xml:lang="en">Richmond</Name>
-		<Name xml:lang="ru">Ричмонд</Name>
+	<Location Latitude="39.5" Longitude="-119.82" Country="US" State="Nevada">
+		<Name xml:lang="en">Reno</Name>
+		<Name xml:lang="ru">Рино</Name>
 	</Location>
 	<Location Latitude="-22.95" Longitude="-43.2" Country="Brazil">
 		<Name xml:lang="en">Rio de Janeiro</Name>
 		<Name xml:lang="ru">Рио-де-Жанейро</Name>
 	</Location>
+	<Location Latitude="37.55" Longitude="-77.48" Country="US" State="Virginia">
+		<Name xml:lang="en">Richmond</Name>
+		<Name xml:lang="ru">Ричмонд</Name>
+	</Location>
+	<Location Latitude="38.77" Longitude="-112.08" Country="US" State="Utah">
+		<Name xml:lang="en">Richfield</Name>
+		<Name xml:lang="ru">Ричфилд</Name>
+	</Location>
 	<Location Latitude="37.28" Longitude="-79.95" Country="US" State="Virginia">
 		<Name xml:lang="en">Roanoke</Name>
 		<Name xml:lang="ru">Роанок</Name>
 	</Location>
-	<Location Latitude="41.9" Longitude="12.45" Country="Italy">
-		<Name xml:lang="en">Rome</Name>
-		<Name xml:lang="ru">Рим</Name>
+	<Location Latitude="35.77" Longitude="-78.65" Country="US" State="NorthCarolina">
+		<Name xml:lang="en">Raleigh</Name>
+		<Name xml:lang="ru">Роли</Name>
+	</Location>
+	<Location Latitude="47.23563" Longitude="39.71219" Country="Russia">
+		<Name xml:lang="en">Rostov-na-Donu</Name>
+		<Name xml:lang="ru">Ростов-на-Дону</Name>
+	</Location>
+	<Location Latitude="54.6269" Longitude="39.6916" Country="Russia">
+		<Name xml:lang="en">Ryazan’</Name>
+		<Name xml:lang="ru">Рязань</Name>
+	</Location>
+	<Location Latitude="32.08" Longitude="-81.08" Country="US" State="Georgia">
+		<Name xml:lang="en">Savannah</Name>
+		<Name xml:lang="ru">Саванна</Name>
 	</Location>
 	<Location Latitude="38.58" Longitude="-121.5" Country="US" State="California">
 		<Name xml:lang="en">Sacramento</Name>
 		<Name xml:lang="ru">Сакраменто</Name>
 	</Location>
-	<Location Latitude="40.77" Longitude="-111.9" Country="US" State="Utah">
-		<Name xml:lang="en">Salt Lake City</Name>
-		<Name xml:lang="ru">Солт-Лейк-Сити</Name>
+	<Location Latitude="66.53" Longitude="66.60194" Country="Russia">
+		<Name xml:lang="en">Salekhard</Name>
+		<Name xml:lang="ru">Салехард</Name>
 	</Location>
 	<Location Latitude="-12.93" Longitude="-38.45" Country="Brazil">
 		<Name xml:lang="en">Salvador</Name>
 		<Name xml:lang="ru">Сальвадор</Name>
+	</Location>
+	<Location Latitude="53.2" Longitude="50.15" Country="Russia">
+		<Name xml:lang="en">Samara</Name>
+		<Name xml:lang="ru">Самара</Name>
 	</Location>
 	<Location Latitude="29.38" Longitude="-98.55" Country="US" State="Texas">
 		<Name xml:lang="en">San Antonio</Name>
@@ -815,6 +971,10 @@
 	<Location Latitude="32.7" Longitude="-117.17" Country="US" State="California">
 		<Name xml:lang="en">San Diego</Name>
 		<Name xml:lang="ru">Сан-Диего</Name>
+	</Location>
+	<Location Latitude="-23.52" Longitude="-46.52" Country="Brazil">
+		<Name xml:lang="en">São Paulo</Name>
+		<Name xml:lang="ru">Сан-Паулу</Name>
 	</Location>
 	<Location Latitude="37.78" Longitude="-122.43" Country="US" State="California">
 		<Name xml:lang="en">San Francisco</Name>
@@ -828,6 +988,10 @@
 		<Name xml:lang="en">San Juan</Name>
 		<Name xml:lang="ru">Сан-Хуан</Name>
 	</Location>
+	<Location Latitude="59.89444" Longitude="30.26417" Country="Russia">
+		<Name xml:lang="en">St. Petersburg</Name>
+		<Name xml:lang="ru">Санкт-Петербург</Name>
+	</Location>
 	<Location Latitude="35.68" Longitude="-105.95" Country="US" State="NewMexico">
 		<Name xml:lang="en">Santa Fe</Name>
 		<Name xml:lang="ru">Санта-Фе</Name>
@@ -836,37 +1000,49 @@
 		<Name xml:lang="en">Santiago</Name>
 		<Name xml:lang="ru">Сантьяго</Name>
 	</Location>
-	<Location Latitude="-23.52" Longitude="-46.52" Country="Brazil">
-		<Name xml:lang="en">São Paulo</Name>
-		<Name xml:lang="ru">Сан-Паулу</Name>
+	<Location Latitude="54.1838" Longitude="45.1749" Country="Russia">
+		<Name xml:lang="en">Saransk</Name>
+		<Name xml:lang="ru">Саранск</Name>
 	</Location>
-	<Location Latitude="32.08" Longitude="-81.08" Country="US" State="Georgia">
-		<Name xml:lang="en">Savannah</Name>
-		<Name xml:lang="ru">Саванна</Name>
+	<Location Latitude="51.56667" Longitude="46.03333" Country="Russia">
+		<Name xml:lang="en">Saratov</Name>
+		<Name xml:lang="ru">Саратов</Name>
 	</Location>
-	<Location Latitude="47.62" Longitude="-122.33" Country="US" State="Washington">
-		<Name xml:lang="en">Seattle</Name>
-		<Name xml:lang="ru">Сиэтл</Name>
+	<Location Latitude="45.3" Longitude="-66.17" Country="Canada" State="NewBrunswick">
+		<Name xml:lang="en">St. John</Name>
+		<Name xml:lang="ru">Сент-Джон</Name>
 	</Location>
-	<Location Latitude="31.17" Longitude="121.47" Country="China">
-		<Name xml:lang="en">Shanghai</Name>
-		<Name xml:lang="ru">Шанхай</Name>
+	<Location Latitude="38.58" Longitude="-90.2" Country="US" State="Missouri">
+		<Name xml:lang="en">St. Louis</Name>
+		<Name xml:lang="ru">Сент-Луис</Name>
 	</Location>
-	<Location Latitude="32.47" Longitude="-93.7" Country="US" State="Louisiana">
-		<Name xml:lang="en">Shreveport</Name>
-		<Name xml:lang="ru">Шревепорт</Name>
+	<Location Latitude="-34" Longitude="151" Country="Australia">
+		<Name xml:lang="en">Sydney</Name>
+		<Name xml:lang="ru">Сидней</Name>
 	</Location>
 	<Location Latitude="1.23" Longitude="103.92" Country="Singapore">
 		<Name xml:lang="en">Singapore</Name>
 		<Name xml:lang="ru">Сингапур</Name>
 	</Location>
-	<Location Latitude="43.55" Longitude="-96.73" Country="US" State="SouthDakota">
-		<Name xml:lang="en">Sioux Falls</Name>
-		<Name xml:lang="ru">Су-Фолс</Name>
+	<Location Latitude="43.03" Longitude="-76.13" Country="US" State="NewYork">
+		<Name xml:lang="en">Syracuse</Name>
+		<Name xml:lang="ru">Сиракуза</Name>
 	</Location>
 	<Location Latitude="57.17" Longitude="-135.25" Country="US" State="Alaska">
 		<Name xml:lang="en">Sitka</Name>
 		<Name xml:lang="ru">Ситка</Name>
+	</Location>
+	<Location Latitude="47.62" Longitude="-122.33" Country="US" State="Washington">
+		<Name xml:lang="en">Seattle</Name>
+		<Name xml:lang="ru">Сиэтл</Name>
+	</Location>
+	<Location Latitude="54.7818" Longitude="32.0401" Country="Russia">
+		<Name xml:lang="en">Smolensk</Name>
+		<Name xml:lang="ru">Смоленск</Name>
+	</Location>
+	<Location Latitude="40.77" Longitude="-111.9" Country="US" State="Utah">
+		<Name xml:lang="en">Salt Lake City</Name>
+		<Name xml:lang="ru">Солт-Лейк-Сити</Name>
 	</Location>
 	<Location Latitude="42.67" Longitude="23.33" Country="Bulgaria">
 		<Name xml:lang="en">Sofia</Name>
@@ -888,37 +1064,37 @@
 		<Name xml:lang="en">Springfield MO</Name>
 		<Name xml:lang="ru">Спрингфилд</Name>
 	</Location>
-	<Location Latitude="45.3" Longitude="-66.17" Country="Canada" State="NewBrunswick">
-		<Name xml:lang="en">St. John</Name>
-		<Name xml:lang="ru">Сент-Джон</Name>
-	</Location>
-	<Location Latitude="38.58" Longitude="-90.2" Country="US" State="Missouri">
-		<Name xml:lang="en">St. Louis</Name>
-		<Name xml:lang="ru">Сент-Луис</Name>
-	</Location>
-	<Location Latitude="59.89444" Longitude="30.26417" Country="Russia">
-		<Name xml:lang="en">St. Petersburg</Name>
-		<Name xml:lang="ru">Санкт-Петербург</Name>
+	<Location Latitude="45.0428" Longitude="41.9734" Country="Russia">
+		<Name xml:lang="en">Stavropol’</Name>
+		<Name xml:lang="ru">Ставрополь</Name>
 	</Location>
 	<Location Latitude="59.28" Longitude="18.05" Country="Sweden">
 		<Name xml:lang="en">Stockholm</Name>
 		<Name xml:lang="ru">Стокгольм</Name>
 	</Location>
-	<Location Latitude="-34" Longitude="151" Country="Australia">
-		<Name xml:lang="en">Sydney</Name>
-		<Name xml:lang="ru">Сидней</Name>
+	<Location Latitude="43.55" Longitude="-96.73" Country="US" State="SouthDakota">
+		<Name xml:lang="en">Sioux Falls</Name>
+		<Name xml:lang="ru">Су-Фолс</Name>
 	</Location>
-	<Location Latitude="43.03" Longitude="-76.13" Country="US" State="NewYork">
-		<Name xml:lang="en">Syracuse</Name>
-		<Name xml:lang="ru">Сиракуза</Name>
+	<Location Latitude="61.67642" Longitude="50.80994" Country="Russia">
+		<Name xml:lang="en">Syktyvkar</Name>
+		<Name xml:lang="ru">Сыктывкар</Name>
+	</Location>
+	<Location Latitude="36.15" Longitude="-95.98" Country="US" State="Oklahoma">
+		<Name xml:lang="en">Tulsa</Name>
+		<Name xml:lang="ru">Талса</Name>
+	</Location>
+	<Location Latitude="52.73167" Longitude="41.43389" Country="Russia">
+		<Name xml:lang="en">Tambov</Name>
+		<Name xml:lang="ru">Тамбов</Name>
 	</Location>
 	<Location Latitude="27.95" Longitude="-82.45" Country="US" State="Florida">
 		<Name xml:lang="en">Tampa</Name>
 		<Name xml:lang="ru">Тампа</Name>
 	</Location>
-	<Location Latitude="-18.83" Longitude="47.55" Country="Madagascar">
-		<Name xml:lang="en">Tananarive</Name>
-		<Name xml:lang="ru">Антананариву (Тананариве)</Name>
+	<Location Latitude="56.86194" Longitude="35.89306" Country="Russia">
+		<Name xml:lang="en">Tver'</Name>
+		<Name xml:lang="ru">Тверь</Name>
 	</Location>
 	<Location Latitude="35.75" Longitude="51.75" Country="Iran">
 		<Name xml:lang="en">Teheran</Name>
@@ -932,6 +1108,10 @@
 		<Name xml:lang="en">Toledo</Name>
 		<Name xml:lang="ru">Толедо</Name>
 	</Location>
+	<Location Latitude="56.5" Longitude="84.96667" Country="Russia">
+		<Name xml:lang="en">Tomsk</Name>
+		<Name xml:lang="ru">Томск</Name>
+	</Location>
 	<Location Latitude="43.67" Longitude="-79.4" Country="Canada" State="Ontario">
 		<Name xml:lang="en">Toronto</Name>
 		<Name xml:lang="ru">Торонто</Name>
@@ -940,141 +1120,61 @@
 		<Name xml:lang="en">Tripoli</Name>
 		<Name xml:lang="ru">Триполи</Name>
 	</Location>
-	<Location Latitude="36.15" Longitude="-95.98" Country="US" State="Oklahoma">
-		<Name xml:lang="en">Tulsa</Name>
-		<Name xml:lang="ru">Талса</Name>
+	<Location Latitude="54.20444" Longitude="37.61111" Country="Russia">
+		<Name xml:lang="en">Tula</Name>
+		<Name xml:lang="ru">Тула</Name>
 	</Location>
-	<Location Latitude="49.22" Longitude="-123.1" Country="Canada" State="BritishColumbia">
-		<Name xml:lang="en">Vancouver</Name>
-		<Name xml:lang="ru">Ванкувер</Name>
-	</Location>
-	<Location Latitude="45.43" Longitude="12.33" Country="Italy">
-		<Name xml:lang="en">Venice</Name>
-		<Name xml:lang="ru">Венеция</Name>
-	</Location>
-	<Location Latitude="19.17" Longitude="-96.17" Country="Mexico">
-		<Name xml:lang="en">Veracruz</Name>
-		<Name xml:lang="ru">Веракрус</Name>
-	</Location>
-	<Location Latitude="48.42" Longitude="-123.35" Country="Canada" State="BritishColumbia">
-		<Name xml:lang="en">Victoria</Name>
-		<Name xml:lang="ru">Виктория</Name>
-	</Location>
-	<Location Latitude="48.23" Longitude="16.33" Country="Austria">
-		<Name xml:lang="en">Vienna</Name>
-		<Name xml:lang="ru">Вена</Name>
-	</Location>
-	<Location Latitude="36.85" Longitude="-75.97" Country="US" State="Virginia">
-		<Name xml:lang="en">Virginia Beach</Name>
-		<Name xml:lang="ru">Вирджиния-Бич</Name>
-	</Location>
-	<Location Latitude="43.10562" Longitude="131.87353" Country="Russia">
-		<Name xml:lang="en">Vladivostok</Name>
-		<Name xml:lang="ru">Владивосток</Name>
-	</Location>
-	<Location Latitude="52.23" Longitude="21" Country="Poland">
-		<Name xml:lang="en">Warsaw</Name>
-		<Name xml:lang="ru">Варшава</Name>
-	</Location>
-	<Location Latitude="38.88" Longitude="-77.03" Country="US" State="DC">
-		<Name xml:lang="en">Washington</Name>
-		<Name xml:lang="ru">Вашингтон</Name>
-	</Location>
-	<Location Latitude="-41.28" Longitude="174.78" Country="NewZealand">
-		<Name xml:lang="en">Wellington</Name>
-		<Name xml:lang="ru">Веллингтон</Name>
-	</Location>
-	<Location Latitude="37.72" Longitude="-97.28" Country="US" State="Kansas">
-		<Name xml:lang="en">Wichita</Name>
-		<Name xml:lang="ru">Уичито</Name>
+	<Location Latitude="57.15222" Longitude="65.52722" Country="Russia">
+		<Name xml:lang="en">Tyumen’</Name>
+		<Name xml:lang="ru">Тюмень</Name>
 	</Location>
 	<Location Latitude="34.23" Longitude="-77.95" Country="US" State="NorthCarolina">
 		<Name xml:lang="en">Wilmington</Name>
 		<Name xml:lang="ru">Уилмингтон</Name>
 	</Location>
-	<Location Latitude="49.9" Longitude="-97.12" Country="Canada" State="Manitoba">
-		<Name xml:lang="en">Winnipeg</Name>
-		<Name xml:lang="ru">Виннипег</Name>
+	<Location Latitude="37.72" Longitude="-97.28" Country="US" State="Kansas">
+		<Name xml:lang="en">Wichita</Name>
+		<Name xml:lang="ru">Уичито</Name>
 	</Location>
-	<Location Latitude="47.35" Longitude="8.52" Country="Switzerland">
-		<Name xml:lang="en">Zürich</Name>
-		<Name xml:lang="ru">Цюрих</Name>
-	</Location>
-	<Location Latitude="55.0415" Longitude="82.9346" Country="Russia">
-		<Name xml:lang="en">Novosibirsk</Name>
-		<Name xml:lang="ru">Новосибирск</Name>
-	</Location>
-	<Location Latitude="56.8575" Longitude="60.6125" Country="Russia">
-		<Name xml:lang="en">Yekaterinburg</Name>
-		<Name xml:lang="ru">Екатеринбург</Name>
-	</Location>
-	<Location Latitude="56.32867" Longitude="44.00205" Country="Russia">
-		<Name xml:lang="en">Nizhniy Novgorod</Name>
-		<Name xml:lang="ru">Нижний Новгород</Name>
-	</Location>
-	<Location Latitude="53.2" Longitude="50.15" Country="Russia">
-		<Name xml:lang="en">Samara</Name>
-		<Name xml:lang="ru">Самара</Name>
-	</Location>
-	<Location Latitude="55" Longitude="73.4" Country="Russia">
-		<Name xml:lang="en">Omsk</Name>
-		<Name xml:lang="ru">Омск</Name>
-	</Location>
-	<Location Latitude="55.78874" Longitude="49.12214" Country="Russia">
-		<Name xml:lang="en">Kazan</Name>
-		<Name xml:lang="ru">Казань</Name>
-	</Location>
-	<Location Latitude="47.23563" Longitude="39.71219" Country="Russia">
-		<Name xml:lang="en">Rostov-na-Donu</Name>
-		<Name xml:lang="ru">Ростов-на-Дону</Name>
-	</Location>
-	<Location Latitude="55.15444" Longitude="61.42972" Country="Russia">
-		<Name xml:lang="en">Chelyabinsk</Name>
-		<Name xml:lang="ru">Челябинск</Name>
-	</Location>
-	<Location Latitude="54.78517" Longitude="56.04562" Country="Russia">
-		<Name xml:lang="en">Ufa</Name>
-		<Name xml:lang="ru">Уфа</Name>
-	</Location>
-	<Location Latitude="48.71939" Longitude="44.50184" Country="Russia">
-		<Name xml:lang="en">Volgograd</Name>
-		<Name xml:lang="ru">Волгоград</Name>
-	</Location>
-	<Location Latitude="58.01741" Longitude="56.28552" Country="Russia">
-		<Name xml:lang="en">Perm’</Name>
-		<Name xml:lang="ru">Пермь</Name>
-	</Location>
-	<Location Latitude="56.00972" Longitude="92.79167" Country="Russia">
-		<Name xml:lang="en">Krasnoyarsk</Name>
-		<Name xml:lang="ru">Красноярск</Name>
-	</Location>
-	<Location Latitude="51.56667" Longitude="46.03333" Country="Russia">
-		<Name xml:lang="en">Saratov</Name>
-		<Name xml:lang="ru">Саратов</Name>
-	</Location>
-	<Location Latitude="51.67204" Longitude="39.1843" Country="Russia">
-		<Name xml:lang="en">Voronezh</Name>
-		<Name xml:lang="ru">Воронеж</Name>
-	</Location>
-	<Location Latitude="45.0488" Longitude="38.9725" Country="Russia">
-		<Name xml:lang="en">Krasnodar</Name>
-		<Name xml:lang="ru">Краснодар</Name>
+	<Location Latitude="51.82605" Longitude="107.60979" Country="Russia">
+		<Name xml:lang="en">Ulan-Ude</Name>
+		<Name xml:lang="ru">Улан-Удэ</Name>
 	</Location>
 	<Location Latitude="54.33333" Longitude="48.4" Country="Russia">
 		<Name xml:lang="en">Ul'yanovsk</Name>
 		<Name xml:lang="ru">Ульяновск</Name>
 	</Location>
-	<Location Latitude="56.85" Longitude="53.23333" Country="Russia">
-		<Name xml:lang="en">Izhevsk</Name>
-		<Name xml:lang="ru">Ижевск</Name>
+	<Location Latitude="54.78517" Longitude="56.04562" Country="Russia">
+		<Name xml:lang="en">Ufa</Name>
+		<Name xml:lang="ru">Уфа</Name>
 	</Location>
-	<Location Latitude="57.62987" Longitude="39.87368" Country="Russia">
-		<Name xml:lang="en">Yaroslavl'</Name>
-		<Name xml:lang="ru">Ярославль</Name>
+	<Location Latitude="46.87" Longitude="-96.8" Country="US" State="NorthDakota">
+		<Name xml:lang="en">Fargo</Name>
+		<Name xml:lang="ru">Фарго</Name>
 	</Location>
-	<Location Latitude="53.36056" Longitude="83.76361" Country="Russia">
-		<Name xml:lang="en">Barnaul</Name>
-		<Name xml:lang="ru">Барнаул</Name>
+	<Location Latitude="39.95" Longitude="-75.17" Country="US" State="Pennsylvania">
+		<Name xml:lang="en">Philadelphia</Name>
+		<Name xml:lang="ru">Филадельфия</Name>
+	</Location>
+	<Location Latitude="33.48" Longitude="-112.07" Country="US" State="Arizona">
+		<Name xml:lang="en">Phoenix</Name>
+		<Name xml:lang="ru">Финикс</Name>
+	</Location>
+	<Location Latitude="35.22" Longitude="-111.68" Country="US" State="Arizona">
+		<Name xml:lang="en">Flagstaff</Name>
+		<Name xml:lang="ru">Флагшток</Name>
+	</Location>
+	<Location Latitude="32.72" Longitude="-97.32" Country="US" State="Texas">
+		<Name xml:lang="en">Fort Worth</Name>
+		<Name xml:lang="ru">Форт-Уэрт</Name>
+	</Location>
+	<Location Latitude="50.12" Longitude="8.68" Country="Germany">
+		<Name xml:lang="en">Frankfurt</Name>
+		<Name xml:lang="ru">Франкфурт</Name>
+	</Location>
+	<Location Latitude="36.73" Longitude="-119.8" Country="US" State="California">
+		<Name xml:lang="en">Fresno</Name>
+		<Name xml:lang="ru">Фресно</Name>
 	</Location>
 	<Location Latitude="48.48083" Longitude="135.09278" Country="Russia">
 		<Name xml:lang="en">Khabarovsk</Name>
@@ -1084,245 +1184,145 @@
 		<Name xml:lang="en">Khabarovsk Vtoroy</Name>
 		<Name xml:lang="ru">Хабаровск Второй</Name>
 	</Location>
-	<Location Latitude="51.7727" Longitude="55.0988" Country="Russia">
-		<Name xml:lang="en">Orenburg</Name>
-		<Name xml:lang="ru">Оренбург</Name>
+	<Location Latitude="48.55" Longitude="-109.72" Country="US" State="Montana">
+		<Name xml:lang="en">Havre</Name>
+		<Name xml:lang="ru">Хавр</Name>
 	</Location>
-	<Location Latitude="54.6269" Longitude="39.6916" Country="Russia">
-		<Name xml:lang="en">Ryazan’</Name>
-		<Name xml:lang="ru">Рязань</Name>
-	</Location>
-	<Location Latitude="57.15222" Longitude="65.52722" Country="Russia">
-		<Name xml:lang="en">Tyumen’</Name>
-		<Name xml:lang="ru">Тюмень</Name>
-	</Location>
-	<Location Latitude="52.60311" Longitude="39.57076" Country="Russia">
-		<Name xml:lang="en">Lipetsk</Name>
-		<Name xml:lang="ru">Липецк</Name>
-	</Location>
-	<Location Latitude="53.20066" Longitude="45.00464" Country="Russia">
-		<Name xml:lang="en">Penza</Name>
-		<Name xml:lang="ru">Пенза</Name>
-	</Location>
-	<Location Latitude="46.34968" Longitude="48.04076" Country="Russia">
-		<Name xml:lang="en">Astrakhan’</Name>
-		<Name xml:lang="ru">Астрахань</Name>
-	</Location>
-	<Location Latitude="42.97638" Longitude="47.50236" Country="Russia">
-		<Name xml:lang="en">Makhachkala</Name>
-		<Name xml:lang="ru">Махачкала</Name>
-	</Location>
-	<Location Latitude="56.5" Longitude="84.96667" Country="Russia">
-		<Name xml:lang="en">Tomsk</Name>
-		<Name xml:lang="ru">Томск</Name>
-	</Location>
-	<Location Latitude="55.33333" Longitude="86.08333" Country="Russia">
-		<Name xml:lang="en">Kemerovo</Name>
-		<Name xml:lang="ru">Кемерово</Name>
-	</Location>
-	<Location Latitude="54.20444" Longitude="37.61111" Country="Russia">
-		<Name xml:lang="en">Tula</Name>
-		<Name xml:lang="ru">Тула</Name>
-	</Location>
-	<Location Latitude="58.59665" Longitude="49.66007" Country="Russia">
-		<Name xml:lang="en">Kirov</Name>
-		<Name xml:lang="ru">Киров</Name>
-	</Location>
-	<Location Latitude="56.13222" Longitude="47.25194" Country="Russia">
-		<Name xml:lang="en">Cheboksary</Name>
-		<Name xml:lang="ru">Чебоксары</Name>
-	</Location>
-	<Location Latitude="54.70649" Longitude="20.51095" Country="Russia">
-		<Name xml:lang="en">Kaliningrad</Name>
-		<Name xml:lang="ru">Калининград</Name>
-	</Location>
-	<Location Latitude="53.25209" Longitude="34.37167" Country="Russia">
-		<Name xml:lang="en">Bryansk</Name>
-		<Name xml:lang="ru">Брянск</Name>
-	</Location>
-	<Location Latitude="56.99719" Longitude="40.97139" Country="Russia">
-		<Name xml:lang="en">Ivanovo</Name>
-		<Name xml:lang="ru">Иваново</Name>
-	</Location>
-	<Location Latitude="51.73733" Longitude="36.18735" Country="Russia">
-		<Name xml:lang="en">Kursk</Name>
-		<Name xml:lang="ru">Курск</Name>
-	</Location>
-	<Location Latitude="56.86194" Longitude="35.89306" Country="Russia">
-		<Name xml:lang="en">Tver'</Name>
-		<Name xml:lang="ru">Тверь</Name>
-	</Location>
-	<Location Latitude="45.0428" Longitude="41.9734" Country="Russia">
-		<Name xml:lang="en">Stavropol’</Name>
-		<Name xml:lang="ru">Ставрополь</Name>
-	</Location>
-	<Location Latitude="51.82605" Longitude="107.60979" Country="Russia">
-		<Name xml:lang="en">Ulan-Ude</Name>
-		<Name xml:lang="ru">Улан-Удэ</Name>
-	</Location>
-	<Location Latitude="64.5401" Longitude="40.5433" Country="Russia">
-		<Name xml:lang="en">Arkhangel’sk</Name>
-		<Name xml:lang="ru">Архангельск</Name>
-	</Location>
-	<Location Latitude="50.61074" Longitude="36.58015" Country="Russia">
-		<Name xml:lang="en">Belgorod</Name>
-		<Name xml:lang="ru">Белгород</Name>
-	</Location>
-	<Location Latitude="55.45" Longitude="65.33333" Country="Russia">
-		<Name xml:lang="en">Kurgan</Name>
-		<Name xml:lang="ru">Курган</Name>
-	</Location>
-	<Location Latitude="54.5293" Longitude="36.27542" Country="Russia">
-		<Name xml:lang="en">Kaluga</Name>
-		<Name xml:lang="ru">Калуга</Name>
-	</Location>
-	<Location Latitude="52.96508" Longitude="36.0785" Country="Russia">
-		<Name xml:lang="en">Orël</Name>
-		<Name xml:lang="ru">Орёл</Name>
-	</Location>
-	<Location Latitude="54.7818" Longitude="32.0401" Country="Russia">
-		<Name xml:lang="en">Smolensk</Name>
-		<Name xml:lang="ru">Смоленск</Name>
-	</Location>
-	<Location Latitude="68.97917" Longitude="33.09251" Country="Russia">
-		<Name xml:lang="en">Murmansk</Name>
-		<Name xml:lang="ru">Мурманск</Name>
-	</Location>
-	<Location Latitude="43.03667" Longitude="44.66778" Country="Russia">
-		<Name xml:lang="en">Vladikavkaz</Name>
-		<Name xml:lang="ru">Владикавказ</Name>
-	</Location>
-	<Location Latitude="56.13655" Longitude="40.39658" Country="Russia">
-		<Name xml:lang="en">Vladimir</Name>
-		<Name xml:lang="ru">Владимир</Name>
-	</Location>
-	<Location Latitude="52.03333" Longitude="113.55" Country="Russia">
-		<Name xml:lang="en">Chita</Name>
-		<Name xml:lang="ru">Чита</Name>
-	</Location>
-	<Location Latitude="54.1838" Longitude="45.1749" Country="Russia">
-		<Name xml:lang="en">Saransk</Name>
-		<Name xml:lang="ru">Саранск</Name>
-	</Location>
-	<Location Latitude="59.2187" Longitude="39.8886" Country="Russia">
-		<Name xml:lang="en">Vologda</Name>
-		<Name xml:lang="ru">Вологда</Name>
-	</Location>
-	<Location Latitude="52.73167" Longitude="41.43389" Country="Russia">
-		<Name xml:lang="en">Tambov</Name>
-		<Name xml:lang="ru">Тамбов</Name>
-	</Location>
-	<Location Latitude="56.63877" Longitude="47.89078" Country="Russia">
-		<Name xml:lang="en">Yoshkar-Ola</Name>
-		<Name xml:lang="ru">Йошкар-Ола</Name>
-	</Location>
-	<Location Latitude="57.76647" Longitude="40.92686" Country="Russia">
-		<Name xml:lang="en">Kostroma</Name>
-		<Name xml:lang="ru">Кострома</Name>
-	</Location>
-	<Location Latitude="50.55199" Longitude="137.01524" Country="Russia">
-		<Name xml:lang="en">Komsomol’sk-na-Amure</Name>
-		<Name xml:lang="ru">Комсомольск-на-Амуре</Name>
-	</Location>
-	<Location Latitude="43.49806" Longitude="43.61889" Country="Russia">
-		<Name xml:lang="en">Nal’chik</Name>
-		<Name xml:lang="ru">Нальчик</Name>
-	</Location>
-	<Location Latitude="61.78491" Longitude="34.34691" Country="Russia">
-		<Name xml:lang="en">Petrozavodsk</Name>
-		<Name xml:lang="ru">Петрозаводск</Name>
-	</Location>
-	<Location Latitude="62.03389" Longitude="129.73306" Country="Russia">
-		<Name xml:lang="en">Yakutsk</Name>
-		<Name xml:lang="ru">Якутск</Name>
-	</Location>
-	<Location Latitude="61.67642" Longitude="50.80994" Country="Russia">
-		<Name xml:lang="en">Syktyvkar</Name>
-		<Name xml:lang="ru">Сыктывкар</Name>
-	</Location>
-	<Location Latitude="43.30833" Longitude="45.70028" Country="Russia">
-		<Name xml:lang="en">Groznyy</Name>
-		<Name xml:lang="ru">Грозный</Name>
-	</Location>
-	<Location Latitude="50.26667" Longitude="127.53333" Country="Russia">
-		<Name xml:lang="en">Blagoveshchensk</Name>
-		<Name xml:lang="ru">Благовещенск</Name>
-	</Location>
-	<Location Latitude="58.51667" Longitude="31.28333" Country="Russia">
-		<Name xml:lang="en">Velikiy Novgorod</Name>
-		<Name xml:lang="ru">Великий Новгород</Name>
-	</Location>
-	<Location Latitude="57.8136" Longitude="28.3496" Country="Russia">
-		<Name xml:lang="en">Pskov</Name>
-		<Name xml:lang="ru">Псков</Name>
-	</Location>
-	<Location Latitude="53.0452" Longitude="158.6483" Country="Russia">
-		<Name xml:lang="en">Petropavlovsk-Kamchatskiy</Name>
-		<Name xml:lang="ru">Петропавловск-Камчатский</Name>
-	</Location>
-	<Location Latitude="46.95812" Longitude="142.73366" Country="Russia">
-		<Name xml:lang="en">Yuzhno-Sakhalinsk</Name>
-		<Name xml:lang="ru">Южно-Сахалинск</Name>
-	</Location>
-	<Location Latitude="53.71556" Longitude="91.42917" Country="Russia">
-		<Name xml:lang="en">Abakan</Name>
-		<Name xml:lang="ru">Абакан</Name>
-	</Location>
-	<Location Latitude="44.60778" Longitude="40.10583" Country="Russia">
-		<Name xml:lang="en">Maykop</Name>
-		<Name xml:lang="ru">Майкоп</Name>
-	</Location>
-	<Location Latitude="44.22333" Longitude="42.05778" Country="Russia">
-		<Name xml:lang="en">Cherkessk</Name>
-		<Name xml:lang="ru">Черкесск</Name>
-	</Location>
-	<Location Latitude="51.7" Longitude="94.45" Country="Russia">
-		<Name xml:lang="en">Kyzyl</Name>
-		<Name xml:lang="ru">Кызыл</Name>
-	</Location>
-	<Location Latitude="46.30778" Longitude="44.25583" Country="Russia">
-		<Name xml:lang="en">Elista</Name>
-		<Name xml:lang="ru">Элиста</Name>
-	</Location>
-	<Location Latitude="59.56667" Longitude="150.8" Country="Russia">
-		<Name xml:lang="en">Magadan</Name>
-		<Name xml:lang="ru">Магадан</Name>
-	</Location>
-	<Location Latitude="48.8" Longitude="132.95" Country="Russia">
-		<Name xml:lang="en">Birobidzhan</Name>
-		<Name xml:lang="ru">Биробиджан</Name>
+	<Location Latitude="70.63" Longitude="23.63" Country="Norway">
+		<Name xml:lang="en">Hammerfest</Name>
+		<Name xml:lang="ru">Хаммерфест</Name>
 	</Location>
 	<Location Latitude="61.00417" Longitude="69.00194" Country="Russia">
 		<Name xml:lang="en">Khanty-Mansiysk</Name>
 		<Name xml:lang="ru">Ханты-Мансийск</Name>
 	</Location>
-	<Location Latitude="51.95611" Longitude="85.955" Country="Russia">
-		<Name xml:lang="en">Gorno-Altaysk</Name>
-		<Name xml:lang="ru">Горно-Алтайск</Name>
+	<Location Latitude="46.58" Longitude="-112.03" Country="US" State="Montana">
+		<Name xml:lang="en">Helena</Name>
+		<Name xml:lang="ru">Хелена</Name>
 	</Location>
-	<Location Latitude="66.53" Longitude="66.60194" Country="Russia">
-		<Name xml:lang="en">Salekhard</Name>
-		<Name xml:lang="ru">Салехард</Name>
+	<Location Latitude="60.17" Longitude="25" Country="Finland">
+		<Name xml:lang="en">Helsinki</Name>
+		<Name xml:lang="ru">Хельсинки</Name>
 	</Location>
-	<Location Latitude="54.86639" Longitude="37.21778" Country="Russia" State="MO">
-		<Name xml:lang="en">Protvino</Name>
-		<Name xml:lang="ru">Протвино</Name>
+	<Location Latitude="-42.87" Longitude="147.32" Country="Tasmania">
+		<Name xml:lang="en">Hobart</Name>
+		<Name xml:lang="ru">Хобарт</Name>
 	</Location>
-	<Location Latitude="43.20697" Longitude="46.8679" Country="Russia">
-		<Name xml:lang="en">Kizilyurt</Name>
-		<Name xml:lang="ru">Кизилюрт</Name>
+	<Location Latitude="34.52" Longitude="-93.05" Country="US" State="Arkansas">
+		<Name xml:lang="en">Hot Springs</Name>
+		<Name xml:lang="ru">Хот-Спрингс</Name>
 	</Location>
-	<Location Latitude="59.01729" Longitude="54.656" Country="Russia">
-		<Name xml:lang="en">Kudymkar</Name>
-		<Name xml:lang="ru">Кудымкар</Name>
+	<Location Latitude="29.75" Longitude="-95.35" Country="US" State="Texas">
+		<Name xml:lang="en">Houston</Name>
+		<Name xml:lang="ru">Хьюстон</Name>
 	</Location>
-	<Location Latitude="43.04222" Longitude="44.22222" Country="Russia">
-		<Name xml:lang="en">Alagir</Name>
-		<Name xml:lang="ru">Алагир</Name>
+	<Location Latitude="39.13" Longitude="-84.5" Country="US" State="Ohio">
+		<Name xml:lang="en">Cincinnati</Name>
+		<Name xml:lang="ru">Цинциннати</Name>
 	</Location>
-	<Location Latitude="67.67126" Longitude="53.08697" Country="Russia">
-		<Name xml:lang="en">Nar'yan-Mar</Name>
-		<Name xml:lang="ru">Нарьян-Мар</Name>
+	<Location Latitude="47.35" Longitude="8.52" Country="Switzerland">
+		<Name xml:lang="en">Zürich</Name>
+		<Name xml:lang="ru">Цюрих</Name>
+	</Location>
+	<Location Latitude="32.78" Longitude="-79.93" Country="US" State="SouthCarolina">
+		<Name xml:lang="en">Charleston</Name>
+		<Name xml:lang="ru">Чарлстон</Name>
+	</Location>
+	<Location Latitude="38.35" Longitude="-81.63" Country="US" State="WestVirginia">
+		<Name xml:lang="en">Charleston</Name>
+		<Name xml:lang="ru">Чарлстон</Name>
+	</Location>
+	<Location Latitude="56.13222" Longitude="47.25194" Country="Russia">
+		<Name xml:lang="en">Cheboksary</Name>
+		<Name xml:lang="ru">Чебоксары</Name>
+	</Location>
+	<Location Latitude="55.15444" Longitude="61.42972" Country="Russia">
+		<Name xml:lang="en">Chelyabinsk</Name>
+		<Name xml:lang="ru">Челябинск</Name>
+	</Location>
+	<Location Latitude="44.22333" Longitude="42.05778" Country="Russia">
+		<Name xml:lang="en">Cherkessk</Name>
+		<Name xml:lang="ru">Черкесск</Name>
+	</Location>
+	<Location Latitude="41.83" Longitude="-87.62" Country="US" State="Illinois">
+		<Name xml:lang="en">Chicago</Name>
+		<Name xml:lang="ru">Чикаго</Name>
+	</Location>
+	<Location Latitude="52.03333" Longitude="113.55" Country="Russia">
+		<Name xml:lang="en">Chita</Name>
+		<Name xml:lang="ru">Чита</Name>
+	</Location>
+	<Location Latitude="28.62" Longitude="-106.08" Country="Mexico">
+		<Name xml:lang="en">Chihuahua</Name>
+		<Name xml:lang="ru">Чиуауа</Name>
+	</Location>
+	<Location Latitude="29.77" Longitude="106.57" Country="China">
+		<Name xml:lang="en">Chongqing</Name>
+		<Name xml:lang="ru">Чунцин</Name>
+	</Location>
+	<Location Latitude="41.15" Longitude="-104.87" Country="US" State="Wyoming">
+		<Name xml:lang="en">Cheyenne</Name>
+		<Name xml:lang="ru">Шайенн</Name>
+	</Location>
+	<Location Latitude="31.17" Longitude="121.47" Country="China">
+		<Name xml:lang="en">Shanghai</Name>
+		<Name xml:lang="ru">Шанхай</Name>
+	</Location>
+	<Location Latitude="35.23" Longitude="-80.83" Country="US" State="NorthCarolina">
+		<Name xml:lang="en">Charlotte</Name>
+		<Name xml:lang="ru">Шарлотт</Name>
+	</Location>
+	<Location Latitude="32.47" Longitude="-93.7" Country="US" State="Louisiana">
+		<Name xml:lang="en">Shreveport</Name>
+		<Name xml:lang="ru">Шревепорт</Name>
+	</Location>
+	<Location Latitude="57.15" Longitude="-2.15" Country="UnitedKingdom">
+		<Name xml:lang="en">Aberdeen</Name>
+		<Name xml:lang="ru">Эбердин</Name>
+	</Location>
+	<Location Latitude="55.92" Longitude="-3.17" Country="UnitedKingdom">
+		<Name xml:lang="en">Edinburgh</Name>
+		<Name xml:lang="ru">Эдинбург</Name>
+	</Location>
+	<Location Latitude="53.57" Longitude="-113.47" Country="Canada" State="Alberta">
+		<Name xml:lang="en">Edmonton</Name>
+		<Name xml:lang="ru">Эдмонтон</Name>
+	</Location>
+	<Location Latitude="46.30778" Longitude="44.25583" Country="Russia">
+		<Name xml:lang="en">Elista</Name>
+		<Name xml:lang="ru">Элиста</Name>
+	</Location>
+	<Location Latitude="31.77" Longitude="-106.48" Country="US" State="Texas">
+		<Name xml:lang="en">El Paso</Name>
+		<Name xml:lang="ru">Эль-Пасо</Name>
+	</Location>
+	<Location Latitude="32.63" Longitude="-115.55" Country="US" State="California">
+		<Name xml:lang="en">El Centro</Name>
+		<Name xml:lang="ru">Эль-Сентро</Name>
+	</Location>
+	<Location Latitude="44.05" Longitude="-123.08" Country="US" State="Oregon">
+		<Name xml:lang="en">Eugene</Name>
+		<Name xml:lang="ru">Юджин</Name>
+	</Location>
+	<Location Latitude="46.95812" Longitude="142.73366" Country="Russia">
+		<Name xml:lang="en">Yuzhno-Sakhalinsk</Name>
+		<Name xml:lang="ru">Южно-Сахалинск</Name>
+	</Location>
+	<Location Latitude="62.03389" Longitude="129.73306" Country="Russia">
+		<Name xml:lang="en">Yakutsk</Name>
+		<Name xml:lang="ru">Якутск</Name>
+	</Location>
+	<Location Latitude="16.83" Longitude="96" Country="Myanmar">
+		<Name xml:lang="en">Rangoon</Name>
+		<Name xml:lang="ru">Янгон (Рангун)</Name>
+	</Location>
+	<Location Latitude="57.62987" Longitude="39.87368" Country="Russia">
+		<Name xml:lang="en">Yaroslavl'</Name>
+		<Name xml:lang="ru">Ярославль</Name>
+	</Location>
+	<Location Latitude="47.157" Longitude="27.59" Country="Romania">
+		<Name xml:lang="en">Iasi</Name>
+		<Name xml:lang="ru">Яссы</Name>
 	</Location>
 	<Country ID="UnitedKingdom">
 		<Name xml:lang="en">United Kingdom</Name>
@@ -1734,7 +1734,7 @@
 	</Country>
 	<Country ID="Congo">
 		<Name xml:lang="en">Congo</Name>
-		<Name xml:lang="ru">Демократическая Республика Конго</Name>
+		<Name xml:lang="ru">Конго</Name>
 	</Country>
 	<Country ID="Malaysia">
 		<Name xml:lang="en">Malaysia</Name>
