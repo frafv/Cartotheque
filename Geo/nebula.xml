@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <NebulaList xmlns="urn:denebsoft-skymap-nebula">
 	<Nebula RightAscension="10.1" Declination="41.68333333333333" Magnitude="8.1000003814697266" SurfaceBrightness="14" Type="Galaxy" Catalog="Herschel400 Messier">
 		<Number Type="NGC">205</Number>
