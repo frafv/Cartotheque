@@ -1204,7 +1204,7 @@
 		<Label xml:lang="ko-KR">(UTC-01:00) 아조레스</Label>
 		<Label xml:lang="lt-LT">(UTC-01:00) Azorai</Label>
 		<Label xml:lang="lv-LV">(UTC-01:00) Azoru salas</Label>
-		<Label xml:lang="nb-NO">(UTC-01:00) Azorene</Label>
+		<Label xml:lang="nb-NO">(UTC-01:00) Asorene</Label>
 		<Label xml:lang="nl-NL">(UTC-01:00) Azoren</Label>
 		<Label xml:lang="pl-PL">(UTC-01:00) Azory</Label>
 		<Label xml:lang="pt-BR">(UTC-01:00) Açores</Label>
@@ -1240,7 +1240,7 @@
 		<Label xml:lang="ko-KR" Type="Standard">아조레스 표준시</Label>
 		<Label xml:lang="lt-LT" Type="Standard">Standartinis Azorų laik</Label>
 		<Label xml:lang="lv-LV" Type="Standard">Azoru salu standarta laiks</Label>
-		<Label xml:lang="nb-NO" Type="Standard">Azorene (normaltid)</Label>
+		<Label xml:lang="nb-NO" Type="Standard">Asorene (normaltid)</Label>
 		<Label xml:lang="nl-NL" Type="Standard">Azoren (standaardtijd)</Label>
 		<Label xml:lang="pl-PL" Type="Standard">Azory (czas standardowy)</Label>
 		<Label xml:lang="pt-BR" Type="Standard">Hora Padrão dos Açores</Label>
@@ -1276,7 +1276,7 @@
 		<Label xml:lang="ko-KR" Type="Daylight">아조레스 일광 절약 시간</Label>
 		<Label xml:lang="lt-LT" Type="Daylight">Azorų vasaros / žiemos laik</Label>
 		<Label xml:lang="lv-LV" Type="Daylight">Azoru salu vasaras laiks</Label>
-		<Label xml:lang="nb-NO" Type="Daylight">Azorene (sommertid)</Label>
+		<Label xml:lang="nb-NO" Type="Daylight">Asorene (sommertid)</Label>
 		<Label xml:lang="nl-NL" Type="Daylight">Azoren (zomertijd)</Label>
 		<Label xml:lang="pl-PL" Type="Daylight">Azory (czas letni)</Label>
 		<Label xml:lang="pt-BR" Type="Daylight">Horário de Verão dos Açores</Label>
@@ -1295,6 +1295,14 @@
 		<Info Bias="01:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="03:00:00">Last Sunday of October at 3:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
+		</Info>
+		<Info Year="2012" Bias="01:00:00">
+			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="03:00:00">Last Sunday of October at 3:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
+		</Info>
+		<Info Year="2013" Bias="01:00:00">
+			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="01:00:00">Last Sunday of October at 1:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="00:00:00">Last Sunday of March at 0:00</Date>
 		</Info>
 	</TimeZone>
 	<TimeZone Name="BahiaStandardTime">
@@ -1985,10 +1993,12 @@
 		<Label xml:lang="zh-CN" Type="Daylight">高加索夏令时</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">高加索日光節約時間</Label>
 		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme na Kavkazu</Label>
-		<Info Bias="-04:00:00">
+		<Info Bias="-04:00:00" />
+		<Info Year="2011" Bias="-04:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="03:00:00">Last Sunday of October at 3:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
 		</Info>
+		<Info Year="2012" Bias="-04:00:00" />
 	</TimeZone>
 	<TimeZone Name="CenAustraliaStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Cen. Australia Standard Time">Cen. Australia Standard Time</Link>
@@ -2159,7 +2169,7 @@
 		<Label xml:lang="de-DE" Type="Standard">Mittelamerikanische Normalzeit</Label>
 		<Label xml:lang="el-GR" Type="Standard">Χειμερ. ώρα Κεντρικής Αμερικής</Label>
 		<Label xml:lang="en-US" Type="Standard">Central America Standard Time</Label>
-		<Label xml:lang="es-ES" Type="Standard">Hora estándar de Centroamérica</Label>
+		<Label xml:lang="es-ES" Type="Standard">Hora estándar, América Central</Label>
 		<Label xml:lang="et-EE" Type="Standard">Kesk-Ameerika standardaeg</Label>
 		<Label xml:lang="fi-FI" Type="Standard">Keski-Amerikan normaaliaika</Label>
 		<Label xml:lang="fr-FR" Type="Standard">Amérique centrale</Label>
@@ -2195,7 +2205,7 @@
 		<Label xml:lang="de-DE" Type="Daylight">Mittelamerikanische Sommerzeit</Label>
 		<Label xml:lang="el-GR" Type="Daylight">Θερινή ώρα Κεντρικής Αμερικής</Label>
 		<Label xml:lang="en-US" Type="Daylight">Central America Daylight Time</Label>
-		<Label xml:lang="es-ES" Type="Daylight">Hora de verano de Centroamérica</Label>
+		<Label xml:lang="es-ES" Type="Daylight">Hora de verano, América Central</Label>
 		<Label xml:lang="et-EE" Type="Daylight">Kesk-Ameerika suveaeg</Label>
 		<Label xml:lang="fi-FI" Type="Daylight">Keski-Amerikan kesäaika</Label>
 		<Label xml:lang="fr-FR" Type="Daylight">Amérique centrale (heure d’été)</Label>
@@ -2599,7 +2609,7 @@
 		<Label xml:lang="bg-BG">(UTC+01:00) Белград, Братислава, Будапеща, Любляна, Прага</Label>
 		<Label xml:lang="cs-CZ">(UTC+01:00) Praha, Bratislava, Budapešť, Bělehrad, Lublaň</Label>
 		<Label xml:lang="da-DK">(UTC+01:00) Beograd, Bratislava, Budapest, Ljubljana, Prag</Label>
-		<Label xml:lang="de-DE">(UTC+01:00) Belgrad, Bratislava, Budapest, Ljubljana, Prag</Label>
+		<Label xml:lang="de-DE">(UTC+01:00) Belgrad, Bratislava (Pressburg), Budapest, Ljubljana, Prag</Label>
 		<Label xml:lang="el-GR">(UTC+01:00) Βελιγράδι, Μπρατισλάβα, Βουδαπέστη, Λουμπλιάνα, Πράγα</Label>
 		<Label xml:lang="en-US">(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague</Label>
 		<Label xml:lang="es-ES">(UTC+01:00) Belgrado, Bratislava, Budapest, Liubliana, Praga</Label>
@@ -2835,17 +2845,17 @@
 		<Label xml:lang="es-ES">(UTC+11:00) Islas Salomón, Nueva Caledonia</Label>
 		<Label xml:lang="et-EE">(UTC+11:00) Saalomoni Saared, Uus-Kaledoonia</Label>
 		<Label xml:lang="fi-FI">(UTC+11:00) Salomonsaaret, Uusi-Kaledonia</Label>
-		<Label xml:lang="fr-FR">(UTC+11:00) Îles Salomon, Nouvelle Calédonie</Label>
+		<Label xml:lang="fr-FR">(UTC+11:00) Îles Salomon, Nouvelle-Calédonie</Label>
 		<Label xml:lang="he-IL">(UTC+11:00) איי שלמה, קלדוניה החדשה</Label>
 		<Label xml:lang="hr-HR">(UTC+11:00) Solomonsko otočje, Nova Kaledonija</Label>
 		<Label xml:lang="hu-HU">(UTC+11:00) Salamon-szigetek, Új-Kaledónia</Label>
 		<Label xml:lang="it-IT">(UTC+11.00) Is. Salomone, Nuova Caledonia</Label>
 		<Label xml:lang="ja-JP">(UTC+11:00) ソロモン諸島、ニューカレドニア</Label>
 		<Label xml:lang="ko-KR">(UTC+11:00) 솔로몬 제도, 뉴칼레도니아</Label>
-		<Label xml:lang="lt-LT">(UTC+11:00) Saliamono salos, Naujoji Kaledonija</Label>
+		<Label xml:lang="lt-LT">(UTC+11:00) Saliamono Salos, Naujoji Kaledonija</Label>
 		<Label xml:lang="lv-LV">(UTC+11:00) Zālamana salas, Jaunkaledonija</Label>
 		<Label xml:lang="nb-NO">(UTC+11:00) Salomonøyene, Ny Caledonia</Label>
-		<Label xml:lang="nl-NL">(UTC+11:00) Solomon Is., Nieuw-Caledonië</Label>
+		<Label xml:lang="nl-NL">(UTC+11:00) Salomonseilanden, Nieuw-Caledonië</Label>
 		<Label xml:lang="pl-PL">(UTC+11:00) Wyspy Salomona, Nowa Kaledonia</Label>
 		<Label xml:lang="pt-BR">(UTC+11:00) Ilhas Salomão, Nova Caledônia</Label>
 		<Label xml:lang="pt-PT">(UTC+11:00) Ilhas de Salomão, Nova Caledónia</Label>
@@ -3179,12 +3189,12 @@
 		<Label xml:lang="bg-BG">(UTC+08:00) Пекин, Чонгцин, Хонконг, Урумчи</Label>
 		<Label xml:lang="cs-CZ">(UTC+08:00) Peking, Čchung-čching, Hongkong, Urumqi</Label>
 		<Label xml:lang="da-DK">(UTC+08:00) Beijing, Chongjin, Hongkong, Ürümqi</Label>
-		<Label xml:lang="de-DE">(UTC+08:00) Peking, Chongqing, Hongkong, Urumchi</Label>
+		<Label xml:lang="de-DE">(UTC+08:00) Peking, Chongqing, Hongkong (SAR), Urumchi</Label>
 		<Label xml:lang="el-GR">(UTC+08:00) Πεκίνο, Τσονγκ-κινγκ, Χονγκ Κονγκ,  Ουρούμκι</Label>
 		<Label xml:lang="en-US">(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi</Label>
 		<Label xml:lang="es-ES">(UTC+08:00) Pekín, Chongqing, Hong Kong, Urumqi</Label>
 		<Label xml:lang="et-EE">(UTC+08:00) Peking, Chongqing, Hongkong, Urumqi</Label>
-		<Label xml:lang="fi-FI">(UTC+08:00) Peking, Chongqing, Hongkong, Urumqi</Label>
+		<Label xml:lang="fi-FI">(UTC+08:00) Beijing, Chongqing, Hongkong, Urumqi</Label>
 		<Label xml:lang="fr-FR">(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi</Label>
 		<Label xml:lang="he-IL">(UTC+08:00) בייג'ינג, צ'נקינג, הונג קונג, אורומקי</Label>
 		<Label xml:lang="hr-HR">(UTC+08:00) Peking, Chongqing, Hong Kong, Urumqi</Label>
@@ -3194,8 +3204,8 @@
 		<Label xml:lang="ko-KR">(UTC+08:00) 베이징, 충칭, 홍콩 특별 행정구, 우루무치</Label>
 		<Label xml:lang="lt-LT">(UTC+08:00) Pekinas, Chongkvingas, Honkongas, Urumkvi</Label>
 		<Label xml:lang="lv-LV">(UTC+08:00) Pekina, Čuncina, Honkonga, Urumči</Label>
-		<Label xml:lang="nb-NO">(UTC+08:00) Peking, Chongqing, Hongkong, Ürümqi</Label>
-		<Label xml:lang="nl-NL">(UTC+08:00) Beijing, Chongqing, Hongkong, Urumqi</Label>
+		<Label xml:lang="nb-NO">(UTC+08:00) Beijing, Chongqing, Hongkong, Ürümqi</Label>
+		<Label xml:lang="nl-NL">(UTC+08:00) Beijing (Peking), Chongqing, Hongkong, Urumqi</Label>
 		<Label xml:lang="pl-PL">(UTC+08:00) Pekin, Chongqing, Hongkong, Urumczi</Label>
 		<Label xml:lang="pt-BR">(UTC+08:00) Pequim, Chonquim, Hong Kong, Urumqui</Label>
 		<Label xml:lang="pt-PT">(UTC+08:00) Pequim, Chongqing, RAE de Hong Kong, Urumqi</Label>
@@ -3622,42 +3632,42 @@
 	</TimeZone>
 	<TimeZone Name="EEuropeStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\E. Europe Standard Time">E. Europe Standard Time</Link>
-		<Label xml:lang="en">(UTC+02:00) Nicosia</Label>
-		<Label xml:lang="ar-SA">(UTC+02:00) نيقوسيا</Label>
-		<Label xml:lang="bg-BG">(UTC+02:00) Никозия</Label>
-		<Label xml:lang="cs-CZ">(UTC+02:00) Nikósie</Label>
-		<Label xml:lang="da-DK">(UTC+02:00) Nicosia</Label>
-		<Label xml:lang="de-DE">(UTC+02:00) Nikosia</Label>
-		<Label xml:lang="el-GR">(UTC+02:00) Λευκωσία</Label>
-		<Label xml:lang="en-US">(UTC+02:00) Nicosia</Label>
-		<Label xml:lang="es-ES">(UTC+02:00) Nicosia</Label>
-		<Label xml:lang="et-EE">(UTC+02:00) Nikosia</Label>
-		<Label xml:lang="fi-FI">(UTC+02:00) Nikosia</Label>
-		<Label xml:lang="fr-FR">(UTC+02:00) Nicosie</Label>
-		<Label xml:lang="he-IL">(UTC+02:00)  ניקוסיה</Label>
-		<Label xml:lang="hr-HR">(UTC+02:00) Nikozija</Label>
-		<Label xml:lang="hu-HU">(UTC+02:00) Nicosia</Label>
-		<Label xml:lang="it-IT">(UTC+2.00) Nicosia</Label>
-		<Label xml:lang="ja-JP">(UTC+02:00) ニコシア</Label>
-		<Label xml:lang="ko-KR">(UTC+02:00) 니코시아</Label>
-		<Label xml:lang="lt-LT">(UTC+02:00) Nikosija</Label>
-		<Label xml:lang="lv-LV">(UTC+02:00) Nikosija</Label>
-		<Label xml:lang="nb-NO">(UTC+02:00) Nicosia</Label>
-		<Label xml:lang="nl-NL">(UTC+02:00) Nicosia</Label>
-		<Label xml:lang="pl-PL">(UTC+02:00) Nikozja</Label>
-		<Label xml:lang="pt-BR">(UTC+02:00) Nicósia</Label>
-		<Label xml:lang="pt-PT">(UTC+02:00) Nicósia</Label>
-		<Label xml:lang="ro-RO">(UTC+02:00) Nicosia</Label>
-		<Label xml:lang="ru-RU">(UTC+02:00) Никосия</Label>
-		<Label xml:lang="sk-SK">(UTC+02:00) Nikózia</Label>
-		<Label xml:lang="sl-SI">(UTC+02:00) Nikozija</Label>
-		<Label xml:lang="sv-SE">(UTC+02:00) Nicosia</Label>
-		<Label xml:lang="th-TH">(UTC+02:00) นิโคเซีย</Label>
-		<Label xml:lang="tr-TR">(UTC+02:00) Nicosia</Label>
-		<Label xml:lang="uk-UA">(UTC+02:00) Нікозія</Label>
-		<Label xml:lang="zh-CN">(UTC+02:00)尼科西亚</Label>
-		<Label xml:lang="zh-TW">(UTC+02:00) 尼古西亞</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+02:00) Nikozija</Label>
+		<Label xml:lang="en">(UTC+02:00) E. Europe</Label>
+		<Label xml:lang="ar-SA">(UTC+02:00) ‏‏أوروبا الشرقية</Label>
+		<Label xml:lang="bg-BG">(UTC+02:00) Източна Европа</Label>
+		<Label xml:lang="cs-CZ">(UTC+02:00) Východní Evropa</Label>
+		<Label xml:lang="da-DK">(UTC+02:00) Østeuropa</Label>
+		<Label xml:lang="de-DE">(UTC+02:00) Osteuropa</Label>
+		<Label xml:lang="el-GR">(UTC+02:00) Ανατολική Ευρώπη</Label>
+		<Label xml:lang="en-US">(UTC+02:00) E. Europe</Label>
+		<Label xml:lang="es-ES">(UTC+02:00) Europa Oriental</Label>
+		<Label xml:lang="et-EE">(UTC+02:00) Ida-Euroopa</Label>
+		<Label xml:lang="fi-FI">(UTC+02.00) Itä-Eurooppa</Label>
+		<Label xml:lang="fr-FR">(UTC+02:00) Europe de l’Est</Label>
+		<Label xml:lang="he-IL">(UTC+02:00) מזרח אירופה</Label>
+		<Label xml:lang="hr-HR">(UTC+02:00) I. Europa</Label>
+		<Label xml:lang="hu-HU">(UTC+02:00) Kelet-Európa</Label>
+		<Label xml:lang="it-IT">(UTC+02.00) Europa orientale</Label>
+		<Label xml:lang="ja-JP">(UTC+02:00) 東ヨーロッパ</Label>
+		<Label xml:lang="ko-KR">(UTC+02:00) 동유럽</Label>
+		<Label xml:lang="lt-LT">(UTC+02:00) Rytų Europa</Label>
+		<Label xml:lang="lv-LV">(UTC+02:00) Austrumeiropa</Label>
+		<Label xml:lang="nb-NO">(UTC+02:00) Øst-Europa</Label>
+		<Label xml:lang="nl-NL">(UTC+02:00) Oost-Europa</Label>
+		<Label xml:lang="pl-PL">(UTC+02:00) Europa Wschodnia</Label>
+		<Label xml:lang="pt-BR">(UTC+02:00) Leste Europeu</Label>
+		<Label xml:lang="pt-PT">(UTC+02:00) Europa L.</Label>
+		<Label xml:lang="ro-RO">(UTC+02:00) Europa de Est</Label>
+		<Label xml:lang="ru-RU">(UTC+02:00) Восточная Европа</Label>
+		<Label xml:lang="sk-SK">(UTC+02:00) Vých. Európa</Label>
+		<Label xml:lang="sl-SI">(UTC+02:00) Vzhodna Evropa</Label>
+		<Label xml:lang="sv-SE">(UTC+02:00) Östeuropa</Label>
+		<Label xml:lang="th-TH">(UTC+02:00) ยุโรปตะวันออก</Label>
+		<Label xml:lang="tr-TR">(UTC+02:00) D. Avrupa</Label>
+		<Label xml:lang="uk-UA">(UTC+02:00) Східна Європа</Label>
+		<Label xml:lang="zh-CN">(UTC+02:00)东欧</Label>
+		<Label xml:lang="zh-TW">(UTC+02:00) 東歐</Label>
+		<Label xml:lang="sr-Latn-CS">(UTC+02:00) Ist. Evropa</Label>
 		<Label xml:lang="en" Type="Standard">E. Europe Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">أوروبا الشرقية - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Източноевропейско станд. време</Label>
@@ -3690,7 +3700,7 @@
 		<Label xml:lang="sv-SE" Type="Standard">Östeuropa, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของยุโรปตะวันออก</Label>
 		<Label xml:lang="tr-TR" Type="Standard">Doğu Avrupa Standart Saati</Label>
-		<Label xml:lang="uk-UA" Type="Standard">Східна Центральна Європа (зима)</Label>
+		<Label xml:lang="uk-UA" Type="Standard">Східна Європа (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">东欧标准时间</Label>
 		<Label xml:lang="zh-TW" Type="Standard">東歐標準時間</Label>
 		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Ist. Evropi</Label>
@@ -3726,7 +3736,7 @@
 		<Label xml:lang="sv-SE" Type="Daylight">Östeuropa, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของยุโรปตะวันออก</Label>
 		<Label xml:lang="tr-TR" Type="Daylight">Doğu Avrupa Yaz Saati</Label>
-		<Label xml:lang="uk-UA" Type="Daylight">Східна Центральна Європа (літо)</Label>
+		<Label xml:lang="uk-UA" Type="Daylight">Східна Європа (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">东欧夏令时</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">東歐日光節約時間</Label>
 		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vr. u Ist. Evropi</Label>
@@ -4175,7 +4185,7 @@
 		<Label xml:lang="nl-NL" Type="Standard">Egypte (standaardtijd)</Label>
 		<Label xml:lang="pl-PL" Type="Standard">Egipt (czas standardowy)</Label>
 		<Label xml:lang="pt-BR" Type="Standard">Hora Padrão do Egito</Label>
-		<Label xml:lang="pt-PT" Type="Standard">Hora padrão do Egipto</Label>
+		<Label xml:lang="pt-PT" Type="Standard">Hora Padrão do Egito</Label>
 		<Label xml:lang="ro-RO" Type="Standard">Egipt, oră standard</Label>
 		<Label xml:lang="ru-RU" Type="Standard">Египетское время (зима)</Label>
 		<Label xml:lang="sk-SK" Type="Standard">Egyptský čas (normálny)</Label>
@@ -4211,7 +4221,7 @@
 		<Label xml:lang="nl-NL" Type="Daylight">Egypte (zomertijd)</Label>
 		<Label xml:lang="pl-PL" Type="Daylight">Egipt (czas letni)</Label>
 		<Label xml:lang="pt-BR" Type="Daylight">Horário de Verão do Egito</Label>
-		<Label xml:lang="pt-PT" Type="Daylight">Hora de Verão do Egipto</Label>
+		<Label xml:lang="pt-PT" Type="Daylight">Hora de Verão do Egito</Label>
 		<Label xml:lang="ro-RO" Type="Daylight">Egipt, oră de vară</Label>
 		<Label xml:lang="ru-RU" Type="Daylight">Египетское время (лето)</Label>
 		<Label xml:lang="sk-SK" Type="Daylight">Egyptský čas (letný)</Label>
@@ -4360,12 +4370,19 @@
 		<Label xml:lang="zh-CN" Type="Daylight">叶卡捷琳堡夏令时</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">伊卡特林堡日光節約時間</Label>
 		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje/zim. vr. u Ekaterinburgu</Label>
-		<Info Bias="-06:00:00" />
+		<Info Bias="-05:00:00">
+			<Date Type="Standard" Week="First" Day="Saturday" Month="January" Time="00:00:00">First Saturday of January at 0:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
+		</Info>
 		<Info Year="2010" Bias="-05:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="03:00:00">Last Sunday of October at 3:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
 		</Info>
-		<Info Year="2011" Bias="-06:00:00" />
+		<Info Year="2011" Bias="-05:00:00">
+			<Date Type="Standard" Week="First" Day="Saturday" Month="January" Time="00:00:00">First Saturday of January at 0:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
+		</Info>
+		<Info Year="2012" Bias="-06:00:00" />
 	</TimeZone>
 	<TimeZone Name="FijiStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Fiji Standard Time">Fiji Standard Time</Link>
@@ -4400,7 +4417,7 @@
 		<Label xml:lang="sl-SI">(UTC+12:00) Fidži</Label>
 		<Label xml:lang="sv-SE">(UTC+12:00) Fiji</Label>
 		<Label xml:lang="th-TH">(UTC+12:00) ฟิจิ</Label>
-		<Label xml:lang="tr-TR">(UTC+12:00) Fiji</Label>
+		<Label xml:lang="tr-TR">(UTC+12:00) Fiji Adaları</Label>
 		<Label xml:lang="uk-UA">(UTC+12:00) Фіджі</Label>
 		<Label xml:lang="zh-CN">(UTC+12:00)斐济</Label>
 		<Label xml:lang="zh-TW">(UTC+12:00) 斐濟</Label>
@@ -4436,7 +4453,7 @@
 		<Label xml:lang="sl-SI" Type="Standard">Fidžijski standardni čas</Label>
 		<Label xml:lang="sv-SE" Type="Standard">Fidji, normaltid</Label>
 		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของฟิจิ</Label>
-		<Label xml:lang="tr-TR" Type="Standard">Fiji Standart Saati</Label>
+		<Label xml:lang="tr-TR" Type="Standard">Fiji Adaları Standart Saati</Label>
 		<Label xml:lang="uk-UA" Type="Standard">Фіджі (зима)</Label>
 		<Label xml:lang="zh-CN" Type="Standard">斐济标准时间</Label>
 		<Label xml:lang="zh-TW" Type="Standard">斐濟標準時間</Label>
@@ -4472,14 +4489,14 @@
 		<Label xml:lang="sl-SI" Type="Daylight">Fidžijski poletni čas</Label>
 		<Label xml:lang="sv-SE" Type="Daylight">Fidji, sommartid</Label>
 		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของฟิจิ</Label>
-		<Label xml:lang="tr-TR" Type="Daylight">Fiji Yaz Saati</Label>
+		<Label xml:lang="tr-TR" Type="Daylight">Fiji Adaları Yaz Saati</Label>
 		<Label xml:lang="uk-UA" Type="Daylight">Фіджі (літо)</Label>
 		<Label xml:lang="zh-CN" Type="Daylight">斐济夏令时</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">斐濟日光節約時間</Label>
 		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme na Fidžiju</Label>
 		<Info Bias="-12:00:00">
-			<Date Type="Standard" Week="First" Day="Sunday" Month="March" Time="03:00:00">First Sunday of March at 3:00</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Fourth" Day="Sunday" Month="October" Time="02:00:00">Fourth Sunday of October at 2:00</Date>
+			<Date Type="Standard" Week="Fourth" Day="Sunday" Month="January" Time="03:00:00">Fourth Sunday of January at 3:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Sunday" Month="October" Time="02:00:00">Third Sunday of October at 2:00</Date>
 		</Info>
 		<Info Year="2008" Bias="-12:00:00" />
 		<Info Year="2009" Bias="-12:00:00">
@@ -4496,10 +4513,14 @@
 		</Info>
 		<Info Year="2012" Bias="-12:00:00">
 			<Date Type="Standard" Week="Fourth" Day="Sunday" Month="January" Time="03:00:00">Fourth Sunday of January at 3:00</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Fourth" Day="Sunday" Month="October" Time="02:00:00">Fourth Sunday of October at 2:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Sunday" Month="October" Time="02:00:00">Third Sunday of October at 2:00</Date>
 		</Info>
 		<Info Year="2013" Bias="-12:00:00">
-			<Date Type="Standard" Week="First" Day="Sunday" Month="March" Time="03:00:00">First Sunday of March at 3:00</Date>
+			<Date Type="Standard" Week="Third" Day="Sunday" Month="January" Time="03:00:00">Third Sunday of January at 3:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Fourth" Day="Sunday" Month="October" Time="02:00:00">Fourth Sunday of October at 2:00</Date>
+		</Info>
+		<Info Year="2014" Bias="-12:00:00">
+			<Date Type="Standard" Week="Fourth" Day="Sunday" Month="January" Time="03:00:00">Fourth Sunday of January at 3:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Fourth" Day="Sunday" Month="October" Time="02:00:00">Fourth Sunday of October at 2:00</Date>
 		</Info>
 	</TimeZone>
@@ -5359,15 +5380,15 @@
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\India Standard Time">India Standard Time</Link>
 		<Label xml:lang="en">(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi</Label>
 		<Label xml:lang="ar-SA">(UTC+05:30) شيناي، كالكتا، مومباي، نيودلهي</Label>
-		<Label xml:lang="bg-BG">(UTC+05:30) Ченай, Калкута, Мумбай, Ню Делхи</Label>
-		<Label xml:lang="cs-CZ">(UTC+05:30) Bombaj, Čennaj, Kalkata, Nové Dillí</Label>
+		<Label xml:lang="bg-BG">(UTC+05:30) Ченай, Колката, Мумбай, Ню Делхи</Label>
+		<Label xml:lang="cs-CZ">(UTC+05:30) Mumbaí (Bombay), Čennaj, Kolkata (Kalkata), Nové Dillí</Label>
 		<Label xml:lang="da-DK">(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi</Label>
 		<Label xml:lang="de-DE">(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi</Label>
-		<Label xml:lang="el-GR">(UTC+05:30) Μαντράς, Καλκούτα, Βομβάη, Νέο Δελχί</Label>
+		<Label xml:lang="el-GR">(UTC+05:30) Τσενάι, Κολκάτα, Μουμπάι, Νέο Δελχί</Label>
 		<Label xml:lang="en-US">(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi</Label>
-		<Label xml:lang="es-ES">(UTC+05:30) Chennai, Calcuta, Mumbai, Nueva Delhi</Label>
+		<Label xml:lang="es-ES">(UTC+05:30) Chennai, Kolkata (Calcuta), Mumbai, Nueva Delhi</Label>
 		<Label xml:lang="et-EE">(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi</Label>
-		<Label xml:lang="fi-FI">(UTC+05:30) Chennai, Kalkutta, Mumbai, New Delhi</Label>
+		<Label xml:lang="fi-FI">(UTC+05:30) Chennai, Kolkata (Kalkutta), Mumbai, New Delhi</Label>
 		<Label xml:lang="fr-FR">(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi</Label>
 		<Label xml:lang="he-IL">(UTC+05:30) צ'נאי, קולקאטה, מומביי, ניו דלהי</Label>
 		<Label xml:lang="hr-HR">(UTC+05:30) Chennai, Calcuta, Bombay, New Delhi</Label>
@@ -5381,7 +5402,7 @@
 		<Label xml:lang="nl-NL">(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi</Label>
 		<Label xml:lang="pl-PL">(UTC+05:30) Chennai, Kalkuta, Mumbaj, Nowe Delhi</Label>
 		<Label xml:lang="pt-BR">(UTC+05:30) Calcutá, Madras, Bombaim, N. Délhi</Label>
-		<Label xml:lang="pt-PT">(UTC+05:30) Chennai, Calcutá, Mumbai, Nova Deli</Label>
+		<Label xml:lang="pt-PT">(UTC+05:30) Chennai, Kolkata (Calcutá), Mumbai, Nova Deli</Label>
 		<Label xml:lang="ro-RO">(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi</Label>
 		<Label xml:lang="ru-RU">(UTC+05:30) Колката, Мумбаи, Нью-Дели, Ченнай</Label>
 		<Label xml:lang="sk-SK">(UTC+05:30) Čenaj, Kalkata, Mumbaí, Nové Dillí</Label>
@@ -6018,12 +6039,19 @@
 		<Label xml:lang="zh-CN" Type="Daylight">加里宁格勒夏令时</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">卡里寧格勒日光節約時間</Label>
 		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje/zim. vr. u Kalinjingradu</Label>
-		<Info Bias="-03:00:00" />
+		<Info Bias="-02:00:00">
+			<Date Type="Standard" Week="First" Day="Saturday" Month="January" Time="00:00:00">First Saturday of January at 0:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
+		</Info>
 		<Info Year="2010" Bias="-02:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="03:00:00">Last Sunday of October at 3:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
 		</Info>
-		<Info Year="2011" Bias="-03:00:00" />
+		<Info Year="2011" Bias="-02:00:00">
+			<Date Type="Standard" Week="First" Day="Saturday" Month="January" Time="00:00:00">First Saturday of January at 0:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
+		</Info>
+		<Info Year="2012" Bias="-03:00:00" />
 	</TimeZone>
 	<TimeZone Name="KamchatkaStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Kamchatka Standard Time">Kamchatka Standard Time</Link>
@@ -6362,12 +6390,19 @@
 		<Label xml:lang="zh-CN" Type="Daylight">马加丹夏令时</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">馬加丹日光節約時間</Label>
 		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Magadanu</Label>
-		<Info Bias="-12:00:00" />
+		<Info Bias="-11:00:00">
+			<Date Type="Standard" Week="First" Day="Saturday" Month="January" Time="00:00:00">First Saturday of January at 0:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
+		</Info>
 		<Info Year="2010" Bias="-11:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="03:00:00">Last Sunday of October at 3:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
 		</Info>
-		<Info Year="2011" Bias="-12:00:00" />
+		<Info Year="2011" Bias="-11:00:00">
+			<Date Type="Standard" Week="First" Day="Saturday" Month="January" Time="00:00:00">First Saturday of January at 0:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
+		</Info>
+		<Info Year="2012" Bias="-12:00:00" />
 	</TimeZone>
 	<TimeZone Name="MauritiusStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Mauritius Standard Time">Mauritius Standard Time</Link>
@@ -7007,8 +7042,8 @@
 		<Label xml:lang="zh-TW" Type="Daylight">摩洛哥日光節約時間</Label>
 		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Maroku</Label>
 		<Info Bias="00:00:00">
-			<Date Type="Standard" Week="Last" Day="Saturday" Month="July" Time="23:59:59">Last Saturday of July at 23:59:59</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Saturday" Month="April" Time="23:59:59">First Saturday of April at 23:59:59</Date>
+			<Date Type="Standard" Week="Last" Day="Sunday" Month="September" Time="03:00:00">Last Sunday of September at 3:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="April" Time="02:00:00">Last Sunday of April at 2:00</Date>
 		</Info>
 		<Info Year="2007" Bias="00:00:00" />
 		<Info Year="2008" Bias="00:00:00">
@@ -7027,7 +7062,10 @@
 			<Date Type="Standard" Week="Last" Day="Saturday" Month="July" Time="23:59:59">Last Saturday of July at 23:59:59</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Saturday" Month="April" Time="23:59:59">First Saturday of April at 23:59:59</Date>
 		</Info>
-		<Info Year="2012" Bias="00:00:00" />
+		<Info Year="2012" Bias="00:00:00">
+			<Date Type="Standard" Week="Last" Day="Sunday" Month="September" Time="03:00:00">Last Sunday of September at 3:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="April" Time="02:00:00">Last Sunday of April at 2:00</Date>
+		</Info>
 	</TimeZone>
 	<TimeZone Name="MountainStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Mountain Standard Time">Mountain Standard Time</Link>
@@ -7272,7 +7310,7 @@
 		<Label xml:lang="en">(UTC+06:30) Yangon (Rangoon)</Label>
 		<Label xml:lang="ar-SA">(UTC+06:30) ‏‏يانجون (رانجون)</Label>
 		<Label xml:lang="bg-BG">(UTC+06:30) Янгон (Рангун)</Label>
-		<Label xml:lang="cs-CZ">(UTC+06:30) Rangún</Label>
+		<Label xml:lang="cs-CZ">(UTC+06:30) Yangon (Rangún)</Label>
 		<Label xml:lang="da-DK">(UTC+06:30) Yangon (Rangoon)</Label>
 		<Label xml:lang="de-DE">(UTC+06:30) Yangon (Rangun)</Label>
 		<Label xml:lang="el-GR">(UTC+06:30) Γιανγκόν (Ρανγκούν)</Label>
@@ -7291,7 +7329,7 @@
 		<Label xml:lang="lv-LV">(UTC+06:30) Jangona (Ranguna)</Label>
 		<Label xml:lang="nb-NO">(UTC+06:30) Yangon (Rangoon)</Label>
 		<Label xml:lang="nl-NL">(UTC+06:30) Yangon (Rangoon)</Label>
-		<Label xml:lang="pl-PL">(UTC+06:30) Rangun</Label>
+		<Label xml:lang="pl-PL">(UTC+06:30) Yangon (Rangun)</Label>
 		<Label xml:lang="pt-BR">(UTC+06:30) Yangon (Rangoon)</Label>
 		<Label xml:lang="pt-PT">(UTC+06:30) Yangon (Rangoon)</Label>
 		<Label xml:lang="ro-RO">(UTC+06:30) Yangon (Rangoon)</Label>
@@ -7301,7 +7339,7 @@
 		<Label xml:lang="sv-SE">(UTC+06:30) Rangoon</Label>
 		<Label xml:lang="th-TH">(UTC+06:30) ย่างกุ้ง (ร่างกุ้ง)</Label>
 		<Label xml:lang="tr-TR">(UTC+06:30) Yangon (Rangoon)</Label>
-		<Label xml:lang="uk-UA">(UTC+06:30) Янґон (Рангун)</Label>
+		<Label xml:lang="uk-UA">(UTC+06:30) Янґон</Label>
 		<Label xml:lang="zh-CN">(UTC+06:30)仰光</Label>
 		<Label xml:lang="zh-TW">(UTC+06:30) 仰光</Label>
 		<Label xml:lang="sr-Latn-CS">(UTC+06:30) Jangon (Rangun)</Label>
@@ -7489,12 +7527,19 @@
 		<Label xml:lang="zh-CN" Type="Daylight">中亚北部夏令时</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">中北亞日光節約時間</Label>
 		<Label xml:lang="sr-Latn-CS" Type="Daylight">Let/zim. vr. u severnoc. Aziji</Label>
-		<Info Bias="-07:00:00" />
+		<Info Bias="-06:00:00">
+			<Date Type="Standard" Week="First" Day="Saturday" Month="January" Time="00:00:00">First Saturday of January at 0:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
+		</Info>
 		<Info Year="2010" Bias="-06:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="03:00:00">Last Sunday of October at 3:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
 		</Info>
-		<Info Year="2011" Bias="-07:00:00" />
+		<Info Year="2011" Bias="-06:00:00">
+			<Date Type="Standard" Week="First" Day="Saturday" Month="January" Time="00:00:00">First Saturday of January at 0:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
+		</Info>
+		<Info Year="2012" Bias="-07:00:00" />
 	</TimeZone>
 	<TimeZone Name="NamibiaStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Namibia Standard Time">Namibia Standard Time</Link>
@@ -8111,12 +8156,19 @@
 		<Label xml:lang="zh-CN" Type="Daylight">北亚东部夏令时</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">東北亞日光節約時間</Label>
 		<Label xml:lang="sr-Latn-CS" Type="Daylight">Let/zim. vr. u severoist. Aziji</Label>
-		<Info Bias="-09:00:00" />
+		<Info Bias="-08:00:00">
+			<Date Type="Standard" Week="First" Day="Saturday" Month="January" Time="00:00:00">First Saturday of January at 0:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
+		</Info>
 		<Info Year="2010" Bias="-08:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="03:00:00">Last Sunday of October at 3:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
 		</Info>
-		<Info Year="2011" Bias="-09:00:00" />
+		<Info Year="2011" Bias="-08:00:00">
+			<Date Type="Standard" Week="First" Day="Saturday" Month="January" Time="00:00:00">First Saturday of January at 0:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
+		</Info>
+		<Info Year="2012" Bias="-09:00:00" />
 	</TimeZone>
 	<TimeZone Name="NorthAsiaStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\North Asia Standard Time">North Asia Standard Time</Link>
@@ -8228,12 +8280,19 @@
 		<Label xml:lang="zh-CN" Type="Daylight">北亚夏令时</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">北亞日光節約時間</Label>
 		<Label xml:lang="sr-Latn-CS" Type="Daylight">Let/zimsko vreme u Sev. Aziji</Label>
-		<Info Bias="-08:00:00" />
+		<Info Bias="-07:00:00">
+			<Date Type="Standard" Week="First" Day="Saturday" Month="January" Time="00:00:00">First Saturday of January at 0:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
+		</Info>
 		<Info Year="2010" Bias="-07:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="03:00:00">Last Sunday of October at 3:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
 		</Info>
-		<Info Year="2011" Bias="-08:00:00" />
+		<Info Year="2011" Bias="-07:00:00">
+			<Date Type="Standard" Week="First" Day="Saturday" Month="January" Time="00:00:00">First Saturday of January at 0:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
+		</Info>
+		<Info Year="2012" Bias="-08:00:00" />
 	</TimeZone>
 	<TimeZone Name="PacificSAStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Pacific SA Standard Time">Pacific SA Standard Time</Link>
@@ -8346,8 +8405,8 @@
 		<Label xml:lang="zh-TW" Type="Daylight">太平洋 SA 日光節約時間</Label>
 		<Label xml:lang="sr-Latn-CS" Type="Daylight">Pac. let/zim. vr. u J. Americi </Label>
 		<Info Bias="04:00:00">
-			<Date Type="Standard" Week="First" Day="Saturday" Month="May" Time="23:59:59">First Saturday of May at 23:59:59</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="August" Time="23:59:59">Third Saturday of August at 23:59:59</Date>
+			<Date Type="Standard" Week="Last" Day="Saturday" Month="April" Time="23:59:59">Last Saturday of April at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Saturday" Month="September" Time="23:59:59">First Saturday of September at 23:59:59</Date>
 		</Info>
 		<Info Year="2007" Bias="04:00:00">
 			<Date Type="Standard" Week="Second" Day="Saturday" Month="March" Time="23:59:59">Second Saturday of March at 23:59:59</Date>
@@ -8370,6 +8429,10 @@
 			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="August" Time="23:59:59">Third Saturday of August at 23:59:59</Date>
 		</Info>
 		<Info Year="2012" Bias="04:00:00">
+			<Date Type="Standard" Week="Last" Day="Saturday" Month="April" Time="23:59:59">Last Saturday of April at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Saturday" Month="September" Time="23:59:59">First Saturday of September at 23:59:59</Date>
+		</Info>
+		<Info Year="2013" Bias="04:00:00">
 			<Date Type="Standard" Week="Second" Day="Saturday" Month="March" Time="23:59:59">Second Saturday of March at 23:59:59</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Second" Day="Saturday" Month="October" Time="23:59:59">Second Saturday of October at 23:59:59</Date>
 		</Info>
@@ -9133,12 +9196,19 @@
 		<Label xml:lang="zh-CN" Type="Daylight">俄罗斯夏令时</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">俄羅斯日光節約時間</Label>
 		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Rusiji</Label>
-		<Info Bias="-04:00:00" />
+		<Info Bias="-03:00:00">
+			<Date Type="Standard" Week="First" Day="Saturday" Month="January" Time="00:00:00">First Saturday of January at 0:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
+		</Info>
 		<Info Year="2010" Bias="-03:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="03:00:00">Last Sunday of October at 3:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
 		</Info>
-		<Info Year="2011" Bias="-04:00:00" />
+		<Info Year="2011" Bias="-03:00:00">
+			<Date Type="Standard" Week="First" Day="Saturday" Month="January" Time="00:00:00">First Saturday of January at 0:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
+		</Info>
+		<Info Year="2012" Bias="-04:00:00" />
 	</TimeZone>
 	<TimeZone Name="SAEasternStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\SA Eastern Standard Time">SA Eastern Standard Time</Link>
@@ -9502,7 +9572,7 @@
 		<Label xml:lang="nl-NL">(UTC+13:00) Samoa</Label>
 		<Label xml:lang="pl-PL">(UTC+13:00) Samoa</Label>
 		<Label xml:lang="pt-BR">(UTC+13:00) Samoa</Label>
-		<Label xml:lang="pt-PT">(UTC+13:00) Samoa</Label>
+		<Label xml:lang="pt-PT">(UTC+13:00) Samoa Ocidental</Label>
 		<Label xml:lang="ro-RO">(UTC+13:00) Samoa</Label>
 		<Label xml:lang="ru-RU">(UTC+13:00) Самоа</Label>
 		<Label xml:lang="sk-SK">(UTC+13:00) Samoa</Label>
@@ -9517,7 +9587,7 @@
 		<Label xml:lang="en" Type="Standard">Samoa Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">ساموا - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Самоа – стандартно време</Label>
-		<Label xml:lang="cs-CZ" Type="Standard">Ostrovy Samoa (běžný čas)</Label>
+		<Label xml:lang="cs-CZ" Type="Standard">Samoa (běžný čas)</Label>
 		<Label xml:lang="da-DK" Type="Standard">Samoa, normaltid</Label>
 		<Label xml:lang="de-DE" Type="Standard">Samoa Normalzeit</Label>
 		<Label xml:lang="el-GR" Type="Standard">Χειμερινή ώρα Σαμόα</Label>
@@ -9532,7 +9602,7 @@
 		<Label xml:lang="it-IT" Type="Standard">ora solare Samoa</Label>
 		<Label xml:lang="ja-JP" Type="Standard">サモア標準時</Label>
 		<Label xml:lang="ko-KR" Type="Standard">사모아 표준시</Label>
-		<Label xml:lang="lt-LT" Type="Standard">Standartinis Samoa laik</Label>
+		<Label xml:lang="lt-LT" Type="Standard">Standartinis Samoa laikas</Label>
 		<Label xml:lang="lv-LV" Type="Standard">Rietumsamoa standarta laiks</Label>
 		<Label xml:lang="nb-NO" Type="Standard">Samoa (normaltid)</Label>
 		<Label xml:lang="nl-NL" Type="Standard">Samoa (standaardtijd)</Label>
@@ -9553,7 +9623,7 @@
 		<Label xml:lang="en" Type="Daylight">Samoa Daylight Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">ساموا - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Самоа – лятно време</Label>
-		<Label xml:lang="cs-CZ" Type="Daylight">Ostrovy Samoa (letní čas)</Label>
+		<Label xml:lang="cs-CZ" Type="Daylight">Samoa (letní čas)</Label>
 		<Label xml:lang="da-DK" Type="Daylight">Samoa, sommertid</Label>
 		<Label xml:lang="de-DE" Type="Daylight">Samoa Sommerzeit</Label>
 		<Label xml:lang="el-GR" Type="Daylight">Θερινή ώρα Σαμόα</Label>
@@ -9568,7 +9638,7 @@
 		<Label xml:lang="it-IT" Type="Daylight">ora legale Samoa</Label>
 		<Label xml:lang="ja-JP" Type="Daylight">サモア夏時間</Label>
 		<Label xml:lang="ko-KR" Type="Daylight">사모아 일광 절약 시간</Label>
-		<Label xml:lang="lt-LT" Type="Daylight">Samoa vasaros / žiemos laik</Label>
+		<Label xml:lang="lt-LT" Type="Daylight">Samoa vasaros / žiemos laikas</Label>
 		<Label xml:lang="lv-LV" Type="Daylight">Rietumsamoa vasaras laiks</Label>
 		<Label xml:lang="nb-NO" Type="Daylight">Samoa (sommertid)</Label>
 		<Label xml:lang="nl-NL" Type="Daylight">Samoa (zomertijd)</Label>
@@ -9586,7 +9656,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">萨摩亚群岛夏令时</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">薩摩亞日光節約時間</Label>
 		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme na Samoi</Label>
-		<Info Bias="-13:00:00">
+		<Info Bias="11:00:00">
 			<Date Type="Standard" Week="First" Day="Sunday" Month="April" Time="01:00:00">First Sunday of April at 1:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="September" Time="00:00:00">Last Sunday of September at 0:00</Date>
 		</Info>
@@ -9595,7 +9665,11 @@
 			<Date Type="Standard" Week="First" Day="Friday" Month="January" Time="00:00:00">First Friday of January at 0:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Saturday" Month="September" Time="23:59:59">Last Saturday of September at 23:59:59</Date>
 		</Info>
-		<Info Year="2011" Bias="-13:00:00">
+		<Info Year="2011" Bias="11:00:00">
+			<Date Type="Standard" Week="First" Day="Sunday" Month="April" Time="01:00:00">First Sunday of April at 1:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="September" Time="00:00:00">Last Sunday of September at 0:00</Date>
+		</Info>
+		<Info Year="2012" Bias="-13:00:00">
 			<Date Type="Standard" Week="First" Day="Sunday" Month="April" Time="01:00:00">First Sunday of April at 1:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="September" Time="00:00:00">Last Sunday of September at 0:00</Date>
 		</Info>
@@ -11817,12 +11891,19 @@
 		<Label xml:lang="zh-CN" Type="Daylight">符拉迪沃斯托克(海参崴)夏令时</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">海參威日光節約時間</Label>
 		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje/zims. vr. u Vladivostoku</Label>
-		<Info Bias="-11:00:00" />
+		<Info Bias="-10:00:00">
+			<Date Type="Standard" Week="First" Day="Saturday" Month="January" Time="00:00:00">First Saturday of January at 0:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
+		</Info>
 		<Info Year="2010" Bias="-10:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="03:00:00">Last Sunday of October at 3:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
 		</Info>
-		<Info Year="2011" Bias="-11:00:00" />
+		<Info Year="2011" Bias="-10:00:00">
+			<Date Type="Standard" Week="First" Day="Saturday" Month="January" Time="00:00:00">First Saturday of January at 0:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
+		</Info>
+		<Info Year="2012" Bias="-11:00:00" />
 	</TimeZone>
 	<TimeZone Name="WAustraliaStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\W. Australia Standard Time">W. Australia Standard Time</Link>
@@ -12518,11 +12599,18 @@
 		<Label xml:lang="zh-CN" Type="Daylight">雅库茨克夏令时</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">亞庫茲克日光節約時間</Label>
 		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Jakutsku</Label>
-		<Info Bias="-10:00:00" />
+		<Info Bias="-09:00:00">
+			<Date Type="Standard" Week="First" Day="Saturday" Month="January" Time="00:00:00">First Saturday of January at 0:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
+		</Info>
 		<Info Year="2010" Bias="-09:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="03:00:00">Last Sunday of October at 3:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
 		</Info>
-		<Info Year="2011" Bias="-10:00:00" />
+		<Info Year="2011" Bias="-09:00:00">
+			<Date Type="Standard" Week="First" Day="Saturday" Month="January" Time="00:00:00">First Saturday of January at 0:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
+		</Info>
+		<Info Year="2012" Bias="-10:00:00" />
 	</TimeZone>
 </TimeZoneList>
