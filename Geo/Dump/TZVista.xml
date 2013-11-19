@@ -39,7 +39,7 @@
 		<Label xml:lang="zh-CN">(UTC+04:30)喀布尔</Label>
 		<Label xml:lang="zh-HK">(UTC+04:30) 喀布爾</Label>
 		<Label xml:lang="zh-TW">(UTC+04:30) 喀布爾</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+04:30) Kabul</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+04:30) Kabul</Label>
 		<Label xml:lang="en" Type="Standard">Afghanistan Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">أفغانستان - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Афганистанско стандартно време</Label>
@@ -77,7 +77,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">阿富汗标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">阿富汗標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">阿富汗標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Avganistanu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Avganistanu</Label>
 		<Label xml:lang="en" Type="Daylight">Afghanistan Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">أفغانستان - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Афганистанско лятно време</Label>
@@ -115,7 +115,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">阿富汗夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">阿富汗日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">阿富汗日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vr. u Avganistanu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vr. u Avganistanu</Label>
 		<Info Bias="-04:30:00" />
 	</TimeZone>
 	<TimeZone Name="AlaskanStandardTime">
@@ -157,7 +157,7 @@
 		<Label xml:lang="zh-CN">(UTC-09:00)阿拉斯加</Label>
 		<Label xml:lang="zh-HK">(UTC-09:00) 阿拉斯加</Label>
 		<Label xml:lang="zh-TW">(UTC-09:00) 阿拉斯加</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-09:00) Aljaska</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-09:00) Aljaska</Label>
 		<Label xml:lang="en" Type="Standard">Alaskan Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">ألاسكا - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Аляска – стандартно време</Label>
@@ -195,7 +195,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">阿拉斯加标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">阿拉斯加標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">阿拉斯加標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme na Aljasci</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme na Aljasci</Label>
 		<Label xml:lang="en" Type="Daylight">Alaskan Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">ألاسكا - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Аляска – лятно време</Label>
@@ -233,7 +233,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">阿拉斯加夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">阿拉斯加日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">阿拉斯加日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme na Aljasci</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme na Aljasci</Label>
 		<Info Bias="09:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="02:00:00">Last Sunday of October at 2:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Sunday" Month="April" Time="02:00:00">First Sunday of April at 2:00</Date>
@@ -286,7 +286,7 @@
 		<Label xml:lang="zh-CN">(UTC+03:00)科威特，利雅得</Label>
 		<Label xml:lang="zh-HK">(UTC+03:00) 科威特，利雅德</Label>
 		<Label xml:lang="zh-TW">(UTC+03:00) 科威特，利雅德</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+03:00) Kuvajt, Rijad</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+03:00) Kuvajt, Rijad</Label>
 		<Label xml:lang="en" Type="Standard">Arab Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">السعودية - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Арабско стандартно време</Label>
@@ -324,7 +324,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">阿拉伯 (Arab) 标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">沙烏地阿拉伯標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">沙烏地阿拉伯標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Arapsko standardno vreme </Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Arapsko standardno vreme </Label>
 		<Label xml:lang="en" Type="Daylight">Arab Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">السعودية - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Арабско лятно време</Label>
@@ -362,7 +362,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">阿拉伯 (Arab) 夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">沙烏地阿拉伯日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">沙烏地阿拉伯日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Arapsko letnje vreme </Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Arapsko letnje vreme </Label>
 		<Info Bias="-03:00:00" />
 	</TimeZone>
 	<TimeZone Name="ArabianStandardTime">
@@ -376,7 +376,7 @@
 		<Label xml:lang="el-GR">(UTC+04:00) Αμπού Ντάμπι, Μουσκάτ</Label>
 		<Label xml:lang="en-GB">(UTC+04:00) Abu Dhabi, Muscat</Label>
 		<Label xml:lang="en-US">(UTC+04:00) Abu Dhabi, Muscat</Label>
-		<Label xml:lang="es-ES">(UTC+04:00) Abu Dabi, Muscat</Label>
+		<Label xml:lang="es-ES">(UTC+04:00) Abu Dabi, Mascate</Label>
 		<Label xml:lang="et-EE">(UTC+04:00) Abu Dhabi, Muscat</Label>
 		<Label xml:lang="fi-FI">(UTC+04:00) Abu Dhabi, Muscat</Label>
 		<Label xml:lang="fr-FR">(UTC+04:00) Abu Dhabi, Muscat</Label>
@@ -404,7 +404,7 @@
 		<Label xml:lang="zh-CN">(UTC+04:00)阿布扎比，马斯喀特</Label>
 		<Label xml:lang="zh-HK">(UTC+04:00) 阿布達比，馬斯喀特</Label>
 		<Label xml:lang="zh-TW">(UTC+04:00) 阿布達比，馬斯喀特</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+04:00) Abu Dabi, Muskat</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+04:00) Abu Dabi, Muskat</Label>
 		<Label xml:lang="en" Type="Standard">Arabian Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">توقيت عربي رسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Арабско стандартно време </Label>
@@ -442,7 +442,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">阿拉伯半岛标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">阿拉伯標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">阿拉伯標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Arabijsko standardno vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Arabijsko standardno vreme</Label>
 		<Label xml:lang="en" Type="Daylight">Arabian Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">توقيت عربي صيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Арабско лятно време </Label>
@@ -480,7 +480,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">阿拉伯半岛夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">阿拉伯日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">阿拉伯日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Arabijsko letnje vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Arabijsko letnje vreme</Label>
 		<Info Bias="-04:00:00" />
 	</TimeZone>
 	<TimeZone Name="ArabicStandardTime">
@@ -522,7 +522,7 @@
 		<Label xml:lang="zh-CN">(UTC+03:00)巴格达</Label>
 		<Label xml:lang="zh-HK">(UTC+03:00) 巴格達</Label>
 		<Label xml:lang="zh-TW">(UTC+03:00) 巴格達</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+03:00) Bagdad</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+03:00) Bagdad</Label>
 		<Label xml:lang="en" Type="Standard">Arabic Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">التوقيت العربي الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Арабски страни – станд. време</Label>
@@ -560,7 +560,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">阿拉伯 (Arabic) 标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">伊拉克標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">伊拉克標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Arapsko standardno vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Arapsko standardno vreme</Label>
 		<Label xml:lang="en" Type="Daylight">Arabic Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">التوقيت العربي الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Арабски страни – лятно време</Label>
@@ -598,7 +598,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">阿拉伯 (Arabic) 夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">伊拉克日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">伊拉克日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Arapsko letnje vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Arapsko letnje vreme</Label>
 		<Info Bias="-03:00:00" />
 		<Info Year="2006" Bias="-03:00:00">
 			<Date Type="Standard" Week="First" Day="Sunday" Month="October" Time="04:00:00">First Sunday of October at 4:00</Date>
@@ -649,7 +649,7 @@
 		<Label xml:lang="zh-CN">(UTC-03:00)布宜诺斯艾利斯</Label>
 		<Label xml:lang="zh-HK">(UTC-03:00) 布宜諾斯艾利斯</Label>
 		<Label xml:lang="zh-TW">(UTC-03:00) 布宜諾斯艾利斯</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-03:00) Buenos Ajres</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-03:00) Buenos Ajres</Label>
 		<Label xml:lang="en" Type="Standard">Argentina Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">الأرجنتين التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Стандартно час. вр., Аржентина</Label>
@@ -687,7 +687,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">阿根廷标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">阿根廷標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">阿根廷標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Argentini</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Argentini</Label>
 		<Label xml:lang="en" Type="Daylight">Argentina Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">الأرجنتين التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Лятно часово време Аржентина</Label>
@@ -725,7 +725,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">阿根廷夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">阿根廷日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">阿根廷日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Argentini</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme u Argentini</Label>
 		<Info Bias="03:00:00">
 			<Date Type="Standard" Week="Second" Day="Saturday" Month="March" Time="23:59:59">Second Saturday of March at 23:59:59</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Thursday" Month="January" Time="00:00:00">First Thursday of January at 0:00</Date>
@@ -784,7 +784,7 @@
 		<Label xml:lang="zh-CN">(UTC-04:00)大西洋时间(加拿大)</Label>
 		<Label xml:lang="zh-HK">(UTC-04:00) 大西洋時間 (加拿大)</Label>
 		<Label xml:lang="zh-TW">(UTC-04:00) 大西洋時間 (加拿大)</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-04:00) Atlantsko vreme (Kanada)</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-04:00) Atlantsko vreme (Kanada)</Label>
 		<Label xml:lang="en" Type="Standard">Atlantic Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">المحيط الأطلنطى التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Атлантическо стандартно време</Label>
@@ -822,7 +822,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">大西洋标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">大西洋標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">大西洋標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Atlantsko standardno vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Atlantsko standardno vreme</Label>
 		<Label xml:lang="en" Type="Daylight">Atlantic Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">المحيط الأطلنطي التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Атлантическо лятно време</Label>
@@ -860,7 +860,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">大西洋夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">大西洋日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">大西洋日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Atlantsko letnje vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Atlantsko letnje vreme</Label>
 		<Info Bias="04:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="02:00:00">Last Sunday of October at 2:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Sunday" Month="April" Time="02:00:00">First Sunday of April at 2:00</Date>
@@ -913,7 +913,7 @@
 		<Label xml:lang="zh-CN">(UTC+09:30)达尔文</Label>
 		<Label xml:lang="zh-HK">(UTC+09:30) 達爾文</Label>
 		<Label xml:lang="zh-TW">(UTC+09:30) 達爾文</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+09:30) Darvin</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+09:30) Darvin</Label>
 		<Label xml:lang="en" Type="Standard">AUS Central Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">استراليا وسط - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Централноавстрал. станд. време</Label>
@@ -951,7 +951,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">澳大利亚中部标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">澳洲中部標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">澳洲中部標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Stand. vr. u cen. Australiji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Stand. vr. u cen. Australiji</Label>
 		<Label xml:lang="en" Type="Daylight">AUS Central Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">استراليا وسط - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Централноавстрал. лятно време</Label>
@@ -989,7 +989,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">澳大利亚中部夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">澳洲中部日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">澳洲中部日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Let/zim. vr. u cent. Australiji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Let/zim. vr. u cent. Australiji</Label>
 		<Info Bias="-09:30:00" />
 	</TimeZone>
 	<TimeZone Name="AUSEasternStandardTime">
@@ -1031,7 +1031,7 @@
 		<Label xml:lang="zh-CN">(UTC+10:00)堪培拉，墨尔本，悉尼</Label>
 		<Label xml:lang="zh-HK">(UTC+10:00) 坎培拉，墨爾本，雪梨</Label>
 		<Label xml:lang="zh-TW">(UTC+10:00) 坎培拉，墨爾本，雪梨</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+10:00) Kanbera, Melburn, Sidnej</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+10:00) Kanbera, Melburn, Sidnej</Label>
 		<Label xml:lang="en" Type="Standard">AUS Eastern Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">استراليا شرق - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Източноавстрал. станд. време</Label>
@@ -1069,7 +1069,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">澳大利亚东部标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">澳洲東部標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">澳洲東部標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Stand. vr. u ist. Australiji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Stand. vr. u ist. Australiji</Label>
 		<Label xml:lang="en" Type="Daylight">AUS Eastern Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">استراليا شرق - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Източноавстралийско лятно вр.</Label>
@@ -1107,7 +1107,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">澳大利亚东部夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">澳洲東部日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">澳洲東部日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u ist. Australiji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme u ist. Australiji</Label>
 		<Info Bias="-10:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="March" Time="03:00:00">Last Sunday of March at 3:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="October" Time="02:00:00">Last Sunday of October at 2:00</Date>
@@ -1160,7 +1160,7 @@
 		<Label xml:lang="zh-CN">(UTC+04:00)巴库</Label>
 		<Label xml:lang="zh-HK">(UTC+04:00) 巴庫</Label>
 		<Label xml:lang="zh-TW">(UTC+04:00) 巴庫</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+04:00) Baku</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+04:00) Baku</Label>
 		<Label xml:lang="en" Type="Standard">Azerbaijan Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">أذربيجان - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Азербайджанско стандартно време</Label>
@@ -1198,7 +1198,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">阿塞拜疆标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">亞塞拜然標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">亞塞拜然標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Azerbejdžansko standardno vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Azerbejdžansko standardno vreme</Label>
 		<Label xml:lang="en" Type="Daylight">Azerbaijan Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">أذربيجان - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Азербайджан – лятно часово вр.</Label>
@@ -1236,7 +1236,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">阿塞拜疆夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">亞塞拜然日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">亞塞拜然日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Azerbejdžan. letnje/zim. vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Azerbejdžan. letnje/zim. vreme</Label>
 		<Info Bias="-04:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="05:00:00">Last Sunday of October at 5:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="04:00:00">Last Sunday of March at 4:00</Date>
@@ -1281,7 +1281,7 @@
 		<Label xml:lang="zh-CN">(UTC-01:00)亚速尔群岛</Label>
 		<Label xml:lang="zh-HK">(UTC-01:00) 亞速爾群島</Label>
 		<Label xml:lang="zh-TW">(UTC-01:00) 亞速爾群島</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-01:00) Azorska ostrva</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-01:00) Azorska ostrva</Label>
 		<Label xml:lang="en" Type="Standard">Azores Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">أزورس - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Азорски о-ви – стандартно време</Label>
@@ -1319,7 +1319,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">亚速尔群岛标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">亞速爾標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">亞速爾標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme na Azorima</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme na Azorima</Label>
 		<Label xml:lang="en" Type="Daylight">Azores SummerTime</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">أزورس - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Азорски о-ви – лятно време</Label>
@@ -1357,7 +1357,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">亚速尔群岛夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">亞速爾日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">亞速爾日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme na Azorima</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme na Azorima</Label>
 		<Info Bias="01:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="01:00:00">Last Sunday of October at 1:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
@@ -1414,7 +1414,7 @@
 		<Label xml:lang="zh-CN">(UTC-03:00)萨尔瓦多</Label>
 		<Label xml:lang="zh-HK">(UTC-03:00) 薩爾瓦多</Label>
 		<Label xml:lang="zh-TW">(UTC-03:00) 薩爾瓦多</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-03:00) Salvador</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-03:00) Salvador</Label>
 		<Label xml:lang="en" Type="Standard">Bahia Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">باهيا - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Баия – стандартно време</Label>
@@ -1452,7 +1452,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">巴伊亚标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">巴伊亞標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">巴伊亞標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Bahiji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Bahiji</Label>
 		<Label xml:lang="en" Type="Daylight">Bahia Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">باهيا - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Баия – лятно часово време</Label>
@@ -1490,7 +1490,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">巴伊亚夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">巴伊亞日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">巴伊亞日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Bahiji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme u Bahiji</Label>
 		<Info Bias="03:00:00">
 			<Date Type="Standard" Week="First" Day="Saturday" Month="January" Time="00:00:00">First Saturday of January at 0:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
@@ -1545,7 +1545,7 @@
 		<Label xml:lang="zh-CN">(UTC+06:00)达卡</Label>
 		<Label xml:lang="zh-HK">(UTC+06:00) 達卡</Label>
 		<Label xml:lang="zh-TW">(UTC+06:00) 達卡</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+06:00) Daka</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+06:00) Daka</Label>
 		<Label xml:lang="en" Type="Standard">Bangladesh Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">بنغلادش - ‏‏التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Бангладеш - стандартно време</Label>
@@ -1583,7 +1583,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">孟加拉国标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">孟加拉標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">孟加拉標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Bangladešu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Bangladešu</Label>
 		<Label xml:lang="en" Type="Daylight">Bangladesh Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">بنغلادش - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Бангладеш - лятно часово време</Label>
@@ -1621,7 +1621,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">孟加拉国夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">孟加拉日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">孟加拉日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Bangladešu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme u Bangladešu</Label>
 		<Info Bias="-06:00:00" />
 		<Info Year="2008" Bias="-06:00:00" />
 		<Info Year="2009" Bias="-06:00:00">
@@ -1669,7 +1669,7 @@
 		<Label xml:lang="zh-CN">(UTC-06:00)萨斯喀彻温</Label>
 		<Label xml:lang="zh-HK">(UTC-06:00) 薩克其萬 (加拿大)</Label>
 		<Label xml:lang="zh-TW">(UTC-06:00) 薩克其萬 (加拿大)</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-06:00) Saskačevan</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-06:00) Saskačevan</Label>
 		<Label xml:lang="en" Type="Standard">Canada Central Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">كندا - التوقيت المركزي الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Централна Канада – станд. време</Label>
@@ -1707,7 +1707,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">加拿大中部标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">加拿大中部標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">加拿大中部標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Centralnokan. standardno vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Centralnokan. standardno vreme</Label>
 		<Label xml:lang="en" Type="Daylight">Canada Central Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">كندا - التوقيت المركزي الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Централна Канада – лятно време</Label>
@@ -1745,7 +1745,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">加拿大中部夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">加拿大中部日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">加拿大中部日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Centralnokanad. let/zim. vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Centralnokanad. let/zim. vreme</Label>
 		<Info Bias="06:00:00" />
 	</TimeZone>
 	<TimeZone Name="CapeVerdeStandardTime">
@@ -1787,7 +1787,7 @@
 		<Label xml:lang="zh-CN">(UTC-01:00)佛得角群岛</Label>
 		<Label xml:lang="zh-HK">(UTC-01:00) 維德角群島</Label>
 		<Label xml:lang="zh-TW">(UTC-01:00) 維德角群島</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-01:00) Zelenortska ostrva</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-01:00) Zelenortska ostrva</Label>
 		<Label xml:lang="en" Type="Standard">Cape Verde Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">الرأس الأخضر - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Кабо Верде – стандартно време</Label>
@@ -1825,7 +1825,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">佛得角群岛标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">維德角標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">維德角標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme - Zelenort. o.</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme - Zelenort. o.</Label>
 		<Label xml:lang="en" Type="Daylight">Cape Verde Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">الرأس الأخضر - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Кабо Верде – лятно време</Label>
@@ -1863,7 +1863,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">佛得角群岛夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">維德角日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">維德角日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Let/zim. vreme na Zelenor. o.</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Let/zim. vreme na Zelenor. o.</Label>
 		<Info Bias="01:00:00" />
 	</TimeZone>
 	<TimeZone Name="CaucasusStandardTime">
@@ -1905,7 +1905,7 @@
 		<Label xml:lang="zh-CN">(UTC+04:00)埃里温</Label>
 		<Label xml:lang="zh-HK">(UTC+04:00) 葉里溫</Label>
 		<Label xml:lang="zh-TW">(UTC+04:00) 葉里溫</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+04:00) Jerevan</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+04:00) Jerevan</Label>
 		<Label xml:lang="en" Type="Standard">Caucasus Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">القوقاز - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Кавказко стандартно време</Label>
@@ -1943,7 +1943,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">高加索标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">高加索標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">高加索標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Kaukasusu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Kaukasusu</Label>
 		<Label xml:lang="en" Type="Daylight">Caucasus Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">القوقاز - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Кавказко лятно време</Label>
@@ -1981,7 +1981,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">高加索夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">高加索日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">高加索日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme na Kavkazu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme na Kavkazu</Label>
 		<Info Bias="-04:00:00" />
 		<Info Year="2011" Bias="-04:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="03:00:00">Last Sunday of October at 3:00</Date>
@@ -2028,7 +2028,7 @@
 		<Label xml:lang="zh-CN">(UTC+09:30)阿德莱德</Label>
 		<Label xml:lang="zh-HK">(UTC+09:30) 愛德蘭</Label>
 		<Label xml:lang="zh-TW">(UTC+09:30) 愛德蘭</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+09:30) Adelaid</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+09:30) Adelaid</Label>
 		<Label xml:lang="en" Type="Standard">Cen. Australia Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">وسط استراليا - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Централноавстрал. станд. време </Label>
@@ -2066,7 +2066,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">中部澳大利亚标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">中澳洲標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">中澳洲標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Stand. vr. u centr. Australiji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Stand. vr. u centr. Australiji</Label>
 		<Label xml:lang="en" Type="Daylight">Cen. Australia Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">وسط استراليا - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Централноавстрал. лятно време </Label>
@@ -2104,7 +2104,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">中部澳大利亚夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">中澳洲日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">中澳洲日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Let/zim. vr. u cen. Australiji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Let/zim. vr. u cen. Australiji</Label>
 		<Info Bias="-09:30:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="March" Time="03:00:00">Last Sunday of March at 3:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="October" Time="02:00:00">Last Sunday of October at 2:00</Date>
@@ -2157,7 +2157,7 @@
 		<Label xml:lang="zh-CN">(UTC-06:00)中美洲</Label>
 		<Label xml:lang="zh-HK">(UTC-06:00) 中美洲</Label>
 		<Label xml:lang="zh-TW">(UTC-06:00) 中美洲</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-06:00) Centralna Amerika</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-06:00) Centralna Amerika</Label>
 		<Label xml:lang="en" Type="Standard">Central America Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">وسط أمريكا - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Централна Америка – ст. време</Label>
@@ -2195,7 +2195,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">中美洲标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">中美洲標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">中美洲標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Stan. vre. u Centralnoj Americi</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Stan. vre. u Centralnoj Americi</Label>
 		<Label xml:lang="en" Type="Daylight">Central America Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">وسط أمريكا - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Централна Америка – лятно време</Label>
@@ -2233,7 +2233,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">中美洲夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">中美洲日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">中美洲日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Let/zim. vreme u Centr. Americi</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Let/zim. vreme u Centr. Americi</Label>
 		<Info Bias="06:00:00" />
 	</TimeZone>
 	<TimeZone Name="CentralAsiaStandardTime">
@@ -2247,7 +2247,7 @@
 		<Label xml:lang="el-GR">(UTC+06:00) Αστάνα</Label>
 		<Label xml:lang="en-GB">(UTC+06:00) Astana</Label>
 		<Label xml:lang="en-US">(UTC+06:00) Astana</Label>
-		<Label xml:lang="es-ES">(UTC+06:00) Astana</Label>
+		<Label xml:lang="es-ES">(UTC+06:00) Astaná</Label>
 		<Label xml:lang="et-EE">(UTC+06:00) Astana</Label>
 		<Label xml:lang="fi-FI">(UTC+06:00) Astana</Label>
 		<Label xml:lang="fr-FR">(UTC+06:00) Astana</Label>
@@ -2275,7 +2275,7 @@
 		<Label xml:lang="zh-CN">(UTC+06:00)阿斯塔纳</Label>
 		<Label xml:lang="zh-HK">(UTC+06:00) 阿斯坦納</Label>
 		<Label xml:lang="zh-TW">(UTC+06:00) 阿斯坦納</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+06:00) Astana</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+06:00) Astana</Label>
 		<Label xml:lang="en" Type="Standard">Central Asia Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">وسط آسيا - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Централна Азия – станд. време</Label>
@@ -2313,7 +2313,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">中亚标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">中亞標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">中亞標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Centr. Aziji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Centr. Aziji</Label>
 		<Label xml:lang="en" Type="Daylight">Central Asia Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">وسط آسيا - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Централна Азия – лятно време</Label>
@@ -2351,7 +2351,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">中亚夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">中亞日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">中亞日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje/zims. vr. u Centr. Aziji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje/zims. vr. u Centr. Aziji</Label>
 		<Info Bias="-06:00:00" />
 	</TimeZone>
 	<TimeZone Name="CentralBrazilianStandardTime">
@@ -2393,7 +2393,7 @@
 		<Label xml:lang="zh-CN">(UTC-04:00)库亚巴</Label>
 		<Label xml:lang="zh-HK">(UTC-04:00) 古雅巴</Label>
 		<Label xml:lang="zh-TW">(UTC-04:00) 古雅巴</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-04:00) Kujaba</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-04:00) Kujaba</Label>
 		<Label xml:lang="en" Type="Standard">Central Brazilian Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">البرازيل الوسطى التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Центр. Бразилия – станд. време</Label>
@@ -2431,7 +2431,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">巴西中部标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">巴西中部標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">巴西中部標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Centralnobrazilsko stand. vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Centralnobrazilsko stand. vreme</Label>
 		<Label xml:lang="en" Type="Daylight">Central Brazilian Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">البرازيل الوسطى التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Централна Бразилия – лятно вр.</Label>
@@ -2469,7 +2469,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">巴西中部夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">巴西中部日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">巴西中部日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Centralnobraz. let/zimsko vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Centralnobraz. let/zimsko vreme</Label>
 		<Info Bias="04:00:00">
 			<Date Type="Standard" Week="Second" Day="Saturday" Month="February" Time="23:59:59">Second Saturday of February at 23:59:59</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
@@ -2654,7 +2654,7 @@
 		<Label xml:lang="zh-CN">(UTC+01:00)贝尔格莱德，布拉迪斯拉发，布达佩斯，卢布尔雅那，布拉格</Label>
 		<Label xml:lang="zh-HK">(UTC+01:00) 貝爾格勒，布拉提斯拉瓦，布達佩斯，盧布亞納，布拉格</Label>
 		<Label xml:lang="zh-TW">(UTC+01:00) 貝爾格勒，布拉提斯拉瓦，布達佩斯，盧布亞納，布拉格</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+01:00) Beograd, Bratislava, Budimpešta, Ljubljana, Prag</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+01:00) Beograd, Bratislava, Budimpešta, Ljubljana, Prag</Label>
 		<Label xml:lang="en" Type="Standard">Central Europe Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">أوروبا الوسطى - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Централна Европа – станд. време</Label>
@@ -2692,7 +2692,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">中欧标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">中歐標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">中歐標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standard. vreme u Centr. Evropi</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standard. vreme u Centr. Evropi</Label>
 		<Label xml:lang="en" Type="Daylight">Central Europe Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">أوروبا الوسطى - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Централна Европа – лятно време</Label>
@@ -2730,7 +2730,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">中欧夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">中歐日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">中歐日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Let/zim. vreme u Centr. Evropi</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Let/zim. vreme u Centr. Evropi</Label>
 		<Info Bias="-01:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="03:00:00">Last Sunday of October at 3:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
@@ -2770,12 +2770,12 @@
 		<Label xml:lang="sl-SI">(UTC+01:00) Sarajevo, Skopje, Varšava, Zagreb</Label>
 		<Label xml:lang="sv-SE">(UTC+01:00) Sarajevo, Skopje, Warszawa, Zagreb</Label>
 		<Label xml:lang="th-TH">(UTC+01:00) ซาราเยโว สโกเปีย วอร์ซอ ซาเกร็บ</Label>
-		<Label xml:lang="tr-TR">(UTC+01:00) Saray Bosna, Üsküp, Varşova, Zagreb</Label>
+		<Label xml:lang="tr-TR">(UTC+01:00) Saraybosna, Üsküp, Varşova, Zagreb</Label>
 		<Label xml:lang="uk-UA">(UTC+01:00) Сараєво, Скоп'є, Софія, Вільнюс, Варшава, Заґреб</Label>
 		<Label xml:lang="zh-CN">(UTC+01:00)萨拉热窝，斯科普里，华沙，萨格勒布</Label>
 		<Label xml:lang="zh-HK">(UTC+01:00) 塞拉耶佛，斯高彼亞，華沙，札格雷布</Label>
 		<Label xml:lang="zh-TW">(UTC+01:00) 塞拉耶佛，斯高彼亞，華沙，札格雷布</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+01:00) Sarajevo, Skoplje, Varšava, Zagreb</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+01:00) Sarajevo, Skoplje, Varšava, Zagreb</Label>
 		<Label xml:lang="en" Type="Standard">Central European Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">وسط أوروبا - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Централноевропейско станд. вр.</Label>
@@ -2798,7 +2798,7 @@
 		<Label xml:lang="lt-LT" Type="Standard">Standart. Vidurio Europos laik</Label>
 		<Label xml:lang="lv-LV" Type="Standard">Centrāleiropas standarta laiks</Label>
 		<Label xml:lang="nb-NO" Type="Standard">Sentraleuropeisk (normaltid)</Label>
-		<Label xml:lang="nl-NL" Type="Standard">Europa centraal (standaardtijd)</Label>
+		<Label xml:lang="nl-NL" Type="Standard">Centraal-Europa (standaardtijd)</Label>
 		<Label xml:lang="pl-PL" Type="Standard">Środkowoeuropejski czas stand.</Label>
 		<Label xml:lang="pt-BR" Type="Standard">Hora Padrão: Europa Central</Label>
 		<Label xml:lang="pt-PT" Type="Standard">Hora padrão Europa Central</Label>
@@ -2813,7 +2813,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">中欧的标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">歐洲中部標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">歐洲中部標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Srednjeevropsko standard. vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Srednjeevropsko standard. vreme</Label>
 		<Label xml:lang="en" Type="Daylight">Central European Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">وسط أوروبا - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Централноевропейско лятно време</Label>
@@ -2836,7 +2836,7 @@
 		<Label xml:lang="lt-LT" Type="Daylight">Vid. Europos std. laik</Label>
 		<Label xml:lang="lv-LV" Type="Daylight">Centrāleiropas vasaras laiks</Label>
 		<Label xml:lang="nb-NO" Type="Daylight">Sentraleuropeisk (sommertid)</Label>
-		<Label xml:lang="nl-NL" Type="Daylight">Europa centraal (zomertijd)</Label>
+		<Label xml:lang="nl-NL" Type="Daylight">Centraal-Europa (zomertijd)</Label>
 		<Label xml:lang="pl-PL" Type="Daylight">Środkowoeuropejski czas letni</Label>
 		<Label xml:lang="pt-BR" Type="Daylight">Hor. de Verão: Europa Central</Label>
 		<Label xml:lang="pt-PT" Type="Daylight">Hora de Verão Europa Central</Label>
@@ -2851,7 +2851,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">中欧的夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">歐洲中部日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">歐洲中部日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Srednjoevr. letnje vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Srednjoevr. letnje vreme</Label>
 		<Info Bias="-01:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="03:00:00">Last Sunday of October at 3:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
@@ -2889,14 +2889,14 @@
 		<Label xml:lang="ru-RU">(UTC+11:00) Соломоновы о-ва, Нов. Каледония</Label>
 		<Label xml:lang="sk-SK">(UTC+11:00) Šalamúnove ostrovy, Nová Kaledónia</Label>
 		<Label xml:lang="sl-SI">(UTC+11:00) Salomonovi otoki, Nova Kaledonija</Label>
-		<Label xml:lang="sv-SE">(UTC+11:00) Solomonöarna, Nya Kaledonien</Label>
+		<Label xml:lang="sv-SE">(UTC+11:00) Salomonöarna, Nya Kaledonien</Label>
 		<Label xml:lang="th-TH">(UTC+11:00) หมู่เกาะโซโลมอน, นิวแคลิโดเนีย</Label>
 		<Label xml:lang="tr-TR">(UTC+11:00) Solomon Adl., Yeni Kaledonya</Label>
 		<Label xml:lang="uk-UA">(UTC+11:00) Соломонові о-ви, Нова Каледонія</Label>
 		<Label xml:lang="zh-CN">(UTC+11:00)所罗门群岛，新喀里多尼亚</Label>
 		<Label xml:lang="zh-HK">(UTC+11:00) 索羅門群島，新喀里多尼亞群島</Label>
 		<Label xml:lang="zh-TW">(UTC+11:00) 索羅門群島，新喀里多尼亞群島</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+11:00) Solomonska Ostrva, Nova Kaledonija</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+11:00) Solomonska Ostrva, Nova Kaledonija</Label>
 		<Label xml:lang="en" Type="Standard">Central Pacific Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">وسط الباسيفيك - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Централнотихоок. станд. време</Label>
@@ -2934,7 +2934,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">太平洋中部标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">太平洋中部標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">太平洋中部標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Centralnopacifičko stand. vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Centralnopacifičko stand. vreme</Label>
 		<Label xml:lang="en" Type="Daylight">Central Pacific Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">وسط الباسيفيك - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Централнотихоок. лятно време</Label>
@@ -2972,7 +2972,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">太平洋中部夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">太平洋中部日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">太平洋中部日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Centralnopac. letnje vr.</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Centralnopac. letnje vr.</Label>
 		<Info Bias="-11:00:00" />
 	</TimeZone>
 	<TimeZone Name="CentralStandardTime">
@@ -3014,7 +3014,7 @@
 		<Label xml:lang="zh-CN">(UTC-06:00)中部时间(美国和加拿大)</Label>
 		<Label xml:lang="zh-HK">(UTC-06:00) 中部時間 (美國和加拿大)</Label>
 		<Label xml:lang="zh-TW">(UTC-06:00) 中部時間 (美國和加拿大)</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-06:00) Centralno vreme (SAD i Kanada)</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-06:00) Centralno vreme (SAD i Kanada)</Label>
 		<Label xml:lang="en" Type="Standard">Central Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">التوقيت الرسمي المركزي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Централно стандартно време</Label>
@@ -3052,7 +3052,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">中部标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">美加中部標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">美加中部標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Centralno standardno vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Centralno standardno vreme</Label>
 		<Label xml:lang="en" Type="Daylight">Central Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">التوقيت الصيفي المركزي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Централно лятно време</Label>
@@ -3090,7 +3090,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">中部夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">美加中部日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">美加中部日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Centralno letnje vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Centralno letnje vreme</Label>
 		<Info Bias="06:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="02:00:00">Last Sunday of October at 2:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Sunday" Month="April" Time="02:00:00">First Sunday of April at 2:00</Date>
@@ -3143,7 +3143,7 @@
 		<Label xml:lang="zh-CN">(UTC-06:00)瓜达拉哈拉，墨西哥城，蒙特雷</Label>
 		<Label xml:lang="zh-HK">(UTC-06:00) 瓜達拉加若，墨西哥城，蒙特利</Label>
 		<Label xml:lang="zh-TW">(UTC-06:00) 瓜達拉加若，墨西哥城，蒙特利</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-06:00) Gvadalahara, Meksiko Siti, Monterej</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-06:00) Gvadalahara, Meksiko Siti, Monterej</Label>
 		<Label xml:lang="en" Type="Standard">Central Standard Time (Mexico)</Label>
 		<Label xml:lang="ar-SA" Type="Standard">التوقيت الوسط الرسمي (المكسيك)</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Централно ст. време (Мексико)</Label>
@@ -3181,7 +3181,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">中部标准时间(墨西哥)</Label>
 		<Label xml:lang="zh-HK" Type="Standard">中部標準時間 (墨西哥)</Label>
 		<Label xml:lang="zh-TW" Type="Standard">中部標準時間 (墨西哥)</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Central. stand. vreme (Meksiko)</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Central. stand. vreme (Meksiko)</Label>
 		<Label xml:lang="en" Type="Daylight">Central Summer Time (Mexico)</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">توقيت الوسط الصيفي (المكسيك)</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Централно лятно време (Мексико)</Label>
@@ -3219,7 +3219,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">中部夏令时(墨西哥)</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">中部日光節約時間 (墨西哥)</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">中部日光節約時間 (墨西哥)</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Centr. let/zim. vreme (Meksiko)</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Centr. let/zim. vreme (Meksiko)</Label>
 		<Info Bias="06:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="02:00:00">Last Sunday of October at 2:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Sunday" Month="April" Time="02:00:00">First Sunday of April at 2:00</Date>
@@ -3227,14 +3227,14 @@
 	</TimeZone>
 	<TimeZone Name="ChinaStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\China Standard Time">China Standard Time</Link>
-		<Label xml:lang="en">(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi</Label>
+		<Label xml:lang="en">(UTC+08:00) Beijing, Chongqing, Hong Kong SAR, Urumqi</Label>
 		<Label xml:lang="ar-SA">(UTC+08:00) بكين، شونجكينج، هونج كونج، أورومكي</Label>
 		<Label xml:lang="bg-BG">(UTC+08:00) Пекин, Чонгцин, Хонконг, Урумчи</Label>
 		<Label xml:lang="cs-CZ">(UTC+08:00) Peking, Čchung-čching, Hongkong, Urumqi</Label>
 		<Label xml:lang="da-DK">(UTC+08:00) Beijing, Chongjin, Hongkong, Ürümqi</Label>
 		<Label xml:lang="de-DE">(UTC+08:00) Peking, Chongqing, Hongkong (SAR), Urumchi</Label>
 		<Label xml:lang="el-GR">(UTC+08:00) Πεκίνο, Τσονγκ-κινγκ, Χονγκ Κονγκ,  Ουρούμκι</Label>
-		<Label xml:lang="en-GB">(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi</Label>
+		<Label xml:lang="en-GB">(UTC+08:00) Beijing, Chongqing, Hong Kong SAR, Urumqi</Label>
 		<Label xml:lang="en-US">(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi</Label>
 		<Label xml:lang="es-ES">(UTC+08:00) Pekín, Chongqing, Hong Kong, Urumqi</Label>
 		<Label xml:lang="et-EE">(UTC+08:00) Peking, Chongqing, Hongkong, Urumqi</Label>
@@ -3260,11 +3260,11 @@
 		<Label xml:lang="sv-SE">(UTC+08:00) Beijing, Chongqing, Hongkong, Urumqi</Label>
 		<Label xml:lang="th-TH">(UTC+08:00) เป่ย์จิง ฉงชิ่ง ฮ่องกง อุรุมชี</Label>
 		<Label xml:lang="tr-TR">(UTC+08:00) Pekin, Çongcin, Hong Kong, Urumçi</Label>
-		<Label xml:lang="uk-UA">(UTC+08:00) Пекін, Чхонджін, Сянґан, Урумчі</Label>
+		<Label xml:lang="uk-UA">(UTC+08:00) Пекін, Чхонджін, Гонконґ, Урумчі</Label>
 		<Label xml:lang="zh-CN">(UTC+08:00)北京，重庆，香港特别行政区，乌鲁木齐</Label>
 		<Label xml:lang="zh-HK">(UTC+08:00) 北京，重慶，香港特別行政區，烏魯木齊</Label>
 		<Label xml:lang="zh-TW">(UTC+08:00) 北京，重慶，香港特別行政區，烏魯木齊</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+08:00) Peking, Čungking, Hongkong, Urumki</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+08:00) Peking, Čungking, Hongkong, Urumki</Label>
 		<Label xml:lang="en" Type="Standard">China Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">الصين - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Китайско стандартно време</Label>
@@ -3302,7 +3302,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">中国标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">中國標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">中國標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Kini</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Kini</Label>
 		<Label xml:lang="en" Type="Daylight">China Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">الصين - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Китайско лятно време</Label>
@@ -3340,7 +3340,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">中国夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">中國日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">中國日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Kini</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme u Kini</Label>
 		<Info Bias="-08:00:00" />
 	</TimeZone>
 	<TimeZone Name="DatelineStandardTime">
@@ -3382,7 +3382,7 @@
 		<Label xml:lang="zh-CN">(UTC-12:00)国际日期变更线西</Label>
 		<Label xml:lang="zh-HK">(UTC-12:00) 國際換日線以西</Label>
 		<Label xml:lang="zh-TW">(UTC-12:00) 國際換日線以西</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-12:00) Međunarodna zapadna granica datuma</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-12:00) Međunarodna zapadna granica datuma</Label>
 		<Label xml:lang="en" Type="Standard">Dateline Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">خط التاريخ - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Линия смяна дата – станд. време</Label>
@@ -3420,7 +3420,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">国际日期变更线标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">國際換日線標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">國際換日線標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme granice datuma</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme granice datuma</Label>
 		<Label xml:lang="en" Type="Daylight">Dateline Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">خط التاريخ - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Линия – смяна дата – лятно вр.</Label>
@@ -3458,7 +3458,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">国际日期变更线夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">國際換日線日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">國際換日線日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Let/zim. vreme granice datuma</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Let/zim. vreme granice datuma</Label>
 		<Info Bias="12:00:00" />
 	</TimeZone>
 	<TimeZone Name="EAfricaStandardTime">
@@ -3500,7 +3500,7 @@
 		<Label xml:lang="zh-CN">(UTC+03:00)内罗毕</Label>
 		<Label xml:lang="zh-HK">(UTC+03:00) 奈洛比</Label>
 		<Label xml:lang="zh-TW">(UTC+03:00) 奈洛比</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+03:00) Najrobi</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+03:00) Najrobi</Label>
 		<Label xml:lang="en" Type="Standard">E. Africa Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">شرق أفريقيا - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Източноафриканско станд. време</Label>
@@ -3538,7 +3538,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">东非标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">東非標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">東非標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Ist. Africi</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Ist. Africi</Label>
 		<Label xml:lang="en" Type="Daylight">E. Africa Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">شرق أفريقيا - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Източноафриканско лятно време</Label>
@@ -3576,7 +3576,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">东非夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">東非日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">東非日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vr. u Ist. Africi</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vr. u Ist. Africi</Label>
 		<Info Bias="-03:00:00" />
 	</TimeZone>
 	<TimeZone Name="EAustraliaStandardTime">
@@ -3618,7 +3618,7 @@
 		<Label xml:lang="zh-CN">(UTC+10:00)布里斯班</Label>
 		<Label xml:lang="zh-HK">(UTC+10:00) 布里斯本</Label>
 		<Label xml:lang="zh-TW">(UTC+10:00) 布里斯本</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+10:00) Brizbejn</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+10:00) Brizbejn</Label>
 		<Label xml:lang="en" Type="Standard">E. Australia Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">شرق استراليا - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Източноавстралийско ст. време</Label>
@@ -3656,7 +3656,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">东部澳大利亚标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">東澳洲標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">東澳洲標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Stand. vreme u ist. Australiji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Stand. vreme u ist. Australiji</Label>
 		<Label xml:lang="en" Type="Daylight">E. Australia Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">شرق استراليا - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Източноавстралийско лятно време</Label>
@@ -3694,7 +3694,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">东部澳大利亚夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">東澳洲日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">東澳洲日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Let/zim. vr. u ist. Australiji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Let/zim. vr. u ist. Australiji</Label>
 		<Info Bias="-10:00:00" />
 	</TimeZone>
 	<TimeZone Name="EEuropeStandardTime">
@@ -3715,7 +3715,7 @@
 		<Label xml:lang="he-IL">(UTC+02:00) מזרח אירופה</Label>
 		<Label xml:lang="hr-HR">(UTC+02:00) I. Europa</Label>
 		<Label xml:lang="hu-HU">(UTC+02:00) Kelet-Európa</Label>
-		<Label xml:lang="it-IT">(UTC+02.00) Europa orientale</Label>
+		<Label xml:lang="it-IT">(UTC+2.00) Europa orientale</Label>
 		<Label xml:lang="ja-JP">(UTC+02:00) 東ヨーロッパ</Label>
 		<Label xml:lang="ko-KR">(UTC+02:00) 동유럽</Label>
 		<Label xml:lang="lt-LT">(UTC+02:00) Rytų Europa</Label>
@@ -3736,7 +3736,7 @@
 		<Label xml:lang="zh-CN">(UTC+02:00)东欧</Label>
 		<Label xml:lang="zh-HK">(UTC+02:00) 東歐</Label>
 		<Label xml:lang="zh-TW">(UTC+02:00) 東歐</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+02:00) Ist. Evropa</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+02:00) Ist. Evropa</Label>
 		<Label xml:lang="en" Type="Standard">E. Europe Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">أوروبا الشرقية - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Източноевропейско станд. време</Label>
@@ -3774,7 +3774,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">东欧标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">東歐標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">東歐標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Ist. Evropi</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Ist. Evropi</Label>
 		<Label xml:lang="en" Type="Daylight">E. Europe Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">أوروبا الشرقية - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Източноевропейско лятно време</Label>
@@ -3812,7 +3812,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">东欧夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">東歐日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">東歐日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vr. u Ist. Evropi</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vr. u Ist. Evropi</Label>
 		<Info Bias="-02:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="03:00:00">Last Sunday of October at 3:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
@@ -3857,7 +3857,7 @@
 		<Label xml:lang="zh-CN">(UTC-03:00)巴西利亚</Label>
 		<Label xml:lang="zh-HK">(UTC-03:00) 巴西利亞</Label>
 		<Label xml:lang="zh-TW">(UTC-03:00) 巴西利亞</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-03:00) Brazilija</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-03:00) Brazilija</Label>
 		<Label xml:lang="en" Type="Standard">E. South America Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">شرق جنوب أمريكا التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Изт. Южна Америка – ст. време</Label>
@@ -3895,7 +3895,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">东部南美洲标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">東南美洲標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">東南美洲標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Ist. stand. vreme u J. Americi </Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Ist. stand. vreme u J. Americi </Label>
 		<Label xml:lang="en" Type="Daylight">E. South America Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">شرق جنوب أمريكا التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Изт. Южна Америка – лятно време</Label>
@@ -3933,7 +3933,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">东部南美洲夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">東南美洲日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">東南美洲日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Ist. letnje vreme u J.Americi</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Ist. letnje vreme u J.Americi</Label>
 		<Info Bias="03:00:00">
 			<Date Type="Standard" Week="Second" Day="Saturday" Month="February" Time="23:59:59">Second Saturday of February at 23:59:59</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Saturday" Month="October" Time="23:59:59">Third Saturday of October at 23:59:59</Date>
@@ -4118,7 +4118,7 @@
 		<Label xml:lang="zh-CN">(UTC-05:00)东部时间(美国和加拿大)</Label>
 		<Label xml:lang="zh-HK">(UTC-05:00) 東部時間 (美國和加拿大)</Label>
 		<Label xml:lang="zh-TW">(UTC-05:00) 東部時間 (美國和加拿大)</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-05:00) Istočno vreme (SAD i Kanada)</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-05:00) Istočno vreme (SAD i Kanada)</Label>
 		<Label xml:lang="en" Type="Standard">Eastern Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">التوقيت الرسمي الشرقي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Източно стандартно време</Label>
@@ -4156,7 +4156,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">东部标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">美加東部標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">美加東部標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Istočno standardno vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Istočno standardno vreme</Label>
 		<Label xml:lang="en" Type="Daylight">Eastern Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">التوقيت الصيفي الشرقي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Източно лятно време</Label>
@@ -4194,7 +4194,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">东部夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">美加東部日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">美加東部日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Istocno letnje vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Istocno letnje vreme</Label>
 		<Info Bias="05:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="02:00:00">Last Sunday of October at 2:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Sunday" Month="April" Time="02:00:00">First Sunday of April at 2:00</Date>
@@ -4247,7 +4247,7 @@
 		<Label xml:lang="zh-CN">(UTC+02:00)开罗</Label>
 		<Label xml:lang="zh-HK">(UTC+02:00) 開羅</Label>
 		<Label xml:lang="zh-TW">(UTC+02:00) 開羅</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+02:00) Kairo</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+02:00) Kairo</Label>
 		<Label xml:lang="en" Type="Standard">Egypt Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">مصر - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Египетско стандартно време</Label>
@@ -4285,7 +4285,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">埃及标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">埃及標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">埃及標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Egiptu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Egiptu</Label>
 		<Label xml:lang="en" Type="Daylight">Egypt Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">مصر - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Египетско лятно време</Label>
@@ -4323,7 +4323,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">埃及夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">埃及日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">埃及日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Egiptu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme u Egiptu</Label>
 		<Info Bias="-02:00:00" />
 		<Info Year="2005" Bias="-02:00:00">
 			<Date Type="Standard" Week="Last" Day="Thursday" Month="September" Time="23:59:59">Last Thursday of September at 23:59:59</Date>
@@ -4390,7 +4390,7 @@
 		<Label xml:lang="zh-CN">(UTC+06:00)叶卡捷琳堡</Label>
 		<Label xml:lang="zh-HK">(UTC+06:00) 伊卡特林堡</Label>
 		<Label xml:lang="zh-TW">(UTC+06:00) 伊卡特林堡</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+06:00) Ekaterinburg</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+06:00) Ekaterinburg</Label>
 		<Label xml:lang="en" Type="Standard">Ekaterinburg Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">إكاترينبرج - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Екатеринбург – стандартно време</Label>
@@ -4428,7 +4428,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">叶卡捷琳堡标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">伊卡特林堡標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">伊卡特林堡標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standard. vreme u Ekaterinburgu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standard. vreme u Ekaterinburgu</Label>
 		<Label xml:lang="en" Type="Daylight">Ekaterinburg Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">إكاترينبرج - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Екатеринбург – лятно време</Label>
@@ -4466,7 +4466,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">叶卡捷琳堡夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">伊卡特林堡日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">伊卡特林堡日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje/zim. vr. u Ekaterinburgu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje/zim. vr. u Ekaterinburgu</Label>
 		<Info Bias="-05:00:00">
 			<Date Type="Standard" Week="First" Day="Saturday" Month="January" Time="00:00:00">First Saturday of January at 0:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
@@ -4520,7 +4520,7 @@
 		<Label xml:lang="zh-CN">(UTC+12:00)斐济</Label>
 		<Label xml:lang="zh-HK">(UTC+12:00) 斐濟</Label>
 		<Label xml:lang="zh-TW">(UTC+12:00) 斐濟</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+12:00) Fidži</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+12:00) Fidži</Label>
 		<Label xml:lang="en" Type="Standard">Fiji Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">فيجي - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Фиджи – стандартно време</Label>
@@ -4558,7 +4558,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">斐济标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">斐濟標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">斐濟標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standard. vreme na ostrvu Fidži</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standard. vreme na ostrvu Fidži</Label>
 		<Label xml:lang="en" Type="Daylight">Fiji Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">فيجي - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Фиджи – лятно време</Label>
@@ -4596,10 +4596,10 @@
 		<Label xml:lang="zh-CN" Type="Daylight">斐济夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">斐濟日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">斐濟日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme na Fidžiju</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme na Fidžiju</Label>
 		<Info Bias="-12:00:00">
-			<Date Type="Standard" Week="Fourth" Day="Sunday" Month="January" Time="03:00:00">Fourth Sunday of January at 3:00</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Sunday" Month="October" Time="02:00:00">Third Sunday of October at 2:00</Date>
+			<Date Type="Standard" Week="Third" Day="Sunday" Month="January" Time="03:00:00">Third Sunday of January at 3:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Fourth" Day="Sunday" Month="October" Time="02:00:00">Fourth Sunday of October at 2:00</Date>
 		</Info>
 		<Info Year="2008" Bias="-12:00:00" />
 		<Info Year="2009" Bias="-12:00:00">
@@ -4623,6 +4623,10 @@
 			<Date Type="Daylight" Bias="-01:00:00" Week="Fourth" Day="Sunday" Month="October" Time="02:00:00">Fourth Sunday of October at 2:00</Date>
 		</Info>
 		<Info Year="2014" Bias="-12:00:00">
+			<Date Type="Standard" Week="Third" Day="Sunday" Month="January" Time="03:00:00">Third Sunday of January at 3:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Fourth" Day="Sunday" Month="October" Time="02:00:00">Fourth Sunday of October at 2:00</Date>
+		</Info>
+		<Info Year="2015" Bias="-12:00:00">
 			<Date Type="Standard" Week="Fourth" Day="Sunday" Month="January" Time="03:00:00">Fourth Sunday of January at 3:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Fourth" Day="Sunday" Month="October" Time="02:00:00">Fourth Sunday of October at 2:00</Date>
 		</Info>
@@ -4666,7 +4670,7 @@
 		<Label xml:lang="zh-CN">(UTC+02:00)赫尔辛基，基辅，里加，索非亚，塔林，维尔纽斯</Label>
 		<Label xml:lang="zh-HK">(UTC+02:00) 赫爾辛基，凱耶夫，里加，蘇非亞，塔林，維爾紐斯</Label>
 		<Label xml:lang="zh-TW">(UTC+02:00) 赫爾辛基，凱耶夫，里加，蘇非亞，塔林，維爾紐斯</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+02:00) Helsinki, Kijev, Riga, Sofija, Talin, Viljnus</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+02:00) Helsinki, Kijev, Riga, Sofija, Talin, Viljnus</Label>
 		<Label xml:lang="en" Type="Standard">FLE Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">فنلندا - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Финландия - стандартно време</Label>
@@ -4704,7 +4708,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">FLE 标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">FLE 標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">FLE 標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">FLE standardno vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">FLE standardno vreme</Label>
 		<Label xml:lang="en" Type="Daylight">FLE Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">فنلندا - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Финландия - лятно часово време</Label>
@@ -4742,7 +4746,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">FLE 夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">FLE 日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">FLE 日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">FLE letnje vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">FLE letnje vreme</Label>
 		<Info Bias="-02:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="04:00:00">Last Sunday of October at 4:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="03:00:00">Last Sunday of March at 3:00</Date>
@@ -4787,7 +4791,7 @@
 		<Label xml:lang="zh-CN">(UTC+04:00)第比利斯</Label>
 		<Label xml:lang="zh-HK">(UTC+04:00) 第比利斯</Label>
 		<Label xml:lang="zh-TW">(UTC+04:00) 第比利斯</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+04:00) Tbilisi</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+04:00) Tbilisi</Label>
 		<Label xml:lang="en" Type="Standard">Georgian Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">جورجيا - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Грузинско стандартно време</Label>
@@ -4825,7 +4829,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">格鲁吉亚标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">喬治亞標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">喬治亞標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Gruziji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Gruziji</Label>
 		<Label xml:lang="en" Type="Daylight">Georgian Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">جورجيا - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Грузинско лятно време</Label>
@@ -4863,7 +4867,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">格鲁吉亚夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">喬治亞日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">喬治亞日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Gruziji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme u Gruziji</Label>
 		<Info Bias="-04:00:00" />
 	</TimeZone>
 	<TimeZone Name="GMTStandardTime">
@@ -4905,7 +4909,7 @@
 		<Label xml:lang="zh-CN">(UTC)都柏林，爱丁堡，里斯本，伦敦</Label>
 		<Label xml:lang="zh-HK">(UTC) 都柏林，愛丁堡，里斯本，倫敦</Label>
 		<Label xml:lang="zh-TW">(UTC) 都柏林，愛丁堡，里斯本，倫敦</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC) Dablin, Edinburg, Lisabon, London</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC) Dablin, Edinburg, Lisabon, London</Label>
 		<Label xml:lang="en" Type="Standard">GMT Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">GMT - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">GMT Ср. време Гринуич – станд.</Label>
@@ -4943,7 +4947,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">GMT 标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">GMT 標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">GMT 標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">GMT standardno vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">GMT standardno vreme</Label>
 		<Label xml:lang="en" Type="Daylight">GMT Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">GMT - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">GMT Ср. време Гринуич – лятно</Label>
@@ -4981,7 +4985,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">GMT 夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">GMT 日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">GMT 日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">GMT letnje vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">GMT letnje vreme</Label>
 		<Info Bias="00:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="02:00:00">Last Sunday of October at 2:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="01:00:00">Last Sunday of March at 1:00</Date>
@@ -5026,7 +5030,7 @@
 		<Label xml:lang="zh-CN">(UTC-03:00)格陵兰</Label>
 		<Label xml:lang="zh-HK">(UTC-03:00) 格陵蘭</Label>
 		<Label xml:lang="zh-TW">(UTC-03:00) 格陵蘭</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-03:00) Grenland</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-03:00) Grenland</Label>
 		<Label xml:lang="en" Type="Standard">Greenland Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">جرين لاند - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Гренландия – стандартно време</Label>
@@ -5064,7 +5068,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">格陵兰标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">格陵蘭標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">格陵蘭標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme na Grenlandu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme na Grenlandu</Label>
 		<Label xml:lang="en" Type="Daylight">Greenland Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">جرين لاند - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Гренландия – лятно време</Label>
@@ -5102,7 +5106,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">格陵兰夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">格陵蘭日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">格陵蘭日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje/zim. vreme na Grenlandu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje/zim. vreme na Grenlandu</Label>
 		<Info Bias="03:00:00">
 			<Date Type="Standard" Week="Fourth" Day="Saturday" Month="October" Time="23:00:00">Fourth Saturday of October at 23:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Saturday" Month="March" Time="22:00:00">Last Saturday of March at 22:00</Date>
@@ -5203,7 +5207,7 @@
 		<Label xml:lang="zh-CN">(UTC)蒙罗维亚，雷克雅未克</Label>
 		<Label xml:lang="zh-HK">(UTC) 蒙羅維亞，雷克雅維克</Label>
 		<Label xml:lang="zh-TW">(UTC) 蒙羅維亞，雷克雅維克</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC) Monrovija, Rejkjavik</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC) Monrovija, Rejkjavik</Label>
 		<Label xml:lang="en" Type="Standard">Greenwich Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">جرينتش - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Гринуич – стандартно време</Label>
@@ -5241,7 +5245,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">格林威治标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">格林威治標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">格林威治標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Griničko standardno vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Griničko standardno vreme</Label>
 		<Label xml:lang="en" Type="Daylight">Greenwich Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">جرينتش - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Гринуич – лятно време</Label>
@@ -5279,7 +5283,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">格林威治夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">格林威治日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">格林威治日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Grinicko letnje vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Grinicko letnje vreme</Label>
 		<Info Bias="00:00:00" />
 	</TimeZone>
 	<TimeZone Name="GTBStandardTime">
@@ -5321,7 +5325,7 @@
 		<Label xml:lang="zh-CN">(UTC+02:00)雅典，布加勒斯特</Label>
 		<Label xml:lang="zh-HK">(UTC+02:00) 雅典，布加勒斯特</Label>
 		<Label xml:lang="zh-TW">(UTC+02:00) 雅典，布加勒斯特</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+02:00) Atina, Bukurešt</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+02:00) Atina, Bukurešt</Label>
 		<Label xml:lang="en" Type="Standard">GTB Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">GTB - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Гърция/Турция – ст. време</Label>
@@ -5359,7 +5363,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">GTB 标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">GTB 標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">GTB 標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">GTB standardno vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">GTB standardno vreme</Label>
 		<Label xml:lang="en" Type="Daylight">GTB Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">GTB التوقيت - الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Гърция/Турция – лятно време</Label>
@@ -5397,7 +5401,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">GTB 夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">GTB 日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">GTB 日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">GTB letnje vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">GTB letnje vreme</Label>
 		<Info Bias="-02:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="04:00:00">Last Sunday of October at 4:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="03:00:00">Last Sunday of March at 3:00</Date>
@@ -5442,7 +5446,7 @@
 		<Label xml:lang="zh-CN">(UTC-10:00)夏威夷</Label>
 		<Label xml:lang="zh-HK">(UTC-10:00) 夏威夷</Label>
 		<Label xml:lang="zh-TW">(UTC-10:00) 夏威夷</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-10:00) Havaji</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-10:00) Havaji</Label>
 		<Label xml:lang="en" Type="Standard">Hawaiian Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">الهوايانية - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Хавайско стандартно време</Label>
@@ -5480,7 +5484,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">夏威夷标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">夏威夷標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">夏威夷標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme na Havajima</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme na Havajima</Label>
 		<Label xml:lang="en" Type="Daylight">Hawaiian Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">الهوايانية - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Хавайско лятно време</Label>
@@ -5518,7 +5522,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">夏威夷夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">夏威夷日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">夏威夷日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme na Havajima</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme na Havajima</Label>
 		<Info Bias="10:00:00" />
 	</TimeZone>
 	<TimeZone Name="IndiaStandardTime">
@@ -5552,7 +5556,7 @@
 		<Label xml:lang="ro-RO">(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi</Label>
 		<Label xml:lang="ru-RU">(UTC+05:30) Колката, Мумбаи, Нью-Дели, Ченнай</Label>
 		<Label xml:lang="sk-SK">(UTC+05:30) Čenaj, Kalkata, Mumbaí, Nové Dillí</Label>
-		<Label xml:lang="sl-SI">(UTC+05:30) Čenaj, Kalkuta, Mumbaj, New Delhi</Label>
+		<Label xml:lang="sl-SI">(UTC+05:30) Čenaj, Kolkota, Mumbaj, New Delhi</Label>
 		<Label xml:lang="sv-SE">(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi</Label>
 		<Label xml:lang="th-TH">(UTC+05:30) เชนไน กัลกัตตา มุมไบ นิวเดลี</Label>
 		<Label xml:lang="tr-TR">(UTC+05:30) Chennai, Kalküta, Mumbai, Yeni Delhi</Label>
@@ -5560,7 +5564,7 @@
 		<Label xml:lang="zh-CN">(UTC+05:30)钦奈，加尔各答，孟买，新德里</Label>
 		<Label xml:lang="zh-HK">(UTC+05:30) 辰內，加爾各答，孟拜，新德里</Label>
 		<Label xml:lang="zh-TW">(UTC+05:30) 辰內，加爾各答，孟拜，新德里</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+05:30) Čenaj, Kalkuta, Mumbaj, Nju Delhi</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+05:30) Čenaj, Kalkuta, Mumbaj, Nju Delhi</Label>
 		<Label xml:lang="en" Type="Standard">India Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">الهند - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Индия – стандартно време</Label>
@@ -5598,7 +5602,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">印度标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">印度標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">印度標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Indiji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Indiji</Label>
 		<Label xml:lang="en" Type="Daylight">India Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">الهند - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Индия – лятно време</Label>
@@ -5636,7 +5640,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">印度夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">印度日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">印度日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Indiji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme u Indiji</Label>
 		<Info Bias="-05:30:00" />
 	</TimeZone>
 	<TimeZone Name="IranStandardTime">
@@ -5678,7 +5682,7 @@
 		<Label xml:lang="zh-CN">(UTC+03:30)德黑兰</Label>
 		<Label xml:lang="zh-HK">(UTC+03:30) 德黑蘭</Label>
 		<Label xml:lang="zh-TW">(UTC+03:30) 德黑蘭</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+03:30) Teheran</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+03:30) Teheran</Label>
 		<Label xml:lang="en" Type="Standard">Iran Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">إيران - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Иранско стандартно време</Label>
@@ -5716,7 +5720,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">伊朗标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">伊朗標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">伊朗標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Iranu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Iranu</Label>
 		<Label xml:lang="en" Type="Daylight">Iran Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">إيران - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Иранско лятно време</Label>
@@ -5754,7 +5758,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">伊朗夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">伊朗日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">伊朗日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Iranu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme u Iranu</Label>
 		<Info Bias="-03:30:00">
 			<Date Type="Standard" Week="Third" Day="Saturday" Month="September" Time="23:59:59">Third Saturday of September at 23:59:59</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Thursday" Month="March" Time="23:59:59">Third Thursday of March at 23:59:59</Date>
@@ -5813,7 +5817,7 @@
 		<Label xml:lang="zh-CN">(UTC+02:00)耶路撒冷</Label>
 		<Label xml:lang="zh-HK">(UTC+02:00) 耶路撒冷</Label>
 		<Label xml:lang="zh-TW">(UTC+02:00) 耶路撒冷</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+02:00) Jerusalim</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+02:00) Jerusalim</Label>
 		<Label xml:lang="en" Type="Standard">Jerusalem Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">القدس التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Йерусалимско стандартно време</Label>
@@ -5851,7 +5855,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">耶路撒冷标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">耶路撒冷標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">耶路撒冷標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Jerusalimu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Jerusalimu</Label>
 		<Label xml:lang="en" Type="Daylight">Jerusalem Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">القدس - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Йерусалим – лятно време</Label>
@@ -5889,7 +5893,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">耶路撒冷夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">耶路撒冷日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">耶路撒冷日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje/zims. vreme u Jerusalimu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje/zims. vreme u Jerusalimu</Label>
 		<Info Bias="-02:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="02:00:00">Last Sunday of October at 2:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Friday" Month="March" Time="02:00:00">Last Friday of March at 2:00</Date>
@@ -6011,7 +6015,7 @@
 		<Label xml:lang="zh-CN">(UTC+03:00)安曼</Label>
 		<Label xml:lang="zh-HK">(UTC+03:00) 安曼</Label>
 		<Label xml:lang="zh-TW">(UTC+03:00) 安曼</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+03:00) Aman</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+03:00) Aman</Label>
 		<Label xml:lang="en" Type="Standard">Jordan Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">الأردن - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Йорданско стандартно време</Label>
@@ -6049,7 +6053,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">约旦标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">約旦標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">約旦標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Jordansko standardno vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Jordansko standardno vreme</Label>
 		<Label xml:lang="en" Type="Daylight">Jordan Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">الأردن - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Йорданско лятно часово време</Label>
@@ -6087,7 +6091,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">约旦夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">約旦日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">約旦日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Jordansko letnje vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Jordansko letnje vreme</Label>
 		<Info Bias="-02:00:00">
 			<Date Type="Standard" Week="First" Day="Sunday" Month="January" Time="00:00:00">First Sunday of January at 0:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Thursday" Month="March" Time="23:59:59">Last Thursday of March at 23:59:59</Date>
@@ -6161,7 +6165,7 @@
 		<Label xml:lang="zh-CN">(UTC+03:00)加里宁格勒，明斯克</Label>
 		<Label xml:lang="zh-HK">(UTC+03:00) 卡里寧格勒，明斯克</Label>
 		<Label xml:lang="zh-TW">(UTC+03:00) 卡里寧格勒，明斯克</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+03:00) Kalinjingrad, Minsk</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+03:00) Kalinjingrad, Minsk</Label>
 		<Label xml:lang="en" Type="Standard">Kaliningrad Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">التوقيت الرسمي، كالينينجراد</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Калининград - стандартно време</Label>
@@ -6199,7 +6203,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">加里宁格勒标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">卡里寧格勒標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">卡里寧格勒標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vr. u Kalinjingradu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vr. u Kalinjingradu</Label>
 		<Label xml:lang="en" Type="Daylight">Kaliningrad Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">التوقيت الصيفي، كالينينجراد</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Калининград - лятно време</Label>
@@ -6237,7 +6241,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">加里宁格勒夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">卡里寧格勒日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">卡里寧格勒日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje/zim. vr. u Kalinjingradu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje/zim. vr. u Kalinjingradu</Label>
 		<Info Bias="-02:00:00">
 			<Date Type="Standard" Week="First" Day="Saturday" Month="January" Time="00:00:00">First Saturday of January at 0:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
@@ -6291,7 +6295,7 @@
 		<Label xml:lang="zh-CN">(UTC+12:00)彼得罗巴甫洛夫斯克-堪察加 - 旧用</Label>
 		<Label xml:lang="zh-HK">(UTC+12:00) 彼得保羅夫斯克-堪察加斯克 - 已過時</Label>
 		<Label xml:lang="zh-TW">(UTC+12:00) 彼得保羅夫斯克-堪察加斯克 - 已過時</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+12:00) Petropavlovsk-Kamčatski - zastarelo</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+12:00) Petropavlovsk-Kamčatski - zastarelo</Label>
 		<Label xml:lang="en" Type="Standard">Kamchatka Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">كامشاتكا التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Камчатско стандартно време</Label>
@@ -6329,7 +6333,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">堪察加标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">勘察加標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">勘察加標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Kamčatki</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Kamčatki</Label>
 		<Label xml:lang="en" Type="Daylight">Kamchatka Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">كامشاتكا التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Камчатско лятно часово време</Label>
@@ -6367,7 +6371,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">堪察加夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">勘察加日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">勘察加日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Kamčatki</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme u Kamčatki</Label>
 		<Info Bias="-12:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="03:00:00">Last Sunday of October at 3:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
@@ -6412,7 +6416,7 @@
 		<Label xml:lang="zh-CN">(UTC+09:00)首尔</Label>
 		<Label xml:lang="zh-HK">(UTC+09:00) 首爾</Label>
 		<Label xml:lang="zh-TW">(UTC+09:00) 首爾</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+09:00) Seul</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+09:00) Seul</Label>
 		<Label xml:lang="en" Type="Standard">Korea Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">كوريا - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Корейско стандартно време</Label>
@@ -6450,7 +6454,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">韩国标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">韓國標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">韓國標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Koreji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Koreji</Label>
 		<Label xml:lang="en" Type="Daylight">Korea Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">كوريا - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Корейско лятно време</Label>
@@ -6488,49 +6492,49 @@
 		<Label xml:lang="zh-CN" Type="Daylight">韩国夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">韓國日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">韓國日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Koreji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme u Koreji</Label>
 		<Info Bias="-09:00:00" />
 	</TimeZone>
 	<TimeZone Name="LibyaStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Libya Standard Time">Libya Standard Time</Link>
-		<Label xml:lang="en">(UTC+01:00) Tripoli</Label>
-		<Label xml:lang="ar-SA">(UTC+01:00) طرابلس</Label>
-		<Label xml:lang="bg-BG">(UTC+01:00) Триполи</Label>
-		<Label xml:lang="cs-CZ">(UTC+01:00) Tripolis</Label>
-		<Label xml:lang="da-DK">(UTC+01:00) Tripoli</Label>
-		<Label xml:lang="de-DE">(UTC+01:00) Tripolis</Label>
-		<Label xml:lang="el-GR">(UTC+01:00) Τρίπολη</Label>
-		<Label xml:lang="en-GB">(UTC+01:00) Tripoli</Label>
+		<Label xml:lang="en">(UTC+02:00) Tripoli</Label>
+		<Label xml:lang="ar-SA">(UTC+02:00) طرابلس</Label>
+		<Label xml:lang="bg-BG">(UTC+02:00) Триполи</Label>
+		<Label xml:lang="cs-CZ">(UTC+02:00) Tripolis</Label>
+		<Label xml:lang="da-DK">(UTC+02:00) Tripoli</Label>
+		<Label xml:lang="de-DE">(UTC+02:00) Tripolis</Label>
+		<Label xml:lang="el-GR">(UTC+02:00) Τρίπολη</Label>
+		<Label xml:lang="en-GB">(UTC+02:00) Tripoli</Label>
 		<Label xml:lang="en-US">(UTC+02:00) Tripoli</Label>
-		<Label xml:lang="es-ES">(UTC+01:00) Trípoli</Label>
-		<Label xml:lang="et-EE">(UTC+01:00) Tripoli</Label>
-		<Label xml:lang="fi-FI">(UTC+01:00) Tripoli</Label>
-		<Label xml:lang="fr-FR">(UTC+01:00) Tripoli</Label>
-		<Label xml:lang="he-IL">(UTC+01:00) טריפולי</Label>
-		<Label xml:lang="hr-HR">(UTC+01:00) Tripoli</Label>
-		<Label xml:lang="hu-HU">(UTC+01:00) Tripoli</Label>
-		<Label xml:lang="it-IT">(UTC+1.00) Tripoli</Label>
-		<Label xml:lang="ja-JP">(UTC+01:00) トリポリ</Label>
-		<Label xml:lang="ko-KR">(UTC+01:00) 트리폴리</Label>
-		<Label xml:lang="lt-LT">(UTC+01:00) Tripolis</Label>
-		<Label xml:lang="lv-LV">(UTC+01:00) Tripole</Label>
-		<Label xml:lang="nb-NO">(UTC+01:00) Tripoli</Label>
-		<Label xml:lang="nl-NL">(UTC+01:00) Tripoli</Label>
-		<Label xml:lang="pl-PL">(UTC+01:00) Trypolis</Label>
-		<Label xml:lang="pt-BR">(UTC+01:00) Trípoli</Label>
-		<Label xml:lang="pt-PT">(UTC+01:00) Trípoli</Label>
-		<Label xml:lang="ro-RO">(UTC+01:00) Tripoli</Label>
+		<Label xml:lang="es-ES">(UTC+02:00) Trípoli</Label>
+		<Label xml:lang="et-EE">(UTC+02:00) Tripoli</Label>
+		<Label xml:lang="fi-FI">(UTC+02:00) Tripoli</Label>
+		<Label xml:lang="fr-FR">(UTC+02:00) Tripoli</Label>
+		<Label xml:lang="he-IL">(UTC+02:00) טריפולי</Label>
+		<Label xml:lang="hr-HR">(UTC+02:00) Tripoli</Label>
+		<Label xml:lang="hu-HU">(UTC+02:00) Tripoli</Label>
+		<Label xml:lang="it-IT">(UTC+2.00) Tripoli</Label>
+		<Label xml:lang="ja-JP">(UTC+02:00) トリポリ</Label>
+		<Label xml:lang="ko-KR">(UTC+02:00) 트리폴리</Label>
+		<Label xml:lang="lt-LT">(UTC+02:00) Tripolis</Label>
+		<Label xml:lang="lv-LV">(UTC+02:00) Tripole</Label>
+		<Label xml:lang="nb-NO">(UTC+02:00) Tripoli</Label>
+		<Label xml:lang="nl-NL">(UTC+02:00) Tripoli</Label>
+		<Label xml:lang="pl-PL">(UTC+02:00) Trypolis</Label>
+		<Label xml:lang="pt-BR">(UTC+02:00) Trípoli</Label>
+		<Label xml:lang="pt-PT">(UTC+02:00) Trípoli</Label>
+		<Label xml:lang="ro-RO">(UTC+02:00) Tripoli</Label>
 		<Label xml:lang="ru-RU">(UTC+02:00) Триполи</Label>
-		<Label xml:lang="sk-SK">(UTC+01:00) Tripolis</Label>
-		<Label xml:lang="sl-SI">(UTC+01:00) Tripoli</Label>
-		<Label xml:lang="sv-SE">(UTC+01:00) Tripoli</Label>
-		<Label xml:lang="th-TH">(UTC+01:00) ตริโปลี</Label>
-		<Label xml:lang="tr-TR">(UTC+01:00) Trablus</Label>
-		<Label xml:lang="uk-UA">(UTC+01:00) Триполі</Label>
-		<Label xml:lang="zh-CN">(UTC+01:00) 的黎波里</Label>
-		<Label xml:lang="zh-HK">(UTC+01:00) 的黎波里</Label>
-		<Label xml:lang="zh-TW">(UTC+01:00) 的黎波里</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+01:00) Tripoli</Label>
+		<Label xml:lang="sk-SK">(UTC+02:00) Tripolis</Label>
+		<Label xml:lang="sl-SI">(UTC+02:00) Tripoli</Label>
+		<Label xml:lang="sv-SE">(UTC+02:00) Tripoli</Label>
+		<Label xml:lang="th-TH">(UTC+02:00) ตริโปลี</Label>
+		<Label xml:lang="tr-TR">(UTC+02:00) Trablus</Label>
+		<Label xml:lang="uk-UA">(UTC+02:00) Триполі</Label>
+		<Label xml:lang="zh-CN">(UTC+02:00)的黎波里</Label>
+		<Label xml:lang="zh-HK">(UTC+02:00) 的黎波里</Label>
+		<Label xml:lang="zh-TW">(UTC+02:00) 的黎波里</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+02:00) Tripoli</Label>
 		<Label xml:lang="en" Type="Standard">Libya Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">ليبيا - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Либийско стандартно време</Label>
@@ -6568,15 +6572,15 @@
 		<Label xml:lang="zh-CN" Type="Standard">利比亚标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">利比亞標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">利比亞標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Libiji</Label>
-		<Label xml:lang="en" Type="Daylight">Libya Daylight Time</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Libiji</Label>
+		<Label xml:lang="en" Type="Daylight">Libya Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">ليبيا - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Либийско лятно време</Label>
 		<Label xml:lang="cs-CZ" Type="Daylight">Libye (letní čas)</Label>
 		<Label xml:lang="da-DK" Type="Daylight">Libyen, sommertid</Label>
 		<Label xml:lang="de-DE" Type="Daylight">Libyen Sommerzeit</Label>
 		<Label xml:lang="el-GR" Type="Daylight">Θερινή ώρα Λιβύης</Label>
-		<Label xml:lang="en-GB" Type="Daylight">Libya Daylight Time</Label>
+		<Label xml:lang="en-GB" Type="Daylight">Libya Summer Time</Label>
 		<Label xml:lang="en-US" Type="Daylight">Libya Daylight Time</Label>
 		<Label xml:lang="es-ES" Type="Daylight">Hora de verano en Libia</Label>
 		<Label xml:lang="et-EE" Type="Daylight">Liibüa suveaeg</Label>
@@ -6606,9 +6610,9 @@
 		<Label xml:lang="zh-CN" Type="Daylight">利比亚夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">利比亞日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">利比亞日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Libiji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme u Libiji</Label>
 		<Info Bias="-01:00:00">
-			<Date Type="Standard" Week="Last" Day="Friday" Month="October" Time="02:00:00">Last Friday of October at 2:00</Date>
+			<Date Type="Standard" Week="First" Day="Tuesday" Month="January" Time="00:00:00">First Tuesday of January at 0:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Friday" Month="March" Time="01:00:00">Last Friday of March at 1:00</Date>
 		</Info>
 		<Info Year="2011" Bias="-02:00:00" />
@@ -6617,9 +6621,10 @@
 			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Sunday" Month="January" Time="00:00:00">First Sunday of January at 0:00</Date>
 		</Info>
 		<Info Year="2013" Bias="-01:00:00">
-			<Date Type="Standard" Week="Last" Day="Friday" Month="October" Time="02:00:00">Last Friday of October at 2:00</Date>
+			<Date Type="Standard" Week="First" Day="Tuesday" Month="January" Time="00:00:00">First Tuesday of January at 0:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Friday" Month="March" Time="01:00:00">Last Friday of March at 1:00</Date>
 		</Info>
+		<Info Year="2014" Bias="-02:00:00" />
 	</TimeZone>
 	<TimeZone Name="MagadanStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Magadan Standard Time">Magadan Standard Time</Link>
@@ -6660,7 +6665,7 @@
 		<Label xml:lang="zh-CN">(UTC+12:00)马加丹</Label>
 		<Label xml:lang="zh-HK">(UTC+12:00) 馬加丹</Label>
 		<Label xml:lang="zh-TW">(UTC+12:00) 馬加丹</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+12:00) Magadan</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+12:00) Magadan</Label>
 		<Label xml:lang="en" Type="Standard">Magadan Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">ماجادان - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Магадан - стандартно време</Label>
@@ -6698,7 +6703,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">马加丹标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">馬加丹標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">馬加丹標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Magadanu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Magadanu</Label>
 		<Label xml:lang="en" Type="Daylight">Magadan Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">ماجادان - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Магадан - лятно време</Label>
@@ -6736,7 +6741,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">马加丹夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">馬加丹日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">馬加丹日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Magadanu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme u Magadanu</Label>
 		<Info Bias="-11:00:00">
 			<Date Type="Standard" Week="First" Day="Saturday" Month="January" Time="00:00:00">First Saturday of January at 0:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
@@ -6790,7 +6795,7 @@
 		<Label xml:lang="zh-CN">(UTC+04:00)路易港</Label>
 		<Label xml:lang="zh-HK">(UTC+04:00) 路易士港</Label>
 		<Label xml:lang="zh-TW">(UTC+04:00) 路易士港</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+04:00) Port Luis</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+04:00) Port Luis</Label>
 		<Label xml:lang="en" Type="Standard">Mauritius Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">موريشيوس - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Стандартно часово вр. Мавриций</Label>
@@ -6828,7 +6833,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">毛里求斯标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">模里西斯標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">模里西斯標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme na Mauricijusu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme na Mauricijusu</Label>
 		<Label xml:lang="en" Type="Daylight">Mauritius Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">التوقيت الصيفي لموريشيوس</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Лятно часово време Мавриций</Label>
@@ -6866,7 +6871,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">毛里求斯夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">模里西斯日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">模里西斯日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme na Mauricijusu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme na Mauricijusu</Label>
 		<Info Bias="-04:00:00" />
 		<Info Year="2007" Bias="-04:00:00" />
 		<Info Year="2008" Bias="-04:00:00">
@@ -6881,44 +6886,44 @@
 	</TimeZone>
 	<TimeZone Name="MidAtlanticStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Mid-Atlantic Standard Time">Mid-Atlantic Standard Time</Link>
-		<Label xml:lang="en">(UTC-02:00) Mid-Atlantic</Label>
-		<Label xml:lang="ar-SA">(UTC-02:00) وسط المحيط الأطلنطي</Label>
-		<Label xml:lang="bg-BG">(UTC-02:00) Среден Атлантик</Label>
-		<Label xml:lang="cs-CZ">(UTC-02:00) Střední Atlantik</Label>
-		<Label xml:lang="da-DK">(UTC-02:00) Mid-Atlantic</Label>
-		<Label xml:lang="de-DE">(UTC-02:00) Mittelatlantik</Label>
-		<Label xml:lang="el-GR">(UTC-02:00) Μέσος Ατλαντικός</Label>
-		<Label xml:lang="en-GB">(UTC-02:00) Mid-Atlantic</Label>
-		<Label xml:lang="en-US">(UTC-02:00) Mid-Atlantic</Label>
-		<Label xml:lang="es-ES">(UTC-02:00) Atlántico Central</Label>
-		<Label xml:lang="et-EE">(UTC-02:00) Kesk-Atlandi</Label>
-		<Label xml:lang="fi-FI">(UTC-02:00) Keski-Atlantti</Label>
-		<Label xml:lang="fr-FR">(UTC-02:00) Centre-Atlantique</Label>
-		<Label xml:lang="he-IL">(UTC-02:00) מרכז האוקיינוס האטלנטי</Label>
-		<Label xml:lang="hr-HR">(UTC-02:00) Srednji Atlantik</Label>
-		<Label xml:lang="hu-HU">(UTC-02:00) Közép-atlanti térség</Label>
-		<Label xml:lang="it-IT">(UTC-2.00) Medioatlantico</Label>
-		<Label xml:lang="ja-JP">(UTC-02:00) 中央大西洋</Label>
-		<Label xml:lang="ko-KR">(UTC-02:00) 중부-대서양</Label>
-		<Label xml:lang="lt-LT">(UTC-02:00) Vidurio Atlantas</Label>
-		<Label xml:lang="lv-LV">(UTC-02:00) Vidusatlantija</Label>
-		<Label xml:lang="nb-NO">(UTC-02:00) Det sentrale Atlanterhav</Label>
-		<Label xml:lang="nl-NL">(UTC-02:00) Mid-Atlantic</Label>
-		<Label xml:lang="pl-PL">(UTC-02:00) Środkowy Atlantyk</Label>
-		<Label xml:lang="pt-BR">(UTC-02:00) Atlântico Central</Label>
-		<Label xml:lang="pt-PT">(UTC-02:00) Atlântico Central</Label>
-		<Label xml:lang="ro-RO">(UTC-02:00) Atlanticul Mijlociu</Label>
-		<Label xml:lang="ru-RU">(UTC-02:00) Среднеатлантическое время</Label>
-		<Label xml:lang="sk-SK">(UTC-02:00) Stredoatlantický čas</Label>
-		<Label xml:lang="sl-SI">(UTC-02:00) Srednji Atlantik</Label>
-		<Label xml:lang="sv-SE">(UTC-02:00) Mid-Atlantic</Label>
-		<Label xml:lang="th-TH">(UTC-02:00) แอตแลนติกตอนกลาง</Label>
-		<Label xml:lang="tr-TR">(UTC-02:00) Orta Atlantik</Label>
-		<Label xml:lang="uk-UA">(UTC-02:00) Середня Атлантика</Label>
-		<Label xml:lang="zh-CN">(UTC-02:00)中大西洋</Label>
-		<Label xml:lang="zh-HK">(UTC-02:00) 大西洋中部</Label>
-		<Label xml:lang="zh-TW">(UTC-02:00) 大西洋中部</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-02:00) Srednjeatlantsko</Label>
+		<Label xml:lang="en">(UTC-02:00) Mid-Atlantic - Old</Label>
+		<Label xml:lang="ar-SA">‏‏(UTC-02:00) وسط الأطلنطي - قديماً</Label>
+		<Label xml:lang="bg-BG">(UTC-02:00) Средноатлантическо време – Старо</Label>
+		<Label xml:lang="cs-CZ">(UTC-02:00) Střední Atlantik – starý čas</Label>
+		<Label xml:lang="da-DK">(UTC-02:00) Mid-Atlantic – gammel</Label>
+		<Label xml:lang="de-DE">(UTC-02:00) Mittelatlantik - Alt</Label>
+		<Label xml:lang="el-GR">(UTC-02:00) Μέσος Ατλαντικός - Παλαιό</Label>
+		<Label xml:lang="en-GB">(UTC-02:00) Mid-Atlantic - Old</Label>
+		<Label xml:lang="en-US">(UTC-02:00) Mid-Atlantic - Old</Label>
+		<Label xml:lang="es-ES">(UTC-02:00) Atlántico central - Antiguo</Label>
+		<Label xml:lang="et-EE">(UTC-02:00) Kesk-Atlandi aeg – vana</Label>
+		<Label xml:lang="fi-FI">(UTC-02:00) Keski-Atlantti – vanha</Label>
+		<Label xml:lang="fr-FR">(UTC-02:00) Centre-Atlantique - Ancien</Label>
+		<Label xml:lang="he-IL">‏‏(UTC-02:00) מרכז האוקיינוס האטלנטי - ישן</Label>
+		<Label xml:lang="hr-HR">(UTC-02:00) Središnji Atlantik – staro</Label>
+		<Label xml:lang="hu-HU">(UTC-02:00) Közép-atlanti térség - régi</Label>
+		<Label xml:lang="it-IT">(UTC-2.00) Medioatlantico - Vecchio</Label>
+		<Label xml:lang="ja-JP">(UTC-02:00) 中央大西洋 - 廃止</Label>
+		<Label xml:lang="ko-KR">(UTC-02:00) 중부-대서양 - 이전</Label>
+		<Label xml:lang="lt-LT">(UTC-02:00) Vidurio Atlanto – senas</Label>
+		<Label xml:lang="lv-LV">(UTC-02:00) Vidusatlantija - veicais</Label>
+		<Label xml:lang="nb-NO">(UTC-02:00) Midt-Atlanteren – gammel</Label>
+		<Label xml:lang="nl-NL">(UTC-02:00) Mid-Atlantic - verouderd</Label>
+		<Label xml:lang="pl-PL">(UTC-02:00) Środkowoatlantycki — stary</Label>
+		<Label xml:lang="pt-BR">(UTC-02:00) Atlântico Central - Antigo</Label>
+		<Label xml:lang="pt-PT">(UTC-02:00) Atlântico Central - Antigo</Label>
+		<Label xml:lang="ro-RO">(UTC-02:00) Atlanticul de Mijloc - Vechi</Label>
+		<Label xml:lang="ru-RU">(UTC-02:00) Среднеатлантическое время - старое</Label>
+		<Label xml:lang="sk-SK">(UTC-02:00) Stredoatlantický čas – starý</Label>
+		<Label xml:lang="sl-SI">(UTC-02:00) Srednji Atlantik – staro</Label>
+		<Label xml:lang="sv-SE">(UTC-02:00) Mid-Atlantic - gammal</Label>
+		<Label xml:lang="th-TH">(UTC-02:00) แอตแลนติกตอนกลาง - เดิม</Label>
+		<Label xml:lang="tr-TR">(UTC-02:00) Orta Atlantik - Eski</Label>
+		<Label xml:lang="uk-UA">(UTC-02:00) Середня Атлантика – застаріло</Label>
+		<Label xml:lang="zh-CN">(UTC-02:00)中大西洋 - 旧用</Label>
+		<Label xml:lang="zh-HK">(UTC-02:00) 大西洋中部 - 已過時</Label>
+		<Label xml:lang="zh-TW">(UTC-02:00) 大西洋中部 - 已過時</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-02:00) Srednji Atlantik – staro</Label>
 		<Label xml:lang="en" Type="Standard">Mid-Atlantic Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">وسط الأطلنطي - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Среден Атлантик – станд. време</Label>
@@ -6956,7 +6961,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">中大西洋标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">大西洋中部標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">大西洋中部標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Srednjoatl. standardno vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Srednjoatl. standardno vreme</Label>
 		<Label xml:lang="en" Type="Daylight">Mid-Atlantic Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">وسط الأطلنطي - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Среден Атлантик – лятно време</Label>
@@ -6994,7 +6999,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">中大西洋夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">大西洋中部日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">大西洋中部日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Srednjoatl. letnje vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Srednjoatl. letnje vreme</Label>
 		<Info Bias="02:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="September" Time="02:00:00">Last Sunday of September at 2:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
@@ -7039,7 +7044,7 @@
 		<Label xml:lang="zh-CN">(UTC+02:00)贝鲁特</Label>
 		<Label xml:lang="zh-HK">(UTC+02:00) 貝魯特</Label>
 		<Label xml:lang="zh-TW">(UTC+02:00) 貝魯特</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+02:00) Bejrut</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+02:00) Bejrut</Label>
 		<Label xml:lang="en" Type="Standard">Middle East Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">الشرق الأوسط - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Близкоизточно стандартно време</Label>
@@ -7077,7 +7082,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">中东标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">中東標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">中東標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Bliskoistočno standardno vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Bliskoistočno standardno vreme</Label>
 		<Label xml:lang="en" Type="Daylight">Middle East Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">الشرق الأوسط - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Близкоизточно лятно часово вр.</Label>
@@ -7115,7 +7120,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">中东夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">中東日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">中東日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Bliskoistoč. letnje/zims. vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Bliskoistoč. letnje/zims. vreme</Label>
 		<Info Bias="-02:00:00">
 			<Date Type="Standard" Week="Last" Day="Saturday" Month="October" Time="23:59:59">Last Saturday of October at 23:59:59</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Saturday" Month="March" Time="23:59:59">Last Saturday of March at 23:59:59</Date>
@@ -7212,7 +7217,7 @@
 		<Label xml:lang="zh-CN">(UTC-03:00)蒙得维的亚</Label>
 		<Label xml:lang="zh-HK">(UTC-03:00) 蒙特維多</Label>
 		<Label xml:lang="zh-TW">(UTC-03:00) 蒙特維多</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-03:00) Montevideo</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-03:00) Montevideo</Label>
 		<Label xml:lang="en" Type="Standard">Montevideo Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">مونتفيدو  - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Монтевидео – стандартно време</Label>
@@ -7250,7 +7255,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">蒙得维的亚标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">蒙特維多標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">蒙特維多標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Montevideu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Montevideu</Label>
 		<Label xml:lang="en" Type="Daylight">Montevideo Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">مونتفيدو  - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Монтевидео – лятно време</Label>
@@ -7288,7 +7293,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">蒙得维的亚夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">蒙特維多日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">蒙特維多日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Let/zimsko vreme u Montevideu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Let/zimsko vreme u Montevideu</Label>
 		<Info Bias="03:00:00">
 			<Date Type="Standard" Week="Second" Day="Sunday" Month="March" Time="02:00:00">Second Sunday of March at 2:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Sunday" Month="October" Time="02:00:00">First Sunday of October at 2:00</Date>
@@ -7341,7 +7346,7 @@
 		<Label xml:lang="zh-CN">(UTC)卡萨布兰卡</Label>
 		<Label xml:lang="zh-HK">(UTC) 卡薩布蘭卡</Label>
 		<Label xml:lang="zh-TW">(UTC) 卡薩布蘭卡</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC) Kazablanka</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC) Kazablanka</Label>
 		<Label xml:lang="en" Type="Standard">Morocco Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">المغرب التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Стандартно часово време Мароко</Label>
@@ -7379,7 +7384,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">摩洛哥标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">摩洛哥標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">摩洛哥標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Maroku</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Maroku</Label>
 		<Label xml:lang="en" Type="Daylight">Morocco Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">المغرب التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Лятно часово време Мароко</Label>
@@ -7417,9 +7422,9 @@
 		<Label xml:lang="zh-CN" Type="Daylight">摩洛哥夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">摩洛哥日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">摩洛哥日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Maroku</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme u Maroku</Label>
 		<Info Bias="00:00:00">
-			<Date Type="Standard" Week="Last" Day="Sunday" Month="September" Time="03:00:00">Last Sunday of September at 3:00</Date>
+			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="03:00:00">Last Sunday of October at 3:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="April" Time="02:00:00">Last Sunday of April at 2:00</Date>
 		</Info>
 		<Info Year="2007" Bias="00:00:00" />
@@ -7444,12 +7449,12 @@
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="April" Time="02:00:00">Last Sunday of April at 2:00</Date>
 		</Info>
 		<Info Year="2013" Bias="00:00:00">
-			<Date Type="Standard" Week="Last" Day="Sunday" Month="September" Time="03:00:00">Last Sunday of September at 3:00</Date>
+			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="03:00:00">Last Sunday of October at 3:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="April" Time="02:00:00">Last Sunday of April at 2:00</Date>
 		</Info>
 		<Info Year="2014" Bias="00:00:00">
-			<Date Type="Standard" Week="Last" Day="Sunday" Month="September" Time="03:00:00">Last Sunday of September at 3:00</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="April" Time="02:00:00">Last Sunday of April at 2:00</Date>
+			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="03:00:00">Last Sunday of October at 3:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
 		</Info>
 	</TimeZone>
 	<TimeZone Name="MountainStandardTime">
@@ -7491,7 +7496,7 @@
 		<Label xml:lang="zh-CN">(UTC-07:00)山地时间(美国和加拿大)</Label>
 		<Label xml:lang="zh-HK">(UTC-07:00) 山區時間 (美國和加拿大)</Label>
 		<Label xml:lang="zh-TW">(UTC-07:00) 山區時間 (美國和加拿大)</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-07:00) Planinsko vreme (SAD i Kanada)</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-07:00) Planinsko vreme (SAD i Kanada)</Label>
 		<Label xml:lang="en" Type="Standard">Mountain Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">التوقيت الجبلي الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Планинско стандартно време</Label>
@@ -7529,7 +7534,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">山地标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">美加山區標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">美加山區標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Planinsko standardno vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Planinsko standardno vreme</Label>
 		<Label xml:lang="en" Type="Daylight">Mountain Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">التوقيت الجبلي الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Планинско лятно време</Label>
@@ -7567,7 +7572,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">山地夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">美加山區日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">美加山區日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Planinsko letnje vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Planinsko letnje vreme</Label>
 		<Info Bias="07:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="02:00:00">Last Sunday of October at 2:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Sunday" Month="April" Time="02:00:00">First Sunday of April at 2:00</Date>
@@ -7620,7 +7625,7 @@
 		<Label xml:lang="zh-CN">(UTC-07:00)奇瓦瓦，拉巴斯，马萨特兰</Label>
 		<Label xml:lang="zh-HK">(UTC-07:00) 齊驊華，拉帕茲，馬札特蘭</Label>
 		<Label xml:lang="zh-TW">(UTC-07:00) 齊驊華，拉帕茲，馬札特蘭</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-07:00) Čihuahua, La Paz, Mazatlan</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-07:00) Čihuahua, La Paz, Mazatlan</Label>
 		<Label xml:lang="en" Type="Standard">Mountain Standard Time (Mexico)</Label>
 		<Label xml:lang="ar-SA" Type="Standard">التوقيت الجبلي الرسمي (المكسيك)</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Планинско ст. време (Мексико)</Label>
@@ -7658,7 +7663,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">山地标准时间(墨西哥)</Label>
 		<Label xml:lang="zh-HK" Type="Standard">山區標準時間 (墨西哥)</Label>
 		<Label xml:lang="zh-TW" Type="Standard">山區標準時間 (墨西哥)</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Planinsko stan. vreme (Meksiko)</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Planinsko stan. vreme (Meksiko)</Label>
 		<Label xml:lang="en" Type="Daylight">Mountain Summer Time (Mexico)</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">التوقيت الجبلي الصيفي (المكسيك)</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Планинско лятно време (Мексико)</Label>
@@ -7696,7 +7701,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">山地夏令时(墨西哥)</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">山區日光節約時間 (墨西哥)</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">山區日光節約時間 (墨西哥)</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Plan. let/zim. vreme (Meksiko)</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Plan. let/zim. vreme (Meksiko)</Label>
 		<Info Bias="07:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="02:00:00">Last Sunday of October at 2:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Sunday" Month="April" Time="02:00:00">First Sunday of April at 2:00</Date>
@@ -7734,14 +7739,14 @@
 		<Label xml:lang="ru-RU">(UTC+06:30) Янгон</Label>
 		<Label xml:lang="sk-SK">(UTC+06:30) Yangon (Rangún)</Label>
 		<Label xml:lang="sl-SI">(UTC+06:30) Yangon (Rangun)</Label>
-		<Label xml:lang="sv-SE">(UTC+06:30) Rangoon</Label>
+		<Label xml:lang="sv-SE">(UTC+06:30) Yangon</Label>
 		<Label xml:lang="th-TH">(UTC+06:30) ย่างกุ้ง (ร่างกุ้ง)</Label>
 		<Label xml:lang="tr-TR">(UTC+06:30) Yangon (Rangoon)</Label>
 		<Label xml:lang="uk-UA">(UTC+06:30) Янґон</Label>
 		<Label xml:lang="zh-CN">(UTC+06:30)仰光</Label>
 		<Label xml:lang="zh-HK">(UTC+06:30) 仰光</Label>
 		<Label xml:lang="zh-TW">(UTC+06:30) 仰光</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+06:30) Jangon (Rangun)</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+06:30) Jangon (Rangun)</Label>
 		<Label xml:lang="en" Type="Standard">Myanmar Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">ميانمار - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Миянмар – стандартно време</Label>
@@ -7779,7 +7784,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">缅甸标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">緬甸標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">緬甸標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Mijanmaru</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Mijanmaru</Label>
 		<Label xml:lang="en" Type="Daylight">Myanmar Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">ميانمار - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Миянмар – лятно време</Label>
@@ -7817,7 +7822,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">缅甸夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">緬甸日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">緬甸日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Mijanmaru</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme u Mijanmaru</Label>
 		<Info Bias="-06:30:00" />
 	</TimeZone>
 	<TimeZone Name="NCentralAsiaStandardTime">
@@ -7859,7 +7864,7 @@
 		<Label xml:lang="zh-CN">(UTC+07:00)新西伯利亚</Label>
 		<Label xml:lang="zh-HK">(UTC+07:00) 諾曼斯比爾斯科</Label>
 		<Label xml:lang="zh-TW">(UTC+07:00) 諾曼斯比爾斯科</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+07:00) Novosibirsk</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+07:00) Novosibirsk</Label>
 		<Label xml:lang="en" Type="Standard">N. Central Asia Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">شمال آسيا الوسطى - توقيت رسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Сев. Центр. Азия – станд. време</Label>
@@ -7897,7 +7902,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">中亚北部标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">中北亞標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">中北亞標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Stand. vr. u Severnocent. Aziji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Stand. vr. u Severnocent. Aziji</Label>
 		<Label xml:lang="en" Type="Daylight">N. Central Asia Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">شمال آسيا الوسطى التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Сев. Центр. Азия – лятно време</Label>
@@ -7935,7 +7940,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">中亚北部夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">中北亞日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">中北亞日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Let/zim. vr. u severnoc. Aziji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Let/zim. vr. u severnoc. Aziji</Label>
 		<Info Bias="-06:00:00">
 			<Date Type="Standard" Week="First" Day="Saturday" Month="January" Time="00:00:00">First Saturday of January at 0:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
@@ -7989,7 +7994,7 @@
 		<Label xml:lang="zh-CN">(UTC+01:00)温得和克</Label>
 		<Label xml:lang="zh-HK">(UTC+01:00) 溫吐克</Label>
 		<Label xml:lang="zh-TW">(UTC+01:00) 溫吐克</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+01:00) Vindhuk</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+01:00) Vindhuk</Label>
 		<Label xml:lang="en" Type="Standard">Namibia Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">نامبيا - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Намибия – стандартно време</Label>
@@ -8027,7 +8032,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">纳米比亚标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">納米比亞標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">納米比亞標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Namibiji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Namibiji</Label>
 		<Label xml:lang="en" Type="Daylight">Namibia Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">نامبيا - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Намибия – лятно време</Label>
@@ -8065,7 +8070,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">纳米比亚夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">納米比亞日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">納米比亞日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Namibiji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme u Namibiji</Label>
 		<Info Bias="-02:00:00">
 			<Date Type="Standard" Week="First" Day="Sunday" Month="September" Time="02:00:00">First Sunday of September at 2:00</Date>
 			<Date Type="Daylight" Bias="01:00:00" Week="First" Day="Sunday" Month="April" Time="02:00:00">First Sunday of April at 2:00</Date>
@@ -8092,7 +8097,7 @@
 		<Label xml:lang="en-US">(UTC+05:45) Kathmandu</Label>
 		<Label xml:lang="es-ES">(UTC+05:45) Katmandú</Label>
 		<Label xml:lang="et-EE">(UTC+05:45) Katmandu</Label>
-		<Label xml:lang="fi-FI">(UTC+05:45) Katmandu</Label>
+		<Label xml:lang="fi-FI">(UTC+05:45) Kathmandu</Label>
 		<Label xml:lang="fr-FR">(UTC+05:45) Katmandou</Label>
 		<Label xml:lang="he-IL">(UTC+05:45) קטמנדו</Label>
 		<Label xml:lang="hr-HR">(UTC+05:45) Katmandu</Label>
@@ -8118,7 +8123,7 @@
 		<Label xml:lang="zh-CN">(UTC+05:45)加德满都</Label>
 		<Label xml:lang="zh-HK">(UTC+05:45) 加德滿都</Label>
 		<Label xml:lang="zh-TW">(UTC+05:45) 加德滿都</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+05:45) Katmandu</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+05:45) Katmandu</Label>
 		<Label xml:lang="en" Type="Standard">Nepal Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">نيبال - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Непалско стандартно време</Label>
@@ -8156,7 +8161,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">尼泊尔标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">尼泊爾標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">尼泊爾標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Nepalu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Nepalu</Label>
 		<Label xml:lang="en" Type="Daylight">Nepal Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">نيبال - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Непалско лятно време</Label>
@@ -8194,7 +8199,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">尼泊尔夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">尼泊爾日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">尼泊爾日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Nepalu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme u Nepalu</Label>
 		<Info Bias="-05:45:00" />
 	</TimeZone>
 	<TimeZone Name="NewZealandStandardTime">
@@ -8236,7 +8241,7 @@
 		<Label xml:lang="zh-CN">(UTC+12:00)奥克兰，惠灵顿</Label>
 		<Label xml:lang="zh-HK">(UTC+12:00) 奧克蘭，威靈頓</Label>
 		<Label xml:lang="zh-TW">(UTC+12:00) 奧克蘭，威靈頓</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+12:00) Oklend, Velington</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+12:00) Oklend, Velington</Label>
 		<Label xml:lang="en" Type="Standard">New Zealand Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">نيوزيلاند - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Нова Зеландия – станд. време</Label>
@@ -8274,7 +8279,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">新西兰标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">紐西蘭標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">紐西蘭標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standar. vreme na Novom Zelandu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standar. vreme na Novom Zelandu</Label>
 		<Label xml:lang="en" Type="Daylight">New Zealand Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">نيوزيلاند - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Нова Зеландия – лятно време</Label>
@@ -8312,7 +8317,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">新西兰夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">紐西蘭日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">紐西蘭日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vr. na N. Zelandu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vr. na N. Zelandu</Label>
 		<Info Bias="-12:00:00">
 			<Date Type="Standard" Week="Third" Day="Sunday" Month="March" Time="03:00:00">Third Sunday of March at 3:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Sunday" Month="October" Time="02:00:00">First Sunday of October at 2:00</Date>
@@ -8369,7 +8374,7 @@
 		<Label xml:lang="zh-CN">(UTC-03:30)纽芬兰</Label>
 		<Label xml:lang="zh-HK">(UTC-03:30) 紐芬蘭</Label>
 		<Label xml:lang="zh-TW">(UTC-03:30) 紐芬蘭</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-03:30) Njufaundlend</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-03:30) Njufaundlend</Label>
 		<Label xml:lang="en" Type="Standard">Newfoundland Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">نيوفاوندلاند - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Нюфаундленд – стандартно време</Label>
@@ -8407,7 +8412,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">纽芬兰标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">紐芬蘭標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">紐芬蘭標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standard. vreme u Njufaundlendu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standard. vreme u Njufaundlendu</Label>
 		<Label xml:lang="en" Type="Daylight">Newfoundland Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">نيوفاوندلاند - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Нюфаундленд – лятно време</Label>
@@ -8445,7 +8450,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">纽芬兰夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">紐芬蘭日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">紐芬蘭日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Let/zim. vreme u Njufaundlendu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Let/zim. vreme u Njufaundlendu</Label>
 		<Info Bias="03:30:00">
 			<Date Type="Standard" Week="First" Day="Sunday" Month="November" Time="02:00:00">First Sunday of November at 2:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Second" Day="Sunday" Month="March" Time="00:01:00">Second Sunday of March at 0:01</Date>
@@ -8518,7 +8523,7 @@
 		<Label xml:lang="zh-CN">(UTC+09:00)伊尔库茨克</Label>
 		<Label xml:lang="zh-HK">(UTC+09:00) 伊爾庫次克</Label>
 		<Label xml:lang="zh-TW">(UTC+09:00) 伊爾庫次克</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+09:00) Irkutsk</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+09:00) Irkutsk</Label>
 		<Label xml:lang="en" Type="Standard">North Asia East Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">شرق آسيا الشمالية - توقيت رسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Североизт. Азия – станд. време</Label>
@@ -8556,7 +8561,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">北亚东部标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">東北亞標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">東北亞標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Stand. vreme u severoist. Aziji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Stand. vreme u severoist. Aziji</Label>
 		<Label xml:lang="en" Type="Daylight">North Asia East Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">شرق آسيا الشمالية - توقيت صيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Североизточна Азия – лятно вр.</Label>
@@ -8594,7 +8599,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">北亚东部夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">東北亞日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">東北亞日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Let/zim. vr. u severoist. Aziji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Let/zim. vr. u severoist. Aziji</Label>
 		<Info Bias="-08:00:00">
 			<Date Type="Standard" Week="First" Day="Saturday" Month="January" Time="00:00:00">First Saturday of January at 0:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
@@ -8648,7 +8653,7 @@
 		<Label xml:lang="zh-CN">(UTC+08:00)克拉斯诺亚尔斯克</Label>
 		<Label xml:lang="zh-HK">(UTC+08:00) 克拉斯諾亞爾斯克</Label>
 		<Label xml:lang="zh-TW">(UTC+08:00) 克拉斯諾亞爾斯克</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+08:00) Krasnojarsk</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+08:00) Krasnojarsk</Label>
 		<Label xml:lang="en" Type="Standard">North Asia Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">شمال آسيا - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Северна Азия – стандартно време</Label>
@@ -8686,7 +8691,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">北亚标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">北亞標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">北亞標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u sev. Aziji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u sev. Aziji</Label>
 		<Label xml:lang="en" Type="Daylight">North Asia Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">شمال آسيا - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Северна Азия – лятно време</Label>
@@ -8724,7 +8729,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">北亚夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">北亞日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">北亞日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Let/zimsko vreme u Sev. Aziji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Let/zimsko vreme u Sev. Aziji</Label>
 		<Info Bias="-07:00:00">
 			<Date Type="Standard" Week="First" Day="Saturday" Month="January" Time="00:00:00">First Saturday of January at 0:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
@@ -8778,7 +8783,7 @@
 		<Label xml:lang="zh-CN">(UTC-04:00)圣地亚哥</Label>
 		<Label xml:lang="zh-HK">(UTC-04:00) 聖地牙哥</Label>
 		<Label xml:lang="zh-TW">(UTC-04:00) 聖地牙哥</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-04:00) Santjago</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-04:00) Santjago</Label>
 		<Label xml:lang="en" Type="Standard">Pacific SA Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">الباسيفيكي SA - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Тихоокеанска ЮА – станд. време</Label>
@@ -8816,7 +8821,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">太平洋南美洲标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">太平洋 SA 標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">太平洋 SA 標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Pacif. stand. vreme u J.Americi</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Pacif. stand. vreme u J.Americi</Label>
 		<Label xml:lang="en" Type="Daylight">Pacific SA Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">الباسيفيكي SA - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Тихоокеанска ЮА – лятно време</Label>
@@ -8854,7 +8859,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">太平洋南美洲夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">太平洋 SA 日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">太平洋 SA 日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Pac. let/zim. vr. u J. Americi </Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Pac. let/zim. vr. u J. Americi </Label>
 		<Info Bias="04:00:00">
 			<Date Type="Standard" Week="Last" Day="Saturday" Month="April" Time="23:59:59">Last Saturday of April at 23:59:59</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Saturday" Month="September" Time="23:59:59">First Saturday of September at 23:59:59</Date>
@@ -8931,7 +8936,7 @@
 		<Label xml:lang="zh-CN">(UTC-08:00)太平洋时间(美国和加拿大)</Label>
 		<Label xml:lang="zh-HK">(UTC-08:00) 太平洋時間 (美國和加拿大)</Label>
 		<Label xml:lang="zh-TW">(UTC-08:00) 太平洋時間 (美國和加拿大)</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-08:00) Pacifičko vreme (SAD i Kanada)</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-08:00) Pacifičko vreme (SAD i Kanada)</Label>
 		<Label xml:lang="en" Type="Standard">Pacific Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">غرب أمريكا - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Тихоокеанско време</Label>
@@ -8969,7 +8974,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">太平洋标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">太平洋標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">太平洋標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Pacifičko standardno vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Pacifičko standardno vreme</Label>
 		<Label xml:lang="en" Type="Daylight">Pacific Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">غرب أمريكا - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Тихоокеанско лятно време</Label>
@@ -9007,7 +9012,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">太平洋夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">太平洋日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">太平洋日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Pacificko letnje vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Pacificko letnje vreme</Label>
 		<Info Bias="08:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="02:00:00">Last Sunday of October at 2:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Sunday" Month="April" Time="02:00:00">First Sunday of April at 2:00</Date>
@@ -9060,7 +9065,7 @@
 		<Label xml:lang="zh-CN">(UTC-08:00)下加利福尼亚州</Label>
 		<Label xml:lang="zh-HK">(UTC-08:00) 下加利福尼亞</Label>
 		<Label xml:lang="zh-TW">(UTC-08:00) 下加利福尼亞</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-08:00) Baha Kalifornija</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-08:00) Baha Kalifornija</Label>
 		<Label xml:lang="en" Type="Standard">Pacific Standard Time (Mexico)</Label>
 		<Label xml:lang="ar-SA" Type="Standard">التوقيت الرسمي باسيفيكي (مكسيك)</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Тихоок. станд. време (Мексико)</Label>
@@ -9098,7 +9103,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">太平洋标准时间(墨西哥)</Label>
 		<Label xml:lang="zh-HK" Type="Standard">太平洋標準時間 (墨西哥)</Label>
 		<Label xml:lang="zh-TW" Type="Standard">太平洋標準時間 (墨西哥)</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Pacifičko stan. vreme (Meksiko)</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Pacifičko stan. vreme (Meksiko)</Label>
 		<Label xml:lang="en" Type="Daylight">Pacific Summer Time (Mexico)</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">التوقيت الصيفي باسيفيكي (مكسيك)</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Тихоок. лятно вр. (Мексико)</Label>
@@ -9136,7 +9141,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">太平洋夏令时(墨西哥)</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">太平洋日光節約時間 (墨西哥)</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">太平洋日光節約時間 (墨西哥)</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Pacif. let/zim. vreme (Meksiko)</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Pacif. let/zim. vreme (Meksiko)</Label>
 		<Info Bias="08:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="02:00:00">Last Sunday of October at 2:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Sunday" Month="April" Time="02:00:00">First Sunday of April at 2:00</Date>
@@ -9181,7 +9186,7 @@
 		<Label xml:lang="zh-CN">(UTC+05:00)伊斯兰堡，卡拉奇</Label>
 		<Label xml:lang="zh-HK">(UTC+05:00) 伊斯蘭馬巴德，克洛奇</Label>
 		<Label xml:lang="zh-TW">(UTC+05:00) 伊斯蘭馬巴德，克洛奇</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+05:00) Islamabad, Karači</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+05:00) Islamabad, Karači</Label>
 		<Label xml:lang="en" Type="Standard">Pakistan Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">باكستان التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Стандартно часово вр., Пакистан</Label>
@@ -9219,7 +9224,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">巴基斯坦标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">巴基斯坦標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">巴基斯坦標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Pakistanu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Pakistanu</Label>
 		<Label xml:lang="en" Type="Daylight">Pakistan Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">باكستان التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Лятно часово време Пакистан</Label>
@@ -9257,7 +9262,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">巴基斯坦夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">巴基斯坦日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">巴基斯坦日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Pakistanu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme u Pakistanu</Label>
 		<Info Bias="-05:00:00">
 			<Date Type="Standard" Week="Last" Day="Friday" Month="October" Time="23:59:59">Last Friday of October at 23:59:59</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Saturday" Month="May" Time="23:59:59">Last Saturday of May at 23:59:59</Date>
@@ -9312,7 +9317,7 @@
 		<Label xml:lang="zh-CN">(UTC-04:00)亚松森</Label>
 		<Label xml:lang="zh-HK">(UTC-04:00) 亞松森</Label>
 		<Label xml:lang="zh-TW">(UTC-04:00) 亞松森</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-04:00) Asunsion</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-04:00) Asunsion</Label>
 		<Label xml:lang="en" Type="Standard">Paraguay Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">باراجواي التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Парагвайско стандартно време</Label>
@@ -9350,7 +9355,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">巴拉圭标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">巴拉圭標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">巴拉圭標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Paragvaju</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Paragvaju</Label>
 		<Label xml:lang="en" Type="Daylight">Paraguay Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">باراجواي التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Парагвайско лятно часово време</Label>
@@ -9388,7 +9393,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">巴拉圭夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">巴拉圭日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">巴拉圭日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Paragvaju</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme u Paragvaju</Label>
 		<Info Bias="04:00:00">
 			<Date Type="Standard" Week="Fourth" Day="Saturday" Month="March" Time="23:59:59">Fourth Saturday of March at 23:59:59</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Saturday" Month="October" Time="23:59:59">First Saturday of October at 23:59:59</Date>
@@ -9489,7 +9494,7 @@
 		<Label xml:lang="zh-CN">(UTC+01:00)布鲁塞尔，哥本哈根，马德里，巴黎</Label>
 		<Label xml:lang="zh-HK">(UTC+01:00) 布魯塞爾，哥本哈根，馬德里，巴黎</Label>
 		<Label xml:lang="zh-TW">(UTC+01:00) 布魯塞爾，哥本哈根，馬德里，巴黎</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+01:00) Brisel, Kopenhagen, Madrid, Pariz</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+01:00) Brisel, Kopenhagen, Madrid, Pariz</Label>
 		<Label xml:lang="en" Type="Standard">Romance Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">أوروبا الغربية - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Романско стандартно време</Label>
@@ -9527,7 +9532,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">罗马标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">羅馬標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">羅馬標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Romansko standardno vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Romansko standardno vreme</Label>
 		<Label xml:lang="en" Type="Daylight">Romance Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">أوروبا الغربية - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Романско лятно време</Label>
@@ -9565,7 +9570,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">罗马夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">羅馬日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">羅馬日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Romansko letnje vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Romansko letnje vreme</Label>
 		<Info Bias="-01:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="03:00:00">Last Sunday of October at 3:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
@@ -9610,7 +9615,7 @@
 		<Label xml:lang="zh-CN">(UTC+04:00)莫斯科，圣彼得堡，伏尔加格勒</Label>
 		<Label xml:lang="zh-HK">(UTC+04:00) 莫斯科，聖彼得堡，伏爾加格勒</Label>
 		<Label xml:lang="zh-TW">(UTC+04:00) 莫斯科，聖彼得堡，伏爾加格勒</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+04:00) Moskva, St. Petersburg, Volgograd</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+04:00) Moskva, St. Petersburg, Volgograd</Label>
 		<Label xml:lang="en" Type="Standard">Russian Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">روسيا - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Русия – стандартно време</Label>
@@ -9648,7 +9653,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">俄罗斯标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">俄羅斯標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">俄羅斯標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Rusiji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Rusiji</Label>
 		<Label xml:lang="en" Type="Daylight">Russian Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">روسيا - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Русия – лятно време</Label>
@@ -9686,7 +9691,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">俄罗斯夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">俄羅斯日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">俄羅斯日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Rusiji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme u Rusiji</Label>
 		<Info Bias="-03:00:00">
 			<Date Type="Standard" Week="First" Day="Saturday" Month="January" Time="00:00:00">First Saturday of January at 0:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
@@ -9740,7 +9745,7 @@
 		<Label xml:lang="zh-CN">(UTC-03:00)卡宴，福塔雷萨</Label>
 		<Label xml:lang="zh-HK">(UTC-03:00) 開雲，福塔力沙</Label>
 		<Label xml:lang="zh-TW">(UTC-03:00) 開雲，福塔力沙</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-03:00) Kajen, Fortaleza</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-03:00) Kajen, Fortaleza</Label>
 		<Label xml:lang="en" Type="Standard">SA Eastern Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">شرق SA - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Източна ЮА – стандартно време</Label>
@@ -9778,7 +9783,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">南美洲东部标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">南美洲東部標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">南美洲東部標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Ist. stand. vreme u J. Americi</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Ist. stand. vreme u J. Americi</Label>
 		<Label xml:lang="en" Type="Daylight">SA Eastern Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">شرق SA - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Източна ЮА – лятно време</Label>
@@ -9816,7 +9821,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">南美洲东部夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">南美洲東部日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">南美洲東部日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Ist. let/zim. vr. u J. Americi</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Ist. let/zim. vr. u J. Americi</Label>
 		<Info Bias="03:00:00" />
 	</TimeZone>
 	<TimeZone Name="SAPacificStandardTime">
@@ -9858,7 +9863,7 @@
 		<Label xml:lang="zh-CN">(UTC-05:00)波哥大，利马，基多</Label>
 		<Label xml:lang="zh-HK">(UTC-05:00) 波哥大，利馬，基多</Label>
 		<Label xml:lang="zh-TW">(UTC-05:00) 波哥大，利馬，基多</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-05:00) Bogota, Lima, Kito</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-05:00) Bogota, Lima, Kito</Label>
 		<Label xml:lang="en" Type="Standard">SA Pacific Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">SA الباسيفيكي - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Тихоокенска ЮА – станд. време</Label>
@@ -9896,7 +9901,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">南美洲太平洋标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">南美洲太平洋標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">南美洲太平洋標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Pacif. stan. vreme u J. Americi</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Pacif. stan. vreme u J. Americi</Label>
 		<Label xml:lang="en" Type="Daylight">SA Pacific Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">SA الباسيفيكي - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Тихоокенска ЮА – лятно време</Label>
@@ -9934,7 +9939,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">南美洲太平洋夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">南美洲太平洋日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">南美洲太平洋日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Pac. let/zim. vr. u J. Americi</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Pac. let/zim. vr. u J. Americi</Label>
 		<Info Bias="05:00:00" />
 	</TimeZone>
 	<TimeZone Name="SAWesternStandardTime">
@@ -9976,7 +9981,7 @@
 		<Label xml:lang="zh-CN">(UTC-04:00)乔治敦，拉巴斯，马瑙斯，圣胡安</Label>
 		<Label xml:lang="zh-HK">(UTC-04:00) 佐治敦，拉帕茲，瑪瑙斯，聖胡安</Label>
 		<Label xml:lang="zh-TW">(UTC-04:00) 佐治敦，拉帕茲，瑪瑙斯，聖胡安</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-04:00) Džordžtaun, La Paz, Manaus, San Huan</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-04:00) Džordžtaun, La Paz, Manaus, San Huan</Label>
 		<Label xml:lang="en" Type="Standard">SA Western Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">غرب SA - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Западна ЮА – стандартно време</Label>
@@ -10014,7 +10019,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">南美洲西部标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">南美洲西部標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">南美洲西部標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Zap. stand. vreme u J. Americi</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Zap. stand. vreme u J. Americi</Label>
 		<Label xml:lang="en" Type="Daylight">SA Western Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">غرب SA - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Западна ЮА – лятно време</Label>
@@ -10052,7 +10057,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">南美洲西部夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">南美洲西部日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">南美洲西部日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Zap. let/zim. vr. u J. Americi</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Zap. let/zim. vr. u J. Americi</Label>
 		<Info Bias="04:00:00" />
 	</TimeZone>
 	<TimeZone Name="SamoaStandardTime">
@@ -10094,7 +10099,7 @@
 		<Label xml:lang="zh-CN">(UTC+13:00)萨摩亚群岛</Label>
 		<Label xml:lang="zh-HK">(UTC+13:00) 薩摩亞</Label>
 		<Label xml:lang="zh-TW">(UTC+13:00) 薩摩亞</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+13:00) Samoa</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+13:00) Samoa</Label>
 		<Label xml:lang="en" Type="Standard">Samoa Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">ساموا - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Самоа – стандартно време</Label>
@@ -10132,7 +10137,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">萨摩亚群岛标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">薩摩亞標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">薩摩亞標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme na Samoi</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme na Samoi</Label>
 		<Label xml:lang="en" Type="Daylight">Samoa Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">ساموا - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Самоа – лятно време</Label>
@@ -10170,7 +10175,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">萨摩亚群岛夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">薩摩亞日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">薩摩亞日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme na Samoi</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme na Samoi</Label>
 		<Info Bias="11:00:00">
 			<Date Type="Standard" Week="First" Day="Sunday" Month="April" Time="01:00:00">First Sunday of April at 1:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="September" Time="00:00:00">Last Sunday of September at 0:00</Date>
@@ -10228,7 +10233,7 @@
 		<Label xml:lang="zh-CN">(UTC+07:00)曼谷，河内，雅加达</Label>
 		<Label xml:lang="zh-HK">(UTC+07:00) 曼谷，河內，雅加達</Label>
 		<Label xml:lang="zh-TW">(UTC+07:00) 曼谷，河內，雅加達</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+07:00) Bangkok, Hanoj, Džakarta</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+07:00) Bangkok, Hanoj, Džakarta</Label>
 		<Label xml:lang="en" Type="Standard">SE Asia Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">جنوب شرق آسيا - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Югоизточна Азия – станд. време</Label>
@@ -10266,7 +10271,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">东南亚标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">東南亞標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">東南亞標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Stand. vr. u jugoist. Aziji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Stand. vr. u jugoist. Aziji</Label>
 		<Label xml:lang="en" Type="Daylight">SE Asia Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">جنوب شرق آسيا - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Югоизточна Азия – лятно време</Label>
@@ -10304,7 +10309,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">东南亚夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">東南亞日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">東南亞日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Let/zim. vr. u jugoist. Aziji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Let/zim. vr. u jugoist. Aziji</Label>
 		<Info Bias="-07:00:00" />
 	</TimeZone>
 	<TimeZone Name="SingaporeStandardTime">
@@ -10346,7 +10351,7 @@
 		<Label xml:lang="zh-CN">(UTC+08:00)吉隆坡，新加坡</Label>
 		<Label xml:lang="zh-HK">(UTC+08:00) 吉隆坡，新加坡</Label>
 		<Label xml:lang="zh-TW">(UTC+08:00) 吉隆坡，新加坡</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+08:00) Kuala Lumpur, Singapur</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+08:00) Kuala Lumpur, Singapur</Label>
 		<Label xml:lang="en" Type="Standard">Malay Peninsula Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">شبه جزيرة مالاي التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Малайски п-ов – ст. време</Label>
@@ -10384,7 +10389,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">马来西亚半岛标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">馬來半島標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">馬來半島標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Stan. vr. na Malajskom poluost.</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Stan. vr. na Malajskom poluost.</Label>
 		<Label xml:lang="en" Type="Daylight">Malay Peninsula Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">شبه جزيرة مالاي التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Малайски п-ов – лятно време</Label>
@@ -10422,7 +10427,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">马来西亚半岛夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">馬來半島日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">馬來半島日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Let/z. vr. na Malajskom poluos.</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Let/z. vr. na Malajskom poluos.</Label>
 		<Info Bias="-08:00:00" />
 	</TimeZone>
 	<TimeZone Name="SouthAfricaStandardTime">
@@ -10464,7 +10469,7 @@
 		<Label xml:lang="zh-CN">(UTC+02:00)哈拉雷，比勒陀利亚</Label>
 		<Label xml:lang="zh-HK">(UTC+02:00) 哈拉雷，皮托里</Label>
 		<Label xml:lang="zh-TW">(UTC+02:00) 哈拉雷，皮托里</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+02:00) Harare, Pretorija</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+02:00) Harare, Pretorija</Label>
 		<Label xml:lang="en" Type="Standard">South Africa Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">جنوب أفريقيا - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Южна Африка – стандартно време</Label>
@@ -10502,7 +10507,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">南非标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">南非標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">南非標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standard. vreme u Južnoj Africi</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standard. vreme u Južnoj Africi</Label>
 		<Label xml:lang="en" Type="Daylight">South Africa Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">جنوب أفريقيا - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Южна Африка – лятно време</Label>
@@ -10540,7 +10545,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">南非夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">南非日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">南非日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vr. u Juž. Africi</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vr. u Juž. Africi</Label>
 		<Info Bias="-02:00:00" />
 	</TimeZone>
 	<TimeZone Name="SriLankaStandardTime">
@@ -10582,7 +10587,7 @@
 		<Label xml:lang="zh-CN">(UTC+05:30)斯里加亚渥登普拉</Label>
 		<Label xml:lang="zh-HK">(UTC+05:30) 斯里哈亞華登尼普拉</Label>
 		<Label xml:lang="zh-TW">(UTC+05:30) 斯里哈亞華登尼普拉</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+05:30) Sri Džajavardenepura</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+05:30) Sri Džajavardenepura</Label>
 		<Label xml:lang="en" Type="Standard">Sri Lanka Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">سرلانكا - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Шри Ланка – стандартно време</Label>
@@ -10620,7 +10625,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">斯里兰卡标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">斯里蘭卡標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">斯里蘭卡標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Šri Lanki</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Šri Lanki</Label>
 		<Label xml:lang="en" Type="Daylight">Sri Lanka Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">سرلانكا - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Шри Ланка – лятно време</Label>
@@ -10658,7 +10663,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">斯里兰卡夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">斯里蘭卡日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">斯里蘭卡日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Šri Lanki</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme u Šri Lanki</Label>
 		<Info Bias="-05:30:00" />
 	</TimeZone>
 	<TimeZone Name="SyriaStandardTime">
@@ -10700,7 +10705,7 @@
 		<Label xml:lang="zh-CN">(UTC+02:00)大马士革</Label>
 		<Label xml:lang="zh-HK">(UTC+02:00) 大馬士革</Label>
 		<Label xml:lang="zh-TW">(UTC+02:00) 大馬士革</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+02:00) Damask</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+02:00) Damask</Label>
 		<Label xml:lang="en" Type="Standard">Syria Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">سوريا - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Сирия - стандартно време</Label>
@@ -10738,7 +10743,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">叙利亚标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">敘利亞標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">敘利亞標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Siriji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Siriji</Label>
 		<Label xml:lang="en" Type="Daylight">Syria Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">سوريا - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Сирия - лятно часово време</Label>
@@ -10776,7 +10781,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">叙利亚夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">敘利亞日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">敘利亞日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Siriji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme u Siriji</Label>
 		<Info Bias="-02:00:00">
 			<Date Type="Standard" Week="Last" Day="Thursday" Month="October" Time="23:59:59">Last Thursday of October at 23:59:59</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Thursday" Month="April" Time="23:59:59">First Thursday of April at 23:59:59</Date>
@@ -10869,7 +10874,7 @@
 		<Label xml:lang="zh-CN">(UTC+08:00)台北</Label>
 		<Label xml:lang="zh-HK">(UTC+08:00) 台北</Label>
 		<Label xml:lang="zh-TW">(UTC+08:00) 台北</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+08:00) Tajpej</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+08:00) Tajpej</Label>
 		<Label xml:lang="en" Type="Standard">Taipei Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">تايبيه - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Тайванско стандартно време</Label>
@@ -10907,7 +10912,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">台北标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">台北標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">台北標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Tajpehu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Tajpehu</Label>
 		<Label xml:lang="en" Type="Daylight">Taipei Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">تايبيه - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Тайванско лятно време</Label>
@@ -10945,7 +10950,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">台北夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">台北日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">台北日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Tajpehu</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme u Tajpehu</Label>
 		<Info Bias="-08:00:00" />
 	</TimeZone>
 	<TimeZone Name="TasmaniaStandardTime">
@@ -10987,7 +10992,7 @@
 		<Label xml:lang="zh-CN">(UTC+10:00)霍巴特</Label>
 		<Label xml:lang="zh-HK">(UTC+10:00) 霍巴特</Label>
 		<Label xml:lang="zh-TW">(UTC+10:00) 霍巴特</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+10:00) Hobart</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+10:00) Hobart</Label>
 		<Label xml:lang="en" Type="Standard">Tasmania Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">تسمانيا - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Тасмания – стандартно време</Label>
@@ -11025,7 +11030,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">塔斯马尼亚岛标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">塔斯馬尼亞標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">塔斯馬尼亞標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme na Tasmaniji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme na Tasmaniji</Label>
 		<Label xml:lang="en" Type="Daylight">Tasmania Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">تسمانيا - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Тасмания – лятно време</Label>
@@ -11063,7 +11068,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">塔斯马尼亚岛夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">塔斯馬尼亞日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">塔斯馬尼亞日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje/zims. vreme na Tasmaniji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje/zims. vreme na Tasmaniji</Label>
 		<Info Bias="-10:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="March" Time="03:00:00">Last Sunday of March at 3:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Sunday" Month="October" Time="02:00:00">First Sunday of October at 2:00</Date>
@@ -11116,7 +11121,7 @@
 		<Label xml:lang="zh-CN">(UTC+09:00)大阪，札幌，东京</Label>
 		<Label xml:lang="zh-HK">(UTC+09:00) 大阪，北海道，東京</Label>
 		<Label xml:lang="zh-TW">(UTC+09:00) 大阪，北海道，東京</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+09:00) Osaka, Saporo, Tokio</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+09:00) Osaka, Saporo, Tokio</Label>
 		<Label xml:lang="en" Type="Standard">Tokyo Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">طوكيو - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Токийско стандартно време</Label>
@@ -11154,7 +11159,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">东京标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">東京標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">東京標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Tokiju</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Tokiju</Label>
 		<Label xml:lang="en" Type="Daylight">Tokyo Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">طوكيو - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Токийско лятно време</Label>
@@ -11192,7 +11197,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">东京夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">東京日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">東京日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Tokiju</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme u Tokiju</Label>
 		<Info Bias="-09:00:00" />
 	</TimeZone>
 	<TimeZone Name="TongaStandardTime">
@@ -11234,7 +11239,7 @@
 		<Label xml:lang="zh-CN">(UTC+13:00)努库阿洛法</Label>
 		<Label xml:lang="zh-HK">(UTC+13:00) 努瓜婁發</Label>
 		<Label xml:lang="zh-TW">(UTC+13:00) 努瓜婁發</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+13:00) Nukualofa</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+13:00) Nukualofa</Label>
 		<Label xml:lang="en" Type="Standard">Tonga Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">تونجا - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Тонга – стандартно време</Label>
@@ -11272,7 +11277,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">汤加标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">東加標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">東加標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standard. vreme na ostrvu Tonga</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standard. vreme na ostrvu Tonga</Label>
 		<Label xml:lang="en" Type="Daylight">Tonga Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">تونجا - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Тонга – лятно време</Label>
@@ -11310,7 +11315,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">汤加夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">東加日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">東加日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme na Tongi</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme na Tongi</Label>
 		<Info Bias="-13:00:00" />
 	</TimeZone>
 	<TimeZone Name="TurkeyStandardTime">
@@ -11352,7 +11357,7 @@
 		<Label xml:lang="zh-CN">(UTC+02:00)伊斯坦布尔</Label>
 		<Label xml:lang="zh-HK">(UTC+02:00) 伊斯坦堡</Label>
 		<Label xml:lang="zh-TW">(UTC+02:00) 伊斯坦堡</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+02:00) Istanbul</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+02:00) Istanbul</Label>
 		<Label xml:lang="en" Type="Standard">Turkey Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">تركيا - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Турция – стандартно време</Label>
@@ -11390,7 +11395,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">土耳其标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">土耳其標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">土耳其標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Turskoj</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Turskoj</Label>
 		<Label xml:lang="en" Type="Daylight">Turkey Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">تركيا - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Турция – лятно време</Label>
@@ -11428,7 +11433,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">土耳其夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">土耳其日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">土耳其日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje/zimsko vreme u Turskoj</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje/zimsko vreme u Turskoj</Label>
 		<Info Bias="-02:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="04:00:00">Last Sunday of October at 4:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Monday" Month="March" Time="03:00:00">Last Monday of March at 3:00</Date>
@@ -11459,7 +11464,7 @@
 		<Label xml:lang="en-US">(UTC+08:00) Ulaanbaatar</Label>
 		<Label xml:lang="es-ES">(UTC+08:00) Ulán Bator</Label>
 		<Label xml:lang="et-EE">(UTC+08:00) Ulaanbaatar</Label>
-		<Label xml:lang="fi-FI">(UTC+08:00) Ulan Bator</Label>
+		<Label xml:lang="fi-FI">(UTC+08:00) Ulaanbaatar</Label>
 		<Label xml:lang="fr-FR">(UTC+08:00) Oulan-Bator</Label>
 		<Label xml:lang="he-IL">(UTC+08:00) אולאן באטור</Label>
 		<Label xml:lang="hr-HR">(UTC+08:00) Ulan Bator</Label>
@@ -11485,7 +11490,7 @@
 		<Label xml:lang="zh-CN">(UTC+08:00)乌兰巴托</Label>
 		<Label xml:lang="zh-HK">(UTC+08:00) 庫倫</Label>
 		<Label xml:lang="zh-TW">(UTC+08:00) 庫倫</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+08:00) Ulan Bator</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+08:00) Ulan Bator</Label>
 		<Label xml:lang="en" Type="Standard">Ulaanbaatar Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">أولان باتار - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Улан Батор - стандартно време</Label>
@@ -11497,7 +11502,7 @@
 		<Label xml:lang="en-US" Type="Standard">Ulaanbaatar Standard Time</Label>
 		<Label xml:lang="es-ES" Type="Standard">Hora estándar de Ulán Bator</Label>
 		<Label xml:lang="et-EE" Type="Standard">Ulaanbaatari standardaeg</Label>
-		<Label xml:lang="fi-FI" Type="Standard">Ulan Batorin normaaliaika</Label>
+		<Label xml:lang="fi-FI" Type="Standard">Ulaanbaatarin normaaliaika</Label>
 		<Label xml:lang="fr-FR" Type="Standard">Oulan-Bator</Label>
 		<Label xml:lang="he-IL" Type="Standard">שעון רגיל של אולאן באטור </Label>
 		<Label xml:lang="hr-HR" Type="Standard">Ulanbatorsko standardno vrijeme</Label>
@@ -11523,7 +11528,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">乌兰巴托标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">庫倫標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">庫倫標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Ulan Batoru</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Ulan Batoru</Label>
 		<Label xml:lang="en" Type="Daylight">Ulaanbaatar Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">أولان باتار - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Улан Батор  - лятно час. време</Label>
@@ -11535,7 +11540,7 @@
 		<Label xml:lang="en-US" Type="Daylight">Ulaanbaatar Daylight Time</Label>
 		<Label xml:lang="es-ES" Type="Daylight">Hora de verano de Ulán Bator</Label>
 		<Label xml:lang="et-EE" Type="Daylight">Ulaanbaatari suveaeg</Label>
-		<Label xml:lang="fi-FI" Type="Daylight">Ulan Batorin kesäaika</Label>
+		<Label xml:lang="fi-FI" Type="Daylight">Ulaanbaatarin kesäaika</Label>
 		<Label xml:lang="fr-FR" Type="Daylight">Oulan-Bator (heure d'été)</Label>
 		<Label xml:lang="he-IL" Type="Daylight"> שעון קיץ של אולאן באטור</Label>
 		<Label xml:lang="hr-HR" Type="Daylight">Ulanbatorsko ljetno vrijeme</Label>
@@ -11561,7 +11566,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">乌兰巴托夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">庫倫日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">庫倫日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Ulan Batoru</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme u Ulan Batoru</Label>
 		<Info Bias="-08:00:00" />
 	</TimeZone>
 	<TimeZone Name="USEasternStandardTime">
@@ -11603,7 +11608,7 @@
 		<Label xml:lang="zh-CN">(UTC-05:00)印地安那州(东部)</Label>
 		<Label xml:lang="zh-HK">(UTC-05:00) 印第安納 (東部)</Label>
 		<Label xml:lang="zh-TW">(UTC-05:00) 印第安納 (東部)</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-05:00) Indijana (istočno)</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-05:00) Indijana (istočno)</Label>
 		<Label xml:lang="en" Type="Standard">US Eastern Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">شرق الولايات المتحدة-توقيت رسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Източни САЩ – стандартно време</Label>
@@ -11641,7 +11646,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">美国东部标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">美東標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">美東標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Istočno standardno vreme (SAD)</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Istočno standardno vreme (SAD)</Label>
 		<Label xml:lang="en" Type="Daylight">US Eastern Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">شرق الولايات المتحدة - صيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Източни САЩ – лятно време</Label>
@@ -11679,7 +11684,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">美国东部夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">美東日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">美東日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Istočno let/zimsko vreme (SAD)</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Istočno let/zimsko vreme (SAD)</Label>
 		<Info Bias="05:00:00">
 			<Date Type="Standard" Week="First" Day="Sunday" Month="November" Time="02:00:00">First Sunday of November at 2:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Second" Day="Sunday" Month="March" Time="02:00:00">Second Sunday of March at 2:00</Date>
@@ -11733,7 +11738,7 @@
 		<Label xml:lang="zh-CN">(UTC-07:00)亚利桑那</Label>
 		<Label xml:lang="zh-HK">(UTC-07:00) 亞歷桑那</Label>
 		<Label xml:lang="zh-TW">(UTC-07:00) 亞歷桑那</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-07:00) Arizona</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-07:00) Arizona</Label>
 		<Label xml:lang="en" Type="Standard">US Mountain Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">التوقيت الجبلي الأمريكي الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">САЩ планинско стандартно време</Label>
@@ -11771,7 +11776,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">美国山地标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">美國山區標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">美國山區標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Planinsko standard. vreme (SAD)</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Planinsko standard. vreme (SAD)</Label>
 		<Label xml:lang="en" Type="Daylight">US Mountain Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">التوقيت الجبلي الأمريكي الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">САЩ планинско лятно време</Label>
@@ -11809,7 +11814,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">美国山地夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">美國山區日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">美國山區日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Plan. letnje vreme (SAD)</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Plan. letnje vreme (SAD)</Label>
 		<Info Bias="07:00:00" />
 	</TimeZone>
 	<TimeZone Name="UTC">
@@ -11851,7 +11856,7 @@
 		<Label xml:lang="zh-CN">(UTC)协调世界时</Label>
 		<Label xml:lang="zh-HK">(UTC) 國際標准時間</Label>
 		<Label xml:lang="zh-TW">(UTC) 國際標准時間</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC) Koordinisano univerzalno vreme</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC) Koordinisano univerzalno vreme</Label>
 		<Label xml:lang="en" Type="Standard">Co-ordinated Universal Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">توقيت عالمي متفق عليه</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Координирано универсално време</Label>
@@ -11889,7 +11894,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">协调世界时</Label>
 		<Label xml:lang="zh-HK" Type="Standard">國際標准時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">國際標准時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Koordinisano univerzalno vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Koordinisano univerzalno vreme</Label>
 		<Label xml:lang="en" Type="Daylight">Co-ordinated Universal Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">توقيت عالمي متفق عليه</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Координирано универсално време</Label>
@@ -11927,7 +11932,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">协调世界时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">國際標准時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">國際標准時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Koordinisano univerzalno vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Koordinisano univerzalno vreme</Label>
 		<Info Bias="00:00:00" />
 	</TimeZone>
 	<TimeZone Name="UTC12">
@@ -11969,7 +11974,7 @@
 		<Label xml:lang="zh-CN">(UTC+12:00)协调世界时+12</Label>
 		<Label xml:lang="zh-HK">(UTC+12:00) 國際標準時間+12</Label>
 		<Label xml:lang="zh-TW">(UTC+12:00) 國際標準時間+12</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+12:00) Koordinisano univerzalno vreme+12</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+12:00) Koordinisano univerzalno vreme+12</Label>
 		<Label xml:lang="en" Type="Standard">UTC+12</Label>
 		<Label xml:lang="ar-SA" Type="Standard">UTC+12</Label>
 		<Label xml:lang="bg-BG" Type="Standard">UTC+12</Label>
@@ -12007,7 +12012,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">UTC+12</Label>
 		<Label xml:lang="zh-HK" Type="Standard">UTC+12</Label>
 		<Label xml:lang="zh-TW" Type="Standard">UTC+12</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">UTC+12</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">UTC+12</Label>
 		<Label xml:lang="en" Type="Daylight">UTC+12</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">UTC+12</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">UTC+12</Label>
@@ -12045,7 +12050,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">UTC+12</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">UTC+12</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">UTC+12</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">UTC+12</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">UTC+12</Label>
 		<Info Bias="-12:00:00" />
 	</TimeZone>
 	<TimeZone Name="UTC-2">
@@ -12087,7 +12092,7 @@
 		<Label xml:lang="zh-CN">(UTC-02:00)协调世界时-02</Label>
 		<Label xml:lang="zh-HK">(UTC-02:00) 國際標準時間-02</Label>
 		<Label xml:lang="zh-TW">(UTC-02:00) 國際標準時間-02</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-02:00) Koordinisano univerzalno vreme-02</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-02:00) Koordinisano univerzalno vreme-02</Label>
 		<Label xml:lang="en" Type="Standard">UTC-02</Label>
 		<Label xml:lang="ar-SA" Type="Standard">UTC-02</Label>
 		<Label xml:lang="bg-BG" Type="Standard">UTC-02</Label>
@@ -12125,7 +12130,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">UTC-02</Label>
 		<Label xml:lang="zh-HK" Type="Standard">UTC-02</Label>
 		<Label xml:lang="zh-TW" Type="Standard">UTC-02</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">UTC-02</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">UTC-02</Label>
 		<Label xml:lang="en" Type="Daylight">UTC-02</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">UTC-02</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">UTC-02</Label>
@@ -12163,7 +12168,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">UTC-02</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">UTC-02</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">UTC-02</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">UTC-02</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">UTC-02</Label>
 		<Info Bias="02:00:00" />
 	</TimeZone>
 	<TimeZone Name="UTC-11">
@@ -12205,7 +12210,7 @@
 		<Label xml:lang="zh-CN">(UTC-11:00)协调世界时-11</Label>
 		<Label xml:lang="zh-HK">(UTC-11:00) 國際標準時間-11</Label>
 		<Label xml:lang="zh-TW">(UTC-11:00) 國際標準時間-11</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-11:00) Koordinisano univerzalno vreme-11</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-11:00) Koordinisano univerzalno vreme-11</Label>
 		<Label xml:lang="en" Type="Standard">UTC-11</Label>
 		<Label xml:lang="ar-SA" Type="Standard">UTC-11</Label>
 		<Label xml:lang="bg-BG" Type="Standard">UTC-11</Label>
@@ -12243,7 +12248,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">UTC-11</Label>
 		<Label xml:lang="zh-HK" Type="Standard">UTC-11</Label>
 		<Label xml:lang="zh-TW" Type="Standard">UTC-11</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">UTC-11</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">UTC-11</Label>
 		<Label xml:lang="en" Type="Daylight">UTC-11</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">UTC-11</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">UTC-11</Label>
@@ -12281,7 +12286,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">UTC-11</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">UTC-11</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">UTC-11</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">UTC-11</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">UTC-11</Label>
 		<Info Bias="11:00:00" />
 	</TimeZone>
 	<TimeZone Name="VenezuelaStandardTime">
@@ -12323,7 +12328,7 @@
 		<Label xml:lang="zh-CN">(UTC-04:30)加拉加斯</Label>
 		<Label xml:lang="zh-HK">(UTC-04:30) 卡拉卡斯</Label>
 		<Label xml:lang="zh-TW">(UTC-04:30) 卡拉卡斯</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC-04:30) Karakas</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-04:30) Karakas</Label>
 		<Label xml:lang="en" Type="Standard">Venezuela Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">فنزويلا - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Венецуела – стандартно време</Label>
@@ -12361,7 +12366,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">委内瑞拉标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">委內瑞拉標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">委內瑞拉標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Venecueli</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Venecueli</Label>
 		<Label xml:lang="en" Type="Daylight">Venezuela Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">فنزويلا - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Венецуела – лятно време</Label>
@@ -12399,7 +12404,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">委内瑞拉夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">委內瑞拉日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">委內瑞拉日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Venecueli</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme u Venecueli</Label>
 		<Info Bias="04:30:00" />
 		<Info Year="2006" Bias="04:00:00" />
 		<Info Year="2007" Bias="04:30:00" />
@@ -12443,7 +12448,7 @@
 		<Label xml:lang="zh-CN">(UTC+11:00)符拉迪沃斯托克</Label>
 		<Label xml:lang="zh-HK">(UTC+11:00) 海參威</Label>
 		<Label xml:lang="zh-TW">(UTC+11:00) 海參威</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+11:00) Vladivostok</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+11:00) Vladivostok</Label>
 		<Label xml:lang="en" Type="Standard">Vladivostok Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">فلاديفوستوك - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Владивосток – стандартно време</Label>
@@ -12481,7 +12486,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">符拉迪沃斯托克(海参崴)标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">海參威標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">海參威標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Vladivostoku</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Vladivostoku</Label>
 		<Label xml:lang="en" Type="Daylight">Vladivostok Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">فلاديفوستوك - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Владивосток – лятно време</Label>
@@ -12519,7 +12524,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">符拉迪沃斯托克(海参崴)夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">海參威日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">海參威日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje/zims. vr. u Vladivostoku</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje/zims. vr. u Vladivostoku</Label>
 		<Info Bias="-10:00:00">
 			<Date Type="Standard" Week="First" Day="Saturday" Month="January" Time="00:00:00">First Saturday of January at 0:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
@@ -12573,7 +12578,7 @@
 		<Label xml:lang="zh-CN">(UTC+08:00)珀斯</Label>
 		<Label xml:lang="zh-HK">(UTC+08:00) 伯斯</Label>
 		<Label xml:lang="zh-TW">(UTC+08:00) 伯斯</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+08:00) Pert</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+08:00) Pert</Label>
 		<Label xml:lang="en" Type="Standard">W. Australia Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">غرب استراليا - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Западноавстралийско ст. време</Label>
@@ -12611,7 +12616,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">澳大利亚西部标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">澳洲西部標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">澳洲西部標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Stand. vreme u zap. Australiji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Stand. vreme u zap. Australiji</Label>
 		<Label xml:lang="en" Type="Daylight">W. Australia Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">غرب استراليا - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Западноавстралийско лятно време</Label>
@@ -12649,7 +12654,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">澳大利亚西部夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">澳洲西部日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">澳洲西部日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Let/zim. vr. u zap. Australiji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Let/zim. vr. u zap. Australiji</Label>
 		<Info Bias="-08:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="March" Time="03:00:00">Last Sunday of March at 3:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="October" Time="02:00:00">Last Sunday of October at 2:00</Date>
@@ -12712,7 +12717,7 @@
 		<Label xml:lang="zh-CN">(UTC+01:00)中非西部</Label>
 		<Label xml:lang="zh-HK">(UTC+01:00) 中西非</Label>
 		<Label xml:lang="zh-TW">(UTC+01:00) 中西非</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+01:00) Srednjezapadna Afrika</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+01:00) Srednjezapadna Afrika</Label>
 		<Label xml:lang="en" Type="Standard">W. Central Africa Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">غرب أفريقيا الوسطى - توقيت رسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Зап. Центр. Африка – станд.вр.</Label>
@@ -12750,7 +12755,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">中非西部标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">中西非標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">中西非標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Stan. vreme u Srednjoz. Africi</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Stan. vreme u Srednjoz. Africi</Label>
 		<Label xml:lang="en" Type="Daylight">W. Central Africa Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">غرب أفريقيا الوسطى-توقيت صيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Зап. Центр. Африка – лятно вр.</Label>
@@ -12788,7 +12793,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">中非西部夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">中西非日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">中西非日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Let/zim. vr. u srednjoz. Africi</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Let/zim. vr. u srednjoz. Africi</Label>
 		<Info Bias="-01:00:00" />
 	</TimeZone>
 	<TimeZone Name="WEuropeStandardTime">
@@ -12830,7 +12835,7 @@
 		<Label xml:lang="zh-CN">(UTC+01:00)阿姆斯特丹，柏林，伯尔尼，罗马，斯德哥尔摩，维也纳</Label>
 		<Label xml:lang="zh-HK">(UTC+01:00) 阿姆斯特丹，柏林，伯恩，羅馬，斯德哥爾摩，維也納</Label>
 		<Label xml:lang="zh-TW">(UTC+01:00) 阿姆斯特丹，柏林，伯恩，羅馬，斯德哥爾摩，維也納</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+01:00) Amsterdam, Berlin, Bern, Rim, Stokholm, Beč</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+01:00) Amsterdam, Berlin, Bern, Rim, Stokholm, Beč</Label>
 		<Label xml:lang="en" Type="Standard">W. Europe Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">غرب أوربا - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Западноевропейско станд. време</Label>
@@ -12868,7 +12873,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">西欧标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">西歐標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">西歐標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Zap. Evropi</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Zap. Evropi</Label>
 		<Label xml:lang="en" Type="Daylight">W. Europe Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">غرب أوربا - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Западноевропейско лятно време</Label>
@@ -12906,7 +12911,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">西欧夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">西歐日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">西歐日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vr. u Zap. Evropi</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vr. u Zap. Evropi</Label>
 		<Info Bias="-01:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="03:00:00">Last Sunday of October at 3:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
@@ -12915,19 +12920,19 @@
 	<TimeZone Name="WestAsiaStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\West Asia Standard Time">West Asia Standard Time</Link>
 		<Label xml:lang="en">(UTC+05:00) Ashgabat, Tashkent</Label>
-		<Label xml:lang="ar-SA">(UTC+05:00) أشجابات، طشقند</Label>
+		<Label xml:lang="ar-SA">‏‏(UTC+05:00) أشجابات، طشقند</Label>
 		<Label xml:lang="bg-BG">(UTC+05:00) Ашхабад, Ташкент</Label>
-		<Label xml:lang="cs-CZ">(UTC+05:00) Ašchabad, Taškent</Label>
-		<Label xml:lang="da-DK">(UTC+05:00) Asjgabad, Tasjkent</Label>
+		<Label xml:lang="cs-CZ">(UTC+05:00) Ašchabád, Taškent</Label>
+		<Label xml:lang="da-DK">(UTC+05:00) Asjgabad, Tashkent</Label>
 		<Label xml:lang="de-DE">(UTC+05:00) Aschgabat, Taschkent</Label>
 		<Label xml:lang="el-GR">(UTC+05:00) Ασχαμπάτ, Τασκένδη</Label>
 		<Label xml:lang="en-GB">(UTC+05:00) Ashgabat, Tashkent</Label>
 		<Label xml:lang="en-US">(UTC+05:00) Ashgabat, Tashkent</Label>
 		<Label xml:lang="es-ES">(UTC+05:00) Asjabad, Tashkent</Label>
-		<Label xml:lang="et-EE">(UTC+05:00) Ashgabat, Toshkent</Label>
+		<Label xml:lang="et-EE">(UTC+05:00) Ashgabat, Taškent</Label>
 		<Label xml:lang="fi-FI">(UTC+05:00) Ašgabat, Tashkent</Label>
 		<Label xml:lang="fr-FR">(UTC+05:00) Achgabat, Tachkent</Label>
-		<Label xml:lang="he-IL">(UTC+05:00) אשגאבט, אשגבאט</Label>
+		<Label xml:lang="he-IL">‏‏(UTC+05:00) אשגבאט, טשקנט</Label>
 		<Label xml:lang="hr-HR">(UTC+05:00) Ashgabat, Taškent</Label>
 		<Label xml:lang="hu-HU">(UTC+05:00) Asgabat, Taskent</Label>
 		<Label xml:lang="it-IT">(UTC+5.00) Ashkhabat, Tashkent</Label>
@@ -12936,7 +12941,7 @@
 		<Label xml:lang="lt-LT">(UTC+05:00) Ašchabadas, Taškentas</Label>
 		<Label xml:lang="lv-LV">(UTC+05:00) Ašhabada, Taškenta</Label>
 		<Label xml:lang="nb-NO">(UTC+05:00) Asjkhabad, Tasjkent</Label>
-		<Label xml:lang="nl-NL">(UTC+05:00) Asjchabad, Tashkent</Label>
+		<Label xml:lang="nl-NL">(UTC+05:00) Asjchabad, Tasjkent</Label>
 		<Label xml:lang="pl-PL">(UTC+05:00) Aszchabad, Taszkient</Label>
 		<Label xml:lang="pt-BR">(UTC+05:00) Ashgabat, Tashkent</Label>
 		<Label xml:lang="pt-PT">(UTC+05:00) Achgabat, Tashkent</Label>
@@ -12945,13 +12950,13 @@
 		<Label xml:lang="sk-SK">(UTC+05:00) Ašchabad, Taškent</Label>
 		<Label xml:lang="sl-SI">(UTC+05:00) Ašhabad, Taškent</Label>
 		<Label xml:lang="sv-SE">(UTC+05:00) Asjchabad, Tasjkent</Label>
-		<Label xml:lang="th-TH">(UTC+05:00) อาชกาบัต, แทชเคนท์</Label>
+		<Label xml:lang="th-TH">(UTC+05:00) อาชกาบัต แทชเคนท์</Label>
 		<Label xml:lang="tr-TR">(UTC+05:00) Aşkabad, Taşkent</Label>
 		<Label xml:lang="uk-UA">(UTC+05:00) Ашґабат, Ташкент</Label>
 		<Label xml:lang="zh-CN">(UTC+05:00)阿什哈巴德，塔什干</Label>
 		<Label xml:lang="zh-HK">(UTC+05:00) 阿什哈巴德，塔什干</Label>
 		<Label xml:lang="zh-TW">(UTC+05:00) 阿什哈巴德，塔什干</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+05:00) Ašhabad, Taškent</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+05:00) Ašhabad, Taškent</Label>
 		<Label xml:lang="en" Type="Standard">West Asia Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">غرب آسيا - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Западна Азия – стандартно време</Label>
@@ -12989,7 +12994,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">西亚标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">西亞標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">西亞標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u zap. Aziji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u zap. Aziji</Label>
 		<Label xml:lang="en" Type="Daylight">West Asia Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">غرب آسيا - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Западна Азия – лятно време</Label>
@@ -13027,7 +13032,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">西亚夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">西亞日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">西亞日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje/zims. vreme u zap. Aziji</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje/zims. vreme u zap. Aziji</Label>
 		<Info Bias="-05:00:00" />
 	</TimeZone>
 	<TimeZone Name="WestPacificStandardTime">
@@ -13069,7 +13074,7 @@
 		<Label xml:lang="zh-CN">(UTC+10:00)关岛，莫尔兹比港</Label>
 		<Label xml:lang="zh-HK">(UTC+10:00) 關島，莫爾斯貝港</Label>
 		<Label xml:lang="zh-TW">(UTC+10:00) 關島，莫爾斯貝港</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+10:00) Guam, Port Morezbi</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+10:00) Guam, Port Morezbi</Label>
 		<Label xml:lang="en" Type="Standard">West Pacific Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">غرب الباسيفيك - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Западнотихоокеанско ст. време</Label>
@@ -13107,7 +13112,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">太平洋西部标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">西太平洋標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">西太平洋標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Zapadnopacifičko standar. vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Zapadnopacifičko standar. vreme</Label>
 		<Label xml:lang="en" Type="Daylight">West Pacific Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">غرب الباسيفيك - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Западнотихоокеанско лятно време</Label>
@@ -13145,7 +13150,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">太平洋西部夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">西太平洋日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">西太平洋日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Zapadnopac. letnje vreme</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Zapadnopac. letnje vreme</Label>
 		<Info Bias="-10:00:00" />
 	</TimeZone>
 	<TimeZone Name="YakutskStandardTime">
@@ -13187,7 +13192,7 @@
 		<Label xml:lang="zh-CN">(UTC+10:00)雅库茨克</Label>
 		<Label xml:lang="zh-HK">(UTC+10:00) 亞庫茲克</Label>
 		<Label xml:lang="zh-TW">(UTC+10:00) 亞庫茲克</Label>
-		<Label xml:lang="sr-Latn-CS">(UTC+10:00) Jakutsk</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+10:00) Jakutsk</Label>
 		<Label xml:lang="en" Type="Standard">Yakutsk Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">ياكوتسك - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Якутск – стандартно време</Label>
@@ -13225,7 +13230,7 @@
 		<Label xml:lang="zh-CN" Type="Standard">雅库茨克标准时间</Label>
 		<Label xml:lang="zh-HK" Type="Standard">亞庫茲克標準時間</Label>
 		<Label xml:lang="zh-TW" Type="Standard">亞庫茲克標準時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Standard">Standardno vreme u Jakutsku</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Standardno vreme u Jakutsku</Label>
 		<Label xml:lang="en" Type="Daylight">Yakutsk Summer Time</Label>
 		<Label xml:lang="ar-SA" Type="Daylight">ياكوتسك - التوقيت الصيفي</Label>
 		<Label xml:lang="bg-BG" Type="Daylight">Якутск – лятно време</Label>
@@ -13263,7 +13268,7 @@
 		<Label xml:lang="zh-CN" Type="Daylight">雅库茨克夏令时</Label>
 		<Label xml:lang="zh-HK" Type="Daylight">亞庫茲克日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">亞庫茲克日光節約時間</Label>
-		<Label xml:lang="sr-Latn-CS" Type="Daylight">Letnje vreme u Jakutsku</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme u Jakutsku</Label>
 		<Info Bias="-09:00:00">
 			<Date Type="Standard" Week="First" Day="Saturday" Month="January" Time="00:00:00">First Saturday of January at 0:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
