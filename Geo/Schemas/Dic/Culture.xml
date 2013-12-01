@@ -1983,6 +1983,10 @@
 			<Label Type="Org" xml:lang="sr-SP-Latn">srpski (Srbija)</Label>
 			<Code Source="IETF">sr-SP-Latn</Code>
 		</Language>
+		<Language Name="sr-Latn-RS">
+			<Label xml:lang="en">Serbian (Latin, Serbia)</Label>
+			<Label xml:lang="ru">сербский (латиница, Сербия)</Label>
+		</Language>
 	</Language>
 	<Language Name="sv">
 		<Label xml:lang="en">Swedish</Label>
@@ -2553,6 +2557,7 @@
 	<Export Name="sr-Latn-BA"/>
 	<Export Name="sr-Latn-CS"/>
 	<Export Name="sr-SP-Latn"/>
+	<Export Name="sr-Latn-RS"/>
 	<Export Name="sv"/>
 	<Export Name="sv-FI"/>
 	<Export Name="sv-SE"/>

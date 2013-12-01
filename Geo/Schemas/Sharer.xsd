@@ -513,7 +513,7 @@
 						<xs:annotation>
 							<xs:documentation xml:lang="en">Morocco Standard Time</xs:documentation>
 							<xs:appinfo source="DST">
-								<xs:documentation xml:lang="en">Last Sunday of April at 2:00 – Last Sunday of September at 3:00</xs:documentation>
+								<xs:documentation xml:lang="en">Last Sunday of April at 2:00 – Last Sunday of October at 3:00</xs:documentation>
 							</xs:appinfo>
 						</xs:annotation>
 					</xs:enumeration>
@@ -529,7 +529,7 @@
 						<xs:annotation>
 							<xs:documentation xml:lang="en">Libya Standard Time</xs:documentation>
 							<xs:appinfo source="DST">
-								<xs:documentation xml:lang="en">Last Friday of March at 1:00 – Last Friday of October at 2:00</xs:documentation>
+								<xs:documentation xml:lang="en">Last Friday of March at 1:00 – First Tuesday of January at 0:00</xs:documentation>
 							</xs:appinfo>
 						</xs:annotation>
 					</xs:enumeration>
@@ -807,7 +807,7 @@
 						<xs:annotation>
 							<xs:documentation xml:lang="en">Fiji Standard Time</xs:documentation>
 							<xs:appinfo source="DST">
-								<xs:documentation xml:lang="en">Third Sunday of October at 2:00 – Fourth Sunday of January at 3:00</xs:documentation>
+								<xs:documentation xml:lang="en">Fourth Sunday of October at 2:00 – Third Sunday of January at 3:00</xs:documentation>
 							</xs:appinfo>
 						</xs:annotation>
 					</xs:enumeration>
