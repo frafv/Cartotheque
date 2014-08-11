@@ -3241,7 +3241,7 @@
 		<Label xml:lang="et-EE">(UTC+08:00) Peking, Chongqing, Hongkong, Urumqi</Label>
 		<Label xml:lang="fi-FI">(UTC+08:00) Beijing, Chongqing, Hongkong, Urumqi</Label>
 		<Label xml:lang="fr-FR">(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi</Label>
-		<Label xml:lang="he-IL">(UTC+08:00) בייג'ינג, צ'נקינג, הונג קונג, אורומקי</Label>
+		<Label xml:lang="he-IL">(UTC+08:00)  בייג'ינג, ננקינג, הונג קונג, אורומקי</Label>
 		<Label xml:lang="hr-HR">(UTC+08:00) Peking, Chongqing, Hong Kong, Urumqi</Label>
 		<Label xml:lang="hu-HU">(UTC+08:00) Peking, Csungking, Hongkong, Urumcsi</Label>
 		<Label xml:lang="it-IT">(UTC+8.00) Pechino, Chongqing, Hong Kong, Urumchi</Label>
@@ -4325,7 +4325,10 @@
 		<Label xml:lang="zh-HK" Type="Daylight">埃及日光節約時間</Label>
 		<Label xml:lang="zh-TW" Type="Daylight">埃及日光節約時間</Label>
 		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme u Egiptu</Label>
-		<Info Bias="-02:00:00" />
+		<Info Bias="-02:00:00">
+			<Date Type="Standard" Week="Last" Day="Thursday" Month="September" Time="23:59:59">Last Thursday of September at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Thursday" Month="May" Time="23:59:59">Third Thursday of May at 23:59:59</Date>
+		</Info>
 		<Info Year="2005" Bias="-02:00:00">
 			<Date Type="Standard" Week="Last" Day="Thursday" Month="September" Time="23:59:59">Last Thursday of September at 23:59:59</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Friday" Month="April" Time="00:00:00">Last Friday of April at 0:00</Date>
@@ -4351,6 +4354,13 @@
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Thursday" Month="April" Time="23:59:59">Last Thursday of April at 23:59:59</Date>
 		</Info>
 		<Info Year="2011" Bias="-02:00:00" />
+		<Info Year="2012" Bias="-02:00:00" />
+		<Info Year="2013" Bias="-02:00:00" />
+		<Info Year="2014" Bias="-02:00:00">
+			<Date Type="Standard" Week="Last" Day="Thursday" Month="September" Time="23:59:59">Last Thursday of September at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Third" Day="Thursday" Month="May" Time="23:59:59">Third Thursday of May at 23:59:59</Date>
+		</Info>
+		<Info Year="2015" Bias="-02:00:00" />
 	</TimeZone>
 	<TimeZone Name="EkaterinburgStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Ekaterinburg Standard Time">Ekaterinburg Standard Time</Link>
@@ -4596,7 +4606,7 @@
 		<Label xml:lang="zh-TW" Type="Daylight">斐濟日光節約時間</Label>
 		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme na Fidžiju</Label>
 		<Info Bias="-12:00:00">
-			<Date Type="Standard" Week="Third" Day="Sunday" Month="January" Time="03:00:00">Third Sunday of January at 3:00</Date>
+			<Date Type="Standard" Week="Third" Day="Sunday" Month="January" Time="02:00:00">Third Sunday of January at 2:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Fourth" Day="Sunday" Month="October" Time="02:00:00">Fourth Sunday of October at 2:00</Date>
 		</Info>
 		<Info Year="2008" Bias="-12:00:00" />
@@ -4621,7 +4631,7 @@
 			<Date Type="Daylight" Bias="-01:00:00" Week="Fourth" Day="Sunday" Month="October" Time="02:00:00">Fourth Sunday of October at 2:00</Date>
 		</Info>
 		<Info Year="2014" Bias="-12:00:00">
-			<Date Type="Standard" Week="Third" Day="Sunday" Month="January" Time="03:00:00">Third Sunday of January at 3:00</Date>
+			<Date Type="Standard" Week="Third" Day="Sunday" Month="January" Time="02:00:00">Third Sunday of January at 2:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Fourth" Day="Sunday" Month="October" Time="02:00:00">Fourth Sunday of October at 2:00</Date>
 		</Info>
 		<Info Year="2015" Bias="-12:00:00">
@@ -5976,44 +5986,44 @@
 	</TimeZone>
 	<TimeZone Name="JordanStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Jordan Standard Time">Jordan Standard Time</Link>
-		<Label xml:lang="en">(UTC+03:00) Amman</Label>
-		<Label xml:lang="ar-SA">(UTC+03:00) عمّان</Label>
-		<Label xml:lang="bg-BG">(UTC+03:00) Аман</Label>
-		<Label xml:lang="cs-CZ">(UTC+03:00) Omán</Label>
-		<Label xml:lang="da-DK">(UTC+03:00) Amman</Label>
-		<Label xml:lang="de-DE">(UTC+03:00) Amman</Label>
-		<Label xml:lang="el-GR">(UTC+03:00) Αμμάν</Label>
-		<Label xml:lang="en-GB">(UTC+03:00) Amman</Label>
-		<Label xml:lang="en-US">(UTC+03:00) Amman</Label>
-		<Label xml:lang="es-ES">(UTC+03:00) Ammán</Label>
-		<Label xml:lang="et-EE">(UTC+03:00) Amman</Label>
-		<Label xml:lang="fi-FI">(UTC+03:00) Amman</Label>
-		<Label xml:lang="fr-FR">(UTC+03:00) Amman</Label>
-		<Label xml:lang="he-IL">(UTC+03:00) רבת עמון</Label>
-		<Label xml:lang="hr-HR">(UTC+03:00) Amman</Label>
-		<Label xml:lang="hu-HU">(UTC+03:00) Amman</Label>
-		<Label xml:lang="it-IT">(UTC+3.00) Amman</Label>
-		<Label xml:lang="ja-JP">(UTC+03:00) アンマン</Label>
-		<Label xml:lang="ko-KR">(UTC+03:00) 암만</Label>
-		<Label xml:lang="lt-LT">(UTC+03:00) Amanas</Label>
-		<Label xml:lang="lv-LV">(UTC+03:00) Ammāna</Label>
-		<Label xml:lang="nb-NO">(UTC+03:00) Amman</Label>
-		<Label xml:lang="nl-NL">(UTC+03:00) Amman</Label>
-		<Label xml:lang="pl-PL">(UTC+03:00) Amman</Label>
-		<Label xml:lang="pt-BR">(UTC+03:00) Amã</Label>
-		<Label xml:lang="pt-PT">(UTC+03:00) Amã</Label>
-		<Label xml:lang="ro-RO">(UTC+03:00) Amman</Label>
-		<Label xml:lang="ru-RU">(UTC+03:00) Амман</Label>
-		<Label xml:lang="sk-SK">(UTC+03:00) Ammán</Label>
-		<Label xml:lang="sl-SI">(UTC+03:00) Amman</Label>
-		<Label xml:lang="sv-SE">(UTC+03:00) Amman</Label>
-		<Label xml:lang="th-TH">(UTC+03:00) อัมมาน</Label>
-		<Label xml:lang="tr-TR">(UTC+03:00) Amman</Label>
-		<Label xml:lang="uk-UA">(UTC+03:00) Амман</Label>
-		<Label xml:lang="zh-CN">(UTC+03:00)安曼</Label>
-		<Label xml:lang="zh-HK">(UTC+03:00) 安曼</Label>
-		<Label xml:lang="zh-TW">(UTC+03:00) 安曼</Label>
-		<Label xml:lang="sr-Latn-RS">(UTC+03:00) Aman</Label>
+		<Label xml:lang="en">(UTC+02:00) Amman</Label>
+		<Label xml:lang="ar-SA">(UTC+02:00) عمّان</Label>
+		<Label xml:lang="bg-BG">(UTC+02:00) Аман</Label>
+		<Label xml:lang="cs-CZ">(UTC+02:00) Omán</Label>
+		<Label xml:lang="da-DK">(UTC+02:00) Amman</Label>
+		<Label xml:lang="de-DE">(UTC+02:00) Amman</Label>
+		<Label xml:lang="el-GR">(UTC+02:00) Αμμάν</Label>
+		<Label xml:lang="en-GB">(UTC+02:00) Amman</Label>
+		<Label xml:lang="en-US">(UTC+02:00) Amman</Label>
+		<Label xml:lang="es-ES">(UTC+02:00) Ammán</Label>
+		<Label xml:lang="et-EE">(UTC+02:00) Amman</Label>
+		<Label xml:lang="fi-FI">(UTC+02:00) Amman</Label>
+		<Label xml:lang="fr-FR">(UTC+02:00) Amman</Label>
+		<Label xml:lang="he-IL">(UTC+02:00) רבת עמון</Label>
+		<Label xml:lang="hr-HR">(UTC+02:00) Amman</Label>
+		<Label xml:lang="hu-HU">(UTC+02:00) Amman</Label>
+		<Label xml:lang="it-IT">(UTC+2.00) Amman</Label>
+		<Label xml:lang="ja-JP">(UTC+02:00) アンマン</Label>
+		<Label xml:lang="ko-KR">(UTC+02:00) 암만</Label>
+		<Label xml:lang="lt-LT">(UTC+02:00) Amanas</Label>
+		<Label xml:lang="lv-LV">(UTC+02:00) Ammāna</Label>
+		<Label xml:lang="nb-NO">(UTC+02:00) Amman</Label>
+		<Label xml:lang="nl-NL">(UTC+02:00) Amman</Label>
+		<Label xml:lang="pl-PL">(UTC+02:00) Amman</Label>
+		<Label xml:lang="pt-BR">(UTC+02:00) Amã</Label>
+		<Label xml:lang="pt-PT">(UTC+02:00) Amã</Label>
+		<Label xml:lang="ro-RO">(UTC+02:00) Amman</Label>
+		<Label xml:lang="ru-RU">(UTC+02:00) Амман</Label>
+		<Label xml:lang="sk-SK">(UTC+02:00) Ammán</Label>
+		<Label xml:lang="sl-SI">(UTC+02:00) Amman</Label>
+		<Label xml:lang="sv-SE">(UTC+02:00) Amman</Label>
+		<Label xml:lang="th-TH">(UTC+02:00) อัมมาน</Label>
+		<Label xml:lang="tr-TR">(UTC+02:00) Amman</Label>
+		<Label xml:lang="uk-UA">(UTC+02:00) Амман</Label>
+		<Label xml:lang="zh-CN">(UTC+02:00)安曼</Label>
+		<Label xml:lang="zh-HK">(UTC+02:00) 安曼</Label>
+		<Label xml:lang="zh-TW">(UTC+02:00) 安曼</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+02:00) Aman</Label>
 		<Label xml:lang="en" Type="Standard">Jordan Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">الأردن - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Йорданско стандартно време</Label>
@@ -6091,8 +6101,8 @@
 		<Label xml:lang="zh-TW" Type="Daylight">約旦日光節約時間</Label>
 		<Label xml:lang="sr-Latn-RS" Type="Daylight">Jordansko letnje vreme</Label>
 		<Info Bias="-02:00:00">
-			<Date Type="Standard" Week="First" Day="Sunday" Month="January" Time="00:00:00">First Sunday of January at 0:00</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Thursday" Month="March" Time="23:59:59">Last Thursday of March at 23:59:59</Date>
+			<Date Type="Standard" Week="Third" Day="Friday" Month="December" Time="00:00:00">Third Friday of December at 0:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Tuesday" Month="January" Time="00:00:00">First Tuesday of January at 0:00</Date>
 		</Info>
 		<Info Year="2006" Bias="-02:00:00">
 			<Date Type="Standard" Week="Last" Day="Friday" Month="September" Time="01:00:00">Last Friday of September at 1:00</Date>
@@ -6122,7 +6132,14 @@
 			<Date Type="Standard" Week="First" Day="Sunday" Month="January" Time="00:00:00">First Sunday of January at 0:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Thursday" Month="March" Time="23:59:59">Last Thursday of March at 23:59:59</Date>
 		</Info>
-		<Info Year="2013" Bias="-03:00:00" />
+		<Info Year="2013" Bias="-02:00:00">
+			<Date Type="Standard" Week="Third" Day="Friday" Month="December" Time="00:00:00">Third Friday of December at 0:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Tuesday" Month="January" Time="00:00:00">First Tuesday of January at 0:00</Date>
+		</Info>
+		<Info Year="2014" Bias="-02:00:00">
+			<Date Type="Standard" Week="Last" Day="Friday" Month="October" Time="01:00:00">Last Friday of October at 1:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Thursday" Month="March" Time="23:59:59">Last Thursday of March at 23:59:59</Date>
+		</Info>
 	</TimeZone>
 	<TimeZone Name="KaliningradStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Kaliningrad Standard Time">Kaliningrad Standard Time</Link>
@@ -6493,7 +6510,7 @@
 	<TimeZone Name="LibyaStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Libya Standard Time">Libya Standard Time</Link>
 		<Label xml:lang="en">(UTC+02:00) Tripoli</Label>
-		<Label xml:lang="ar-SA">(UTC+02:00) طرابلس</Label>
+		<Label xml:lang="ar-SA">‏‏(UTC+02:00) طرابلس</Label>
 		<Label xml:lang="bg-BG">(UTC+02:00) Триполи</Label>
 		<Label xml:lang="cs-CZ">(UTC+02:00) Tripolis</Label>
 		<Label xml:lang="da-DK">(UTC+02:00) Tripoli</Label>
@@ -6505,7 +6522,7 @@
 		<Label xml:lang="et-EE">(UTC+02:00) Tripoli</Label>
 		<Label xml:lang="fi-FI">(UTC+02:00) Tripoli</Label>
 		<Label xml:lang="fr-FR">(UTC+02:00) Tripoli</Label>
-		<Label xml:lang="he-IL">(UTC+02:00) טריפולי</Label>
+		<Label xml:lang="he-IL">‏‏(UTC+02:00) טריפולי</Label>
 		<Label xml:lang="hr-HR">(UTC+02:00) Tripoli</Label>
 		<Label xml:lang="hu-HU">(UTC+02:00) Tripoli</Label>
 		<Label xml:lang="it-IT">(UTC+2.00) Tripoli</Label>
@@ -6620,6 +6637,124 @@
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Friday" Month="March" Time="01:00:00">Last Friday of March at 1:00</Date>
 		</Info>
 		<Info Year="2014" Bias="-02:00:00" />
+	</TimeZone>
+	<TimeZone Name="LineIslandsStandardTime">
+		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Line Islands Standard Time">Line Islands Standard Time</Link>
+		<Label xml:lang="en">(UTC+14:00) Kiritimati Island</Label>
+		<Label xml:lang="ar-SA">‏‏(UTC+14:00) جزيرة كيريتيماتي</Label>
+		<Label xml:lang="bg-BG">(UTC+14:00) Остров Киритимати</Label>
+		<Label xml:lang="cs-CZ">(UTC+14:00) Ostrov Kiritimati</Label>
+		<Label xml:lang="da-DK">(UTC+14:00) Kiritimati Island</Label>
+		<Label xml:lang="de-DE">(UTC+14:00) Insel Kiritimati</Label>
+		<Label xml:lang="el-GR">(UTC+14:00) Κιριμάτι</Label>
+		<Label xml:lang="en-GB">(UTC+14:00) Kiritimati Island</Label>
+		<Label xml:lang="en-US">(UTC+14:00) Kiritimati Island</Label>
+		<Label xml:lang="es-ES">(UTC+14:00) Isla Kiritimati</Label>
+		<Label xml:lang="et-EE">(UTC+14:00) Kiritimati saar</Label>
+		<Label xml:lang="fi-FI">(UTC+14:00) Kiritimati</Label>
+		<Label xml:lang="fr-FR">(UTC+14:00) Kiritimati, Île</Label>
+		<Label xml:lang="he-IL">‏‏(UTC+14:00) האי קיריטימאטי</Label>
+		<Label xml:lang="hr-HR">(UTC+14:00) Otok Kiritimati</Label>
+		<Label xml:lang="hu-HU">(UTC+14:00) Kiritimati-sziget</Label>
+		<Label xml:lang="it-IT">(UTC+14.00) Isola Kiritimati</Label>
+		<Label xml:lang="ja-JP">(UTC+14:00) クリスマス島</Label>
+		<Label xml:lang="ko-KR">(UTC+14:00) 키리티마티 섬</Label>
+		<Label xml:lang="lt-LT">(UTC+14:00) Kiritimačio Sala</Label>
+		<Label xml:lang="lv-LV">(UTC+14:00) Kiritimati sala</Label>
+		<Label xml:lang="nb-NO">(UTC+14:00) Kiritimati-øya</Label>
+		<Label xml:lang="nl-NL">(UTC+14:00) Kiritimati-eiland</Label>
+		<Label xml:lang="pl-PL">(UTC+14:00) Wyspa Kiritimati</Label>
+		<Label xml:lang="pt-BR">(UTC+14:00) Ilha Kiritimati</Label>
+		<Label xml:lang="pt-PT">(UTC+14:00) Ilha de Kiritimati</Label>
+		<Label xml:lang="ro-RO">(UTC+14:00) Insula Kiritimati</Label>
+		<Label xml:lang="ru-RU">(UTC+14:00) О-в Киритимати</Label>
+		<Label xml:lang="sk-SK">(UTC+14:00) ostrov Kirimati</Label>
+		<Label xml:lang="sl-SI">(UTC+14:00) Otok Kiritimati</Label>
+		<Label xml:lang="sv-SE">(UTC+14:00) Kiritimati</Label>
+		<Label xml:lang="th-TH">(UTC+14:00) เกาะคิริติมาส</Label>
+		<Label xml:lang="tr-TR">(UTC+14:00) Kiritimati Adası</Label>
+		<Label xml:lang="uk-UA">(UTC+14:00) о. Кірітіматі</Label>
+		<Label xml:lang="zh-CN">(UTC+14:00)圣诞岛</Label>
+		<Label xml:lang="zh-HK">(UTC+14:00) 刻里提瑪斯島</Label>
+		<Label xml:lang="zh-TW">(UTC+14:00) 刻里提瑪斯島</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC+14:00) Kiritimati ostrvo</Label>
+		<Label xml:lang="en" Type="Standard">Line Islands Standard Time</Label>
+		<Label xml:lang="ar-SA" Type="Standard">‏‏التوقيت الرسمي لجزر لاين</Label>
+		<Label xml:lang="bg-BG" Type="Standard">Зимно часово време на о-ви Лайн</Label>
+		<Label xml:lang="cs-CZ" Type="Standard">Ostrovy Line (běžný čas)</Label>
+		<Label xml:lang="da-DK" Type="Standard">Lineøerne, normaltid</Label>
+		<Label xml:lang="de-DE" Type="Standard">Linieninseln Normalzeit</Label>
+		<Label xml:lang="el-GR" Type="Standard">Χειμερινή ώρα Νησιών Λάιν</Label>
+		<Label xml:lang="en-GB" Type="Standard">Line Islands Standard Time</Label>
+		<Label xml:lang="en-US" Type="Standard">Line Islands Standard Time</Label>
+		<Label xml:lang="es-ES" Type="Standard">Hora estándar Islas de la Línea</Label>
+		<Label xml:lang="et-EE" Type="Standard">Line'i saarte standardaeg</Label>
+		<Label xml:lang="fi-FI" Type="Standard">Linesaarten normaaliaika</Label>
+		<Label xml:lang="fr-FR" Type="Standard">Line, Île</Label>
+		<Label xml:lang="he-IL" Type="Standard">‏‏שעון רגיל איי ליין</Label>
+		<Label xml:lang="hr-HR" Type="Standard">Linijski otoci - st. vrij.</Label>
+		<Label xml:lang="hu-HU" Type="Standard">Line-szigetek téli idő</Label>
+		<Label xml:lang="it-IT" Type="Standard">Ora solare Isole Line</Label>
+		<Label xml:lang="ja-JP" Type="Standard">ライン諸島標準時</Label>
+		<Label xml:lang="ko-KR" Type="Standard">라인 제도 표준시</Label>
+		<Label xml:lang="lt-LT" Type="Standard">Linijinių Salų stand. laikas</Label>
+		<Label xml:lang="lv-LV" Type="Standard">Laina salu standarta laiks</Label>
+		<Label xml:lang="nb-NO" Type="Standard">Linjeøyene - normaltid</Label>
+		<Label xml:lang="nl-NL" Type="Standard">Line-eilanden (standaardtijd)</Label>
+		<Label xml:lang="pl-PL" Type="Standard">Line Islands (czas standardowy)</Label>
+		<Label xml:lang="pt-BR" Type="Standard">Horário Padrão das Ilhas Line</Label>
+		<Label xml:lang="pt-PT" Type="Standard">Hora Padrão Ilhas Esp. Equat.</Label>
+		<Label xml:lang="ro-RO" Type="Standard">Insulele Liniei, oră standard</Label>
+		<Label xml:lang="ru-RU" Type="Standard">О-ва Лайн (зима)</Label>
+		<Label xml:lang="sk-SK" Type="Standard">Ostrovy Line, normálny čas</Label>
+		<Label xml:lang="sl-SI" Type="Standard">Standardni čas otočja Line</Label>
+		<Label xml:lang="sv-SE" Type="Standard">Linjeöarna, normaltid</Label>
+		<Label xml:lang="th-TH" Type="Standard">เวลามาตรฐานของหมู่เกาะไลน์</Label>
+		<Label xml:lang="tr-TR" Type="Standard">Line Adaları Standart Saat</Label>
+		<Label xml:lang="uk-UA" Type="Standard">Острови Лайн (зима)</Label>
+		<Label xml:lang="zh-CN" Type="Standard">莱恩群岛标准时间</Label>
+		<Label xml:lang="zh-HK" Type="Standard">來因群島標準時間</Label>
+		<Label xml:lang="zh-TW" Type="Standard">來因群島標準時間</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Standard">Stand. vreme na Ostrvima Lajn</Label>
+		<Label xml:lang="en" Type="Daylight">Line Islands Daylight Time</Label>
+		<Label xml:lang="ar-SA" Type="Daylight">‏‏التوقيت الصيفي لجزر لاين</Label>
+		<Label xml:lang="bg-BG" Type="Daylight">Лятно часово време на о-ви Лайн</Label>
+		<Label xml:lang="cs-CZ" Type="Daylight">Ostrovy Line (letní čas)</Label>
+		<Label xml:lang="da-DK" Type="Daylight">Lineøerne, sommertid</Label>
+		<Label xml:lang="de-DE" Type="Daylight">Linieninseln Sommerzeit</Label>
+		<Label xml:lang="el-GR" Type="Daylight">Θερινή ώρα Νησιών Λάιν</Label>
+		<Label xml:lang="en-GB" Type="Daylight">Line Islands Daylight Time</Label>
+		<Label xml:lang="en-US" Type="Daylight">Line Islands Daylight Time</Label>
+		<Label xml:lang="es-ES" Type="Daylight">Hora de verano Is. de la Línea</Label>
+		<Label xml:lang="et-EE" Type="Daylight">Line'i saarte suveaeg</Label>
+		<Label xml:lang="fi-FI" Type="Daylight">Linesaarten kesäaika</Label>
+		<Label xml:lang="fr-FR" Type="Daylight">Line, Île, (heure d’été)</Label>
+		<Label xml:lang="he-IL" Type="Daylight">‏‏שעון קיץ איי ליין</Label>
+		<Label xml:lang="hr-HR" Type="Daylight">Linijski otoci - ljet. vrij.</Label>
+		<Label xml:lang="hu-HU" Type="Daylight">Line-szigetek nyári idő</Label>
+		<Label xml:lang="it-IT" Type="Daylight">Ora legale Isole Line</Label>
+		<Label xml:lang="ja-JP" Type="Daylight">ライン諸島夏時間</Label>
+		<Label xml:lang="ko-KR" Type="Daylight">라인 제도 일광 절약 시간</Label>
+		<Label xml:lang="lt-LT" Type="Daylight">Linijinių Salų vasaros laikas</Label>
+		<Label xml:lang="lv-LV" Type="Daylight">Laina salu vasaras laiks</Label>
+		<Label xml:lang="nb-NO" Type="Daylight">Linjeøyene - sommertid</Label>
+		<Label xml:lang="nl-NL" Type="Daylight">Line-eilanden (zomertijd)</Label>
+		<Label xml:lang="pl-PL" Type="Daylight">Line Islands (czas letni)</Label>
+		<Label xml:lang="pt-BR" Type="Daylight">Horário de Verão das Ilhas Line</Label>
+		<Label xml:lang="pt-PT" Type="Daylight">Hora Verão Ilhas Esp. Equat.</Label>
+		<Label xml:lang="ro-RO" Type="Daylight">Insulele Liniei, oră de vară</Label>
+		<Label xml:lang="ru-RU" Type="Daylight">О-ва Лайн (лето)</Label>
+		<Label xml:lang="sk-SK" Type="Daylight">Ostrovy Line, letný čas</Label>
+		<Label xml:lang="sl-SI" Type="Daylight">Poletni čas otočja Line</Label>
+		<Label xml:lang="sv-SE" Type="Daylight">Linjeöarna, sommartid</Label>
+		<Label xml:lang="th-TH" Type="Daylight">เวลาตามฤดูกาลของหมู่เกาะไลน์</Label>
+		<Label xml:lang="tr-TR" Type="Daylight">Line Adaları Yaz Saati</Label>
+		<Label xml:lang="uk-UA" Type="Daylight">Острови Лайн (літо)</Label>
+		<Label xml:lang="zh-CN" Type="Daylight">莱恩群岛夏令时</Label>
+		<Label xml:lang="zh-HK" Type="Daylight">來因群島日光節約時間</Label>
+		<Label xml:lang="zh-TW" Type="Daylight">來因群島日光節約時間</Label>
+		<Label xml:lang="sr-Latn-RS" Type="Daylight">L./zim. vreme na Ostrvima Lajn</Label>
+		<Info Bias="-14:00:00" />
 	</TimeZone>
 	<TimeZone Name="MagadanStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Magadan Standard Time">Magadan Standard Time</Link>
@@ -7417,7 +7552,7 @@
 		<Label xml:lang="sr-Latn-RS" Type="Daylight">Letnje vreme u Maroku</Label>
 		<Info Bias="00:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="03:00:00">Last Sunday of October at 3:00</Date>
-			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="April" Time="02:00:00">Last Sunday of April at 2:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="02:00:00">Last Sunday of March at 2:00</Date>
 		</Info>
 		<Info Year="2007" Bias="00:00:00" />
 		<Info Year="2008" Bias="00:00:00">
@@ -8876,6 +9011,10 @@
 			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Saturday" Month="September" Time="23:59:59">First Saturday of September at 23:59:59</Date>
 		</Info>
 		<Info Year="2014" Bias="04:00:00">
+			<Date Type="Standard" Week="Last" Day="Saturday" Month="April" Time="23:59:59">Last Saturday of April at 23:59:59</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Saturday" Month="September" Time="23:59:59">First Saturday of September at 23:59:59</Date>
+		</Info>
+		<Info Year="2015" Bias="04:00:00">
 			<Date Type="Standard" Week="Second" Day="Saturday" Month="March" Time="23:59:59">Second Saturday of March at 23:59:59</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Second" Day="Saturday" Month="October" Time="23:59:59">Second Saturday of October at 23:59:59</Date>
 		</Info>
@@ -9406,35 +9545,35 @@
 			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Saturday" Month="October" Time="23:59:59">First Saturday of October at 23:59:59</Date>
 		</Info>
 		<Info Year="2014" Bias="04:00:00">
-			<Date Type="Standard" Week="Second" Day="Saturday" Month="April" Time="23:59:59">Second Saturday of April at 23:59:59</Date>
+			<Date Type="Standard" Week="Fourth" Day="Saturday" Month="March" Time="23:59:59">Fourth Saturday of March at 23:59:59</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Saturday" Month="October" Time="23:59:59">First Saturday of October at 23:59:59</Date>
 		</Info>
 		<Info Year="2015" Bias="04:00:00">
-			<Date Type="Standard" Week="Second" Day="Saturday" Month="April" Time="23:59:59">Second Saturday of April at 23:59:59</Date>
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="March" Time="23:59:59">Third Saturday of March at 23:59:59</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Saturday" Month="October" Time="23:59:59">First Saturday of October at 23:59:59</Date>
 		</Info>
 		<Info Year="2016" Bias="04:00:00">
-			<Date Type="Standard" Week="Second" Day="Saturday" Month="April" Time="23:59:59">Second Saturday of April at 23:59:59</Date>
+			<Date Type="Standard" Week="Last" Day="Saturday" Month="March" Time="23:59:59">Last Saturday of March at 23:59:59</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Saturday" Month="October" Time="23:59:59">First Saturday of October at 23:59:59</Date>
 		</Info>
 		<Info Year="2017" Bias="04:00:00">
-			<Date Type="Standard" Week="Second" Day="Saturday" Month="April" Time="23:59:59">Second Saturday of April at 23:59:59</Date>
+			<Date Type="Standard" Week="Last" Day="Saturday" Month="March" Time="23:59:59">Last Saturday of March at 23:59:59</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Saturday" Month="September" Time="23:59:59">Last Saturday of September at 23:59:59</Date>
 		</Info>
 		<Info Year="2018" Bias="04:00:00">
-			<Date Type="Standard" Week="First" Day="Saturday" Month="April" Time="23:59:59">First Saturday of April at 23:59:59</Date>
+			<Date Type="Standard" Week="Fourth" Day="Saturday" Month="March" Time="23:59:59">Fourth Saturday of March at 23:59:59</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Saturday" Month="October" Time="23:59:59">First Saturday of October at 23:59:59</Date>
 		</Info>
 		<Info Year="2019" Bias="04:00:00">
-			<Date Type="Standard" Week="Second" Day="Saturday" Month="April" Time="23:59:59">Second Saturday of April at 23:59:59</Date>
+			<Date Type="Standard" Week="Fourth" Day="Saturday" Month="March" Time="23:59:59">Fourth Saturday of March at 23:59:59</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Saturday" Month="October" Time="23:59:59">First Saturday of October at 23:59:59</Date>
 		</Info>
 		<Info Year="2020" Bias="04:00:00">
-			<Date Type="Standard" Week="Second" Day="Saturday" Month="April" Time="23:59:59">Second Saturday of April at 23:59:59</Date>
+			<Date Type="Standard" Week="Third" Day="Saturday" Month="March" Time="23:59:59">Third Saturday of March at 23:59:59</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Saturday" Month="October" Time="23:59:59">First Saturday of October at 23:59:59</Date>
 		</Info>
 		<Info Year="2021" Bias="04:00:00">
-			<Date Type="Standard" Week="Second" Day="Saturday" Month="April" Time="23:59:59">Second Saturday of April at 23:59:59</Date>
+			<Date Type="Standard" Week="Last" Day="Saturday" Month="March" Time="23:59:59">Last Saturday of March at 23:59:59</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="First" Day="Saturday" Month="October" Time="23:59:59">First Saturday of October at 23:59:59</Date>
 		</Info>
 	</TimeZone>
@@ -9806,44 +9945,44 @@
 	</TimeZone>
 	<TimeZone Name="SAPacificStandardTime">
 		<Link Type="WindowsRegistry" URL="HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\SA Pacific Standard Time">SA Pacific Standard Time</Link>
-		<Label xml:lang="en">(UTC-05:00) Bogota, Lima, Quito</Label>
-		<Label xml:lang="ar-SA">(UTC-05:00) بوجوتا، ليما، كويتو</Label>
-		<Label xml:lang="bg-BG">(UTC-05:00) Богота, Лима, Куито</Label>
-		<Label xml:lang="cs-CZ">(UTC-05:00) Bogota, Lima, Quito</Label>
-		<Label xml:lang="da-DK">(UTC-05:00) Bogota, Lima, Quito</Label>
-		<Label xml:lang="de-DE">(UTC-05:00) Bogotá, Lima, Quito</Label>
-		<Label xml:lang="el-GR">(UTC-05:00) Μπογκοτά, Λίμα, Κίτο</Label>
-		<Label xml:lang="en-GB">(UTC-05:00) Bogota, Lima, Quito</Label>
-		<Label xml:lang="en-US">(UTC-05:00) Bogota, Lima, Quito</Label>
-		<Label xml:lang="es-ES">(UTC-05:00) Bogotá, Lima, Quito</Label>
-		<Label xml:lang="et-EE">(UTC-05:00) Bogota, Lima, Quito</Label>
-		<Label xml:lang="fi-FI">(UTC-05:00) Bogota, Lima, Quito</Label>
-		<Label xml:lang="fr-FR">(UTC-05:00) Bogota, Lima, Quito</Label>
-		<Label xml:lang="he-IL">(UTC-05:00) בוגוטה, לימה, קיטו</Label>
-		<Label xml:lang="hr-HR">(UTC-05:00) Bogota, Lima, Quito</Label>
-		<Label xml:lang="hu-HU">(UTC-05:00) Bogota, Lima, Quito</Label>
-		<Label xml:lang="it-IT">(UTC-5.00) Bogota, Lima, Quito</Label>
-		<Label xml:lang="ja-JP">(UTC-05:00) ボゴタ、リマ、キト</Label>
-		<Label xml:lang="ko-KR">(UTC-05:00) 보고타, 리마, 키토</Label>
-		<Label xml:lang="lt-LT">(UTC-05:00) Bogota, Lima, Kitas</Label>
-		<Label xml:lang="lv-LV">(UTC-05:00) Bogota, Lima, Kito</Label>
-		<Label xml:lang="nb-NO">(UTC-05:00) Bogota, Lima, Quito</Label>
-		<Label xml:lang="nl-NL">(UTC-05:00) Bogota, Lima, Quito</Label>
-		<Label xml:lang="pl-PL">(UTC-05:00) Bogota, Lima, Quito</Label>
-		<Label xml:lang="pt-BR">(UTC-05:00) Bogotá, Lima, Quito</Label>
-		<Label xml:lang="pt-PT">(UTC-05:00) Bogotá, Lima, Quito</Label>
-		<Label xml:lang="ro-RO">(UTC-05:00) Bogota, Lima, Quito</Label>
-		<Label xml:lang="ru-RU">(UTC-05:00) Богота, Кито, Лима</Label>
-		<Label xml:lang="sk-SK">(UTC-05:00) Bogota, Lima, Quito</Label>
-		<Label xml:lang="sl-SI">(UTC-05:00) Bogota, Lima, Quito</Label>
-		<Label xml:lang="sv-SE">(UTC-05:00) Bogota, Lima, Quito</Label>
-		<Label xml:lang="th-TH">(UTC-05:00) โบโกตา ลิมา กีโต</Label>
-		<Label xml:lang="tr-TR">(UTC-05:00) Bogota, Lima, Quito</Label>
-		<Label xml:lang="uk-UA">(UTC-05:00) Богота, Ліма, Кіто</Label>
-		<Label xml:lang="zh-CN">(UTC-05:00)波哥大，利马，基多</Label>
-		<Label xml:lang="zh-HK">(UTC-05:00) 波哥大，利馬，基多</Label>
-		<Label xml:lang="zh-TW">(UTC-05:00) 波哥大，利馬，基多</Label>
-		<Label xml:lang="sr-Latn-RS">(UTC-05:00) Bogota, Lima, Kito</Label>
+		<Label xml:lang="en">(UTC-05:00) Bogota, Lima, Quito, Rio Branco</Label>
+		<Label xml:lang="ar-SA">(UTC-05:00) بوجوتا، ليما، كويتو، ريو برانكو</Label>
+		<Label xml:lang="bg-BG">(UTC-05:00) Богота, Лима, Кито, Рио Бранко</Label>
+		<Label xml:lang="cs-CZ">(UTC-05:00) Bogota, Lima, Quito, Rio Branco</Label>
+		<Label xml:lang="da-DK">(UTC-05:00) Bogota, Lima, Quito, Rio Branco</Label>
+		<Label xml:lang="de-DE">(UTC-05:00) Bogotá, Lima, Quito, Rio Branco</Label>
+		<Label xml:lang="el-GR">(UTC-05:00) Μπογκοτά, Λίμα, Κουίτο, Ρίο Μπράνκο</Label>
+		<Label xml:lang="en-GB">(UTC-05:00) Bogota, Lima, Quito, Rio Branco</Label>
+		<Label xml:lang="en-US">(UTC-05:00) Bogota, Lima, Quito, Rio Branco</Label>
+		<Label xml:lang="es-ES">(UTC-05:00) Bogotá, Lima, Quito, Rio Branco</Label>
+		<Label xml:lang="et-EE">(UTC-05:00) Bogota, Lima, Quito, Rio Branco</Label>
+		<Label xml:lang="fi-FI">(UTC-05:00) Bogota, Lima, Quito, Rio Branco</Label>
+		<Label xml:lang="fr-FR">(UTC-05:00) Bogota, Lima, Quito, Rio Branco</Label>
+		<Label xml:lang="he-IL">(UTC-05:00) בוגוטה, לימה, קיטו, ריו ברנקו</Label>
+		<Label xml:lang="hr-HR">(UTC-05:00) Bogota, Lima, Quito, Rio Branco</Label>
+		<Label xml:lang="hu-HU">(UTC-05:00) Bogota, Lima, Quito, Rio Branco</Label>
+		<Label xml:lang="it-IT">(UTC-5.00) Bogotà, Lima, Quito, Rio Branco</Label>
+		<Label xml:lang="ja-JP">(UTC-05:00) ボゴタ、リマ、キト、リオ ブランコ</Label>
+		<Label xml:lang="ko-KR">(UTC-05:00) 보고타, 리마, 키토, 리오 브랑코</Label>
+		<Label xml:lang="lt-LT">(UTC-05:00) Bogota, Lima, Kitas, Rio Branko</Label>
+		<Label xml:lang="lv-LV">(UTC-05:00) Bogota, Lima, Kito, Riobranko</Label>
+		<Label xml:lang="nb-NO">(UTC-05:00) Bogotá, Lima, Quito, Rio Branco</Label>
+		<Label xml:lang="nl-NL">(UTC-05:00) Bogota, Lima, Quito, Rio Branco</Label>
+		<Label xml:lang="pl-PL">(UTC-05:00) Bogota, Lima, Quito, Rio Branco</Label>
+		<Label xml:lang="pt-BR">(UTC-05:00) Bogotá, Lima, Quito, Rio Branco</Label>
+		<Label xml:lang="pt-PT">(UTC-05:00) Bogotá, Lima, Quito, Rio Branco</Label>
+		<Label xml:lang="ro-RO">(UTC-05:00) Bogota, Lima, Quito, Rio Branco</Label>
+		<Label xml:lang="ru-RU">(UTC-05:00) Богота, Кито, Лима, Рио-Бранко</Label>
+		<Label xml:lang="sk-SK">(UTC-05:00) Bogota, Lima, Quito, Rio Branco</Label>
+		<Label xml:lang="sl-SI">(UTC-05:00) Bogota, Lima, Quito, Rio Branco</Label>
+		<Label xml:lang="sv-SE">(UTC-05:00) Bogota, Lima, Quito, Rio Branco</Label>
+		<Label xml:lang="th-TH">(UTC-05:00) โบโกตา ลิมา กีโต ริโอ บรังโค</Label>
+		<Label xml:lang="tr-TR">(UTC-05:00) Bogota, Lima, Quito, Rio Branco</Label>
+		<Label xml:lang="uk-UA">(UTC-05:00) Богота, Ліма, Кіто, Ріу-Бранку</Label>
+		<Label xml:lang="zh-CN">(UTC-05:00)波哥大，利马，基多，里奥布朗库</Label>
+		<Label xml:lang="zh-HK">(UTC-05:00) 波哥大，利馬，基多，里約布蘭科</Label>
+		<Label xml:lang="zh-TW">(UTC-05:00) 波哥大，利馬，基多，里約布蘭科</Label>
+		<Label xml:lang="sr-Latn-RS">(UTC-05:00) Bogota, Lima, Kito, Rio Branko</Label>
 		<Label xml:lang="en" Type="Standard">SA Pacific Standard Time</Label>
 		<Label xml:lang="ar-SA" Type="Standard">SA الباسيفيكي - التوقيت الرسمي</Label>
 		<Label xml:lang="bg-BG" Type="Standard">Тихоокенска ЮА – станд. време</Label>
@@ -11427,6 +11566,18 @@
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Monday" Month="March" Time="03:00:00">Last Monday of March at 3:00</Date>
 		</Info>
 		<Info Year="2012" Bias="-02:00:00">
+			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="04:00:00">Last Sunday of October at 4:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="03:00:00">Last Sunday of March at 3:00</Date>
+		</Info>
+		<Info Year="2013" Bias="-02:00:00">
+			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="04:00:00">Last Sunday of October at 4:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="03:00:00">Last Sunday of March at 3:00</Date>
+		</Info>
+		<Info Year="2014" Bias="-02:00:00">
+			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="04:00:00">Last Sunday of October at 4:00</Date>
+			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Monday" Month="March" Time="03:00:00">Last Monday of March at 3:00</Date>
+		</Info>
+		<Info Year="2015" Bias="-02:00:00">
 			<Date Type="Standard" Week="Last" Day="Sunday" Month="October" Time="04:00:00">Last Sunday of October at 4:00</Date>
 			<Date Type="Daylight" Bias="-01:00:00" Week="Last" Day="Sunday" Month="March" Time="03:00:00">Last Sunday of March at 3:00</Date>
 		</Info>
@@ -13321,6 +13472,7 @@
 		<Export Name="KamchatkaStandardTime" />
 		<Export Name="KoreaStandardTime" />
 		<Export Name="LibyaStandardTime" />
+		<Export Name="LineIslandsStandardTime" />
 		<Export Name="MagadanStandardTime" />
 		<Export Name="MauritiusStandardTime" />
 		<Export Name="MidAtlanticStandardTime" />
@@ -13520,8 +13672,8 @@
 			<Label xml:lang="en">W. Central Africa Standard Time</Label>
 			<Label Type="Abbr" xml:lang="en">WAT</Label>
 		</Export>
-		<Export Name="EgyptStandardTime SouthAfricaStandardTime" External="UTC2">
-			<Label xml:lang="en">Egypt Standard Time, South Africa Standard Time</Label>
+		<Export Name="SouthAfricaStandardTime" External="UTC2">
+			<Label xml:lang="en">South Africa Standard Time</Label>
 		</Export>
 		<Export Name="FLEStandardTime GTBStandardTime" External="UTC2EET">
 			<Label xml:lang="en">FLE Standard Time, GTB Standard Time</Label>
@@ -13530,6 +13682,10 @@
 		<Export Name="MiddleEastStandardTime" External="UTC2EETAsia">
 			<Label xml:lang="en">Middle East Standard Time</Label>
 			<Label Type="Abbr" xml:lang="en">EET Asia</Label>
+		</Export>
+		<Export Name="EgyptStandardTime" External="UTC2Egypt">
+			<Label xml:lang="en">Egypt Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">Egypt</Label>
 		</Export>
 		<Export Name="IsraelStandardTime" External="UTC2IST">
 			<Label xml:lang="en">Jerusalem Standard Time</Label>
@@ -13702,6 +13858,10 @@
 		<Export Name="TongaStandardTime" External="UTC13TOT">
 			<Label xml:lang="en">Tonga Standard Time</Label>
 			<Label Type="Abbr" xml:lang="en">TOT</Label>
+		</Export>
+		<Export Name="LineIslandsStandardTime" External="UTC14LINT">
+			<Label xml:lang="en">Line Islands Standard Time</Label>
+			<Label Type="Abbr" xml:lang="en">LINT</Label>
 		</Export>
 	</ExportList>
 	<ExternalList xmlns="urn:geo-schemas-xml-frafv:proxy" xmlns:e="urn:schemas-xml-frafv:proxy">
